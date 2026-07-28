@@ -1,0 +1,461 @@
+{
+  "id": "global-ukrainian-non-vegetarian-main",
+  "title": "Global Ukrainian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53078",
+      "external_id": "53078",
+      "name": "Beetroot Soup (Borscht)",
+      "slug": "beetroot-soup-borscht",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "ukrainian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "ukrainian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/zadvgb1699012544.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53078. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beetroot",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "chicken stock cube",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 6.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "potatoes",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "cannellini beans",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 6
+        },
+        {
+          "name": "dill",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Chop the beetroot, add water and stock cube and cook for 15mins."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the other ingredients and boil until soft."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Finally add the beans and cook for 5mins."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53311",
+      "external_id": "53311",
+      "name": "Borsch",
+      "slug": "borsch",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "ukrainian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "ukrainian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/804v1j1764367088.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53311. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef shin",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "potatoes",
+          "amount": 2.5,
+          "unit": "kg",
+          "sort_order": 4
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 6
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "beetroot",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "prunes",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "white cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "kidney beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 14
+        },
+        {
+          "name": "dill",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 15
+        },
+        {
+          "name": "crusty bread",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the stock, put the meat, whole onion, bay leaf and 2 litres of lightly salted cold water in a large saucepan. Cook over a very low heat for 1 hr 30 mins or until the beef shin is soft and falls apart easily \u2013 this can take up to 3 hrs. Skim off the scum with a spoon from time to time. Break up any larger pieces of beef into the broth, remove the whole onion and discard."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the potatoes to the borscht, season well with salt and pepper and cook for 10-15 mins until tender. Meanwhile, heat the sunflower oil in a large, deep frying pan. Add the diced onion and carrot, and cook over a medium heat, stirring, until the carrot is soft and is about to start caramelising."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the beetroot and cook for around 5 mins, stirring occasionally. Add the red pepper, if using, and cook for another 2 mins, then add the tomatoes and prunes, stir, then increase the heat and boil to reduce slightly, before adding everything to the borscht."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add the shredded cabbage and the kidney beans, and cook for 7-10 mins or until tender. Serve with a dollop of sour cream or cr\u00e8me fra\u00eeche, lots of chopped dill and some crusty bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53315",
+      "external_id": "53315",
+      "name": "Rosemary braised red cabbage with kabanos",
+      "slug": "rosemary-braised-red-cabbage-with-kabanos",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "ukrainian",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "ukrainian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/s1jxzl1764369317.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53315. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "Knob",
+          "sort_order": 3
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "red wine vinegar",
+          "amount": 125.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "brown sugar",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "rosemary",
+          "amount": 2.0,
+          "unit": "sprigs",
+          "sort_order": 8
+        },
+        {
+          "name": "bramley apples",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "kabanos sausages",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Halve the cabbage, remove the tough stem and thinly slice. Place in a large pan with all the other ingredients apart from the sausages, then mix in 300ml water and some salt and pepper."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bring to a simmer, then reduce the heat, cover with a well-fitting lid and gently cook for 1\u00bd hrs, stirring frequently. If too dry, you can add a little more water."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the kabanos to the cabbage mixture, place a lid on the pan and gently simmer for 20 mins. Remove the lid and cook for a further 10 mins. Serve alongside some simple mash or boiled potatoes."
+        }
+      ]
+    }
+  ]
+}

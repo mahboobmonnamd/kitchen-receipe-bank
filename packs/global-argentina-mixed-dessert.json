@@ -1,0 +1,256 @@
+{
+  "id": "global-argentina-mixed-dessert",
+  "title": "Global Argentina Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53138",
+      "external_id": "53138",
+      "name": "Alfajores",
+      "slug": "alfajores",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "argentina",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "argentina"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/a4kgf21763075288.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53138. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "cornstarch",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "egg yolks",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "lemon zest",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "dulce de leche",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 7
+        },
+        {
+          "name": "desiccated coconut",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Make the Dough: Cream butter and sugar. Add egg yolks and lemon zest. Gradually mix in flour and cornstarch to form a dough. Chill for 1 hour."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bake the Cookies: Roll out the dough, cut into circles, and bake at 180\u00b0C (350\u00b0F) for 12-15 minutes. Let cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Assemble: Spread dulce de leche on one cookie, then sandwich with another. Roll the edges in coconut flakes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pro Tips:"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Chill the dough before rolling it out to make it easier to handle and to prevent the cookies from spreading too much while baking."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Dip the alfajores in melted chocolate and let them set on a wire rack for an extra decadent treat."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53137",
+      "external_id": "53137",
+      "name": "Dulce de Leche",
+      "slug": "dulce-de-leche",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "argentina",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "argentina"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/jyjlhj1763075323.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53137. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "Litre",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine Ingredients: In a large, heavy-bottomed pot, mix the milk, sugar, and baking soda. Cook over low heat, stirring constantly to prevent burning."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Thicken: Continue to cook, stirring frequently, until the mixture becomes thick and caramel-colored, about 1-2 hours."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Flavor: Stir in the vanilla extract."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cool: Let the dulce de leche cool, then transfer to a jar. It will thicken further as it cools."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pro Tips:"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Stir continuously and keep the heat low to prevent the milk from burning and sticking to the bottom of the pan."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "A drop of vanilla extract added at the end of cooking enhances the flavor."
+        }
+      ]
+    }
+  ]
+}

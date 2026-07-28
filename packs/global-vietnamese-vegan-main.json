@@ -1,0 +1,391 @@
+{
+  "id": "global-vietnamese-vegan-main",
+  "title": "Global Vietnamese Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53246",
+      "external_id": "53246",
+      "name": "Tangy carrot, cabbage & onion salad",
+      "slug": "tangy-carrot-cabbage-onion-salad",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "vietnamese",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "vietnamese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/dbazbg1763779999.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53246. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "carrots",
+          "amount": 4.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "red cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "red onions",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 4
+        },
+        {
+          "name": "coriander leaves",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 5
+        },
+        {
+          "name": "roasted peanut",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 6
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Juice of 2",
+          "sort_order": 7
+        },
+        {
+          "name": "ground nut oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip the carrots, cabbage and onions into a bowl. Make the dressing by stirring the ingredients together until the sugar has dissolved. Pour over salad, tossing the vegetables in the dressing. Add the herbs, toss again, then scatter over the peanuts."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53240",
+      "external_id": "53240",
+      "name": "Tofu, greens & cashew stir-fry",
+      "slug": "tofu-greens-cashew-stir-fry",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "vietnamese",
+      "protein_type": "tofu",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "vietnamese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/minfsc1763766806.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53240. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 1
+        },
+        {
+          "name": "broccoli",
+          "amount": 1.0,
+          "unit": "head",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "spring onions",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 5
+        },
+        {
+          "name": "soya bean",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "pak choi",
+          "amount": 2.0,
+          "unit": "heads",
+          "sort_order": 7
+        },
+        {
+          "name": "marinated tofu",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "hoisin sauce",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        },
+        {
+          "name": "cashew nuts",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a non-stick wok. Add the broccoli, then fry on a high heat for 5 mins or until just tender, adding a little water if it begins to catch. Add the garlic and chilli, fry for 1 min, then toss through the spring onions, soya beans, pak choi and tofu. Stir-fry for 2-3 mins. Add the hoisin, soy and nuts to warm through."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53250",
+      "external_id": "53250",
+      "name": "Vegan banh mi",
+      "slug": "vegan-banh-mi",
+      "description": "Vegan from TheMealDB",
+      "category": "main",
+      "cuisine": "vietnamese",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "vietnamese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sonirb1763782831.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53250. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "raw vegetables",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "vegan white wine vinegar",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "golden caster sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "baguette",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 4
+        },
+        {
+          "name": "hummus",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "tempeh",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 7
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 8
+        },
+        {
+          "name": "hotsauce",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the shredded veg in a bowl and add the vinegar, sugar and 1 tsp salt. Toss everything together, then set aside to pickle quickly while you prepare the rest of the sandwich."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat oven to 180C/160C fan/gas 4. Cut the baguette into four, then slice each piece horizontally in half. Put the baguette pieces in the oven for 5 mins until lightly toasted and warm. Spread each piece with a layer of hummus, then top four pieces with the tempeh slices and pile the pickled veg on top. To serve, sprinkle over the herbs and squeeze over some hot sauce, then top with the other baguette pieces to make sandwiches."
+        }
+      ]
+    }
+  ]
+}

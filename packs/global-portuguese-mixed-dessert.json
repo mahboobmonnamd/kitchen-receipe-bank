@@ -1,0 +1,206 @@
+{
+  "id": "global-portuguese-mixed-dessert",
+  "title": "Global Portuguese Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53046",
+      "external_id": "53046",
+      "name": "Portuguese custard tarts",
+      "slug": "portuguese-custard-tarts",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "portuguese",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "portuguese"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vmz7gl1614350221.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53046. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "plain flour",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "icing sugar",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "puff pastry",
+          "amount": 375.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "caster sugar",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "lemon zest",
+          "amount": 2.0,
+          "unit": "strips",
+          "sort_order": 5
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "Stick",
+          "sort_order": 6
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "egg yolks",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "corn flour",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "whole milk",
+          "amount": 500.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "vanilla",
+          "amount": 1.0,
+          "unit": "Pod of",
+          "sort_order": 11
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Roll the pastry"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Mix the flour and icing sugar, and use this to dust the work surface. Roll the pastry out to make a 45 x 30cm rectangle. Roll up lengthways to create a long sausage shape."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cutting pastry into rounds"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Cut the pastry into 24 wheels, about 1-2cm thick."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Roll out each pastry portion"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Roll each wheel lightly with the rolling pin to fit 2 x 12-hole non-stick fairy cake tins."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Press pastry into the tin"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Press the pastry circles into the tins and mould into the tins to make thin cases. Chill until needed."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "STEP 5"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Make the infused syrup"
+        }
+      ]
+    }
+  ]
+}

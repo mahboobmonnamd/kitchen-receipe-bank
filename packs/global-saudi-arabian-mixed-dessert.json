@@ -1,0 +1,574 @@
+{
+  "id": "global-saudi-arabian-mixed-dessert",
+  "title": "Global Saudi Arabian Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53216",
+      "external_id": "53216",
+      "name": "Knafeh",
+      "slug": "knafeh",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "saudi-arabian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/76nffj1763593933.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53216. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "knafeh",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "yellow food colouring",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 3
+        },
+        {
+          "name": "mozzarella",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "cream cheese",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "sugar",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "corn flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 10
+        },
+        {
+          "name": "rose water",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Take kanfhe in a bowl and roughly cut them. Pour melted butter, yellow food color and mix well with your hands."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a separate bowl mix milk, cream cheese, sugar, cornstarch well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Turn on the flame and boil the liquid, when it gets thick turn off the flame let it cool down a little bit."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add mozzarella in it and mix it well."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Now make a base with half of the kanfhe in a dish, gently press it to level the dough well."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Pour the cheese mixture on the top and level it with a spoon."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "3"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Cover it with the other half of the kanfhe."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Put the dish in a preheated oven at 200 degree for about 20-25 minutes."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "It's ready when kunafa is golden and crunchy in the surface."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "4"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Boil water in a pan and dissolve sugar in it for 4\u20135 minutes. OR cook it until slightly thicken and keep on stirring. Add lemon juice with rose water, mix well."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53221",
+      "external_id": "53221",
+      "name": "Mamoul (Eid biscuits)",
+      "slug": "mamoul-eid-biscuits",
+      "description": "Celebration, Party,  Eid",
+      "category": "dessert",
+      "cuisine": "saudi-arabian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/35kejr1763599712.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53221. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "plain flour",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "semolina",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 50.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "icing sugar",
+          "amount": 60.0,
+          "unit": "g",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix butter with sugar until creamy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add oil flour and semolina and mix."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add warm milk and don't knead too much"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Cover and leave aside for an hour or less until you prepare the filling"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "For the dates filling, fry some sesame in a pan then add butter. Add the dates paste and mixed well with sesame and butter. Then add a little bit of water until it's mushy. Be careful don't make it too mushy."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Take it of the pan, put in a plate until it's cool. Then start to shape balls that weigh 15 gm."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Refrigerate for 1/2 an hour."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53224",
+      "external_id": "53224",
+      "name": "Pistachio Kunafa Chocolate Cake and Cupcakes",
+      "slug": "pistachio-kunafa-chocolate-cake-and-cupcakes",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "saudi-arabian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yh3sg71763741307.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53224. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "white chocolate",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "unsalted pistachio",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "condensed milk",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "milk",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "oreo cream biscuits",
+          "amount": 25.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "vinegar",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "sevaiiya",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "ghee",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 11
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 120.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "malai",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "For Chocolate Cake:Ready all the ingredients. Powder the oreo biscuits, pinch salt and mix warm milk as needed and make a cake batter. Add in baking powder and vinegar and mix."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Grease a loose bottomed tin. Pour a 1cm thick layer of the batter."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake in a preheated oven @160\u00b0C for 7-8 minutes or until the knife comes out clean. Cool on wire rack."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "For Homemade Pistachio Paste:Ready all the pistachio paste ingredients. Slightly melt white chocolate on a double boiler.(else the mixer blade may break) Coarsely powder the pistachio in mixer. Add in condensed milk."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Add in slightly warmed and slightly melted white chocolate and milk as required and crush to a smooth paste.(Green food colour can be add. I haven't.)"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "For Kunafa: In a kadhaai take ghee and roast the sevaiiya on slow gas. Keep stirring until a pleasant roasted aroma releases. Cool it. Add in the Homemade pistachio paste.Mix well."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Lip smacking Kunafa is ready. Spread a 2 cm layer on the cooled chocolate cake."
+        }
+      ]
+    }
+  ]
+}

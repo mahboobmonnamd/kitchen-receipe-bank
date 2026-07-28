@@ -1,0 +1,301 @@
+{
+  "id": "global-british-non-vegetarian-breakfast",
+  "title": "Global British Non Vegetarian Breakfast",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52895",
+      "external_id": "52895",
+      "name": "English Breakfast",
+      "slug": "english-breakfast",
+      "description": "Breakfast",
+      "category": "breakfast",
+      "cuisine": "british",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "british"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/utxryw1511721587.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52895. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sausages",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "bacon",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "mushrooms",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "black pudding",
+          "amount": 1.0,
+          "unit": "Slice",
+          "sort_order": 5
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "Slice",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Snip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "For the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "For the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "For the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1\u00bd-2 minutes each side until slightly crispy."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "For 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "For the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Once all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52896",
+      "external_id": "52896",
+      "name": "Full English Breakfast",
+      "slug": "full-english-breakfast",
+      "description": "Greasy, UnHealthy, HangoverFood, Calorific, Breakfast, BBQ",
+      "category": "breakfast",
+      "cuisine": "british",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "british"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sqrtwu1511721265.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52896. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sausages",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "bacon",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "mushrooms",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "tomatoes",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "black pudding",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "Slice",
+          "sort_order": 7
+        },
+        {
+          "name": "baked beans",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the flat grill plate over a low heat, on top of 2 rings/flames if it fits, and brush sparingly with light olive oil."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the sausages first. Add the sausages to the hot grill plate/the coolest part if there is one and allow to cook slowly for about 15-20 minutes, turning occasionally, until golden. After the first 10 minutes, increase the heat to medium before beginning to cook the other ingredients. If you are struggling for space, completely cook the sausages and keep hot on a plate in the oven."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Snip a few small cuts into the fatty edge of the bacon. Place the bacon straight on to the grill plate and fry for 2-4 minutes each side or until your preferred crispiness is reached. Like the sausages, the cooked bacon can be kept hot on a plate in the oven."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "For the mushrooms, brush away any dirt using a pastry brush and trim the stalk level with the mushroom top. Season with salt and pepper and drizzle over a little olive oil. Place stalk-side up on the grill plate and cook for 1-2 minutes before turning and cooking for a further 3-4 minutes. Avoid moving the mushrooms too much while cooking, as this releases the natural juices, making them soggy."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "For the tomatoes, cut the tomatoes across the centre/or in half lengthways if using plum tomatoes , and with a small, sharp knife remove the green 'eye'. Season with salt and pepper and drizzle with a little olive oil. Place cut-side down on the grill plate and cook without moving for 2 minutes. Gently turn over and season again. Cook for a further 2-3 minutes until tender but still holding their shape."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "For the black pudding, cut the black pudding into 3-4 slices and remove the skin. Place on the grill plate and cook for 1\u00bd-2 minutes each side until slightly crispy."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "For 'proper' fried bread it's best to cook it in a separate pan. Ideally, use bread that is a couple of days old. Heat a frying pan to a medium heat and cover the base with oil. Add the bread and cook for 2-3 minutes each side until crispy and golden. If the pan becomes too dry, add a little more oil. For a richer flavour, add a knob of butter after you turn the slice."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "For the fried eggs, break the egg straight into the pan with the fried bread and leave for 30 seconds. Add a good knob of butter and lightly splash/baste the egg with the butter when melted. Cook to your preferred stage, season and gently remove with a fish slice."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Once all the ingredients are cooked, serve on warm plates and enjoy straight away with a good squeeze of tomato ketchup or brown sauce."
+        }
+      ]
+    }
+  ]
+}

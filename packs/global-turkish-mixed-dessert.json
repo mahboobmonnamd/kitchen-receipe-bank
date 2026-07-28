@@ -1,0 +1,467 @@
+{
+  "id": "global-turkish-mixed-dessert",
+  "title": "Global Turkish Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53276",
+      "external_id": "53276",
+      "name": "Apricot & Turkish delight mess",
+      "slug": "apricot-turkish-delight-mess",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "turkish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "turkish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/p277uc1764109195.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53276. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "mascarpone",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "icing sugar",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "orange blossom water",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "meringue nests",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "apricot",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "turkish delight",
+          "amount": 2.0,
+          "unit": "pieces",
+          "sort_order": 7
+        },
+        {
+          "name": "almonds",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "mint",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place the mascarpone, yogurt, sugar and orange flower water into a large bowl and whisk until thickened. Fold the remaining ingredients through, then divide the mix between 2 dessert glasses or bowls and decorate with extra mint, if you like."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53279",
+      "external_id": "53279",
+      "name": "Baklava with spiced nuts, ricotta & chocolate",
+      "slug": "baklava-with-spiced-nuts-ricotta-chocolate",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "turkish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "turkish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ytme8t1764111401.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53279. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sugar",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 2
+        },
+        {
+          "name": "walnuts",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "pecan nuts",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "almonds",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "ground cardomom",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        },
+        {
+          "name": "ricotta",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 9
+        },
+        {
+          "name": "orange",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 10
+        },
+        {
+          "name": "vanilla bean paste",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 11
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "filo pastry",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "ground pistachios",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "First, make the syrup. Tip the sugar into a large saucepan with 650ml water. Stir over a low heat until the sugar has dissolved, then turn up the heat and bring to the boil. Reduce the heat to a simmer and cook for 15 mins, then squeeze in a few drops of lemon juice and simmer for a further 5 mins. Remove from the heat and leave to cool. Meanwhile, for assembling the baklava later, melt the butter in a small pan over a low heat for 5 mins, skimming and discarding any froth that rises to the surface."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "For the filling, crush all of the nuts in a pestle and mortar, or blitz in a food processor \u2013 you want a mixture of finely ground nuts with a few chunky pieces. Tip into a bowl, stir through the spices and set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In a separate bowl, mix the ricotta with the lemon and orange zests and vanilla. Heat the oven to 180C/160C fan/gas 4. Brush the bottom of a large baking tray (about 35 x 47cm) with some of the melted butter. Working with one sheet of filo at a time (covering the rest with a damp tea towel to prevent it drying out), lay the sheet out on a board so one of the short ends is facing you. Sprinkle 30g of the nut mixture evenly over the whole sheet, then spoon 1 tbsp of the ricotta mixture across the end closest to you. Fold this end over to enclose the filling, then lay a long, thin skewer next to the folded edge and roll the pastry around it to create a long roll. When it\u2019s fully rolled up, it should be roughly the thickness of a chipolata sausage. While holding one end of the rolling pin or skewer, gently scrunch the filo roll like an accordion and carefully push it off the skewer and onto the prepared tray. Repeat with the rest of the filo and fillings \u2013 you should get about 12 rolls. Cut each roll into four to make 48 large baklava, or eight to make 96 mini."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Brush with the remaining melted butter. Bake for 20-25 mins until evenly golden, turning the tray around halfway through. While still hot, immediately pour over 5-6 ladlefuls of the syrup. You should hear the syrup sizzle as it hits the hot baklava. Set aside to cool and absorb."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Melt the dark chocolate in a heatproof bowl set over a pan of simmering water, ensuring the bowl doesn\u2019t touch the water, or in the microwave in short bursts. Drizzle this over the cooled baklava and sprinkle with the ground pistachios."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53271",
+      "external_id": "53271",
+      "name": "Walnut, date & honey cake",
+      "slug": "walnut-date-honey-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "turkish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "turkish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/towo9c1763814590.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53271. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "self-raising flour",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "muscovado sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "clear honey",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "Beaten",
+          "sort_order": 6
+        },
+        {
+          "name": "banana",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 7
+        },
+        {
+          "name": "stoned dates",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "walnuts",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat the oven to 160C/Gas 3/fan oven 140C. Line the base and long sides of a 900g/2lb loaf tin with greaseproof paper, buttering the tin and paper."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip the flour, cinnamon, butter, sugar, 2 tablespoons of the honey and the eggs into a large mixing bowl. Mash the bananas and chop the dates (kitchen scissors are easiest for this) and add to the bowl. Beat the mixture for 2-3 minutes, using a wooden spoon or hand-held mixer, until well blended."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Spoon into the prepared tin and level the top. Scatter the walnut pieces over. Bake for 1 hour, then lightly press the top \u2013 it will feel firm if cooked. If not, bake for a further 10 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Cool for 15 minutes, then lift out of the tin using the paper. When cold, drizzle the remaining honey over. Cut into thick slices."
+        }
+      ]
+    }
+  ]
+}

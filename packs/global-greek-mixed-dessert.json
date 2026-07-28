@@ -1,0 +1,140 @@
+{
+  "id": "global-greek-mixed-dessert",
+  "title": "Global Greek Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53007",
+      "external_id": "53007",
+      "name": "Honey Yogurt Cheesecake",
+      "slug": "honey-yogurt-cheesecake",
+      "description": "Sweet",
+      "category": "dessert",
+      "cuisine": "greek",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "roasting"
+        ],
+        "cuisines": [
+          "greek"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/y2irzl1585563479.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53007. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "digestive biscuits",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "almonds",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "mascarpone",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 7
+        },
+        {
+          "name": "orange",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 8
+        },
+        {
+          "name": "honey",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "fruit mix",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 160C/140C fan/gas 3. Crush the biscuits and most of the almonds inside a plastic food bag using a rolling pin. Mix with the butter, then press into the bottom of a deep, oval, 23cm dish (or something similar in size \u2013 a roasting tin, baking dish or cake tin will work). Bake for 10 mins until crisp."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Stir or mash together the yogurt and mascarpone, then whisk in the eggs, one at a time. Stir in the lemon and orange zests, then stir in most of the honey, reserving about 3 tbsp. Spread over the biscuit base, cover loosely with foil and cook for 1 hr. Remove the foil and cook for 15 mins more until lightly golden and the top is firm with just the slightest wobble in the middle. Leave to cool. Can be kept in the fridge for up to 2 days."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To serve, scatter with almonds, drizzle over the remaining honey, and hand around fresh fruit to go with it."
+        }
+      ]
+    }
+  ]
+}

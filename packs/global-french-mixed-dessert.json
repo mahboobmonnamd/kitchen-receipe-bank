@@ -1,0 +1,749 @@
+{
+  "id": "global-french-mixed-dessert",
+  "title": "Global French Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52910",
+      "external_id": "52910",
+      "name": "Chinon Apple Tarts",
+      "slug": "chinon-apple-tarts",
+      "description": "Tart, Baking",
+      "category": "dessert",
+      "cuisine": "french",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "french"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qtqwwu1511792650.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52910. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "puff pastry",
+          "amount": 320.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "dark brown soft sugar",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "braeburn apples",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "red wine jelly",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "cardamom",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "To make the red wine jelly, put the red wine, jam sugar, star anise, clove, cinnamon stick, allspice, split vanilla pod and seeds in a medium saucepan. Stir together, then heat gently to dissolve the sugar. Turn up the heat and boil for 20 mins until reduced and syrupy. Strain into a small, sterilised jam jar and leave to cool completely. Will keep in the fridge for up to 1 month."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Take the pastry out of the fridge and leave at room temperature for 10 mins, then unroll. Heat the grill to high and heat the oven to 180C/160C fan/gas 4. Cut out 2 x 13cm circles of pastry, using a plate as a guide, and place on a non-stick baking sheet. Sprinkle each circle with 1 tbsp sugar and grill for 5 mins to caramelise, watching carefully so that the sugar doesn\u2019t burn. Remove from the grill. Can be done a few hours ahead, and left, covered, out of the fridge."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Peel, quarter and core the apples, cut into 2mm-thin slices and arrange on top of the pastry. Sprinkle over the remaining sugar and pop in the oven for 20-25 mins until the pastry is cooked through and golden, and the apples are softened. Remove and allow to cool slightly. Warm 3 tbsp of the red wine jelly in a small pan over a low heat with 1 tsp water to make it a little more runny, then brush over the top of the tarts."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip the cr\u00e8me fra\u00eeche into a bowl, sift over the icing sugar and cardamom, and mix together. Carefully lift the warm tarts onto serving plates and serve with the cardamom cr\u00e8me fra\u00eeche."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52776",
+      "external_id": "52776",
+      "name": "Chocolate Gateau",
+      "slug": "chocolate-gateau",
+      "description": "Cake, Chocolate, Desert, Pudding",
+      "category": "dessert",
+      "cuisine": "french",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "french"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tqtywx1468317395.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52776. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "plain chocolate",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "milk",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "eggs",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "flour",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 180\u00b0C/350\u00b0F/Gas Mark 4. Grease and line the base of an 8 in round spring form cake tin with baking parchment"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Break the chocolate into a heatproof bowl and place over a saucepan of gently simmering water and stir until it melts. (or melt in the microwave for 2-3 mins stirring occasionally)"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place the butter and sugar in a mixing bowl and cream together with a wooden spoon until light and fluffy. Gradually beat in the eggs, adding a little flour if the mixture begins to curdle. Fold in the remaining flour with the cooled, melted chocolate and milk. Mix until smooth."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Spread the mixture into the cake tin and bake for 50-55 mins or until firm in the centre and a skewer comes out cleanly. Cool for 10 minutes, then turn out and cool completely."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52905",
+      "external_id": "52905",
+      "name": "Chocolate Souffle",
+      "slug": "chocolate-souffle",
+      "description": "DinnerParty, Desert, Pudding, Chocolate",
+      "category": "dessert",
+      "cuisine": "french",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "french"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/twspvx1511784937.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52905. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "single cream",
+          "amount": 142.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "drizzle",
+          "sort_order": 5
+        },
+        {
+          "name": "caster sugar",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "double cream",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "egg yolks",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "egg white",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "double cream",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 11
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "to serve",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 220C/fan 200C/gas 7 and place a baking tray on the top shelf. For the sauce, heat the cream and sugar until boiling. Remove from the heat, stir in the chocolate and butter until melted, then keep warm."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Brush 6 x 150ml ramekins with melted butter, sprinkle with the 2 tbsp caster sugar, then tip out any excess. Melt the chocolate and cream in a bowl over a pan of simmering water, cool, then mix in the egg yolks. Whisk the egg whites until they hold their shape, then add the sugar, 1 tbsp at a time, whisking back to the same consistency. Mix a spoonful into the chocolate, then gently fold in the rest."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Working quickly, fill the ramekins, wipe the rims clean and run your thumb around the edges. Turn oven down to 200C/fan 180C/gas 6, place the ramekins onto the baking tray, then bake for 8-10 mins until risen with a slight wobble. Don\u2019t open the oven door too early as this may make them collapse."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Once the souffl\u00e9s are ready, dust with icing sugar, scoop a small hole from their tops, then pour in some of the hot chocolate sauce. Replace the lids and serve straight away."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52916",
+      "external_id": "52916",
+      "name": "Pear Tarte Tatin",
+      "slug": "pear-tarte-tatin",
+      "description": "Tart, Glazed, Baking",
+      "category": "dessert",
+      "cuisine": "french",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "french"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/rxvxrr1511797671.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52916. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pears",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "star anise",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "cardamom",
+          "amount": 3.0,
+          "unit": "Pods",
+          "sort_order": 5
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 6
+        },
+        {
+          "name": "brandy",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "puff pastry",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Core the pears, then peel as neatly as possible and halve. If you like, they can be prepared up to a day ahead and kept in the fridge, uncovered, so that they dry out."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip the sugar, butter, star anise, cardamom and cinnamon into an ovenproof frying pan, about 20cm wide, and place over a high heat until bubbling. Shake the pan and stir the buttery sauce until it separates and the sugar caramelises to a toffee colour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Lay the pears in the pan, then cook in the sauce for 10-12 mins, tossing occasionally, until completely caramelised. Don\u2019t worry about them burning \u2013 they won\u2019t \u2013 but you want to caramelise them as much as possible. Splash in the brandy and let it flamb\u00e9, then set the pears aside."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat oven to 200C/fan 180C/gas 6. Roll the pastry out to the thickness of a \u00a31 coin. Using a plate slightly larger than the top of the pan, cut out a circle, then press the edges of the circle of pastry to thin them out."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "When the pears have cooled slightly, arrange them in the pan, cut side up, in a floral shape, with the pears around the edge pointing inwards. Rest the cinnamon stick on the top in the centre, with the cardamom pods scattered around."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Drape the pastry over the pears, then tuck the edges down the pan sides and under the fruit (see Gordon\u2019s guide). Pierce the pastry a few times, then bake for 15 mins. If a lot of juice bubbles up the side of the pan, pour it off at this stage (see guide). Reduce oven to 180C/fan 160C/gas 4 and bake for 15 mins more until the pastry is golden. Leave the tart to stand for 10 mins, then invert it carefully onto a serving dish."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52909",
+      "external_id": "52909",
+      "name": "Tarte Tatin",
+      "slug": "tarte-tatin",
+      "description": "Treat, Tart, Desert, DinnerParty",
+      "category": "dessert",
+      "cuisine": "french",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "steaming"
+        ],
+        "cuisines": [
+          "french"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ryspuw1511786688.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52909. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "puff pastry",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "Dusting",
+          "sort_order": 2
+        },
+        {
+          "name": "braeburn apples",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "butter",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 1.0,
+          "unit": "to serve",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Roll the pastry to a 3mm-thick round on a lightly floured surface and cut a 24cm circle, using a plate as a guide. Lightly prick all over with a fork, wrap in cling film on a baking sheet and freeze while preparing the apples."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 180C/160C fan/gas 4. Peel, quarter and core the apples. Put the sugar in a flameproof 20cm ceramic Tatin dish or a 20cm ovenproof heavy-based frying pan and place over a medium-high heat. Cook the sugar for 5-7 mins to a dark amber caramel syrup that\u2019s starting to smoke, then turn off the heat and stir in the 60g diced chilled butter."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To assemble the Tarte Tatin, arrange the apple quarters very tightly in a circle around the edge of the dish first, rounded-side down, then fill in the middle in a similar fashion. Gently press with your hands to ensure there are no gaps. Brush the fruit with the melted butter."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake in the oven for 30 mins, then remove and place the disc of frozen puff pastry on top \u2013 it will quickly defrost. Tuck the edges down the inside of the dish and, with a knife, prick a few holes in the pastry to allow steam to escape. Bake for a further 40-45 mins until the pastry is golden brown and crisp."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Allow to cool to room temperature for 1 hr before running a knife around the edge of the dish and inverting it onto a large serving plate that is deep enough to contain the juices. Serve with cr\u00e8me fra\u00eeche or vanilla ice cream."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52917",
+      "external_id": "52917",
+      "name": "White chocolate creme brulee",
+      "slug": "white-chocolate-creme-brulee",
+      "description": "Desert, DinnerParty, Pudding",
+      "category": "dessert",
+      "cuisine": "french",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "grilling",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "french"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uryqru1511798039.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52917. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "double cream",
+          "amount": 568.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "white chocolate chips",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "vanilla",
+          "amount": 1.0,
+          "unit": "Pod of",
+          "sort_order": 3
+        },
+        {
+          "name": "egg yolks",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "caster sugar",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "caster sugar",
+          "amount": 1.0,
+          "unit": "Top",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the cream, chocolate and vanilla pod in a pan until the chocolate has melted. Take off the heat and allow to infuse for 10 mins, scraping the pod seeds into the cream. If using the vanilla extract, add straight away. Heat oven to 160C/fan 140C/gas 3."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Beat yolks and sugar until pale. stir in the chocolate cream. Strain into a jug and pour into ramekins. Place in a deep roasting tray and pour boiling water halfway up the sides. Bake for 15-20 mins until just set with a wobbly centre. Chill in the fridge for at least 4 hrs."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To serve, sprinkle some sugar on top of the br\u00fbl\u00e9es and caramelise with a blowtorch or briefly under a hot grill. Leave caramel to harden, then serve."
+        }
+      ]
+    }
+  ]
+}

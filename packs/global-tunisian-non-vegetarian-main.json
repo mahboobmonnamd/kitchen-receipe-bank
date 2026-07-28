@@ -1,0 +1,607 @@
+{
+  "id": "global-tunisian-non-vegetarian-main",
+  "title": "Global Tunisian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52969",
+      "external_id": "52969",
+      "name": "Chakchouka ",
+      "slug": "chakchouka",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "tunisian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "tunisian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/gpz67p1560458984.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52969. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "tomatoes",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 3.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "chili powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 10
+        },
+        {
+          "name": "eggs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a large cast iron skillet or saut\u00e9 pan with a lid, heat oil over medium high heat."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the onion and saut\u00e9 for 2-3 minutes, until softened."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the peppers and garlic, and saut\u00e9 for an additional 3-5 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the tomatoes, cumin, paprika, salt, and chili powder."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Mix well and bring the mixture to a simmer."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Reduce the heat to medium low and continue to simmer, uncovered, 10-15 minutes until the mixture has thickened to your desired consistency."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "(Taste the sauce at this point and adjust for salt and spice, as desired.) Using the back of a spoon, make four craters in the mixture, large enough to hold an egg."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Crack one egg into each of the craters."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Cover the skillet and simmer for 5-7 minutes, until the eggs have set."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Serve immediately with crusty bread or pita."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52974",
+      "external_id": "52974",
+      "name": "Keleya Zaara",
+      "slug": "keleya-zaara",
+      "description": "Lamb from TheMealDB",
+      "category": "main",
+      "cuisine": "tunisian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "tunisian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8x09hy1560460923.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52974. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "lamb",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Large Chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 25.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "parsley",
+          "amount": 30.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the vegetable oil in a large frying pan over medium-high heat. Add the lamb and cook until browned on all sides, about 5 minutes. Season with saffron, salt and pepper to taste; stir in all but 4 tablespoons of the onion, and pour in the water. Bring to the boil, then cover, reduce heat to medium-low, and simmer until the lamb is tender, about 15 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Uncover the pan, stir in the butter and allow the sauce reduce 5 to 10 minutes to desired consistency. Season to taste with salt and pepper, then pour into a serving dish. Sprinkle with the remaining chopped onions and parsley. Garnish with lemon wedges to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52975",
+      "external_id": "52975",
+      "name": "Tuna and Egg Briks",
+      "slug": "tuna-and-egg-briks",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "tunisian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "tunisian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/2dsltq1560461468.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52975. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "spring onions",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "spinach",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "filo pastry",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "tuna",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 5
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "hotsauce",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 7
+        },
+        {
+          "name": "tomatoes",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "cucumber",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 10
+        },
+        {
+          "name": "apricot jam",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat 2 tsp of the oil in a large saucepan and cook the spring onions over a low heat for 3 minutes or until beginning to soften. Add the spinach, cover with a tight-fitting lid and cook for a further 2\u20133 minutes or until tender and wilted, stirring once or twice. Tip the mixture into a sieve or colander and leave to drain and cool."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Using a saucer as a guide, cut out 24 rounds about 12.5 cm (5 in) in diameter from the filo pastry, cutting 6 rounds from each sheet. Stack the filo rounds in a pile, then cover with cling film to prevent them from drying out."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "When the spinach mixture is cool, squeeze out as much excess liquid as possible, then transfer to a bowl. Add the tuna, eggs, hot pepper sauce, and salt and pepper to taste. Mix well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Preheat the oven to 200\u00b0C (400\u00b0F, gas mark 6). Take one filo round and very lightly brush with some of the remaining oil. Top with a second round and brush with a little oil, then place a third round on top and brush with oil."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Place a heaped tbsp of the filling in the middle of the round, then fold the pastry over to make a half-moon shape. Fold in the edges, twisting them to seal, and place on a non-stick baking sheet. Repeat with the remaining pastry and filling to make 8 briks in all."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Lightly brush the briks with the remaining oil. Bake for 12\u201315 minutes or until the pastry is crisp and golden brown."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Meanwhile, combine the tomatoes and cucumber in a bowl and sprinkle with the lemon juice and seasoning to taste. Serve the briks hot with this salad and the chutney."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52972",
+      "external_id": "52972",
+      "name": "Tunisian Lamb Soup",
+      "slug": "tunisian-lamb-soup",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "tunisian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "tunisian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/t8mn9g1560460231.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52972. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lamb mince",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "spinach",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "Litre",
+          "sort_order": 7
+        },
+        {
+          "name": "harissa spice",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "chickpeas",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "macaroni",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 12
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add the lamb to a casserole and cook over high heat. When browned, remove from the heat and set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Keep a tablespoon of fat in the casserole and discard the rest. Reduce to medium heat then add the garlic, onion and spinach and cook until the onion is translucent and the spinach wilted or about 5 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Return the lamb to the casserole with the onion-spinach mixture, add the tomato puree, cumin, harissa, chicken, chickpeas, lemon juice, salt and pepper in the pan. Simmer over low heat for about 20 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the pasta and cook for 15 minutes or until pasta is cooked."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1134 @@
+{
+  "id": "global-unknown-non-vegetarian-main-02",
+  "title": "Global Unknown Non Vegetarian Main 02",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53577",
+      "external_id": "53577",
+      "name": "Sauerkraut and Fish Salad",
+      "slug": "sauerkraut-and-fish-salad",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/2i0plx1784837241.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53577. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sauerkraut",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "smoked haddock",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "rye bread",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "oil",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1.Boil eggs and toast bread slices."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "mix together salad dressing. NB! you can serve this salad with sour cream dressing. It would be different but still very delicious"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Mix together sauerkraut, sliced egg, fish and bread pieces. Serve"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53470",
+      "external_id": "53470",
+      "name": "Seswaa",
+      "slug": "seswaa",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/p7eid81782503889.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53470. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "bay leaf",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 4
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 5
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "Litre",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Pre heat the oven to 160 degrees Celsius. Cut the meat into large chunks then brown in a dish suitable for slow cooking in the oven such as a cast iron casserole dish."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the whole peeled onion, salt, cracked black pepper, water and bay leaves. Bring to the boil then cover and place into the oven for 4 hours."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "After 4 hours, remove from oven and place onto the stove burner in order to cook off most of the remaining liquid. Use a wooden spoon to pound or mash up the meat, the meat should fall apart quite easily. and will appear shredded. You may brown the meat further if desired."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Check seasoning then serve with polenta or the more traditional thick cornmeal porridge known as pap or sadza, and a side of green vegetables."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53432",
+      "external_id": "53432",
+      "name": "Slow-cooked, Wadadli-spiced Cubano pork belly",
+      "slug": "slow-cooked-wadadli-spiced-cubano-pork-belly",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/t1hg8s1780087329.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53432. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 175.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "coriander",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "parsley",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "oregano",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "mint",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "green chilli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "orange",
+          "amount": 1.0,
+          "unit": "Zest and juice of 2",
+          "sort_order": 8
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Zest and juice of 2",
+          "sort_order": 9
+        },
+        {
+          "name": "grapefruit",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 10
+        },
+        {
+          "name": "garlic",
+          "amount": 40.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "ground cumin",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "ground allspice",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 14
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Blitz all the marinade ingredients in a food processor or with a hand blender. Lay the pork in a large dish, pour over the marinade, then turn the meat in the mixture, rubbing in the marinade all over and making sure every bit of the belly is coated. Cover the dish and leave overnight in the fridge."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "The next day, heat the oven to 140C (120C fan)/275F/gas 1. Lift the meat out of its marinade (don\u2019t wipe off any that sticks to the joint, though; just leave most of the marinade behind in the dish) and transfer to a large roasting dish. Cover with foil, slip into the oven and roast for four and a half hours \u2013 every now and then (say, three or four times over the whole cooking period), take the dish out of the oven, lift off the foil lid and spoon the juices from the bottom of the dish over the meat. Return the foil lid, then put back in the oven."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "After the time is up, remove the foil, turn up the heat to 180C (160C fan)/350F/gas 4 and give the pork a final blast \u2013 after 15-20 minutes, the top will take on a lovely colour and the meat should be yielding and soft enough to cut with a spoon."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "To make crackling shards to serve with the meat, heat the oven to 200C (180C fan)/390F/gas 6 and line a roasting tray with baking paper. Lightly score the skin from the pork belly with a sharp knife, then rub it with a three or four fat pinches of salt \u2013 I also like to add a few caraway, cumin or fennel seeds at this point (use anything that takes your fancy). Cut the skin into long strips and lay these fat side down on the lined tray (you can, of course, leave it whole, but I think its pleasing to dress the plate with long, golden shards of crackling). Lay a second sheet of baking paper on top of the skin, then put a second baking tray of the same size on top, and roast for 45 minutes to an hour (if by this point the crackling has not gone crisp, just put it back in the oven and carry on roasting it until it has)."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cut or pull the pork apart, top with finely chopped coriander and flat-leaf parsley and shards of crackling, if you have made them, and serve at once"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53447",
+      "external_id": "53447",
+      "name": "Tafelspitz",
+      "slug": "tafelspitz",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/svf3d01780298321.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53447. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "amount": 1.5,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 2
+        },
+        {
+          "name": "celeriac",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "parsnips",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Sprigs of fresh",
+          "sort_order": 5
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 7
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "peppercorns",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Slice the unpeeled onion in half widthways and fry off the cut surfaces without fat until fairly well browned."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put around 3 litres of water into a large saucepan. Add the root vegetables, leek, halves of onion, bay leaves, and peppercorns and bring to a boil. Add the washed meat and bones and, depending on the type of meat, allow to cook until softened in gently simmering water, which will take around 2 1\u20442 \u2013 3 hours. Add more water as required and skim off any foam from the surface."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Season well with salt, but only after a good 2 hours."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Once the meat has softened, remove it from the pan and keep it warm in some of the liquid from the soup. Season the remainder of the soup again with salt to taste, and strain it (optional). Serve with semolina dumplings or \"Frittaten\" (sliced pancakes - a traditional Austrian soup garnish) and freshly chopped chives as a starter. Afterwards, slice the boiled beef by cutting on the bias and arrange it on pre-heated plates, or serve in the hot soup in a decorative soup tureen."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Serve with roast potatoes, a bread and horseradish mix, green beans in a dill sauce, or creamed spinach and chive sauce. If the root vegetables are to be served at the same time, cook some of them separately to be served al dente."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53404",
+      "external_id": "53404",
+      "name": "Tav\u00eb Kosi Baked Lamb and Yogurt",
+      "slug": "tav-kosi-baked-lamb-and-yogurt",
+      "description": "Lamb from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/a1mi7t1779643816.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53404. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lamb",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 20.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "rice",
+          "amount": 70.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "oregano",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "boiling water",
+          "amount": 450.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "eggs",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 13
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 14
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Baking the Lamb"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a large pan (with a lid) melt the butter and olive oil together then add the diced lamb. Brown the lamb on a medium heat, this will take around 5 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add the garlic, oregano, 300ml of water and season with salt and pepper. Mix well before covering with the lid. Leave to simmer for 50 minutes mixing a couple of times ensuring the lamb doesn\u2019t start to burn."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "3"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "The juices should have nearly all boiled away so another 150ml of water should be added along with the rice. Mix altogether, bring to the boil, place the lid on and leave for just 10 minutes. It\u2019s advised to check at around 8 minutes \u2013 you want the liquid to be evaporated with just moist coating of oily water left over the lamb and rice."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "4"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Place the lamb and rice into a casserole dish, the mixture should fully cover the base and have at least 2 inches spare for the yogurt. Alternatively you can split into four ceramic bowls."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "5"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Making a Roux"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "In a small saucepan melt the butter over a medium heat and then add two tablespoons of flour while continuously stirring for two minutes (add a little extra flour if needed). The roux should not be thick but not too runny, the colour will darken slightly. Pour the roux into a bowl and keep to one side."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "6"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Making the Yogurt Mixture"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53444",
+      "external_id": "53444",
+      "name": "Tirolean Dumplings",
+      "slug": "tirolean-dumplings",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/jbw8m11780155348.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53444. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "bread",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "milk",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "smoked ham",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "eggs",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "shallots",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "Knob",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 9
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 10
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 11
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 12
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Finely chop the shallots, and dice the smoked ham or sausage into small cubes. Heat some butter or clarified butter in a pan and sweat the onions in it until translucent. Add the meat and the parsley and fry together briefly before removing from the heat."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Place the bread in a bowl. Beat the milk with the eggs and season well with salt, pepper and nutmeg. Pour over the bread. Stir in the sausage and onion paste and mix in the flour. Mix together to form a relatively firm paste (adding more bread or flour if necessary) and season again according to taste. Smooth the surface of the dough out and leave to stand for approx. 30 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Heat up a good quantity of salted water in a large pan. Use the paste to form smaller dumplings (for use as a garnish in soups) or medium-sized dumplings, as required. Moisten the hands regularly with cold water during this stage so that the dumplings take on smooth forms."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Place in boiling water, bring back to the boil, turn down the heat, and simmer gently for 8-20 minutes, depending on the size."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Remove from the water, dry off well and serve up garnished with chopped parsley and melted butter (which has been taken on a nut-brown colour)."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53416",
+      "external_id": "53416",
+      "name": "Trinxat (Potato, Cabbage and Bacon Hash)",
+      "slug": "trinxat-potato-cabbage-and-bacon-hash",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/khpso71779732715.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53416. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "russet potato",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 2
+        },
+        {
+          "name": "bacon",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 6
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Bring salted water to boil in a large pot."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add in the cabbage and potatoes, cook until tender about 30-40 minutes"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "When tender, drain, very well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Return the vegetables to the pot and turn on the burner to low. Let steam"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Meanwhile cook up the bacon, reserving the fat for frying the hash."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Chop up the bacon, into small pieces."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Mash the potatoes and cabbage with a potato masher and add in the minced garlic."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add in salt and pepper to taste."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Using a form for individual servings, press the hash mixture into the form with bacon on top, fry in the reserved bacon fat until golden brown, flip over and repeat on the other side."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Remove form and garnish with chopped parsley."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "If you want to make one big hash, just use a skillet, pressing the hash into the skillet with the bacon pieces and reserved fat, then flip over once golden brown. Cut into servings."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Garnish with chopped parsley."
+        }
+      ]
+    }
+  ]
+}

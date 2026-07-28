@@ -1,0 +1,1010 @@
+{
+  "id": "global-venezuela-non-vegetarian-main",
+  "title": "Global Venezuela Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53334",
+      "external_id": "53334",
+      "name": "Arepa Pabell\u00f3n",
+      "slug": "arepa-pabell-n",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "venezuela",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/13fg4j1764441982.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53334. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "corn arepa filled with mozarella cheese",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "fried ripe bananas",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "black beans",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 3
+        },
+        {
+          "name": "pico de gallo sauce",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "shredded meat",
+          "amount": 2.0,
+          "unit": "kg",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Prepare the meat in a skillet and add salt and pepper to taste, heat the beans over medium heat in a pan, fry or grill the ripe plantains as indicated on its package and cut the tomato into small cubes. Reserve these ingredients until filling."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat the grill or pan and grill the arepa, putting it once on each side until they are golden brown."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "With the help of a knife, open it by the edge through the middle, creating a space to fill it with the ripe plantain, the beans, meat and chopped tomato."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Serve with a little pico de gallo or guacamole dip sauce."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53329",
+      "external_id": "53329",
+      "name": "Arepa pelua",
+      "slug": "arepa-pelua",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "venezuela",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/jgl9qq1764437635.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53329. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "oregano",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "beef stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 8
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        },
+        {
+          "name": "cheese",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cook the meat: Place the flank steak in a pot with broth or water and salt. Cook over low heat for about 2 hours, until tender and easy to shred."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Shred the meat: Once cooked, drain and shred the meat using two forks."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Prepare the vegetables: Saut\u00e9 chopped onion, bell pepper, and garlic in a little oil. Add cumin, oregano, paprika, and salt. Stir in the meat and cook for a few minutes until the flavors are well combined."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Make the dough: In a bowl, mix the cornmeal with warm water and salt until a soft dough forms. Let it rest for 5 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Form the arepas: Divide the dough into 6 portions, shape into balls, and flatten into thick discs."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Cook: Cook the arepas on a griddle or skillet over medium heat for 2\u20133 minutes on each side until golden. You can then bake them for a few minutes if you prefer them crispier."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Fill: Slice the arepas open on one side, fill with the hot shredded beef, and top with grated cheese."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53330",
+      "external_id": "53330",
+      "name": "Cassava pizza",
+      "slug": "cassava-pizza",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "venezuela",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/lrfdwz1764438393.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53330. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "casabe",
+          "amount": 6.0,
+          "unit": "cut thick slices",
+          "sort_order": 1
+        },
+        {
+          "name": "tomato sauce",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "chorizo",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "turkey ham",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "sweetcorn",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "green olives",
+          "amount": 40.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 55.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "mozzarella",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 200\u00baC."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut the bacon or chorizo into medium pieces and the paprika into strips."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Spread a little tomato sauce and mozzarella cheese on each portion of cassava."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the bacon or chorizo, corn, turkey ham, some olives and paprika."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Bake for 7 to 10 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove from the oven and enjoy."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53327",
+      "external_id": "53327",
+      "name": "Venezuelan Coconut Chicken",
+      "slug": "venezuelan-coconut-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "venezuela",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/z2sw3o1764378271.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53327. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 3
+        },
+        {
+          "name": "bay leaves",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 9
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "ginger paste",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 11
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "coconut milk",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 13
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cut the chicken up into bite size pieces. Peel and cut the onions, mince the garlic."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Assemble the rest of the ingredients and you are ready to start cooking."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Make the Dish"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat up a fry pan over medium heat. Add the oil and when hot, saut\u00e9 the onion until translucent. Remove from pan and transfer to a blender or food processor."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add tomatoes, garlic, turmeric, cumin, sugar, ginger paste, coconut milk, water and blend smooth."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In the same pan you cooked the onion, add the chicken and brown all sides. This should take about 3 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add the blender ingredients and bay leaves to the pan, bring to a simmer and cook until the chicken is white inside and the liquid is creamy. (15 to 20 minutes)"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Remove the bay leaves and serve with white rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53326",
+      "external_id": "53326",
+      "name": "Venezuelan Sancocho",
+      "slug": "venezuelan-sancocho",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "venezuela",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8859m71764377470.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53326. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "hind shank",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "small",
+          "sort_order": 2
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 5
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "beef stock",
+          "amount": 8.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "sweet red peppers",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "scallions",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "sweetcorn",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "cassaba",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 11
+        },
+        {
+          "name": "yautia",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 12
+        },
+        {
+          "name": "white yam",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 13
+        },
+        {
+          "name": "butternut squash",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 14
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 15
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 16
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add hind shank, 1 halved small onion, halved bell pepper, 4 whole garlic cloves, the dark green leaves of the leek, and stock to a large stockpot. Cook for 45-60 minutes until the meat is fork-tender. NOTE: the meat can take a bit longer to be fork-tender; that is okay, just add more cooking time if necessary."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "When the meat is tender, remove the big pieces of vegetables and bones. Discard."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add diced onion, 2 minced garlic, mini sweet peppers, sliced leeks (light green part), scallions, yucca, and corn; Mix and simmer covered over medium heat for 5- 8 minutes, until the yucca is starting to soften. NOTE: the yuca can take a bit longer to start softening; that is okay, just add more cooking time if necessary."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add yautia, white yam, and butternut squash. Mix to combine. Simmer covered over medium heat for 5 \u2013 6 minutes, until all the root vegetables are tender. NOTE: Do not cook too much, or they will fall apart."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Taste and add salt to your taste, if necessary. Add cilantro and the remaining 2 minced garlic cloves. Mix and let simmer for 2 more minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Serve hot in large soup bowls, dividing the meat and vegetables evenly. Add a squish of lime juice and/or hot sauce, if desired. Serve along with arepas and or casabe (cassava bread)."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53328",
+      "external_id": "53328",
+      "name": "Venezuelan Shredded Beef",
+      "slug": "venezuelan-shredded-beef",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "venezuela",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/mq27gf1764436795.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53328. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "skirty steak",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "sliced thinly",
+          "sort_order": 6
+        },
+        {
+          "name": "beef stock",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "worcestershire sauce",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 9
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "tomato ketchup",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 12
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 13
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Season beef with salt, pepper and minced garlic"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Chop 1 onion in 4 big wedges"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place in the beef pressure cooker with the 4 wedges of onion and the stock"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pressure cook for 20 minutes"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Release the pressure and open the lid"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove the beef and SAVE 2 cups of stock in another container"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "With 2 forks, shred the beef. Beef should be tender enough to so easily. If not, cook for another 10 minutes"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Press the saute button of the Instant pot. Add the olive oil"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "When the machine beeps, add the sliced onion, pepper and tomatoes. Cook until tender"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Add the shredded beef back in the pot and mix"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Pour in 1 1/2 cups of the saved stock, the Worcestershire sauce, tomato paste, ketchup and cumin. Mix"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "If sauce seems to dry, add a tad more of stock"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Season with salt and pepper"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Serve!"
+        }
+      ]
+    }
+  ]
+}

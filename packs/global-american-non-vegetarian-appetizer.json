@@ -1,0 +1,322 @@
+{
+  "id": "global-american-non-vegetarian-appetizer",
+  "title": "Global American Non Vegetarian Appetizer",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52840",
+      "external_id": "52840",
+      "name": "Clam chowder",
+      "slug": "clam-chowder",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "american",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/rvtvuw1511190488.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52840. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "clams",
+          "amount": 10.5,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "bacon",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "sprigs of fresh",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 7
+        },
+        {
+          "name": "milk",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "double cream",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "potatoes",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Rinse the clams in several changes of cold water and drain well. Tip the clams into a large pan with 500ml of water. Cover, bring to the boil and simmer for 2 mins until the clams have just opened. Tip the contents of the pan into a colander over a bowl to catch the clam stock. When cool enough to handle, remove the clams from their shells \u2013 reserving a handful of empty shells for presentation if you want. Strain the clam stock into a jug, leaving any grit in the bottom of the bowl. You should have around 800ml stock."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the butter in the same pan and sizzle the bacon for 3-4 mins until it starts to brown. Stir in the onion, thyme and bay and cook everything gently for 10 mins until the onion is soft and golden. Scatter over the flour and stir in to make a sandy paste, cook for 2 mins more, then gradually stir in the clam stock then the milk and the cream."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Throw in the potatoes, bring everything to a simmer and leave to bubble away gently for 10 mins or until the potatoes are cooked. Use a fork to crush a few of the potato chunks against the side of the pan to help thicken \u2013 you still want lots of defined chunks though. Stir through the clam meat and the few clam shells, if you've gone down that route, and simmer for a minute to reheat. Season with plenty of black pepper and a little salt, if needed, then stir through the parsley just before ladling into bowls or hollowed-out crusty rolls."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52779",
+      "external_id": "52779",
+      "name": "Cream Cheese Tart",
+      "slug": "cream-cheese-tart",
+      "description": "Tart, Savory, Cheesy",
+      "category": "appetizer",
+      "cuisine": "american",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wurrux1468416624.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52779. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "cheese",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "milk",
+          "amount": 100.0,
+          "unit": "ml milk",
+          "sort_order": 6
+        },
+        {
+          "name": "eggs",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "parmesan cheese",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "plum tomatoes",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "white vinegar",
+          "amount": 3.0,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "basil",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Crust: make a dough from 250g flour (I like mixing different flours like plain and wholegrain spelt flour), 125g butter, 1 egg and a pinch of salt, press it into a tart form and place it in the fridge."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Filling: stir 300g cream cheese and 100ml milk until smooth, add in 3 eggs, 100g grated parmesan cheese and season with salt, pepper and nutmeg."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Take the crust out of the fridge and prick the bottom with a fork."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour in the filling and bake at 175 degrees C for about 25 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cover the tart with some aluminium foil after half the time."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In the mean time, slice about 350g mini tomatoes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "In a small pan heat 3tbsp olive oil, 3tbsp white vinegar, 1 tbsp honey, salt and pepper and combine well."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Pour over the tomato slices and mix well."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "With a spoon, place the tomato slices on the tart, avoiding too much liquid on it."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Decorate with basil leaves and enjoy"
+        }
+      ]
+    }
+  ]
+}

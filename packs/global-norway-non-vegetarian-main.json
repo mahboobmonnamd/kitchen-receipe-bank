@@ -1,0 +1,886 @@
+{
+  "id": "global-norway-non-vegetarian-main",
+  "title": "Global Norway Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53126",
+      "external_id": "53126",
+      "name": "Brun Lapskaus (Norwegian Beef Vegetable Stew)",
+      "slug": "brun-lapskaus-norwegian-beef-vegetable-stew",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/6vi2cv1763075785.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53126. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 1
+        },
+        {
+          "name": "beef",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "beef stock",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 4
+        },
+        {
+          "name": "swede",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 5
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "carrots",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "parsley",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 9
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat olive oil in a large pot. Cut beef into 1 inch (2.5 cm) cubes and brown in oil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Dice the onion and add to browning beef. Add the stock and bring to a boil, then lower the heat, cover, and let simmer for about 30 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Peel and cut the rutabaga and celery root into 1 inch (2.5 cm) cubes. Add to the pot, cover, and continue simmering for another 30 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Peel and chop the rest of the vegetables into 1 inch (2.5 cm) cubes and add to the pot. Slice the leek into rings. Cover and continue simmering for about 20 minutes. Stir as little as possible."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Top with fresh parsley."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53123",
+      "external_id": "53123",
+      "name": "F\u00e5rik\u00e5l (Norwegian National Dish)",
+      "slug": "f-rik-l-norwegian-national-dish",
+      "description": "Lamb from TheMealDB",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ttfxxn1762773067.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53123. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lamb",
+          "amount": 3.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "white cabbage",
+          "amount": 1.0,
+          "unit": "head",
+          "sort_order": 2
+        },
+        {
+          "name": "whole black peppercorns",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "flour",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut the lamb into large pieces."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Slice the cabbage into large wedges, keeping the core attached."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add a layer of lamb pieces to the bottom of a large pot, fatty side down. Sprinkle with peppercorns and salt. Add a layer of cabbage wedges on top. Repeat with more layers of lamb, peppercorns, and cabbage, ending with cabbage on top."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Optional: Sprinkle a couple of tablespoons on top of the lamb for a thicker stew."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Add water to the pot and bring to a boil. Cover and reduce heat. Cook on low heat for 2 \u2013 3 hours, until the lamb gently falls away from the bone."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Serve with boiled potatoes and fresh parsley, covering generously with the f\u00e5rik\u00e5l broth."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53122",
+      "external_id": "53122",
+      "name": "Fiskesuppe (Creamy Norwegian Fish Soup)",
+      "slug": "fiskesuppe-creamy-norwegian-fish-soup",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/raqjbj1762773035.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53122. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "fish fillet",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 2
+        },
+        {
+          "name": "potatoes",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 3
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "flour",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "fish stock",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 10
+        },
+        {
+          "name": "shrimp",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 11
+        },
+        {
+          "name": "chives",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut the fish fillets in cubes or strips. Crush or chop the garlic. Rinse the vegetables and cut into thin strips."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat the butter in a pot and add the garlic. Once the garlic starts to turn golden add the flour, whisking well."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the fish stock and continue to whisk until there are no lumps."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add the vegetables and milk and bring to a boil. Cook for about 10 minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Add the cr\u00e8me fra\u00eeche (or sour cream). Bring the soup back to a simmer and once the soup begins to bubble again turn off the heat. Keep the soup on the burner and add the fish. Let the fish cook in the hot soup for 5 minutes. If using shrimp, add right before serving."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Sprinkle with chives (or dill or parsley) before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53125",
+      "external_id": "53125",
+      "name": "Karbonader (Lean Beef Patties) with Caramelized Onions",
+      "slug": "karbonader-lean-beef-patties-with-caramelized-onions",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0bpjb11763075817.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53125. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "ground beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "cornstarch",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 50.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Grate half an onion and set aside. Slice the rest of the onions and fry in butter on low/medium heat until caramelized."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a bowl, mix together ground beef, grated onion, salt, pepper, nutmeg, potato/corn starch, and water."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Form into a sausage and cut 6 patties. Using a knife make a light grid pattern in each patty."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Brown both sides of the karbonader in butter on high heat, then turn down to low heat and fry for another 2 \u2013 3 minutes."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Serve the karbonader and onions with potatoes, stewed peas, and brown sauce for dinner, or on a slice of bread for lunch or a snack."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53124",
+      "external_id": "53124",
+      "name": "Raspeballer (Norwegian Potato Dumplings)",
+      "slug": "raspeballer-norwegian-potato-dumplings",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/hhm7xy1763075871.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53124. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pork knuckle",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "sausages",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 3
+        },
+        {
+          "name": "red potatoes",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 4
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "bouillon cubes",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "freshly chopped parsley",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "swede",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 13
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Raspeballer & (Optional) Salted Meat"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "If you're making pork knuckle, cook it in simmering water for about 3 hours, until the meat falls from the bone. Remove the pork and save the broth to cook the raspeballer."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Boil the boiled potatoes and peel once cooled. Also peel the raw potatoes, and then grate them or run them through a food processor. Use a paper towel to remove some of the moisture from the grated potatoes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Mash the boiled potatoes in a potato ricer or with a masher. Make sure there are no lumps. Add the grated raw potatoes to the mashed potatoes in a large mixing bowl and stir together. Add the barley flour, all purpose flour, and salt and mix together with your hands until the mixture is fully blended."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "You can cook the raspeballer in either vegetable or beef broth, or if you're making pork knuckle, cook them in the broth from the pork knuckle. Bring the broth to a very light simmer \u2013 you don't want it to fully boil because then the raspeballer might break apart."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Use a tablespoon dipped in cold water to shape each raspeball in your hand. Try to make them as smooth as possible and then gently drop them into the simmering broth. Dip the tablespoon in a bowl of cold water between each raspeball."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Let the raspeballer simmer for about 30 minutes. If you're making smoked sausage, you can heat the sausage in the same pot with the raspeballer. Top with fresh chopped parsley."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Mashed Rutabaga"
+        }
+      ]
+    }
+  ]
+}

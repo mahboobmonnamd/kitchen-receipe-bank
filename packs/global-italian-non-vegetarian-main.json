@@ -1,0 +1,2449 @@
+{
+  "id": "global-italian-non-vegetarian-main",
+  "title": "Global Italian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52796",
+      "external_id": "52796",
+      "name": "Chicken Alfredo Primavera",
+      "slug": "chicken-alfredo-primavera",
+      "description": "Pasta, Meat, Dairy",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/syqypv1486981727.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52796. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "chicken",
+          "amount": 5.0,
+          "unit": "boneless",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "squash",
+          "amount": 1.0,
+          "unit": "cut into 1/2-inch cubes",
+          "sort_order": 5
+        },
+        {
+          "name": "broccoli",
+          "amount": 1.0,
+          "unit": "Head chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "mushrooms",
+          "amount": 8.0,
+          "unit": "-ounce sliced",
+          "sort_order": 7
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "red",
+          "sort_order": 8
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 10
+        },
+        {
+          "name": "red pepper flakes",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "white wine",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 13
+        },
+        {
+          "name": "heavy cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 14
+        },
+        {
+          "name": "parmesan cheese",
+          "amount": 1.0,
+          "unit": "cup grated",
+          "sort_order": 15
+        },
+        {
+          "name": "bowtie pasta",
+          "amount": 16.0,
+          "unit": "ounces",
+          "sort_order": 16
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 17
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 18
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 19
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat 1 tablespoon of butter and 2 tablespoons of olive oil in a large skillet over medium-high heat."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Season both sides of each chicken breast with seasoned salt and a pinch of pepper."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the chicken to the skillet and cook for 5-7 minutes on each side, or until cooked through."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "While the chicken is cooking, bring a large pot of water to a boil."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Season the boiling water with a few generous pinches of kosher salt."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the pasta and give it a stir."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Cook, stirring occasionally, until al dente, about 12 minutes."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Reserve 1/2 cup of  pasta water before draining the pasta."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Remove the chicken from the pan and transfer it to a cutting board; allow it to rest."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Turn the heat down to medium and dd the remaining 1 tablespoon of butter and olive oil to the same pan you used to cook the chicken."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Add the veggies (minus the garlic) and red pepper flakes to the pan and stir to coat with the oil and butter (refrain from seasoning with salt until the veggies are finished browning)."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Cook, stirring often, until the veggies are tender, about 5 minutes."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Add the garlic and a generous pinch of salt and pepper to the pan and cook for 1 minute."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Deglaze the pan with the white wine."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52839",
+      "external_id": "52839",
+      "name": "Chilli prawn linguine",
+      "slug": "chilli-prawn-linguine",
+      "description": "Pasta from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/usywpp1511189717.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52839. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "linguine pasta",
+          "amount": 280.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar snap peas",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic clove",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 5
+        },
+        {
+          "name": "king prawns",
+          "amount": 24.0,
+          "unit": "Skinned",
+          "sort_order": 6
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "basil leaves",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 8
+        },
+        {
+          "name": "lettuce",
+          "amount": 1.0,
+          "unit": "Leaves",
+          "sort_order": 9
+        },
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "to serve",
+          "sort_order": 10
+        },
+        {
+          "name": "fromage frais",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Grated Zest of 2",
+          "sort_order": 12
+        },
+        {
+          "name": "caster sugar",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix the dressing ingredients in a small bowl and season with salt and pepper. Set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the pasta according to the packet instructions. Add the sugar snap peas for the last minute or so of cooking time."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Meanwhile, heat the oil in a wok or large frying pan, toss in the garlic and chilli and cook over a fairly gentle heat for about 30 seconds without letting the garlic brown. Tip in the prawns and cook over a high heat, stirring frequently, for about 3 minutes until they turn pink."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the tomatoes and cook, stirring occasionally, for 3 minutes until they just start to soften. Drain the pasta and sugar snaps well, then toss into the prawn mixture. Tear in the basil leaves, stir, and season with salt and pepper."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Serve with salad leaves drizzled with the lime dressing, and warm crusty bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53064",
+      "external_id": "53064",
+      "name": "Fettuccine Alfredo",
+      "slug": "fettuccine-alfredo",
+      "description": "Pasta from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0jv5gx1661040802.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53064. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "fettuccine",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "heavy cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "parmesan",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cook pasta according to package instructions in a large pot of boiling water and salt."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add heavy cream and butter to a large skillet over medium heat until the cream bubbles and the butter melts."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Whisk in parmesan and add seasoning (salt and black pepper)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Let the sauce thicken slightly and then add the pasta and toss until coated in sauce."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Garnish with parsley, and it's ready."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52835",
+      "external_id": "52835",
+      "name": "Fettucine alfredo",
+      "slug": "fettucine-alfredo",
+      "description": "Pasta from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uquqtu1511178042.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52835. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "clotted cream",
+          "amount": 227.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "corn flour",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "parmesan cheese",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "Grated",
+          "sort_order": 5
+        },
+        {
+          "name": "fettuccine",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium saucepan, stir the clotted cream, butter and cornflour over a low-ish heat and bring to a low simmer. Turn off the heat and keep warm."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Meanwhile, put the cheese and nutmeg in a small bowl and add a good grinding of black pepper, then stir everything together (don\u2019t add any salt at this stage)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Put the pasta in another pan with 2 tsp salt, pour over some boiling water and cook following pack instructions (usually 3-4 mins). When cooked, scoop some of the cooking water into a heatproof jug or mug and drain the pasta, but not too thoroughly."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the pasta to the pan with the clotted cream mixture, then sprinkle over the cheese and gently fold everything together over a low heat using a rubber spatula. When combined, splash in 3 tbsp of the cooking water. At first, the pasta will look wet and sloppy: keep stirring until the water is absorbed and the sauce is glossy. Check the seasoning before transferring to heated bowls. Sprinkle over some chives or parsley, then serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52844",
+      "external_id": "52844",
+      "name": "Lasagne",
+      "slug": "lasagne",
+      "description": "Pasta from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "baking",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52844. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 1
+        },
+        {
+          "name": "bacon",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "Stick",
+          "sort_order": 4
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "minced beef",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 8
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 10
+        },
+        {
+          "name": "lasagne sheets",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 400.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "mozzarella balls",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "parmesan cheese",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 14
+        },
+        {
+          "name": "basil leaves",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Stir in the tomato pur\u00e9e and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water to rinse out any tomatoes left in the can, and add to the pan. Add the honey and season to taste. Simmer for 20 mins."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat oven to 200C/180C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the roasting tin or casserole dish, spreading the sauce all over the base. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit, then repeat with more sauce and another layer of pasta. Repeat with a further 2 layers of sauce and pasta, finishing with a layer of pasta."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Put the cr\u00e8me fra\u00eeche in a bowl and mix with 2 tbsp water to loosen it and make a smooth pourable sauce. Pour this over the top of the pasta, then top with the mozzarella. Sprinkle Parmesan over the top and bake for 25\u201330 mins until golden and bubbling. Serve scattered with basil, if you like."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52777",
+      "external_id": "52777",
+      "name": "Mediterranean Pasta Salad",
+      "slug": "mediterranean-pasta-salad",
+      "description": "Pasta, Baking",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wvqpwt1468339226.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52777. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "mozzarella balls",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "baby plum tomatoes",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "fresh basil",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 3
+        },
+        {
+          "name": "farfalle",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "green olives",
+          "amount": 40.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "tuna",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "to taste",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "to taste",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Bring a large saucepan of salted water to the boil"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the pasta, stir once and cook for about 10 minutes or as directed on the packet."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Meanwhile, wash the tomatoes and cut into quarters. Slice the olives. Wash the basil."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put the tomatoes into a salad bowl and tear the basil leaves over them. Add a tablespoon of olive oil and mix."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "When the pasta is ready, drain into a colander and run cold water over it to cool it quickly."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Toss the pasta into the salad bowl with the tomatoes and basil."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add the sliced olives, drained mozzarella balls, and chunks of tuna. Mix well and let the salad rest for at least half an hour to allow the flavours to mingle."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Sprinkle the pasta with a generous grind of black pepper and drizzle with the remaining olive oil just before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52810",
+      "external_id": "52810",
+      "name": "Osso Buco alla Milanese",
+      "slug": "osso-buco-alla-milanese",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wwuqvt1487345467.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52810. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "veal",
+          "amount": 4.0,
+          "unit": "meaty shanks",
+          "sort_order": 1
+        },
+        {
+          "name": "flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "medium chopped into \u00bd-inch piece",
+          "sort_order": 5
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "chopped into \u00bd-inch pieces",
+          "sort_order": 6
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "chopped into \u00bd-inch pieces",
+          "sort_order": 7
+        },
+        {
+          "name": "fennel",
+          "amount": 1.0,
+          "unit": "bulb chopped into \u00bd-inch pieces",
+          "sort_order": 8
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 9
+        },
+        {
+          "name": "orange zest",
+          "amount": 2.0,
+          "unit": "strips",
+          "sort_order": 10
+        },
+        {
+          "name": "marjoram",
+          "amount": 1.0,
+          "unit": "teaspoons",
+          "sort_order": 11
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "dry white wine",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 13
+        },
+        {
+          "name": "chicken stock",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 14
+        },
+        {
+          "name": "tomatoes",
+          "amount": 1.0,
+          "unit": "cup chopped with juice",
+          "sort_order": 15
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tablespoons chopped",
+          "sort_order": 16
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "teaspoon minced",
+          "sort_order": 17
+        },
+        {
+          "name": "lemon zest",
+          "amount": 1.0,
+          "unit": "teaspoon grated",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oven to 300 degrees."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Dredging the shanks: pour the flour into a shallow dish (a pie plate works nicely). Season the veal shanks on all sides with salt and pepper. One at a time, roll the shanks around in the flour coat, and shake and pat the shank to remove any excuses flour. Discard the remaining flour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Browning the shanks: put the oil and 1 tablespoon of the butter in a wide Dutch oven or heavy braising pot (6 to 7 quart) and heat over medium-high heat. When the butter has melted and the oil is shimmering, lower the shanks into the pot, flat side down; if the shanks won\u2019t fit without touching one another, do this in batches. Brown the shanks, turning once with tongs, until both flat sides are well caramelized, about 5 minutes per side. If the butter-oil mixture starts to burn, lower the heat just a bit. Transfer the shanks to a large platter or tray and set aside."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "The aromatics: pour off and discard the fat from the pot. Wipe out any burnt bits with a damp paper towel, being careful not to remove any delicious little caramelized bits. Ad the remaining 2 tablespoons butter to the pot and melt it over medium heat. When the butter has stopped foaming, add the onion, carrot, celery, and fennel. Season with salt and pepper, stir, and cook the vegetables until they begin to soften but do not brown, about 6 minutes. Stir in the garlic, orange zest, marjoram, and bay leaf, and stew for another minute or two."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "The braising liquid: add the wine, increase the heat to high, and bring to a boil. Boil, stirring occasionally, to reduce the wine by about half, 5 minutes. Add the stock and tomatoes, with their juice, and boil again to reduce the liquid to about 1 cup total, about 10 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "The braise: Place the shanks in the pot so that they are sitting with the exposed bone facing up, and pour over any juices that accumulated as they sat. Cover with parchment paper, pressing down so the parchment nearly touches the veal and the edges hang over the sides of the pot by about an inch. Cover tightly with the lid, and slide into the lower part of the oven to braise at a gentle simmer. Check the pot after the first 15 minutes, and if the liquid is simmering too aggressively, lower the oven heat by 10 or 15 degrees. Continue braising, turning the shanks and spooning some pan juices over the top after the first 40 minutes, until the meat is completely tender and pulling away from the bone, about 2 hours."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "The gremolata: While the shanks are braising, stir together the garlic, parsley, and lemon zest in a small bowl. Cover with plastic wrap and set aside in a cool place (or the refrigerator, if your kitchen is very warm.)"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "The finish: When the veal is fork-tender and falling away from the bone, remove the lid and sprinkle over half of the gremolata. Return the veal to the oven, uncovered, for another 15 minutes to caramelize it some."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Using a slotted spatula or spoon, carefully lift the shanks from the braising liquid, doing your best to keep them intact. The shanks will be very tender and threatening to fall into pieces, and the marrow will be wobbly inside the bones, so this can be a bit tricky. But if they do break apart, don\u2019t worry, the flavor won\u2019t suffer at all. Arrange the shanks on a serving platter or other large plate, without stacking, and cover with foil to keep warm."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Finishing the sauce: Set the braising pot on top of the stove and evaluate the sauce: if there is a visible layer of fat floating on the surface, use a large spoon to skim it off and discard it. Taste the sauce for concentration of flavor. If it tastes a bit weak or flat, bring it to a boil over high heat, and boil to reduce the volume and intensify the flavor for 5 to 10 minutes. Taste again for salt and pepper. If the sauce wants more zip, stir in a teaspoon or two of the remaining gremolata."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Portioning the veal shanks: if the shanks are reasonably sized, serve one per person. If the shanks are gargantuan or you\u2019re dealing with modest appetites, pull apart the larger shanks, separating them at their natural seams, and serve smaller amounts. Be sure to give the marrow bones to whomever prizes them most."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Serving: Arrange the veal shanks on warm dinner plates accompanied by the risotto, if serving. Just before carrying the plates to the table, sprinkle on the remaining gremolata and then spoon over a generous amount of sauce \u2013 the contact with the hot liquid will aromatize the gremolata and perk up everyone\u2019s appetite with the whiff of garlic and lemon."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52837",
+      "external_id": "52837",
+      "name": "Pilchard puttanesca",
+      "slug": "pilchard-puttanesca",
+      "description": "Pasta from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vvtvtr1511180578.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52837. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 4
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 6
+        },
+        {
+          "name": "pilchards",
+          "amount": 425.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "black olives",
+          "amount": 70.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "parmesan",
+          "amount": 1.0,
+          "unit": "Shaved",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cook the pasta following pack instructions. Heat the oil in a non-stick frying pan and cook the onion, garlic and chilli for 3-4 mins to soften. Stir in the tomato pur\u00e9e and cook for 1 min, then add the pilchards with their sauce. Cook, breaking up the fish with a wooden spoon, then add the olives and continue to cook for a few more mins."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain the pasta and add to the pan with 2-3 tbsp of the cooking water. Toss everything together well, then divide between plates and serve, scattered with Parmesan."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53014",
+      "external_id": "53014",
+      "name": "Pizza Express Margherita",
+      "slug": "pizza-express-margherita",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x0lk931587671540.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53014. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "yeast",
+          "amount": 15.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "plain flour",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 6
+        },
+        {
+          "name": "passata",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "mozzarella",
+          "amount": 70.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "oregano",
+          "amount": 1.0,
+          "unit": "Peeled and Sliced",
+          "sort_order": 9
+        },
+        {
+          "name": "basil",
+          "amount": 1.0,
+          "unit": "Leaves",
+          "sort_order": 10
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1 Preheat the oven to 230\u00b0C."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2 Add the sugar and crumble the fresh yeast into warm water."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3 Allow the mixture to stand for 10 \u2013 15 minutes in a warm place (we find a windowsill on a sunny day works best) until froth develops on the surface."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4 Sift the flour and salt into a large mixing bowl, make a well in the middle and pour in the yeast mixture and olive oil."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5 Lightly flour your hands, and slowly mix the ingredients together until they bind."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6 Generously dust your surface with flour."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "7 Throw down the dough and begin kneading for 10 minutes until smooth, silky and soft."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "8 Place in a lightly oiled, non-stick baking tray (we use a round one, but any shape will do!)"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "9 Spread the passata on top making sure you go to the edge."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "10 Evenly place the mozzarella (or other cheese) on top, season with the oregano and black pepper, then drizzle with a little olive oil."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "11 Cook in the oven for 10 \u2013 12 minutes until the cheese slightly colours."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "12 When ready, place the basil leaf on top and tuck in!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52780",
+      "external_id": "52780",
+      "name": "Potato Gratin with Chicken",
+      "slug": "potato-gratin-with-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qwrtut1468418027.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52780. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "chicken stock",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 1.0,
+          "unit": "pot",
+          "sort_order": 5
+        },
+        {
+          "name": "parmesan",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken breasts",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "bacon",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "spinach",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 9
+        },
+        {
+          "name": "peas",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "15 minute potato gratin with chicken and bacon greens: a gratin always seems more effort and more indulgent than ordinary boiled or roasts, but it doesn't have to take 45mins, it's nice for a change and you can control the calorie content by going with full fat to low fat creme fraiche."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "(It's always tastes better full fat though obviously!) to serve 4: use 800g of potatoes, finely slice and boil in a pan for about 5-8 mins till firmish, not soft."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Finely slice 3 onions and place in an oven dish with 2 tblsp of olive oil and 100ml of chicken stock."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cook till the onions are soft then drain the potatoes and pour onto the onions."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Season and spoon over cream or creme fraiche till all is covered but not swimming."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Grate Parmesan over the top then finish under the grill till nicely golden."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "serve with chicken and bacon, peas and spinach."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52783",
+      "external_id": "52783",
+      "name": "Rigatoni with fennel sausage sauce",
+      "slug": "rigatoni-with-fennel-sausage-sauce",
+      "description": "Pasta",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qtqvys1468573168.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52783. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 20.5,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "italian fennel sausages",
+          "amount": 6.0,
+          "unit": "cut into 1.5cm-thick slices",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "large peeled and chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "fennel bulb",
+          "amount": 1.0,
+          "unit": "trimmed and roughly chopped; res",
+          "sort_order": 4
+        },
+        {
+          "name": "smoky paprika",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove, peeled and sliced",
+          "sort_order": 6
+        },
+        {
+          "name": "fennel seeds",
+          "amount": 2.0,
+          "unit": "tsp lightly toasted and then gen",
+          "sort_order": 7
+        },
+        {
+          "name": "red wine",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 400.0,
+          "unit": "g tinned",
+          "sort_order": 9
+        },
+        {
+          "name": "caster sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "pitted black olives",
+          "amount": 50.0,
+          "unit": "g cut in half lengthways",
+          "sort_order": 11
+        },
+        {
+          "name": "rigatoni",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "pecorino",
+          "amount": 30.0,
+          "unit": "g roughly crumbled into 0.5cm pi",
+          "sort_order": 13
+        },
+        {
+          "name": "anchovy fillet",
+          "amount": 1.0,
+          "unit": "rinsed and patted dry",
+          "sort_order": 14
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove, peeled and crushed",
+          "sort_order": 15
+        },
+        {
+          "name": "olive oil",
+          "amount": 60.0,
+          "unit": "ml",
+          "sort_order": 16
+        },
+        {
+          "name": "basil leaves",
+          "amount": 50.0,
+          "unit": "g torn",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat a tablespoon of oil in a large saute pan for which you have a lid. Add the sausage pieces and fry on a medium-high heat for 10 minutes, stirring regularly, until golden-brown all over. Transfer the sausages to a plate, then add the onion and fennel to the hot pan and fry for 15 minutes, stirring once in a while, until soft and caramelised; if the pan goes a bit dry, add a teaspoon or so of extra oil. Stir in the paprika, garlic and half the fennel seeds, fry for two minutes more, then pour on the wine and boil for 30 seconds, to reduce by half. Add the tomatoes, sugar, 100ml water, the seared sausage and half a teaspoon of salt, cover and simmer for 30 minutes; remove the lid after 10 minutes, and cook until the sauce is thick and rich. Remove from the heat, stir through the olives and remaining fennel seeds and set aside until you\u2019re ready to serve."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bring a large pot of salted water to a boil, add the pasta and cook for 12-14 minutes (or according to the instructions on the packet), until al dente. Meanwhile, reheat the sauce. Drain the pasta, return it to the pot, stir in a tablespoon of oil, then divide between the bowls."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Put all the pesto ingredients except the basil in the small bowl of a food processor. Add a tablespoon of water and blitz to a rough paste. Add the basil, then blitz until just combined (the pesto has a much better texture if the basil is not overblended)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Spoon over the rag\u00f9 and top with a spoonful of pesto. Finish with a sprinkling of chopped fennel fronds, if you have any, and serve at once."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52823",
+      "external_id": "52823",
+      "name": "Salmon Prawn Risotto",
+      "slug": "salmon-prawn-risotto",
+      "description": "Fish",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xxrxux1503070723.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52823. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g/2oz",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "rice",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "white wine",
+          "amount": 125.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 1.0,
+          "unit": "litre hot",
+          "sort_order": 5
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "The juice and zest of one",
+          "sort_order": 6
+        },
+        {
+          "name": "king prawns",
+          "amount": 240.0,
+          "unit": "g large",
+          "sort_order": 7
+        },
+        {
+          "name": "salmon",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "asparagus",
+          "amount": 100.0,
+          "unit": "g tips blanched briefly in boili",
+          "sort_order": 9
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "ground",
+          "sort_order": 10
+        },
+        {
+          "name": "parmesan",
+          "amount": 50.0,
+          "unit": "g shavings",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Melt the butter in a thick-based pan and gently cook the onion without colour until it is soft."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the rice and stir to coat all the grains in the butter"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the wine and cook gently stirring until it is absorbed"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Gradually add the hot stock, stirring until each addition is absorbed. Keep stirring until the rice is tender"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Season with the lemon juice and zest, and pepper to taste. (there will probably be sufficient saltiness from the salmon to not need to add salt) Stir gently to heat through"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Serve scattered with the Parmesan and seasonal vegetables."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Grill the salmon and gently place onto the risotto with the prawns and asparagus"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52982",
+      "external_id": "52982",
+      "name": "Spaghetti alla Carbonara",
+      "slug": "spaghetti-alla-carbonara",
+      "description": "Pasta, BBQ, Breakfast",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/llcbn01574260722.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52982. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "spaghetti",
+          "amount": 320.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "egg yolks",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "As required",
+          "sort_order": 3
+        },
+        {
+          "name": "bacon",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "pecorino",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "As required",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put a large saucepan of water on to boil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Finely chop the 100g pancetta, having first removed any rind. Finely grate 50g pecorino cheese and 50g parmesan and mix them together."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Beat the 3 large eggs in a medium bowl and season with a little freshly grated black pepper. Set everything aside."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add 1 tsp salt to the boiling water, add 350g spaghetti and when the water comes back to the boil, cook at a constant simmer, covered, for 10 minutes or until al dente (just cooked)."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "STEP 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Squash 2 peeled plump garlic cloves with the blade of a knife, just to bruise it."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "STEP 6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "While the spaghetti is cooking, fry the pancetta with the garlic. Drop 50g unsalted butter into a large frying pan or wok and, as soon as the butter has melted, tip in the pancetta and garlic."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "STEP 7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Leave to cook on a medium heat for about 5 minutes, stirring often, until the pancetta is golden and crisp. The garlic has now imparted its flavour, so take it out with a slotted spoon and discard."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52770",
+      "external_id": "52770",
+      "name": "Spaghetti Bolognese",
+      "slug": "spaghetti-bolognese",
+      "description": "Pasta, Meat",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sutysw1468247559.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52770. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 3
+        },
+        {
+          "name": "lean minced beef",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "mushrooms",
+          "amount": 90.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "dried oregano",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "tomatoes",
+          "amount": 400.0,
+          "unit": "g can",
+          "sort_order": 7
+        },
+        {
+          "name": "hot beef stock",
+          "amount": 300.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "worcestershire sauce",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "spaghetti",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "parmesan",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Put the onion and oil in a large pan and fry over a fairly high heat for 3-4 mins. Add the garlic and mince and fry until they both brown. Add the mushrooms and herbs, and cook for another couple of mins."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Stir in the tomatoes, beef stock, tomato ketchup or pur\u00e9e, Worcestershire sauce and seasoning. Bring to the boil, then reduce the heat, cover and simmer, stirring occasionally, for 30 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Meanwhile, cook the spaghetti in a large pan of boiling, salted water, according to packet instructions. Drain well, run hot water through it, put it back in the pan and add a dash of olive oil, if you like, then stir in the meat sauce. Serve in hot bowls and hand round Parmesan cheese, for sprinkling on top."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52838",
+      "external_id": "52838",
+      "name": "Venetian Duck Ragu",
+      "slug": "venetian-duck-ragu",
+      "description": "Pasta from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qvrwpt1511181864.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52838. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 1
+        },
+        {
+          "name": "duck legs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 4
+        },
+        {
+          "name": "cinnamon",
+          "amount": 2.0,
+          "unit": "tsp ground",
+          "sort_order": 5
+        },
+        {
+          "name": "plain flour",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "red wine",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 7
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "chicken stock cube",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "rosemary",
+          "amount": 3.0,
+          "unit": "sprigs",
+          "sort_order": 10
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "milk",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 13
+        },
+        {
+          "name": "paccheri pasta",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 14
+        },
+        {
+          "name": "parmesan cheese",
+          "amount": 1.0,
+          "unit": "Grated",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oil in a large pan. Add the duck legs and brown on all sides for about 10 mins. Remove to a plate and set aside. Add the onions to the pan and cook for 5 mins until softened. Add the garlic and cook for a further 1 min, then stir in the cinnamon and flour and cook for a further min. Return the duck to the pan, add the wine, tomatoes, stock, herbs, sugar and seasoning. Bring to a simmer, then lower the heat, cover with a lid and cook for 2 hrs, stirring every now and then."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Carefully lift the duck legs out of the sauce and place on a plate \u2013 they will be very tender so try not to lose any of the meat. Pull off and discard the fat, then shred the meat with 2 forks and discard the bones. Add the meat back to the sauce with the milk and simmer, uncovered, for a further 10-15 mins while you cook the pasta."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Cook the pasta following pack instructions, then drain, reserving a cup of the pasta water, and add the pasta to the ragu. Stir to coat all the pasta in the sauce and cook for 1 min more, adding a splash of cooking liquid if it looks dry. Serve with grated Parmesan, if you like."
+        }
+      ]
+    }
+  ]
+}

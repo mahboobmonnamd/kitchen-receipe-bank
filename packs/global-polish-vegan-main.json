@@ -1,0 +1,419 @@
+{
+  "id": "global-polish-vegan-main",
+  "title": "Global Polish Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53307",
+      "external_id": "53307",
+      "name": "Beetroot & red cabbage sauerkraut",
+      "slug": "beetroot-red-cabbage-sauerkraut",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ra2k8a1764365055.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53307. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beetroot",
+          "amount": 320.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "red cabbage",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 3
+        },
+        {
+          "name": "caraway seed",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "sea salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip all the ingredients into a large bowl, add 1-1\u00bd tsp freshly ground black pepper, then scrunch it all together with your hands for 5 mins. You might want to wear gloves to avoid staining your skin with the beetroot juices."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Press the veg down in the bowl with your hands, then cover the surface and up the side of the bowl with a large sheet of compostable cling film or something reusable like a beeswax wrap. Now place another similar-sized bowl on top. Press down hard and add anything heavy (packs of rice or cans work well) to weigh it down so the juices rise to cover the surface. Cover again."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Leave to ferment at room temperature for at least five days, but for maximum flavour, leave for one-five weeks (until the bubbling subsides)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Check the sauerkraut. After a few days, you will see bubbles that have built up as it ferments. Give it a stir, then cover and weigh it down again as before. The cabbage will become increasingly sour the longer it\u2019s fermented, so taste it now and again. When you like the flavour, transfer it to sterilised jars and keep chilled. Will keep chilled for up to six months."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53305",
+      "external_id": "53305",
+      "name": "Braised stuffed cabbage",
+      "slug": "braised-stuffed-cabbage",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/z267f71764364072.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53305. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cabbage leaves",
+          "amount": 6.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "rosemary",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "basmati rice",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "cooked chestnut",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "cranberry",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 300.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "balsamic vinegar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        },
+        {
+          "name": "clear honey",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 180C/fan 160C/gas 4. Remove the tough central stalk from the cabbage leaves. Bring a large pan of salted water to the boil, add the cabbage, then cook for just 1-2 mins until the leaves are starting to wilt. Drain and refresh under cold running water. Drain well, then pat dry with a tea towel."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat the oil in a pan, add the onion, then fry for 5 mins until slightly browned. Add the rosemary and celery, then cook for 8 mins more. Stir in the rice, then cook for a min or so until the grains are glistening. Remove from the heat, stir in the chestnuts and cranberries, then season."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Spoon a little stuffing onto a cabbage leaf, roll up and fold in the sides to enclose the filling. Put in a single layer in a large, oiled, shallow ovenproof dish with the join underneath. Fill the remaining leaves in the same way. Mix the stock, vinegar and honey, then pour over the cabbage. Cover the dish tightly with foil, bake for 1 hr, uncover, then cook for a further 15 mins."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53297",
+      "external_id": "53297",
+      "name": "Pomegranate salad",
+      "slug": "pomegranate-salad",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/fqpqml1764359125.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53297. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 60.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "lemon juice",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "thyme",
+          "amount": 2.0,
+          "unit": "sprigs",
+          "sort_order": 4
+        },
+        {
+          "name": "baby lettuce leaves",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "spring onions",
+          "amount": 3.0,
+          "unit": "chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "pomegranate",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "feta",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine the olive oil, lemon juice, honey and thyme leaves in a large bowl. Season well, then tip in the lettuce, tomatoes, spring onions and chilli, and toss to combine."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Scoop out the pomegranate seeds over a bowl and remove any white membrane. Arrange the dressed salad on a platter, then scatter over the pomegranate seeds and feta."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2300 @@
+{
+  "id": "global-american-non-vegetarian-main",
+  "title": "Global American Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52995",
+      "external_id": "52995",
+      "name": "BBQ Pork Sloppy Joes",
+      "slug": "bbq-pork-sloppy-joes",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/atd5sh1583188467.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52995. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "bread",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "pork",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 6
+        },
+        {
+          "name": "barbeque sauce",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 7
+        },
+        {
+          "name": "hotsauce",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato ketchup",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 9
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 10
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 12
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat oven to 450 degrees. Wash and dry all produce. Cut sweet potatoes into \u00bd-inch-thick wedges. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 20-25 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, halve and peel onion. Slice as thinly as possible until you have \u00bc cup (\u00bd cup for 4 servings); finely chop remaining onion. Peel and finely chop garlic. Halve lime; squeeze juice into a small bowl. Halve buns. Add 1 TBSP butter (2 TBSP for 4) to a separate small microwave-safe bowl; microwave until melted, 30 seconds. Brush onto cut sides of buns."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "To bowl with lime juice, add sliced onion, \u00bc tsp sugar (\u00bd tsp for 4 servings), and a pinch of salt. Stir to combine; set aside to quick-pickle."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Heat a drizzle of oil in a large pan over medium-high heat. Add chopped onion and season with salt and pepper. Cook, stirring, until softened, 4-5 minutes. Add garlic and cook until fragrant, 30 seconds more. Add pork and season with salt and pepper. Cook, breaking up meat into pieces, until browned and cooked through, 4-6 minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "While pork cooks, in a third small bowl, combine BBQ sauce, pickling liquid from onion, 3 TBSP ketchup (6 TBSP for 4 servings), \u00bd tsp sugar (1 tsp for 4), and \u00bc cup water (\u2153 cup for 4). Once pork is cooked through, add BBQ sauce mixture to pan. Cook, stirring, until sauce is thickened, 2-3 minutes. Taste and season with salt and pepper."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Meanwhile, toast buns in oven or toaster oven until golden, 3-5 minutes. Divide toasted buns between plates and fill with as much BBQ pork as you\u2019d like. Top with pickled onion and hot sauce. Serve with sweet potato wedges on the side."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52812",
+      "external_id": "52812",
+      "name": "Beef Brisket Pot Roast",
+      "slug": "beef-brisket-pot-roast",
+      "description": "Meat",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ursuup1487348423.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52812. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "amount": 4.0,
+          "unit": "-5 pound",
+          "sort_order": 1
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 5.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Sprig",
+          "sort_order": 5
+        },
+        {
+          "name": "rosemary",
+          "amount": 1.0,
+          "unit": "sprig",
+          "sort_order": 6
+        },
+        {
+          "name": "bay leaves",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "beef stock",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "carrots",
+          "amount": 3.0,
+          "unit": "Large",
+          "sort_order": 9
+        },
+        {
+          "name": "mustard",
+          "amount": 1.0,
+          "unit": "Tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "potatoes",
+          "amount": 4.0,
+          "unit": "Mashed",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1 Prepare the brisket for cooking: On one side of the brisket there should be a layer of fat, which you want. If there are any large chunks of fat, cut them off and discard them. Large pieces of fat will not be able to render out completely."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Using a sharp knife, score the fat in parallel lines, about 3/4-inch apart. Slice through the fat, not the beef. Repeat in the opposite direction to make a cross-hatch pattern."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Salt the brisket well and let it sit at room temperature for 30 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "2 Sear the brisket: You'll need an oven-proof, thick-bottomed pot with a cover, or Dutch oven, that is just wide enough to hold the brisket roast with a little room for the onions."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pat the brisket dry and place it, fatty side down, into the pot and place it on medium high heat. Cook for 5-8 minutes, lightly sizzling, until the fat side is nicely browned. (If the roast seems to be cooking too fast, turn the heat down to medium. You want a steady sizzle, not a raging sear.)"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Turn the brisket over and cook for a few minutes more to brown the other side."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "3 Saut\u00e9 the onions and garlic: When the brisket has browned, remove it from the pot and set aside. There should be a couple tablespoons of fat rendered in the pot, if not, add some olive oil."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add the chopped onions and increase the heat to high. Sprinkle a little salt on the onions. Saut\u00e9, stirring often, until the onions are lightly browned, 5-8 minutes. Stir in the garlic and cook 1-2 more minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "4 Return brisket to pot, add herbs, stock, bring to simmer, cover, cook in oven: Preheat the oven to 300\u00b0F. Use kitchen twine to tie together the bay leaves, rosemary and thyme."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Move the onions and garlic to the sides of the pot and nestle the brisket inside. Add the beef stock and the tied-up herbs. Bring the stock to a boil on the stovetop."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Cover the pot, place the pot in the 300\u00b0F oven and cook for 3 hours. Carefully flip the brisket every hour so it cooks evenly."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "5 Add carrots, continue to cook: After 3 hours, add the carrots. Cover the pot and cook for 1 hour more, or until the carrots are cooked through and the brisket is falling-apart tender."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "6 Remove brisket to cutting board, tent with foil: When the brisket is falling-apart tender, take the pot out of the oven and remove the brisket to a cutting board. Cover it with foil. Pull out and discard the herbs."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "7 Make sauce (optional): At this point you have two options. You can serve as is, or you can make a sauce with the drippings and some of the onions. If you serve as is, skip this step."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53013",
+      "external_id": "53013",
+      "name": "Big Mac",
+      "slug": "big-mac",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53013. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "minced beef",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "sesame seed burger buns",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "iceberg lettuce",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "cheese",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 6
+        },
+        {
+          "name": "dill pickles",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 7
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "white wine vinegar",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        },
+        {
+          "name": "mustard",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "onion salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "For the Big Mac sauce, combine all the ingredients in a bowl, season with salt and chill until ready to use."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. To make the patties, season the mince with salt and pepper and form into 4 balls using about 1/3 cup mince each. Place each onto a square of baking paper and flatten to form into four x 15cm circles. Heat oil in a large frypan over high heat. In 2 batches, cook beef patties for 1-2 minutes each side until lightly charred and cooked through. Remove from heat and keep warm. Repeat with remaining two patties."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. Carefully slice each burger bun into three acrossways, then lightly toast."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. To assemble the burgers, spread a little Big Mac sauce over the bottom base. Top with some chopped onion, shredded lettuce, slice of cheese, beef patty and some pickle slices. Top with the middle bun layer, and spread with more Big Mac sauce, onion, lettuce, pickles, beef patty and then finish with more sauce. Top with burger lid to serve."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. After waiting half an hour for your food to settle, go for a jog."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53016",
+      "external_id": "53016",
+      "name": "Chick-Fil-A Sandwich",
+      "slug": "chick-fil-a-sandwich",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sbx7n71587673021.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53016. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "pickle juice",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "celery salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 13
+        },
+        {
+          "name": "sesame seed burger buns",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Wrap the chicken loosely between plastic wrap and pound gently with the flat side of a meat tenderizer until about 1/2 inch thick all around."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut into two pieces, as even as possible."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Marinate in the pickle juice for 30 minutes to one hour (add a teaspoon of Tabasco sauce now for a spicy sandwich)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Beat the egg with the milk in a bowl."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Combine the flour, sugar, and spices in another bowl."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Dip the chicken pieces each into the egg on both sides, then coat in flour on both sides."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Heat the oil in a skillet (1/2 inch deep) to about 345-350."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Fry each cutlet for 2 minutes on each side, or until golden and cooked through."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Blot on paper and serve on toasted buns with pickle slices."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52818",
+      "external_id": "52818",
+      "name": "Chicken Fajita Mac and Cheese",
+      "slug": "chicken-fajita-mac-and-cheese",
+      "description": "Pasta, Cheasy, Meat, Cheesy",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qrqywr1503066605.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52818. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "macaroni",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "chicken stock",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "heavy cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "fajita seasoning",
+          "amount": 1.0,
+          "unit": "packet",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken breast",
+          "amount": 3.0,
+          "unit": "diced",
+          "sort_order": 6
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small finely diced",
+          "sort_order": 8
+        },
+        {
+          "name": "red pepper",
+          "amount": 2.0,
+          "unit": "finely diced",
+          "sort_order": 9
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 10
+        },
+        {
+          "name": "cheddar cheese",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 11
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "garnish chopped",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Fry your onion, peppers and garlic in olive oil until nicely translucent. Make a well in your veg and add your chicken. Add your seasoning and salt. Allow to colour slightly."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add your cream, stock and macaroni."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Cook on low for 20 minutes. Add your cheeses, stir to combine."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Top with roasted peppers and parsley."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52996",
+      "external_id": "52996",
+      "name": "French Onion Chicken with Roasted Carrots & Mashed Potatoes",
+      "slug": "french-onion-chicken-with-roasted-carrots-mashed-potatoes",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/b5ft861583188991.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52996. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 12.0,
+          "unit": "ounces",
+          "sort_order": 2
+        },
+        {
+          "name": "potatoes",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "beef stock",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "mozzarella",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "sour cream",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 8
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 9
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 11
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat oven to 425 degrees. Wash and dry all produce. Trim, peel, and cut carrots on a diagonal into \u00bc-inch-thick pieces. Dice potatoes into \u00bd-inch pieces. Halve, peel, and thinly slice onion."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Toss carrots on a baking sheet with a drizzle of oil, salt, and pepper. Roast until browned and tender, 15-20 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until tender, 12-15 minutes. Drain and return potatoes to pot; cover to keep warm."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "While potatoes cook, heat a drizzle of oil in a large pan over medium-high heat. Add onion and cook, stirring occasionally, until lightly browned and softened, 8-10 minutes. Sprinkle with 1 tsp sugar (2 tsp for 4 servings). Stir in stock concentrate and 2 TBSP water (\u00bc cup for 4); season with salt and pepper. Cook until jammy, 2-3 minutes more. Turn off heat; transfer to a small bowl. Wash out pan."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in pan used for onion over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. In the last 1-2 minutes of cooking, top with caramelized onion and cheese. Cover pan until cheese melts. (If your pan doesn\u2019t have a lid, cover with a baking sheet!)"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Heat pot with drained potatoes over low heat; mash with sour cream, 2 TBSP butter (4 TBSP for 4 servings), salt, pepper, and a splash of water (or milk, for extra richness) until smooth. Divide chicken, roasted carrots, and mashed potatoes between plates."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52829",
+      "external_id": "52829",
+      "name": "Grilled Mac and Cheese Sandwich",
+      "slug": "grilled-mac-and-cheese-sandwich",
+      "description": "Cheesy",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xutquv1505330523.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52829. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "macaroni",
+          "amount": 8.0,
+          "unit": "ounces (230 grams)",
+          "sort_order": 1
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "mustard powder",
+          "amount": 3.0,
+          "unit": "teaspoon",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "kosher salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 6.0,
+          "unit": "tablespoons (85 grams)",
+          "sort_order": 8
+        },
+        {
+          "name": "whole milk",
+          "amount": 1.0,
+          "unit": "cups (360 milliliters)",
+          "sort_order": 9
+        },
+        {
+          "name": "heavy cream",
+          "amount": 1.0,
+          "unit": "cup (240 milliliters)",
+          "sort_order": 10
+        },
+        {
+          "name": "monterey jack cheese",
+          "amount": 1.0,
+          "unit": "pound (455 grams)",
+          "sort_order": 11
+        },
+        {
+          "name": "butter",
+          "amount": 4.0,
+          "unit": "tablespoons (55 grams)",
+          "sort_order": 12
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 13
+        },
+        {
+          "name": "bread",
+          "amount": 16.0,
+          "unit": "slices square",
+          "sort_order": 14
+        },
+        {
+          "name": "cheddar cheese",
+          "amount": 8.0,
+          "unit": "slices mild",
+          "sort_order": 15
+        },
+        {
+          "name": "colby jack cheese",
+          "amount": 8.0,
+          "unit": "slices",
+          "sort_order": 16
+        },
+        {
+          "name": "butter",
+          "amount": 4.0,
+          "unit": "tablespoons (55 grams)",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Make the mac and cheese"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1. Bring a medium saucepan of generously salted water (you want it to taste like seawater) to a boil. Add the pasta and cook, stirring occasionally, until al dente, 8 to 10 minutes, or according to the package directions. The pasta should be tender but still chewy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2. While the pasta is cooking, in a small bowl, whisk together the flour, mustard powder, garlic powder, salt, black pepper, and cayenne pepper."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3. Drain the pasta in a colander. Place the empty pasta pan (no need to wash it) over low heat and add the butter. When the butter has melted, whisk in the flour mixture and continue to cook, whisking frequently, until the mixture is beginning to brown and has a pleasant, nutty aroma, about 1 minute. Watch carefully so it does not scorch on the bottom of the pan."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4. Slowly whisk the milk and cream into the flour mixture until everything is really well combined. Cook, whisking constantly, until the sauce is heated through and just begins to thicken, about 2 minutes. Remove from the heat. Gradually add the cheese while stirring constantly with a wooden spoon or silicone spatula and keep stirring until the cheese has melted into the sauce. Then stir in the drained cooked pasta."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5. Line a 9-by-13-inch (23-by-33-centimeter) rimmed baking sheet with parchment paper or aluminum foil. Coat the paper or foil with nonstick cooking spray or slick it with butter. Pour the warm mac and cheese onto the prepared baking sheet and spread it evenly with a spatula. Coat another piece of parchment paper with cooking spray or butter and place it, oiled or buttered side down, directly on the surface of the mac and cheese. Refrigerate until cool and firm, about 1 hour."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Make the grilled cheese"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "6. Heat a large cast-iron or nonstick skillet over medium-low heat."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "7. In a small bowl, stir together the 4 tablespoons (55 grams) butter and garlic powder until well blended."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "8. Remove the mac and cheese from the refrigerator and peel off the top layer of parchment paper. Carefully cut into 8 equal pieces. Each piece will make 1 grilled mac and cheese sandwich. (You can stash each individual portion in a double layer of resealable plastic bags and refrigerate for up to 3 days or freeze it for up to 1 month.)"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "9. Spread 3/4 teaspoon garlic butter on one side of each bread slice. Place half of the slices, buttered-side down, on a clean cutting board. Top each with one slice of Cheddar, then 1 piece of the mac and cheese. (Transfer from the baking sheet by scooting your hand or a spatula under each piece of mac and cheese and then flipping it over onto a sandwich.) Place 1 slice of Jack on top of each. Finish with the remaining bread slices, buttered-side up."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "10. Using a wide spatula, place as many sandwiches in the pan as will fit without crowding it. Cover and cook until the bottoms are nicely browned, about 4 minutes. Turn and cook until the second sides are browned, the cheese is melted, and the mac and cheese is heated through, about 4 minutes more."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "11. Repeat with the remaining ingredients. Cut the sandwiches in half, if desired, and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52993",
+      "external_id": "52993",
+      "name": "Honey Balsamic Chicken with Crispy Broccoli & Potatoes",
+      "slug": "honey-balsamic-chicken-with-crispy-broccoli-potatoes",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kvbotn1581012881.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52993. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "broccoli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "chicken breast",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "balsamic vinegar",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 5
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "2 Servings"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1. Preheat oven to 425 degrees. Wash and dry all produce. Cut potatoes into 1/2-inch-thick wedges. Toss on one side of a baking sheet with a drizzle of oil, salt, and pepper. (For 4 servings, spread potatoes out across entire sheet.) Roast on top rack for 5 minutes (we'll add the broccoli then)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2. Meanwhile, cut broccoli florets into bite-size pieces, if necessary. Peel and finely chop garlic. In a small microwave-safe bowl, combine 1 TBSP olive oil (2 TBSP for 4 servings) and half the garlic. Microwave until garlic sizzles, 30 seconds."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3. Once potatoes have roasted 5 minutes, remove sheet from oven and add broccoli to empty side; carefully toss with garlic oil, salt, and pepper. (For 4 servings, add broccoli to a second sheet.) Continue roasting until potatoes and broccoli are browned and crispy, 15-20 minutes more."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4. While veggies roast, pat chicken dry with paper towels; season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add chicken and cook until browned and cooked through, 5-6 minutes per side. (If chicken browns too quickly, reduce heat to medium.) Turn off heat; set chicken aside to rest. Wash out pan."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5. Heat pan used for chicken over medium-high heat. Add a drizzle of oil and remaining garlic; cook until fragrant, 30 seconds. Stir in vinegar, honey, stock concentrate, and 1/4 cup water (1/3 cup for 4 servings). Simmer until thick and glossy, 2-3 minutes. Remove from heat and stir in 1 TBSP butter (2 TBSP for 4). Season with salt and pepper."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "6. Return chicken to pan and turn to coat in glaze. Divide chicken, broccoli, and potatoes between plates. Spoon any remaining glaze over chicken and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52813",
+      "external_id": "52813",
+      "name": "Kentucky Fried Chicken",
+      "slug": "kentucky-fried-chicken",
+      "description": "Meat, Spicy",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/40r49m1763197022.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52813. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 1.0,
+          "unit": "whole",
+          "sort_order": 1
+        },
+        {
+          "name": "oil",
+          "amount": 2.0,
+          "unit": "quarts neutral frying",
+          "sort_order": 2
+        },
+        {
+          "name": "egg white",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        },
+        {
+          "name": "onion salt",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 8
+        },
+        {
+          "name": "chili powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 10
+        },
+        {
+          "name": "celery salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "sage",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 12
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 13
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 14
+        },
+        {
+          "name": "oregano",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 15
+        },
+        {
+          "name": "basil",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 16
+        },
+        {
+          "name": "marjoram",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat fryer to 350\u00b0F. Thoroughly mix together all the spice mix ingredients."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine spice mix with flour, brown sugar and salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Dip chicken pieces in egg white to lightly coat them, then transfer to flour mixture. Turn a few times and make sure the flour mix is really stuck to the chicken. Repeat with all the chicken pieces."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Let chicken pieces rest for 5 minutes so crust has a chance to dry a bit."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Fry chicken in batches. Breasts and wings should take 12-14 minutes, and legs and thighs will need a few more minutes. Chicken pieces are done when a meat thermometer inserted into the thickest part reads 165\u00b0F."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Let chicken drain on a few paper towels when it comes out of the fryer. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52987",
+      "external_id": "52987",
+      "name": "Lasagna Sandwiches",
+      "slug": "lasagna-sandwiches",
+      "description": "Sandwich",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pasta"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "pasta"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xr0n4r1576788363.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52987. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sour cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "chopped onion",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "dried oregano",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "bread",
+          "amount": 8.0,
+          "unit": "slices",
+          "sort_order": 5
+        },
+        {
+          "name": "bacon",
+          "amount": 8.0,
+          "unit": "slices",
+          "sort_order": 6
+        },
+        {
+          "name": "tomato",
+          "amount": 8.0,
+          "unit": "slices",
+          "sort_order": 7
+        },
+        {
+          "name": "mozzarella",
+          "amount": 4.0,
+          "unit": "slices",
+          "sort_order": 8
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "Tbs",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1. In a small bowl, combine the first four ingredients; spread on four slices of bread. Layer with bacon, tomato and cheese; top with remaining bread."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. In a large skillet or griddle, melt 2 tablespoons butter. Toast sandwiches until lightly browned on both sides and cheese is melted, adding butter if necessary."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Nutrition Facts"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "1 sandwich: 445 calories, 24g fat (12g saturated fat), 66mg cholesterol, 1094mg sodium, 35g carbohydrate (3g sugars, 2g fiber), 21g protein."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52994",
+      "external_id": "52994",
+      "name": "Skillet Apple Pork Chops with Roasted Sweet Potatoes & Zucchini",
+      "slug": "skillet-apple-pork-chops-with-roasted-sweet-potatoes-zucchin",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/h3ijwo1581013377.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52994. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "apples",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "pork",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "zucchini",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Serves 2"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Adjust racks to top and middle positions and preheat oven to 450 degrees. Wash and dry all produce. Dice sweet potatoes into 1/2-inch pieces. Toss on a baking sheet with a drizzle of oil, salt, and pepper. Roast on top rack for 12 minutes (we'll roast the zucchini then)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "2."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Meanwhile, halve and core apple; thinly slice into half-moons. Peel and finely chop garlic. Quarter lemon. Trim and halve zucchini lengthwise; cut crosswise into 1/2-inch-thick half-moons. Toss on a second baking sheet with a drizzle of oil and a pinch of salt and pepper. Set aside."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "3."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Pat pork dry with paper towels and season all over with salt and pepper. Heat a drizzle of oil in a large pan over medium-high heat. Add pork and cook until browned and cooked through, 4-5 minutes per side. Turn off heat; transfer to a plate."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "4."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Once sweet potatoes have roasted 12 minutes, transfer baking sheet with zucchini to middle rack and continue roasting until both veggies are browned and softened, 12-15 minutes more."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "5."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Meanwhile, melt 1 TBSP butter (2 TBSP for 4 servings) in pan used for pork over medium-high heat. Add apple and season with salt and pepper. Cook, scraping up any browned bits from bottom of pan, until apple is slightly softened, 2-3 minutes. Add garlic; cook until fragrant, 30 seconds. Add 1/z cup water (3/4 cup for 4), stock concentrate, and 11/2 tsp sugar (3 tsp for 4). Cook, stirring, until sauce has thickened and apple is very tender, 3-5 minutes. Season with salt and pepper."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "6."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Remove pan with apple from heat; stir in 1 TBSP butter (2 TBSP for 4 servings) and a squeeze of lemon juice. Divide pork, zucchini, and sweet potatoes between plates. Top pork with glazed apple sauce. Top zucchini with a squeeze of lemon juice."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52992",
+      "external_id": "52992",
+      "name": "Soy-Glazed Meatloaves with Wasabi Mashed Potatoes & Roasted Carrots",
+      "slug": "soy-glazed-meatloaves-with-wasabi-mashed-potatoes-roasted-ca",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/o2wb6p1581005243.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52992. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 12.0,
+          "unit": "ounces",
+          "sort_order": 2
+        },
+        {
+          "name": "scallions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "Slice",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "ground beef",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "sugar",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1. Preheat oven to 425 degrees. Wash and dry all produce. Dice potatoes into 1/2-inch pieces. Trim, peel, and cut carrots on a diagonal into 1/2-inch-thick pieces. Trim and thinly slice scallions, separating whites from greens; finely chop whites. Peel and finely chop garlic."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. In a medium bowl, soak bread with 2 TBSP water (4 TBSP for 4 servings); break up with your hands until pasty. Stir in beef, sriracha, scallion whites, half the garlic, salt (we used 3/4 tsp kosher salt; 11/2 tsp for 4), and pepper. Form into two 1-inch-tall loaves (four loaves for 4). Place on one side of a baking sheet. Toss carrots on empty side of same sheet with a drizzle of oil, salt, and pepper. (For 4, spread meatloaves out across whole sheet and add carrots to a second sheet.) Bake for 20 minutes (we'll glaze the meatloaves then)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. Meanwhile, place potatoes in a medium pot with enough salted water to cover by 2 inches. Bring to a boil and cook until very"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "tender, 12-15 minutes. Reserve 1/2 cup potato cooking liquid, then drain. While potatoes cook, in a small bowl, combine soy sauce, garlic powder, 1/4 cup ketchup (1/2 cup for 4 servings), and 2 tsp sugar (4 tsp for 4)."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4. Once meatloaves and carrots have baked 20 minutes, remove from oven. Spoon half the ketchup glaze over meatloaves (save"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "the rest for serving); return to oven until carrots are browned and tender, meatloaves are cooked through, and glaze is tacky, 4-5 minutes more."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "5. Meanwhile, melt 2 TBSP butter (4 TBSP for 4 servings) in pot used for potatoes over medium heat. Add remaining garlic and cook"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "until fragrant, 30 seconds. Add potatoes and 1/4 tsp wasabi. Mash, adding splashes of reserved potato cooking liquid as necessary until smooth. Season with salt and pepper. (If you like things spicy, stir in more wasabi!)"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "6. Divide meatloaves, mashed potatoes, and roasted carrots between plates. Sprinkle with scallion greens and serve with remaining ketchup glaze on the side for dipping."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53085",
+      "external_id": "53085",
+      "name": "15-minute chicken & halloumi burgers",
+      "slug": "15-minute-chicken-halloumi-burgers",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "american",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "american"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vdwloy1713225718.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53085. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "hotsauce",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon juice",
+          "amount": 0.5,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "buns",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "cheese",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "cabbage",
+          "amount": 0.25,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "sour cream",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "lettuce",
+          "amount": 4.0,
+          "unit": "leaves",
+          "sort_order": 10
+        },
+        {
+          "name": "red pepper",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the chicken breasts between two pieces of baking parchment and use a rolling pin to gently bash them until they are approximately 1cm thick. Cut each chicken breast into two even pieces."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "If you're using a frying pan, heat two frying pans over medium-high heat, with one of them containing oil. Fry the chicken in the oiled pan for 3-4 mins on each side until they are cooked through. Season the chicken, reduce the heat, drizzle in the chilli sauce and half of the lemon juice, and cook for an additional 1-2 mins until the sauce is reduced. Remove the chicken from the heat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "If you're using an air-fryer, preheat it to 180C for 4 mins. Add the chicken to the air-fryer and cook for 12 mins. Drizzle over the chilli sauce and half the lemon juice and cook for an additional 1-2 mins until the chicken is cooked through and the sauce is reduced. Remove the chicken and keep it warm."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "While the chicken is cooking, toast the buns in the dry frying pan for 30 seconds. Transfer them to a plate. If you're using an air fryer, put the buns in the air fryer for 1-2 mins until they are warm. Increase the air fryer temperature to 200C. Add the halloumi to the air fryer basket and cook for 10 mins, turning halfway through, until it's golden. Toss the cabbage with the mayo and the remaining lemon juice."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "STEP 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Spoon the hummus (or dip of your choice) into the toasted buns, then top with the rocket, chilli chicken, halloumi, and peppers. Drizzle with a little more chilli sauce, spoon over the cabbage, season with black pepper, and top with the bun lids. Serve with any extra cabbage on the side or a green salad."
+        }
+      ]
+    }
+  ]
+}

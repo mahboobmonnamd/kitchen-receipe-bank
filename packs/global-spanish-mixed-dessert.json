@@ -1,0 +1,790 @@
+{
+  "id": "global-spanish-mixed-dessert",
+  "title": "Global Spanish Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53170",
+      "external_id": "53170",
+      "name": "Chocolate churros with chocolate & salted caramel sauce",
+      "slug": "chocolate-churros-with-chocolate-salted-caramel-sauce",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "spanish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/erzs951763296201.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53170. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 1
+        },
+        {
+          "name": "ice cream",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 2
+        },
+        {
+          "name": "muscovado sugar",
+          "amount": 120.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 60.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "double cream",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "golden caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "cinnamon",
+          "amount": 2.0,
+          "unit": "teaspoon",
+          "sort_order": 8
+        },
+        {
+          "name": "plain flour",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "cocoa powder",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 12
+        },
+        {
+          "name": "melted butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the sauce, tip the sugar and butter into a saucepan and bring to a simmer until the sugar has melted, then stir in the cream and simmer until you have a smooth sauce, about 2-3 mins. Remove from the heat, stir through a pinch of sea salt and the chocolate, and continue to stir for 2-3 mins, or until it has completely melted. Keep warm or leave to cool for reheating later. For the coating, mix the sugar with the cinnamon and a small pinch of fine sea salt and set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "For the churros, tip the flour, cocoa, baking powder and a large pinch of salt into a bowl. Add the vanilla extract and melted butter, then carefully pour in 250-300ml boiling water and whisk to make a smooth, very thick batter. Leave to cool for a few minutes, then scrape the mixture into a piping bag fitted with a medium star nozzle."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Tip sunflower oil into a deep-fat fryer following the manufacturer\u2019s instructions, or a heavy-based pan, ensuring it is no more than a third full. Heat to 170C, or until a cube of bread dropped in browns in 30 seconds. Pipe 12-15cm lengths of dough into the oil, snipping off the end of each one with a pair of scissors as you go. Pipe four or five at a time and cook for around 4 mins, or until golden and crisp, turning them with tongs or a slotted spoon as they cook. Remove from the oil and place on a wire rack. Repeat with the rest of the dough. Leave to cool if reheating later, otherwise roll the churros in the cinnamon sugar and serve immediately with the warm chocolate sauce and ice cream. To reheat the churros, put on a tray and bake for 5-8 mins, then roll in the sugar coating. Meanwhile, warm the sauce in a pan and serve alongside for dipping."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53153",
+      "external_id": "53153",
+      "name": "Churros",
+      "slug": "churros",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "spanish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53153. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 2
+        },
+        {
+          "name": "plain flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 5
+        },
+        {
+          "name": "bread",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "double cream",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "milk",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "golden syrup",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "cinnamon",
+          "amount": 2.0,
+          "unit": "teaspoon",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Boil the kettle, then measure 300ml boiling water into a jug and add the melted butter and vanilla extract. Sift the flour and baking powder into a big mixing bowl with a big pinch of salt. Make a well in the centre, then pour in the contents of the jug and very quickly beat into the flour with a wooden spoon until lump-free. Rest for 10-15 mins while you make the sauce."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put all the sauce ingredients into a pan and gently melt together, stirring occasionally until you have a smooth shiny sauce. Keep warm on a low heat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Fill a large deep saucepan one-third full of oil. Cooking with hot oil can be dangerous \u2013 before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Heat until a cube of bread browns in 45 seconds to 1 min. Cover a tray with kitchen paper and mix the caster sugar and cinnamon together."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Fit a star nozzle to a piping bag \u2013 1.5-2cm wide is a good size. Fill with the rested dough, then pipe 2-3 strips directly into the pan, snipping off each dough strip with a pair of kitchen scissors. Fry until golden brown and crisp. Be very careful here \u2013 if air bubbles form in the churros they can explode, especially if the oil overheats or you use old flour. Cooking with hot oil can be dangerous \u2013 before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Keep children out of the kitchen and protect yourself by wearing long sleeves and eye protection, and keeping your face away from the pan."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Once the churros are crisp and golden brown, remove them from the oil with a slotted spoon and drain on the kitchen paper-lined tray. Carry on cooking the rest of the dough in batches, sprinkling the cooked churros with some cinnamon sugar as you go. When you\u2019ve cooked all the churros, toss with any remaining cinnamon sugar and serve with the chocolate sauce, for dipping."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "To see a video of how to prepare churros, take a look at our churros ice cream sandwich recipe."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53148",
+      "external_id": "53148",
+      "name": "Crema Catalana",
+      "slug": "crema-catalana",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "spanish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "grilling",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x73ll91763247842.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53148. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "milk",
+          "amount": 400.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "double cream",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "orange zest",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "lemon zest",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "egg yolks",
+          "amount": 7.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "caster sugar",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "corn flour",
+          "amount": 45.0,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the milk, cream, cinnamon stick and all the citrus zest in a saucepan set over a medium heat. Cook, stirring often, until the milk is just steaming but not boiling, about 3-5 mins. Remove from the heat, cover with a plate and leave to infuse for at least 30 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "When the cream mixture has infused, whisk the egg yolks, sugar and cornflour together in a separate bowl for 3-5 mins, or until light and pale in colour. Pour the infused milk through a sieve into the egg mixture, whisking continuously. Return the mixture to the saucepan."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Put the saucepan over a medium-high heat and whisk for around 10-12 mins. The mixture should start thickening to a custard-like consistency \u2013 you can tell it\u2019s ready by dipping a wooden spoon in the mixture, then running a finger through the mixture on the back of the spoon. If the line holds, it's ready. Sieve the mixture into a jug to remove any froth."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Divide the custard between six 150ml ramekins or small terracotta dishes, then leave to cool for 1 hr at room temperature until set with a slight wobble. Chill overnight."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Just before serving, sprinkle 1 tbsp caster sugar over the top of each ramekin and caramelise using a kitchen blowtorch. Alternatively, slide the ramekins under a hot grill until the sugar turns golden and starts to bubble. Serve straightaway."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53149",
+      "external_id": "53149",
+      "name": "Ensaimada",
+      "slug": "ensaimada",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "spanish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1ugsho1763248007.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53149. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "yeast",
+          "amount": 5.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 3
+        },
+        {
+          "name": "strong white bread flour",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 5
+        },
+        {
+          "name": "lard",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Pour 230ml lukewarm water into a bowl and add the yeast. Leave to stand for 3 mins, then add the caster sugar, eggs, flour and 1 tsp sea salt flakes. Mix together to form a dough, then knead for 10 mins in stand mixer using a dough hook (or 15 mins by hand) until the dough is elastic enough to be almost see-through when stretched. Cover and set aside to rest for 30 mins, then cut into four equal pieces. Transfer to a baking tray lined with baking parchment. Leave to rest for another 30 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Oil the work surface and a rolling pin with vegetable oil. Working with one portion of dough at a time, flatten it against the surface using the palm of your hand, then roll it out into a thin rectangle, about 30 x 50cm. Let it rest for 2 mins while you spread a quarter of the lard over the top. (If you want to fill your pastry with sobrasada de Mallorca, mix 50g lard with the sobrasada, and spread this over the dough instead.) Pull one corner of the flattened dough and stretch it out as far as it will go without breaking. Repeat every 10cm or so around the dough rectangle in every direction until it reaches about 50 x 70cm."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Cut a strip from each of the shorter sides and lay these beside each other along one of the longer sides of the rectangle; this is what we call the heart of the ensaimada. From there, begin rolling the dough until you have a long pastry snake. Repeat with the remaining portions of dough."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Take the first roll of dough and stretch it until it is over a metre long. Then, roll it up into a spiral, leaving 1cm between each turn of the spiral so the dough can expand. Flatten a little and transfer to a baking sheet lined with baking parchment. Repeat with the remaining dough. Leave to rise in a warm place for at least 12 hrs, or ideally 24 hrs."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Heat the oven to 200C/180C fan/gas 6. Put the ensaimadas in the top third of the oven and immediately reduce the temperature to 180C/160C fan/gas 4. Bake for 18 mins until dark golden. Leave to cool on a wire rack. To fill your ensaimada with whipped cream, slice and open, then spread over the cream and close. Dust with a generous amount of icing sugar, if you like and cut into pieces to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53163",
+      "external_id": "53163",
+      "name": "Spanish fig & almond balls",
+      "slug": "spanish-fig-almond-balls",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "spanish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/si2rty1763282314.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53163. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "almonds",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "figs",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "dried apricots",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "dried cranberries",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "brandy",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "clear honey",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cloves",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "sesame seed",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Whizz the almonds in a food processor until most are finely chopped, then tip into a large bowl. Roughly chop the figs, then whizz to a smooth sticky paste. Scrape onto the almonds then, using your hands, mix together well with the dried fruit, brandy, honey and cloves."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Divide the mixture into 6 and roll into balls. Tip the sesame seeds onto a tray, then roll the balls in them until covered. Cover the tray loosely with a clean tea towel, then leave the fig balls to dry for a week before packaging. Will keep in a cool place for 2 months."
+        }
+      ]
+    }
+  ]
+}

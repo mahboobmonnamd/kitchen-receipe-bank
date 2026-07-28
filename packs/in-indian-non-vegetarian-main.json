@@ -1,14 +1,16 @@
 {
-  "id": "indian-non-vegetarian",
-  "title": "Indian Non-Vegetarian",
+  "id": "in-indian-non-vegetarian-main",
+  "title": "In Indian Non Vegetarian Main",
   "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
   "recipes": [
     {
-      "id": "corpus-tmdb-53359",
+      "id": "pack:themealdb:53359",
       "external_id": "53359",
       "name": "Beef Mandi",
       "slug": "beef-mandi",
-      "description": "Indian recipe from TheMealDB",
+      "description": "Beef from TheMealDB",
       "category": "main",
       "cuisine": "indian",
       "protein_type": "beef",
@@ -17,21 +19,44 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/1nalo51765188375.jpg"
       ],
-      "notes": "Source: TheMealDB (id 53359). Free for commercial use.",
+      "notes": "Source: TheMealDB id 53359. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "basmati rice",
@@ -167,31 +192,14 @@
           "title": "Step 12",
           "instruction": "12. Fluff rice and serve beef mandi with salad or chutney."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "dinner"
-        ],
-        "dish_types": [
-          "meat"
-        ],
-        "techniques": [
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52795",
+      "id": "pack:themealdb:52795",
       "external_id": "52795",
       "name": "Chicken Handi",
       "slug": "chicken-handi",
-      "description": "Indian recipe from TheMealDB",
+      "description": "Chicken from TheMealDB",
       "category": "main",
       "cuisine": "indian",
       "protein_type": "chicken",
@@ -200,21 +208,43 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52795). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52795. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "chicken",
@@ -359,31 +389,14 @@
           "title": "Step 9",
           "instruction": "Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!"
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "dinner"
-        ],
-        "dish_types": [
-          "meat"
-        ],
-        "techniques": [
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-53358",
+      "id": "pack:themealdb:53358",
       "external_id": "53358",
       "name": "Chicken Mandi",
       "slug": "chicken-mandi",
-      "description": "Indian recipe from TheMealDB",
+      "description": "Chicken from TheMealDB",
       "category": "main",
       "cuisine": "indian",
       "protein_type": "chicken",
@@ -392,21 +405,45 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/er4d081765186828.jpg"
       ],
-      "notes": "Source: TheMealDB (id 53358). Free for commercial use.",
+      "notes": "Source: TheMealDB id 53358. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "chicken",
@@ -545,27 +582,10 @@
           "title": "Step 9",
           "instruction": "9. Garnish with fried onions, chopped coriander and serve with chutney or raita."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "dinner"
-        ],
-        "dish_types": [
-          "meat"
-        ],
-        "techniques": [
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52805",
+      "id": "pack:themealdb:52805",
       "external_id": "52805",
       "name": "Lamb Biryani",
       "slug": "lamb-biryani",
@@ -578,21 +598,45 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52805). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52805. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "cashew nuts",
@@ -775,32 +819,21 @@
           "step_number": 12,
           "title": "Step 12",
           "instruction": "Notes"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "1. If you are cooking in oven, do make sure to cook in a big oven safe pan and cover it tight and then keep in oven for the final step."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "2. You can skip biryani masala if you don\u2019t have and add just garam masala (1 tsp and red chilli powder \u2013 3 tsp instead of 1 tsp)"
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "lunch",
-          "dinner"
-        ],
-        "dish_types": [
-          "biryani",
-          "meat"
-        ],
-        "techniques": [
-          "simmering",
-          "pressure_cooking",
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52808",
+      "id": "pack:themealdb:52808",
       "external_id": "52808",
       "name": "Lamb Rogan josh",
       "slug": "lamb-rogan-josh",
@@ -813,21 +846,44 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52808). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52808. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "onion",
@@ -930,31 +986,14 @@
           "title": "Step 3",
           "instruction": "Cover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "dinner"
-        ],
-        "dish_types": [
-          "meat"
-        ],
-        "techniques": [
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52851",
+      "id": "pack:themealdb:52851",
       "external_id": "52851",
       "name": "Nutty Chicken Curry",
       "slug": "nutty-chicken-curry",
-      "description": "Indian recipe from TheMealDB",
+      "description": "Chicken from TheMealDB",
       "category": "main",
       "cuisine": "indian",
       "protein_type": "chicken",
@@ -963,21 +1002,43 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52851). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52851. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "red chilli",
@@ -1045,31 +1106,10 @@
           "title": "Step 2",
           "instruction": "Heat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "lunch",
-          "dinner"
-        ],
-        "dish_types": [
-          "curry",
-          "meat"
-        ],
-        "techniques": [
-          "simmering",
-          "sauteing",
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52809",
+      "id": "pack:themealdb:52809",
       "external_id": "52809",
       "name": "Recheado Masala Fish",
       "slug": "recheado-masala-fish",
@@ -1082,21 +1122,43 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52809). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52809. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "mackerel",
@@ -1243,202 +1305,21 @@
           "step_number": 12,
           "title": "Step 12",
           "instruction": "1. Ensure the masala paste is thick else the result won't be good."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "2. If you aren't able to find kashmiri chilies then use bedgi chilies or kashmiri red chili powder."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "3. You could use white vinegar or coconut vinegar."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "lunch",
-          "dinner"
-        ],
-        "dish_types": [
-          "curry"
-        ],
-        "techniques": [
-          "simmering",
-          "sauteing"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52964",
-      "external_id": "52964",
-      "name": "Smoked Haddock Kedgeree",
-      "slug": "smoked-haddock-kedgeree",
-      "description": "Brunch, Fish, Fusion",
-      "category": "breakfast",
-      "cuisine": "indian",
-      "protein_type": "chicken",
-      "dietary_tags": {
-        "is_vegetarian": false,
-        "is_vegan": false,
-        "is_halal": true,
-        "is_gluten_free": true,
-        "contains": []
-      },
-      "health_flags": {
-        "contains": []
-      },
-      "texture": "gravy",
-      "servings_base": 4,
-      "prep_time_minutes": 20,
-      "cook_time_minutes": 40,
-      "difficulty": "medium",
-      "freezer_suitable": false,
-      "photos": [
-        "https://www.themealdb.com/images/media/meals/1550441275.jpg"
-      ],
-      "notes": "Source: TheMealDB (id 52964). Free for commercial use.",
-      "ingredients": [
-        {
-          "name": "butter",
-          "amount": 50.0,
-          "unit": "g",
-          "sort_order": 1
-        },
-        {
-          "name": "onion",
-          "amount": 1.0,
-          "unit": "chopped",
-          "sort_order": 2
-        },
-        {
-          "name": "cardamom",
-          "amount": 3.0,
-          "unit": "Pods",
-          "sort_order": 3
-        },
-        {
-          "name": "turmeric",
-          "amount": 1.0,
-          "unit": "tsp",
-          "sort_order": 4
-        },
-        {
-          "name": "cinnamon stick",
-          "amount": 1.0,
-          "unit": "small",
-          "sort_order": 5
-        },
-        {
-          "name": "bay leaf",
-          "amount": 1.0,
-          "unit": "Sprigs of fresh",
-          "sort_order": 6
-        },
-        {
-          "name": "basmati rice",
-          "amount": 450.0,
-          "unit": "g",
-          "sort_order": 7
-        },
-        {
-          "name": "chicken stock",
-          "amount": 1.0,
-          "unit": "Litre",
-          "sort_order": 8
-        },
-        {
-          "name": "smoked haddock",
-          "amount": 750.0,
-          "unit": "g",
-          "sort_order": 9
-        },
-        {
-          "name": "eggs",
-          "amount": 3.0,
-          "unit": "unit",
-          "sort_order": 10
-        },
-        {
-          "name": "parsley",
-          "amount": 3.0,
-          "unit": "tblsp chopped",
-          "sort_order": 11
-        },
-        {
-          "name": "lemon",
-          "amount": 1.0,
-          "unit": "chopped",
-          "sort_order": 12
-        }
-      ],
-      "steps": [
-        {
-          "step_number": 1,
-          "title": "Step 1",
-          "instruction": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned."
-        },
-        {
-          "step_number": 2,
-          "title": "Step 2",
-          "instruction": "Stir in 3 split cardamom pods, \u00bc tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute."
-        },
-        {
-          "step_number": 3,
-          "title": "Step 3",
-          "instruction": "Tip in 450g basmati rice and stir until it is all well coated in the spicy butter."
-        },
-        {
-          "step_number": 4,
-          "title": "Step 4",
-          "instruction": "Pour in 1 litre chicken or fish stock, add \u00bd teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes."
-        },
-        {
-          "step_number": 5,
-          "title": "Step 5",
-          "instruction": "Meanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle."
-        },
-        {
-          "step_number": 6,
-          "title": "Step 6",
-          "instruction": "Hard-boil 3 eggs for 8 minutes."
-        },
-        {
-          "step_number": 7,
-          "title": "Step 7",
-          "instruction": "Flake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop."
-        },
-        {
-          "step_number": 8,
-          "title": "Step 8",
-          "instruction": "Uncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through."
-        },
-        {
-          "step_number": 9,
-          "title": "Step 9",
-          "instruction": "Gently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges."
-        }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "dinner",
-          "snack",
-          "appetizer",
-          "breakfast"
-        ],
-        "dish_types": [
-          "meat",
-          "snack"
-        ],
-        "techniques": [
-          "roasting",
-          "grilling",
-          "braising",
-          "frying",
-          "baking"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
-    },
-    {
-      "id": "corpus-tmdb-52806",
+      "id": "pack:themealdb:52806",
       "external_id": "52806",
       "name": "Tandoori chicken",
       "slug": "tandoori-chicken",
@@ -1451,21 +1332,43 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": true,
-        "contains": []
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52806). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52806. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "lemons",
@@ -1556,24 +1459,7 @@
           "title": "Step 3",
           "instruction": "Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "dinner"
-        ],
-        "dish_types": [
-          "meat"
-        ],
-        "techniques": [
-          "roasting",
-          "grilling",
-          "braising"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     }
   ]
 }

@@ -1,0 +1,1271 @@
+{
+  "id": "indian-breakfast-snacks",
+  "title": "Indian Breakfast & Snacks",
+  "version": "1.0.0",
+  "recipes": [
+    {
+      "id": "pack:indian-breakfast-snacks:kanda-batata-poha",
+      "name": "Kanda Batata Poha",
+      "slug": "kanda-batata-poha",
+      "description": "Fluffy flattened rice tempered with mustard, curry leaves, onion, and soft potato cubes — a classic Maharashtrian breakfast.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack"],
+        "techniques": ["tempering", "sauteing"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Rinse poha briefly so flakes stay soft, not mushy. Lemon and sev at the end are traditional.",
+      "ingredients": [
+        { "name": "thick poha (flattened rice)", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "potato", "amount": 1, "unit": "medium", "sort_order": 2 },
+        { "name": "onion", "amount": 1, "unit": "medium", "sort_order": 3 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 4 },
+        { "name": "peanuts", "amount": 3, "unit": "tbsp", "sort_order": 5 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 7 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "sugar", "amount": 0.5, "unit": "tsp", "sort_order": 9 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 10 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 11 },
+        { "name": "lemon juice", "amount": 1, "unit": "tbsp", "sort_order": 12 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 13 },
+        { "name": "sev (optional)", "amount": 2, "unit": "tbsp", "sort_order": 14 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Rinse poha",
+          "instruction": "Place poha in a colander, rinse under cold water 10–15 seconds, drain well, and fluff with salt, turmeric, and sugar. Rest 5 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil. Add mustard seeds; when they crackle, add peanuts, curry leaves, and green chilli. Fry peanuts until golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Onion and potato",
+          "instruction": "Add chopped onion; sauté until translucent. Add diced potato with a splash of water, cover, and cook until tender."
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Fold in poha gently. Cover on low heat 2 minutes. Off heat, add lemon juice and coriander. Top with sev if using.",
+          "timer_seconds": 120
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:soft-rava-upma",
+      "name": "Soft Rava Upma",
+      "slug": "soft-rava-upma",
+      "description": "Savory semolina porridge with tempering, vegetables, and a soft spoonable texture.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack"],
+        "techniques": ["tempering", "sauteing", "simmering"],
+        "cuisines": ["indian"]
+      },
+      "texture": "gravy",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Use ghee for richer flavor; swap oil and skip ghee for a dairy-free version.",
+      "ingredients": [
+        { "name": "rava (sooji / semolina)", "amount": 1, "unit": "cup", "sort_order": 1 },
+        { "name": "water", "amount": 3, "unit": "cup", "sort_order": 2 },
+        { "name": "onion", "amount": 1, "unit": "small", "sort_order": 3 },
+        { "name": "carrot", "amount": 0.5, "unit": "cup", "sort_order": 4 },
+        { "name": "green peas", "amount": 0.25, "unit": "cup", "sort_order": 5 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 6 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 10 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 11 },
+        { "name": "ghee", "amount": 2, "unit": "tbsp", "sort_order": 12 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 13 },
+        { "name": "lemon juice", "amount": 1, "unit": "tsp", "sort_order": 14 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 15 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Roast rava",
+          "instruction": "Dry-roast rava on medium heat until fragrant and pale golden. Set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat ghee. Add mustard seeds, urad dal, and chana dal. When dals turn golden, add curry leaves, chilli, and ginger."
+        },
+        {
+          "step_number": 3,
+          "title": "Vegetables",
+          "instruction": "Add onion; sauté until soft. Stir in carrot and peas; cook 2 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Cook upma",
+          "instruction": "Pour in salted boiling water. Lower heat and rain in roasted rava while stirring. Cover and steam 3–4 minutes until soft. Finish with lemon and coriander.",
+          "timer_seconds": 240,
+          "tip": "Keep water hot before adding rava to avoid lumps."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:aloo-paratha",
+      "name": "Aloo Paratha",
+      "slug": "aloo-paratha",
+      "description": "Whole-wheat flatbread stuffed with spiced mashed potato, cooked on a tawa until blistered.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "lunch", "snack"],
+        "dish_types": ["bread"],
+        "techniques": ["kneading", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Freeze uncooked stuffed discs between parchment; cook from frozen with a little extra time.",
+      "ingredients": [
+        { "name": "whole wheat flour (atta)", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "boiled potatoes", "amount": 3, "unit": "medium", "sort_order": 2 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "cumin powder", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "coriander powder", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "garam masala", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "amchur (dry mango powder)", "amount": 0.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 9 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 10 },
+        { "name": "ghee or oil", "amount": 3, "unit": "tbsp", "sort_order": 11 },
+        { "name": "water", "amount": 0.75, "unit": "cup", "sort_order": 12 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Knead dough",
+          "instruction": "Mix atta with 0.5 tsp salt and enough water to make a soft dough. Rest covered 15 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Make filling",
+          "instruction": "Mash potatoes. Mix chilli, ginger, spice powders, amchur, coriander, and remaining salt until lump-free."
+        },
+        {
+          "step_number": 3,
+          "title": "Stuff and roll",
+          "instruction": "Divide dough into balls. Flatten, place a scoop of filling, seal, and roll gently into 6–7 inch discs."
+        },
+        {
+          "step_number": 4,
+          "title": "Cook on tawa",
+          "instruction": "Cook on a hot tawa, flipping and brushing with ghee, until both sides are golden with brown spots. Serve with dahi or pickle."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:gobi-paratha",
+      "name": "Gobi Paratha",
+      "slug": "gobi-paratha",
+      "description": "Tawa-cooked whole-wheat paratha filled with grated cauliflower and warming spices.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "lunch", "snack"],
+        "dish_types": ["bread"],
+        "techniques": ["kneading", "sauteing", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Squeeze grated cauliflower dry so the filling does not tear the dough.",
+      "ingredients": [
+        { "name": "whole wheat flour (atta)", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "cauliflower", "amount": 2, "unit": "cup grated", "sort_order": 2 },
+        { "name": "onion", "amount": 0.5, "unit": "small", "sort_order": 3 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 4 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "ajwain (carom seeds)", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "garam masala", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 8 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 9 },
+        { "name": "ghee or oil", "amount": 3, "unit": "tbsp", "sort_order": 10 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 11 },
+        { "name": "water", "amount": 0.75, "unit": "cup", "sort_order": 12 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Dough",
+          "instruction": "Knead soft atta dough with salt and water. Rest 15 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Filling",
+          "instruction": "Squeeze grated cauliflower. Mix with finely chopped onion, chilli, ginger, ajwain, turmeric, garam masala, coriander, and salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Stuff",
+          "instruction": "Stuff dough balls with filling, seal carefully, and roll without tearing."
+        },
+        {
+          "step_number": 4,
+          "title": "Cook",
+          "instruction": "Cook on a hot tawa with ghee until crisp and spotted. Serve hot with butter or yogurt."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:paneer-paratha",
+      "name": "Paneer Paratha",
+      "slug": "paneer-paratha",
+      "description": "Soft atta paratha stuffed with crumbled paneer, green chilli, and herbs.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "lunch", "snack"],
+        "dish_types": ["bread"],
+        "techniques": ["kneading", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Do not over-salt fresh paneer; taste the filling before stuffing.",
+      "ingredients": [
+        { "name": "whole wheat flour (atta)", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "paneer", "amount": 200, "unit": "g", "sort_order": 2 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "chaat masala", "amount": 0.5, "unit": "tsp", "sort_order": 5 },
+        { "name": "cumin powder", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "fresh coriander", "amount": 3, "unit": "tbsp", "sort_order": 7 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "ghee", "amount": 3, "unit": "tbsp", "sort_order": 9 },
+        { "name": "water", "amount": 0.75, "unit": "cup", "sort_order": 10 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Dough",
+          "instruction": "Knead soft atta dough; rest 15 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Paneer filling",
+          "instruction": "Crumble paneer. Mix chilli, ginger, chaat masala, cumin, coriander, and salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Roll",
+          "instruction": "Stuff, seal, and roll gently so paneer stays enclosed."
+        },
+        {
+          "step_number": 4,
+          "title": "Cook",
+          "instruction": "Cook on a medium-hot tawa with ghee until golden on both sides. Serve with mint chutney."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:home-style-misal",
+      "name": "Home-Style Misal",
+      "slug": "home-style-misal",
+      "description": "Sprouted moth bean curry in a tangy, spicy gravy topped with farsan, onion, and lemon — a Mumbai-style breakfast bowl.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["curry", "snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack", "lunch"],
+        "dish_types": ["curry", "snack"],
+        "techniques": ["simmering", "tempering", "sauteing"],
+        "cuisines": ["indian"]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Farsan and pav add gluten; use gluten-free sev and skip pav if needed. Matki sprouts can be swapped with moong.",
+      "ingredients": [
+        { "name": "sprouted moth beans (matki)", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "onion", "amount": 2, "unit": "medium", "sort_order": 2 },
+        { "name": "tomato", "amount": 2, "unit": "medium", "sort_order": 3 },
+        { "name": "ginger-garlic paste", "amount": 1, "unit": "tbsp", "sort_order": 4 },
+        { "name": "goda masala or garam masala", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "red chilli powder", "amount": 1.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 9 },
+        { "name": "oil", "amount": 3, "unit": "tbsp", "sort_order": 10 },
+        { "name": "tamarind pulp", "amount": 1, "unit": "tbsp", "sort_order": 11 },
+        { "name": "jaggery", "amount": 1, "unit": "tsp", "sort_order": 12 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 13 },
+        { "name": "water", "amount": 3, "unit": "cup", "sort_order": 14 },
+        { "name": "farsan / misal mix", "amount": 1, "unit": "cup", "sort_order": 15 },
+        { "name": "lemon wedges", "amount": 4, "unit": "piece", "sort_order": 16 },
+        { "name": "fresh coriander", "amount": 3, "unit": "tbsp", "sort_order": 17 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook sprouts",
+          "instruction": "Pressure-cook or simmer sprouts with turmeric and salt until just tender but intact. Drain, reserving cooking liquid."
+        },
+        {
+          "step_number": 2,
+          "title": "Masala base",
+          "instruction": "Heat oil; temper mustard and curry leaves. Sauté onion until golden, then ginger-garlic paste. Add tomato and cook to a soft mash."
+        },
+        {
+          "step_number": 3,
+          "title": "Kat (gravy)",
+          "instruction": "Add chilli powder, goda masala, tamarind, jaggery, and reserved liquid plus water. Simmer 10 minutes for a sharp, spicy gravy."
+        },
+        {
+          "step_number": 4,
+          "title": "Assemble",
+          "instruction": "Layer sprouts in bowls, ladle hot kat, top with farsan, chopped onion, coriander, and lemon. Serve with pav if desired.",
+          "timer_seconds": 600
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:bhel-inspired-puffed-rice-chaat",
+      "name": "Bhel-Inspired Puffed Rice Chaat",
+      "slug": "bhel-inspired-puffed-rice-chaat",
+      "description": "Crisp puffed rice tossed with onion, tomato, chutneys, and sev — a street-style snack made for home assembly.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "peanut"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["snack", "appetizer"],
+        "dish_types": ["snack"],
+        "techniques": ["mixing"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 0,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Assemble just before eating so murmura stays crunchy. Skip sev for a lighter gluten-free lean.",
+      "ingredients": [
+        { "name": "puffed rice (murmura)", "amount": 4, "unit": "cup", "sort_order": 1 },
+        { "name": "sev", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "boiled potato", "amount": 1, "unit": "medium", "sort_order": 3 },
+        { "name": "onion", "amount": 1, "unit": "small", "sort_order": 4 },
+        { "name": "tomato", "amount": 1, "unit": "small", "sort_order": 5 },
+        { "name": "roasted peanuts", "amount": 3, "unit": "tbsp", "sort_order": 6 },
+        { "name": "green chutney", "amount": 3, "unit": "tbsp", "sort_order": 7 },
+        { "name": "tamarind-date chutney", "amount": 3, "unit": "tbsp", "sort_order": 8 },
+        { "name": "chaat masala", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "red chilli powder", "amount": 0.5, "unit": "tsp", "sort_order": 10 },
+        { "name": "lemon juice", "amount": 1, "unit": "tbsp", "sort_order": 11 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 12 },
+        { "name": "salt", "amount": 0.5, "unit": "tsp", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep toppings",
+          "instruction": "Dice onion, tomato, and potato. Keep chutneys ready."
+        },
+        {
+          "step_number": 2,
+          "title": "Crisp murmura",
+          "instruction": "If puffed rice is soft, warm it dry in a pan for 1–2 minutes, then cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Toss",
+          "instruction": "In a wide bowl, combine murmura, potato, onion, tomato, peanuts, chutneys, spices, lemon, and salt. Toss quickly."
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Fold in most of the sev, plate immediately, and finish with coriander and extra sev."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:mixed-vegetable-pakora",
+      "name": "Mixed Vegetable Pakora",
+      "slug": "mixed-vegetable-pakora",
+      "description": "Crisp chickpea-flour fritters with onion, spinach, and shredded vegetables — tea-time frying classic.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["snack", "appetizer"],
+        "dish_types": ["snack"],
+        "techniques": ["frying", "mixing"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Batter should coat vegetables thickly; add water sparingly. Reheat leftovers in an air fryer or oven.",
+      "ingredients": [
+        { "name": "besan (chickpea flour)", "amount": 1.5, "unit": "cup", "sort_order": 1 },
+        { "name": "onion", "amount": 1, "unit": "large", "sort_order": 2 },
+        { "name": "spinach", "amount": 1, "unit": "cup chopped", "sort_order": 3 },
+        { "name": "carrot", "amount": 0.5, "unit": "cup grated", "sort_order": 4 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 5 },
+        { "name": "ajwain", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "red chilli powder", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 8 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "water", "amount": 0.5, "unit": "cup", "sort_order": 10 },
+        { "name": "oil for deep frying", "amount": 500, "unit": "ml", "sort_order": 11 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 12 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Mix vegetables",
+          "instruction": "Combine sliced onion, spinach, carrot, chilli, coriander, salt, and spices. Rest 5 minutes so onions release moisture."
+        },
+        {
+          "step_number": 2,
+          "title": "Batter",
+          "instruction": "Add besan and ajwain. Sprinkle water just until a thick, sticky batter coats the vegetables."
+        },
+        {
+          "step_number": 3,
+          "title": "Fry",
+          "instruction": "Heat oil to medium-high. Drop irregular clumps; fry until deep golden and crisp, turning once. Drain on paper.",
+          "timer_seconds": 360,
+          "tip": "Fry a test piece first — if it browns too fast, lower the heat."
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Serve hot with green chutney and a squeeze of lemon."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:potato-bonda",
+      "name": "Potato Bonda",
+      "slug": "potato-bonda",
+      "description": "Soft spiced potato balls dipped in besan batter and deep-fried until golden — South Indian tea snack.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["snack", "breakfast", "appetizer"],
+        "dish_types": ["snack"],
+        "techniques": ["tempering", "frying", "boiling"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Also called batata vada when sandwiched in pav; here served as bonda balls.",
+      "ingredients": [
+        { "name": "boiled potatoes", "amount": 4, "unit": "medium", "sort_order": 1 },
+        { "name": "besan", "amount": 1, "unit": "cup", "sort_order": 2 },
+        { "name": "onion", "amount": 1, "unit": "small", "sort_order": 3 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 4 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "mustard seeds", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 7 },
+        { "name": "turmeric", "amount": 0.75, "unit": "tsp", "sort_order": 8 },
+        { "name": "asafoetida", "amount": 1, "unit": "pinch", "sort_order": 9 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 10 },
+        { "name": "oil", "amount": 1, "unit": "tbsp", "sort_order": 11 },
+        { "name": "oil for deep frying", "amount": 500, "unit": "ml", "sort_order": 12 },
+        { "name": "water", "amount": 0.5, "unit": "cup", "sort_order": 13 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 14 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Potato filling",
+          "instruction": "Heat 1 tbsp oil; temper mustard, curry leaves, chilli, ginger, and asafoetida. Add onion briefly, then mashed potato, turmeric, salt, and coriander. Cool and shape into balls."
+        },
+        {
+          "step_number": 2,
+          "title": "Batter",
+          "instruction": "Whisk besan with remaining turmeric, salt, and water to a smooth coating batter."
+        },
+        {
+          "step_number": 3,
+          "title": "Fry bondas",
+          "instruction": "Dip each ball in batter and deep-fry on medium heat until evenly golden. Drain well.",
+          "timer_seconds": 480
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Serve hot with coconut chutney or tomato ketchup."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:medu-vada",
+      "name": "Medu Vada",
+      "slug": "medu-vada",
+      "description": "Crisp-outside, soft-inside urad dal doughnuts with pepper, curry leaves, and ginger.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack"],
+        "techniques": ["soaking", "grinding", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Soak dal 4 hours. Batter should be thick and airy — whip by hand before shaping.",
+      "ingredients": [
+        { "name": "urad dal (skinned black gram)", "amount": 1.5, "unit": "cup", "sort_order": 1 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 2 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 3 },
+        { "name": "black peppercorns", "amount": 0.5, "unit": "tsp", "sort_order": 4 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 5 },
+        { "name": "onion (optional)", "amount": 0.5, "unit": "small", "sort_order": 6 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "oil for deep frying", "amount": 600, "unit": "ml", "sort_order": 8 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Soak and grind",
+          "instruction": "Soak urad dal 4 hours. Drain and grind with minimal water to a thick, fluffy paste. Add salt and whip 2–3 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Season",
+          "instruction": "Fold in chilli, ginger, crushed pepper, chopped curry leaves, and optional onion."
+        },
+        {
+          "step_number": 3,
+          "title": "Shape",
+          "instruction": "Wet hands, shape doughnuts with a hole in the center on wet banana leaf or plastic."
+        },
+        {
+          "step_number": 4,
+          "title": "Fry",
+          "instruction": "Slide into medium-hot oil. Fry until deep golden and crisp outside. Serve with sambar and coconut chutney.",
+          "timer_seconds": 600,
+          "tip": "Oil too hot browns outside before the center cooks."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:cardamom-chai-biscuits",
+      "name": "Cardamom Chai Biscuits",
+      "slug": "cardamom-chai-biscuits",
+      "description": "Crisp eggless short biscuits scented with green cardamom — made to dunk into masala chai.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "dish_types": ["cookie", "snack"],
+      "taxonomy": {
+        "courses": ["snack", "dessert"],
+        "dish_types": ["cookie", "snack"],
+        "techniques": ["baking", "kneading"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 20,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 18,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Chai-pairing bakery snack; store airtight up to a week.",
+      "ingredients": [
+        { "name": "all-purpose flour", "amount": 200, "unit": "g", "sort_order": 1 },
+        { "name": "powdered sugar", "amount": 80, "unit": "g", "sort_order": 2 },
+        { "name": "cold butter", "amount": 100, "unit": "g", "sort_order": 3 },
+        { "name": "green cardamom powder", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "baking powder", "amount": 0.5, "unit": "tsp", "sort_order": 5 },
+        { "name": "milk", "amount": 2, "unit": "tbsp", "sort_order": 6 },
+        { "name": "salt", "amount": 1, "unit": "pinch", "sort_order": 7 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Rub dough",
+          "instruction": "Rub cold butter into flour, sugar, cardamom, baking powder, and salt until sandy. Bind with milk into a soft dough. Chill 20 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Shape",
+          "instruction": "Roll to 5 mm thickness. Cut rounds or rectangles. Place on a lined tray."
+        },
+        {
+          "step_number": 3,
+          "title": "Bake",
+          "instruction": "Bake at 170°C for 15–18 minutes until pale golden at the edges. Cool completely to crisp.",
+          "timer_seconds": 1080,
+          "tip": "Serve beside hot masala chai — dunk, do not soak."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:sabudana-khichdi",
+      "name": "Sabudana Khichdi",
+      "slug": "sabudana-khichdi",
+      "description": "Pearl tapioca pearls tossed with peanut, potato, and green chilli — light fasting-friendly breakfast.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["peanut"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack"],
+        "techniques": ["soaking", "sauteing", "tempering"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Soak sabudana until pearls swell and crush easily between fingers — usually 3–4 hours with just enough water.",
+      "ingredients": [
+        { "name": "sabudana (tapioca pearls)", "amount": 1.5, "unit": "cup", "sort_order": 1 },
+        { "name": "roasted peanut powder", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "potato", "amount": 1, "unit": "medium", "sort_order": 3 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 4 },
+        { "name": "cumin seeds", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 6 },
+        { "name": "ghee or oil", "amount": 2, "unit": "tbsp", "sort_order": 7 },
+        { "name": "sugar", "amount": 0.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "sendha namak or salt", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "lemon juice", "amount": 1, "unit": "tbsp", "sort_order": 10 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 11 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Soak",
+          "instruction": "Rinse sabudana, drain, add just enough water to cover, and soak until soft. Drain any leftover water and toss with peanut powder."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat ghee; add cumin and curry leaves. Add diced potato and chilli; cook until potato is tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Toss",
+          "instruction": "Add sabudana mix, salt, and sugar. Stir gently on medium heat until pearls turn translucent, 5–7 minutes.",
+          "timer_seconds": 420
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Off heat, add lemon and coriander. Serve warm."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:besan-chilla",
+      "name": "Besan Chilla",
+      "slug": "besan-chilla",
+      "description": "Savory chickpea-flour pancakes studded with onion and tomato — quick protein-forward breakfast.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack", "pancake"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack", "pancake"],
+        "techniques": ["mixing", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Batter thickness like dosa; rest 5 minutes before cooking.",
+      "ingredients": [
+        { "name": "besan", "amount": 1, "unit": "cup", "sort_order": 1 },
+        { "name": "water", "amount": 1, "unit": "cup", "sort_order": 2 },
+        { "name": "onion", "amount": 0.5, "unit": "cup chopped", "sort_order": 3 },
+        { "name": "tomato", "amount": 0.25, "unit": "cup chopped", "sort_order": 4 },
+        { "name": "green chilli", "amount": 1, "unit": "piece", "sort_order": 5 },
+        { "name": "cumin powder", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 7 },
+        { "name": "ajwain", "amount": 0.25, "unit": "tsp", "sort_order": 8 },
+        { "name": "salt", "amount": 0.75, "unit": "tsp", "sort_order": 9 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 10 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 11 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Batter",
+          "instruction": "Whisk besan with water until lump-free. Stir in vegetables, spices, salt, and coriander."
+        },
+        {
+          "step_number": 2,
+          "title": "Cook",
+          "instruction": "Heat a nonstick pan, oil lightly, pour a ladle, and spread into a thin pancake. Cook until edges lift, drizzle oil, flip, and cook until spotted."
+        },
+        {
+          "step_number": 3,
+          "title": "Serve",
+          "instruction": "Serve hot with mint chutney or ketchup. Repeat with remaining batter."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:onion-uttapam",
+      "name": "Onion Uttapam",
+      "slug": "onion-uttapam",
+      "description": "Thick fermented rice-lentil pancakes topped with onion and chilli — soft South Indian breakfast.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["pancake", "snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["pancake", "snack"],
+        "techniques": ["fermenting", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Use leftover idli/dosa batter. Instant rava batter works in a pinch with baking soda.",
+      "ingredients": [
+        { "name": "idli or dosa batter", "amount": 3, "unit": "cup", "sort_order": 1 },
+        { "name": "onion", "amount": 1, "unit": "large", "sort_order": 2 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "tomato (optional)", "amount": 1, "unit": "small", "sort_order": 4 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 5 },
+        { "name": "oil", "amount": 3, "unit": "tbsp", "sort_order": 6 },
+        { "name": "salt", "amount": 0.5, "unit": "tsp", "sort_order": 7 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Topping",
+          "instruction": "Finely chop onion, chilli, tomato, and coriander. Season lightly with salt."
+        },
+        {
+          "step_number": 2,
+          "title": "Spread",
+          "instruction": "Heat a tawa. Pour a thick round of batter (do not spread thin). Scatter topping on top and press gently."
+        },
+        {
+          "step_number": 3,
+          "title": "Cook",
+          "instruction": "Drizzle oil around edges. Cover 1–2 minutes, flip carefully, and cook until both sides are golden.",
+          "timer_seconds": 180
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Serve with coconut chutney and sambar."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:rava-idli",
+      "name": "Rava Idli",
+      "slug": "rava-idli",
+      "description": "Steamed semolina idlis with tempering and yogurt — no overnight fermentation required.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack"],
+        "techniques": ["tempering", "steaming", "mixing"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Rest batter 10–15 minutes so rava hydrates before steaming.",
+      "ingredients": [
+        { "name": "rava (sooji)", "amount": 1.5, "unit": "cup", "sort_order": 1 },
+        { "name": "yogurt", "amount": 1, "unit": "cup", "sort_order": 2 },
+        { "name": "water", "amount": 0.5, "unit": "cup", "sort_order": 3 },
+        { "name": "carrot", "amount": 0.25, "unit": "cup grated", "sort_order": 4 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "cashews", "amount": 10, "unit": "piece", "sort_order": 7 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 8 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 9 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 10 },
+        { "name": "eno fruit salt or baking soda", "amount": 1, "unit": "tsp", "sort_order": 11 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 12 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 13 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 14 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Temper rava",
+          "instruction": "Heat oil; add mustard, chana dal, cashews, curry leaves, chilli, and ginger. Add rava and roast 3–4 minutes until aromatic."
+        },
+        {
+          "step_number": 2,
+          "title": "Batter",
+          "instruction": "Cool slightly. Mix with yogurt, water, salt, carrot, and coriander into a thick pourable batter. Rest 15 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Steam",
+          "instruction": "Stir in eno just before steaming. Pour into greased idli moulds and steam 10–12 minutes until a toothpick comes out clean.",
+          "timer_seconds": 720
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Unmould and serve with coconut chutney and sambar."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:bread-pakora",
+      "name": "Bread Pakora",
+      "slug": "bread-pakora",
+      "description": "Potato-stuffed bread triangles dipped in spiced besan and fried crisp — monsoon chai companion.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack", "bread"],
+      "taxonomy": {
+        "courses": ["snack", "breakfast"],
+        "dish_types": ["snack", "bread"],
+        "techniques": ["frying", "boiling"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Use day-old sandwich bread for cleaner cuts and less oil absorption.",
+      "ingredients": [
+        { "name": "sandwich bread slices", "amount": 8, "unit": "piece", "sort_order": 1 },
+        { "name": "boiled potatoes", "amount": 3, "unit": "medium", "sort_order": 2 },
+        { "name": "besan", "amount": 1.5, "unit": "cup", "sort_order": 3 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 4 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "chaat masala", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "red chilli powder", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "ajwain", "amount": 0.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 9 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 10 },
+        { "name": "water", "amount": 0.75, "unit": "cup", "sort_order": 11 },
+        { "name": "oil for deep frying", "amount": 500, "unit": "ml", "sort_order": 12 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Filling",
+          "instruction": "Mash potatoes with chilli, ginger, chaat masala, half the chilli powder, salt, and coriander."
+        },
+        {
+          "step_number": 2,
+          "title": "Sandwich",
+          "instruction": "Spread filling between two bread slices. Trim crusts if desired and cut into triangles."
+        },
+        {
+          "step_number": 3,
+          "title": "Batter and fry",
+          "instruction": "Whisk besan with remaining spices, ajwain, salt, and water. Dip triangles and deep-fry until golden and crisp.",
+          "timer_seconds": 480
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Drain and serve immediately with green chutney and hot chai."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:dahi-bhalla",
+      "name": "Dahi Bhalla",
+      "slug": "dahi-bhalla",
+      "description": "Soft lentil fritters soaked in whisked yogurt and finished with sweet-sour chutneys and spices.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["snack", "appetizer"],
+        "dish_types": ["snack"],
+        "techniques": ["soaking", "grinding", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Soak fried bhallas in warm water before yogurt so they stay soft and mild.",
+      "ingredients": [
+        { "name": "urad dal", "amount": 1, "unit": "cup", "sort_order": 1 },
+        { "name": "moong dal (optional)", "amount": 0.25, "unit": "cup", "sort_order": 2 },
+        { "name": "thick yogurt", "amount": 3, "unit": "cup", "sort_order": 3 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "green chilli", "amount": 1, "unit": "piece", "sort_order": 5 },
+        { "name": "tamarind-date chutney", "amount": 4, "unit": "tbsp", "sort_order": 6 },
+        { "name": "green chutney", "amount": 3, "unit": "tbsp", "sort_order": 7 },
+        { "name": "roasted cumin powder", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "chaat masala", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "red chilli powder", "amount": 0.5, "unit": "tsp", "sort_order": 10 },
+        { "name": "sugar", "amount": 1, "unit": "tsp", "sort_order": 11 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 12 },
+        { "name": "oil for deep frying", "amount": 500, "unit": "ml", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Batter",
+          "instruction": "Soak dals 4 hours. Grind with ginger and chilli to a thick fluffy paste. Whip with salt."
+        },
+        {
+          "step_number": 2,
+          "title": "Fry bhallas",
+          "instruction": "Drop small rounds into medium-hot oil; fry until golden. Soak in warm salted water 20 minutes, then gently squeeze."
+        },
+        {
+          "step_number": 3,
+          "title": "Yogurt",
+          "instruction": "Whisk yogurt with sugar, a little salt, and water to pouring consistency."
+        },
+        {
+          "step_number": 4,
+          "title": "Assemble",
+          "instruction": "Arrange bhallas in a dish, cover with yogurt, drizzle both chutneys, and dust with cumin, chaat masala, and chilli powder. Chill briefly before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-breakfast-snacks:jeera-mathri",
+      "name": "Jeera Mathri",
+      "slug": "jeera-mathri",
+      "description": "Flaky cumin-flecked savory crackers fried until crisp — a classic chai-time namkeen.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "dairy"]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack", "cookie"],
+      "taxonomy": {
+        "courses": ["snack"],
+        "dish_types": ["snack", "cookie"],
+        "techniques": ["kneading", "frying"],
+        "cuisines": ["indian"]
+      },
+      "texture": "dry",
+      "servings_base": 30,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Chai snack pairing. Fry low and slow so mathri cooks through without darkening too fast. Store airtight 2 weeks.",
+      "ingredients": [
+        { "name": "all-purpose flour", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "semolina (fine sooji)", "amount": 2, "unit": "tbsp", "sort_order": 2 },
+        { "name": "ghee", "amount": 4, "unit": "tbsp", "sort_order": 3 },
+        { "name": "cumin seeds", "amount": 1.5, "unit": "tsp", "sort_order": 4 },
+        { "name": "ajwain", "amount": 0.5, "unit": "tsp", "sort_order": 5 },
+        { "name": "black pepper crushed", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "water", "amount": 0.5, "unit": "cup", "sort_order": 8 },
+        { "name": "oil for deep frying", "amount": 500, "unit": "ml", "sort_order": 9 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Rub fat",
+          "instruction": "Mix flour, sooji, salt, cumin, ajwain, and pepper. Rub in ghee until the mix holds shape when pressed (moyan)."
+        },
+        {
+          "step_number": 2,
+          "title": "Knead",
+          "instruction": "Add water gradually to a stiff dough. Rest covered 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Shape",
+          "instruction": "Roll small discs about 4–5 mm thick. Prick with a fork so they do not puff."
+        },
+        {
+          "step_number": 4,
+          "title": "Fry",
+          "instruction": "Fry on low–medium heat until pale golden and crisp throughout. Cool completely before storing. Pair with masala chai.",
+          "timer_seconds": 900,
+          "tip": "High heat browns outside while the center stays raw."
+        }
+      ]
+    }
+  ]
+}

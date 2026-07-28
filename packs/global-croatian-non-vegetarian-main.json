@@ -1,0 +1,648 @@
+{
+  "id": "global-croatian-non-vegetarian-main",
+  "title": "Global Croatian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53055",
+      "external_id": "53055",
+      "name": "Cevapi Sausages",
+      "slug": "cevapi-sausages",
+      "description": "Sausages",
+      "category": "main",
+      "cuisine": "croatian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vc08jn1628769553.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53055. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "minced beef",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "minced pork",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 3.0,
+          "unit": "tblsp chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "baking powder",
+          "amount": 3.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 9
+        },
+        {
+          "name": "vegetable stock cube",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place the ground meat in a bowl. Chop the onion very finely and grate the garlic cloves. Add to the bowl. Add the chopped parsley, all sorts of paprika, baking soda, dried breadcrumbs, water, Vegeta, salt, and pepper."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix well with the hand mixer fitted with the dough hooks. Cover the bowl with cling film/ plastic foil and leave to rest for 1 or 2 hours in the refrigerator."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Take portions of the meat mixture, about 50-55 g/ 1.7-1.9 oz/ \u00bc cup portions, and form the cevapi. The rolls should be about as thick as your thumb and about 7-10 cm/ 3-4 inches long. I had 18 sausages. The recipe can be easily doubled."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Grill the cevapcici on the hot grill pan or on the barbecue for about 12-14 minutes, turning them several times in between, or until brown and cooked through. I checked by cutting one in the middle and then grilling the following batches for the same period of time."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Serve hot as suggested above. The cevapcici can be reheated in the oven at 180 degrees Celsius/ 350 degrees Fahrenheit for about 10 minutes or until heated through. Check one, if it is not hot enough, give the sausages a few more minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53058",
+      "external_id": "53058",
+      "name": "Croatian Bean Stew",
+      "slug": "croatian-bean-stew",
+      "description": "Warming, Soup, Beans",
+      "category": "main",
+      "cuisine": "croatian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tnwy8m1628770384.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53058. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cannellini beans",
+          "amount": 2.0,
+          "unit": "cans",
+          "sort_order": 1
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 3
+        },
+        {
+          "name": "challots",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 5
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 6
+        },
+        {
+          "name": "chorizo",
+          "amount": 1.0,
+          "unit": "kg chopped",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add the chopped vegetables and saut\u00e9 until tender."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Take a pot, empty the beans together with the vegetables into it, put the sausages inside and cook for further 20 minutes on a low heat."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Or, put it in an oven and bake it at a temperature of 180\u00baC/350\u00baF for 30 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "This dish is even better reheated the next day."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53056",
+      "external_id": "53056",
+      "name": "Croatian lamb peka",
+      "slug": "croatian-lamb-peka",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "croatian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/pn59o51628769837.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53056. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "courgettes",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "aubergine",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 5
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Large Chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "lamb shoulder",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic sauce",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 80.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Sprinking",
+          "sort_order": 11
+        },
+        {
+          "name": "white wine",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 200\u00b0C fan / 220\u00b0C / 425\u00b0F / Gas mark 7"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "If you have not bought diced lamb, cut your lamb shoulder or leg into large chunks and place to one side."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Chunks of chopped lamb of a red chopping board"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Make oil marinade -"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Mix 80ml of olive oil in a bowl with garlic puree, sundried tomato puree ,black pepper and salt."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "olive oil, gia sundried tomato puree and gia garlic puree and black pepper mixed together in a silver bowl to make Croatian peka"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add potatoes and vegetables into a large lidded casserole dish."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Chopped up vegetables which consist of chopped up red onion, courgette, potatoes red peppers in a cast iron pan"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Place diced lamb on top of the vegetables, pour the marinade and wine over the top."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Chunks of lamb covered in in a sundried tomato oil sauce which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Add the rosemary, thyme and sage, trying to keep the herbs on top."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "So you can easily remove the herb stalks once cooked."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Chunks of lamb coated in a sundried tomato oil sauce and covered with thyme, rosemary and sage which is on top of chopped red onion, aubergine, courgette and potatoes in a cast iron pan"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Place lid on the casserole dish and cook for 1hr 30 minute"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53057",
+      "external_id": "53057",
+      "name": "Traditional Croatian Goulash",
+      "slug": "traditional-croatian-goulash",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "croatian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/n1hcou1628770088.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53057. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "red wine",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "Litres",
+          "sort_order": 7
+        },
+        {
+          "name": "mustard",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Clean the meat from the veins if there are some and cut it into smaller pieces, 3 \u00d7 3 cm. Marinate the meat in the mustard and spices and let it sit in the refrigerator for one hour"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat one tablespoon of pork fat or vegetable oil in a pot and fry the meat on all sides until it gets browned. Once the meat is cooked, transfer it to a plate and add another tablespoon of fat to the pot"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Cut the onions very fine, peel the carrots and shred it using a grater. Cook the onions and carrots over low heat for 15 minutes. You can salt the vegetables a little to make them soften faster"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Once the vegetables have browned and become slightly mushy, add the meat and bay leaves and garlic. Pour over with wine and simmer for 10-15 minutes to allow the alcohol to evaporate. Now is the right time to add 2/3 the amount of liquid"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cover the pot and cook over low heat for an hour, stirring occasionally. After the first hour, pour over the rest of the water or stock and cook for another 30-45 minutes"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Allow the stew to cool slightly and serve it with a sprinkle of chopped parsley and few slices of fresh hot pepper if you like to spice it up a bit"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Slice \u200b\u200bsome fresh bread, season the salad and simply enjoying these wonderful flavors"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "id": "global-venezuela-non-vegetarian-side",
+  "title": "Global Venezuela Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53325",
+      "external_id": "53325",
+      "name": "Venezuelan Arepas",
+      "slug": "venezuelan-arepas",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "venezuela",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/3hcy191764376285.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53325. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cornmeal",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 410\u00b0 F."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Pour the water into a large bowl. Make sure it is room temperature."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the salt. Blend well with a mixer, fork or spatula to make sure it dissolves well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "While you continue to beat the mixture, slowly add the corn meal\u2014a little bit at a time."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Once all the flour is added, keep mixing until the corn meal, water and salt are thoroughly blended and dissolved."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Set aside the masa in its bowl. Let it rest for 5 minutes so that the flour is thoroughly hydrated. This type of corn flour does not have any gluten, so it doesn\u2019t need to be kneaded. The masa should be smooth, firm yet malleable."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "While waiting for the 5 minutes\u2019 rest, heat your budare (or comal, griddle, cast-iron pan or non-stick pan) over medium heat. Coat with a little bit of the oil."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Fill a small bowl with water to wet your hands to make the arepas."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Take about 2 Tbsp of the masa in your damp hands. The masa should fit easily in your palm so that it is easy to shape into a small ball."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Cross your hands, so that one is on top of the other, with the masa ball between them. Rotate your right hand in a circle, so that you are at the same time both pressing the masa into a flat disc and keeping its round shape."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "arepa making"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "The last step in shaping your arepa is to quickly pass and lightly press the masa disc from one hand to the other until it is about \u00be of an inch thick and 4 inches wide. Smooth the edges with your fingertips (quickly dip them into the water bowl first) so that they stay as round as possible and without cracks."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "arepa making"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Place your arepas in batches on the preheated surface of your budare griddle or nonstick pan. Let each side turn golden, about 4 to 5 minutes per side. Check them often so that they don\u2019t burn."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53332",
+      "external_id": "53332",
+      "name": "Venezuelan turnovers",
+      "slug": "venezuelan-turnovers",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "venezuela",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/zjtfp31764440795.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53332. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 2
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "capers",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "tomato sauce",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 10
+        },
+        {
+          "name": "sazon",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 11
+        },
+        {
+          "name": "yellow masarepa",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Season meat with Adobo. In skillet, heat oil on medium high. Cook meat until pink is gone. Stir in onion, pepper, garlic, alcaparras, tomato sauce and Saz\u00f3n. Cook, stirring often until most of the liquid has evaporated (about 20 minutes). Cool."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Prepared dough should be moist and should hold together, but it should not stick to your fingers. Start with about \u00bd cup of dough and roll into a ball between palms of your hands. Working on a sheet of non-stick parchment paper, form the ball into a 5-inch circle about \u215b inch thick. Place a generous tbsp. of filling on one half of circle and using parchment paper close dough over to form a semi-circle. To seal and trim edges of the empanada, press lip of inverted bowl over semi-circle shaped patty. Repeat for all the Empanadas."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In large skillet on medium high, heat \u00bd inch of oil until hot but not smoking. Cook empanadas in batches, turning once or twice until lightly browned. Drain on paper towel. Do not over crowd skillet or let oil get too hot."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "id": "global-netherlands-non-vegetarian-breakfast",
+  "title": "Global Netherlands Non Vegetarian Breakfast",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53379",
+      "external_id": "53379",
+      "name": "Dutch poffertjes (mini pancakes)",
+      "slug": "dutch-poffertjes-mini-pancakes",
+      "description": "Breakfast from TheMealDB",
+      "category": "breakfast",
+      "cuisine": "netherlands",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/oaqz9f1766593912.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53379. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "buckwheat flour",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "knob",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 300.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "yeast",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "vanilla sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 8
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix the dry yeast with some of the luke warm milk en stir until dissolved."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place buckwheat and the flour together in a bowl and make a small circle in the middle. Add the yeast mixture into it. Add the milk and stir until you have a smooth batter."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the eggs, salt and vanille sugar and stir through. Leave to stand and rise for about 45 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat the poffertjespan and add a bit of butter into each hole. Fill halfway with batter and first bake one side until you can see the top dry out a little. Turn the poffertjes around with a small fork and bake the other side until cooked and golden brown."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Serve the poffertjes with butter and icing sugar"
+        }
+      ]
+    }
+  ]
+}

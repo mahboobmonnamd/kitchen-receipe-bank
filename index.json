@@ -1,63 +1,4826 @@
 {
-  "version": 1,
+  "version": 3,
   "base_url": "https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@master",
+  "repository": "git@github.com:mahboobmonnamd/kitchen-receipe-bank.git",
+  "pack_grain_note": "region-cuisine-diet-course TheMealDB + curated",
   "packs": [
     {
-      "id": "indian-vegetarian",
-      "title": "Indian Vegetarian",
+      "id": "baking-desserts-mixed",
+      "title": "Baking & Desserts",
+      "version": "1.1.0",
+      "path": "packs/baking-desserts-mixed.json",
+      "recipe_count": 11,
+      "size_bytes": 34360,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "american",
+        "european",
+        "indian"
+      ],
+      "courses": [
+        "breakfast",
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "bread",
+        "cake",
+        "confection",
+        "cookie",
+        "muffin",
+        "pie",
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "deep_fry",
+        "mixing",
+        "sauteing",
+        "simmering"
+      ],
+      "source": "kitchenai"
+    },
+    {
+      "id": "global-algerian-mixed-dessert",
+      "title": "Global Algerian Mixed Dessert",
       "version": "1.0.0",
-      "path": "packs/indian-vegetarian.json",
+      "path": "packs/global-algerian-mixed-dessert.json",
+      "recipe_count": 2,
+      "size_bytes": 13024,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "algerian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-algerian-non-vegetarian-main",
+      "title": "Global Algerian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-algerian-non-vegetarian-main.json",
+      "recipe_count": 4,
+      "size_bytes": 17582,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "algerian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-algerian-non-vegetarian-side",
+      "title": "Global Algerian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-algerian-non-vegetarian-side.json",
+      "recipe_count": 4,
+      "size_bytes": 17412,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "algerian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-algerian-vegan-main",
+      "title": "Global Algerian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-algerian-vegan-main.json",
+      "recipe_count": 2,
+      "size_bytes": 7393,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "algerian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-american-mixed-dessert",
+      "title": "Global American Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-american-mixed-dessert.json",
+      "recipe_count": 14,
+      "size_bytes": 57294,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "american"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-american-non-vegetarian-appetizer",
+      "title": "Global American Non Vegetarian Appetizer",
+      "version": "1.0.0",
+      "path": "packs/global-american-non-vegetarian-appetizer.json",
+      "recipe_count": 2,
+      "size_bytes": 9460,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "american"
+      ],
+      "courses": [
+        "appetizer",
+        "snack"
+      ],
+      "dish_types": [
+        "snack"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-american-non-vegetarian-breakfast",
+      "title": "Global American Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-american-non-vegetarian-breakfast.json",
+      "recipe_count": 2,
+      "size_bytes": 8042,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "american"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-american-non-vegetarian-main",
+      "title": "Global American Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-american-non-vegetarian-main.json",
+      "recipe_count": 13,
+      "size_bytes": 70651,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "american"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "pasta"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-american-vegan-main",
+      "title": "Global American Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-american-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3022,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "american"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-american-vegetarian-main",
+      "title": "Global American Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-american-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9935,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "american"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-argentina-mixed-dessert",
+      "title": "Global Argentina Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-argentina-mixed-dessert.json",
+      "recipe_count": 2,
+      "size_bytes": 6984,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "argentina"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-argentina-non-vegetarian-main",
+      "title": "Global Argentina Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-argentina-non-vegetarian-main.json",
+      "recipe_count": 7,
+      "size_bytes": 26147,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "argentina"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-argentina-non-vegetarian-side",
+      "title": "Global Argentina Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-argentina-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 3366,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "argentina"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-australian-mixed-dessert",
+      "title": "Global Australian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-australian-mixed-dessert.json",
+      "recipe_count": 4,
+      "size_bytes": 18066,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "australian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-australian-non-vegetarian-main",
+      "title": "Global Australian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-australian-non-vegetarian-main.json",
+      "recipe_count": 8,
+      "size_bytes": 31905,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "australian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-australian-vegan-main",
+      "title": "Global Australian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-australian-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 4075,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "australian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-british-mixed-dessert",
+      "title": "Global British Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-british-mixed-dessert.json",
+      "recipe_count": 28,
+      "size_bytes": 129649,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "british"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-british-non-vegetarian-appetizer",
+      "title": "Global British Non Vegetarian Appetizer",
+      "version": "1.0.0",
+      "path": "packs/global-british-non-vegetarian-appetizer.json",
+      "recipe_count": 2,
+      "size_bytes": 7917,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "british"
+      ],
+      "courses": [
+        "appetizer",
+        "snack"
+      ],
+      "dish_types": [
+        "snack"
+      ],
+      "techniques": [
+        "frying",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-british-non-vegetarian-breakfast",
+      "title": "Global British Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-british-non-vegetarian-breakfast.json",
+      "recipe_count": 2,
+      "size_bytes": 11793,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "british"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "frying",
+        "grilling"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-british-non-vegetarian-main",
+      "title": "Global British Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-british-non-vegetarian-main.json",
+      "recipe_count": 24,
+      "size_bytes": 109753,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "british"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-british-vegan-main",
+      "title": "Global British Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-british-vegan-main.json",
+      "recipe_count": 4,
+      "size_bytes": 19647,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "british"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-canadian-mixed-dessert",
+      "title": "Global Canadian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-canadian-mixed-dessert.json",
+      "recipe_count": 11,
+      "size_bytes": 48013,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "canadian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-canadian-non-vegetarian-breakfast",
+      "title": "Global Canadian Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-canadian-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 4959,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "canadian"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-canadian-non-vegetarian-main",
+      "title": "Global Canadian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-canadian-non-vegetarian-main.json",
+      "recipe_count": 7,
+      "size_bytes": 29985,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "canadian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-canadian-non-vegetarian-side",
+      "title": "Global Canadian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-canadian-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 4006,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "canadian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-canadian-vegan-main",
+      "title": "Global Canadian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-canadian-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 4200,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "canadian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-canadian-vegetarian-main",
+      "title": "Global Canadian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-canadian-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3900,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "canadian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-chinese-non-vegetarian-main",
+      "title": "Global Chinese Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-chinese-non-vegetarian-main.json",
+      "recipe_count": 23,
+      "size_bytes": 125246,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "chinese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "mixing",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-chinese-non-vegetarian-side",
+      "title": "Global Chinese Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-chinese-non-vegetarian-side.json",
+      "recipe_count": 2,
+      "size_bytes": 9620,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "chinese"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "frying",
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-chinese-vegan-main",
+      "title": "Global Chinese Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-chinese-vegan-main.json",
+      "recipe_count": 2,
+      "size_bytes": 6188,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "chinese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-croatian-mixed-dessert",
+      "title": "Global Croatian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-croatian-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 4315,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "croatian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-croatian-non-vegetarian-main",
+      "title": "Global Croatian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-croatian-non-vegetarian-main.json",
+      "recipe_count": 4,
+      "size_bytes": 18319,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "croatian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-croatian-non-vegetarian-side",
+      "title": "Global Croatian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-croatian-non-vegetarian-side.json",
+      "recipe_count": 3,
+      "size_bytes": 8997,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "croatian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-egyptian-non-vegetarian-main",
+      "title": "Global Egyptian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-egyptian-non-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 16249,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "egyptian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-egyptian-non-vegetarian-side",
+      "title": "Global Egyptian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-egyptian-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 5076,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "egyptian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-egyptian-vegan-main",
+      "title": "Global Egyptian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-egyptian-vegan-main.json",
+      "recipe_count": 3,
+      "size_bytes": 14161,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "egyptian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-egyptian-vegetarian-main",
+      "title": "Global Egyptian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-egyptian-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3376,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "egyptian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-filipino-non-vegetarian-main",
+      "title": "Global Filipino Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-filipino-non-vegetarian-main.json",
       "recipe_count": 5,
-      "size_bytes": 18739,
+      "size_bytes": 23039,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "filipino"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-filipino-vegetarian-main",
+      "title": "Global Filipino Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-filipino-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 10168,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "filipino"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "grilling"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-french-mixed-dessert",
+      "title": "Global French Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-french-mixed-dessert.json",
+      "recipe_count": 6,
+      "size_bytes": 24018,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "french"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-french-non-vegetarian-main",
+      "title": "Global French Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-french-non-vegetarian-main.json",
+      "recipe_count": 13,
+      "size_bytes": 62052,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "french"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-french-non-vegetarian-side",
+      "title": "Global French Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-french-non-vegetarian-side.json",
+      "recipe_count": 5,
+      "size_bytes": 17144,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "french"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-french-vegan-main",
+      "title": "Global French Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-french-vegan-main.json",
+      "recipe_count": 2,
+      "size_bytes": 8033,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "french"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-french-vegetarian-main",
+      "title": "Global French Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-french-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 10257,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "french"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-greek-mixed-dessert",
+      "title": "Global Greek Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-greek-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 4013,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "greek"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "roasting"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-greek-non-vegetarian-main",
+      "title": "Global Greek Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-greek-non-vegetarian-main.json",
+      "recipe_count": 6,
+      "size_bytes": 22254,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "greek"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-greek-vegetarian-main",
+      "title": "Global Greek Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-greek-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3910,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "greek"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-irish-non-vegetarian-main",
+      "title": "Global Irish Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-irish-non-vegetarian-main.json",
+      "recipe_count": 7,
+      "size_bytes": 32768,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "irish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-irish-non-vegetarian-side",
+      "title": "Global Irish Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-irish-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 3296,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "irish"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-italian-mixed-dessert",
+      "title": "Global Italian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-italian-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 3187,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "italian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-italian-non-vegetarian-main",
+      "title": "Global Italian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-italian-non-vegetarian-main.json",
+      "recipe_count": 15,
+      "size_bytes": 72628,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "italian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "pasta",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-italian-vegan-main",
+      "title": "Global Italian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-italian-vegan-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9143,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "italian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-italian-vegetarian-main",
+      "title": "Global Italian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-italian-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 10973,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "italian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-jamaican-mixed-dessert",
+      "title": "Global Jamaican Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-jamaican-mixed-dessert.json",
+      "recipe_count": 6,
+      "size_bytes": 22740,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "jamaican"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-jamaican-non-vegetarian-breakfast",
+      "title": "Global Jamaican Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-jamaican-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 3799,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "jamaican"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-jamaican-non-vegetarian-main",
+      "title": "Global Jamaican Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-jamaican-non-vegetarian-main.json",
+      "recipe_count": 13,
+      "size_bytes": 67547,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "jamaican"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-jamaican-non-vegetarian-side",
+      "title": "Global Jamaican Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-jamaican-non-vegetarian-side.json",
+      "recipe_count": 5,
+      "size_bytes": 18354,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "jamaican"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "frying",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-jamaican-vegetarian-main",
+      "title": "Global Jamaican Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-jamaican-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9462,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "jamaican"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-japanese-non-vegetarian-main",
+      "title": "Global Japanese Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-japanese-non-vegetarian-main.json",
+      "recipe_count": 7,
+      "size_bytes": 29282,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "japanese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-japanese-non-vegetarian-side",
+      "title": "Global Japanese Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-japanese-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 3199,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "japanese"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-japanese-vegan-main",
+      "title": "Global Japanese Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-japanese-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3808,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "japanese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-kenyan-non-vegetarian-breakfast",
+      "title": "Global Kenyan Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-kenyan-non-vegetarian-breakfast.json",
+      "recipe_count": 2,
+      "size_bytes": 7397,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "kenyan"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-kenyan-non-vegetarian-main",
+      "title": "Global Kenyan Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-kenyan-non-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9546,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "kenyan"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-kenyan-vegetarian-main",
+      "title": "Global Kenyan Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-kenyan-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3157,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "kenyan"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-malaysian-mixed-dessert",
+      "title": "Global Malaysian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-malaysian-mixed-dessert.json",
+      "recipe_count": 2,
+      "size_bytes": 8381,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "malaysian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-malaysian-non-vegetarian-main",
+      "title": "Global Malaysian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-malaysian-non-vegetarian-main.json",
+      "recipe_count": 6,
+      "size_bytes": 27698,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "malaysian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-mexican-non-vegetarian-main",
+      "title": "Global Mexican Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-mexican-non-vegetarian-main.json",
+      "recipe_count": 4,
+      "size_bytes": 18774,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "mexican"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-mexican-vegetarian-main",
+      "title": "Global Mexican Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-mexican-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9851,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "mexican"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "roasting"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-moroccan-non-vegetarian-main",
+      "title": "Global Moroccan Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-moroccan-non-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 15002,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "moroccan"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-moroccan-vegan-main",
+      "title": "Global Moroccan Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-moroccan-vegan-main.json",
+      "recipe_count": 3,
+      "size_bytes": 12446,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "moroccan"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-netherlands-mixed-dessert",
+      "title": "Global Netherlands Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-netherlands-mixed-dessert.json",
+      "recipe_count": 6,
+      "size_bytes": 27033,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "netherlands"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-netherlands-non-vegetarian-breakfast",
+      "title": "Global Netherlands Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-netherlands-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 3935,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "netherlands"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-netherlands-non-vegetarian-main",
+      "title": "Global Netherlands Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-netherlands-non-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 12871,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "netherlands"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-netherlands-non-vegetarian-side",
+      "title": "Global Netherlands Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-netherlands-non-vegetarian-side.json",
+      "recipe_count": 3,
+      "size_bytes": 13390,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "netherlands"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-norway-mixed-dessert",
+      "title": "Global Norway Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-norway-mixed-dessert.json",
+      "recipe_count": 9,
+      "size_bytes": 46774,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "norway"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-norway-non-vegetarian-breakfast",
+      "title": "Global Norway Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-norway-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 4173,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "norway"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-norway-non-vegetarian-main",
+      "title": "Global Norway Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-norway-non-vegetarian-main.json",
+      "recipe_count": 5,
+      "size_bytes": 23899,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "norway"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-norway-non-vegetarian-side",
+      "title": "Global Norway Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-norway-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 5450,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "norway"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-norway-vegan-main",
+      "title": "Global Norway Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-norway-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3318,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "norway"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-norway-vegetarian-main",
+      "title": "Global Norway Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-norway-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 5660,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "norway"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-polish-mixed-dessert",
+      "title": "Global Polish Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-polish-mixed-dessert.json",
+      "recipe_count": 8,
+      "size_bytes": 36977,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "polish"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-polish-non-vegetarian-main",
+      "title": "Global Polish Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-polish-non-vegetarian-main.json",
+      "recipe_count": 10,
+      "size_bytes": 47960,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "polish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-polish-non-vegetarian-side",
+      "title": "Global Polish Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-polish-non-vegetarian-side.json",
+      "recipe_count": 4,
+      "size_bytes": 17844,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "polish"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-polish-vegan-main",
+      "title": "Global Polish Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-polish-vegan-main.json",
+      "recipe_count": 3,
+      "size_bytes": 11995,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "polish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-polish-vegetarian-main",
+      "title": "Global Polish Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-polish-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9057,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "polish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-portuguese-mixed-dessert",
+      "title": "Global Portuguese Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-portuguese-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 5165,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "portuguese"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-portuguese-non-vegetarian-main",
+      "title": "Global Portuguese Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-portuguese-non-vegetarian-main.json",
+      "recipe_count": 7,
+      "size_bytes": 32937,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "portuguese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-russian-mixed-dessert",
+      "title": "Global Russian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-russian-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 3537,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "russian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-russian-non-vegetarian-main",
+      "title": "Global Russian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-russian-non-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 11839,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "russian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-russian-non-vegetarian-side",
+      "title": "Global Russian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-russian-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 4715,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "russian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "frying"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-russian-vegetarian-main",
+      "title": "Global Russian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-russian-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 8823,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "russian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-saudi-arabian-mixed-dessert",
+      "title": "Global Saudi Arabian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-saudi-arabian-mixed-dessert.json",
+      "recipe_count": 3,
+      "size_bytes": 15202,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "saudi-arabian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-saudi-arabian-non-vegetarian-breakfast",
+      "title": "Global Saudi Arabian Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-saudi-arabian-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 3642,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "saudi-arabian"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-saudi-arabian-non-vegetarian-main",
+      "title": "Global Saudi Arabian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-saudi-arabian-non-vegetarian-main.json",
+      "recipe_count": 6,
+      "size_bytes": 28889,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "saudi-arabian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-saudi-arabian-non-vegetarian-side",
+      "title": "Global Saudi Arabian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-saudi-arabian-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 4155,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "saudi-arabian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-saudi-arabian-vegetarian-main",
+      "title": "Global Saudi Arabian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-saudi-arabian-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 4592,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "saudi-arabian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-slovakia-mixed-dessert",
+      "title": "Global Slovakia Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-slovakia-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 4673,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "slovakia"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-slovakia-non-vegetarian-main",
+      "title": "Global Slovakia Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-slovakia-non-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 9974,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "slovakia"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-slovakia-non-vegetarian-side",
+      "title": "Global Slovakia Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-slovakia-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 4665,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "slovakia"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "frying"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-spanish-mixed-dessert",
+      "title": "Global Spanish Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-spanish-mixed-dessert.json",
+      "recipe_count": 5,
+      "size_bytes": 25558,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "spanish"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-spanish-non-vegetarian-appetizer",
+      "title": "Global Spanish Non Vegetarian Appetizer",
+      "version": "1.0.0",
+      "path": "packs/global-spanish-non-vegetarian-appetizer.json",
+      "recipe_count": 2,
+      "size_bytes": 5609,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "spanish"
+      ],
+      "courses": [
+        "appetizer",
+        "snack"
+      ],
+      "dish_types": [
+        "snack"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-spanish-non-vegetarian-breakfast",
+      "title": "Global Spanish Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-spanish-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 4108,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "spanish"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "frying"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-spanish-non-vegetarian-main",
+      "title": "Global Spanish Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-spanish-non-vegetarian-main.json",
+      "recipe_count": 33,
+      "size_bytes": 137984,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "spanish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-spanish-vegan-main",
+      "title": "Global Spanish Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-spanish-vegan-main.json",
+      "recipe_count": 4,
+      "size_bytes": 15307,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "spanish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-spanish-vegetarian-main",
+      "title": "Global Spanish Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-spanish-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 12086,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "spanish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-syrian-non-vegetarian-main",
+      "title": "Global Syrian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-syrian-non-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 9848,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "syrian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "pasta"
+      ],
+      "techniques": [
+        "baking",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-syrian-non-vegetarian-side",
+      "title": "Global Syrian Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-syrian-non-vegetarian-side.json",
+      "recipe_count": 1,
+      "size_bytes": 4242,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "syrian"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "grilling"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-syrian-vegan-main",
+      "title": "Global Syrian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-syrian-vegan-main.json",
+      "recipe_count": 2,
+      "size_bytes": 6923,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "syrian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-thai-non-vegetarian-main",
+      "title": "Global Thai Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-thai-non-vegetarian-main.json",
+      "recipe_count": 25,
+      "size_bytes": 100609,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "thai"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-thai-vegetarian-main",
+      "title": "Global Thai Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-thai-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 8080,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "thai"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-tunisian-mixed-dessert",
+      "title": "Global Tunisian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-tunisian-mixed-dessert.json",
+      "recipe_count": 2,
+      "size_bytes": 6815,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "tunisian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-tunisian-non-vegetarian-main",
+      "title": "Global Tunisian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-tunisian-non-vegetarian-main.json",
+      "recipe_count": 4,
+      "size_bytes": 16996,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "tunisian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-tunisian-vegan-main",
+      "title": "Global Tunisian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-tunisian-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3867,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "tunisian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-tunisian-vegetarian-main",
+      "title": "Global Tunisian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-tunisian-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 4503,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "tunisian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "grilling"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-turkish-mixed-dessert",
+      "title": "Global Turkish Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-turkish-mixed-dessert.json",
+      "recipe_count": 3,
+      "size_bytes": 14006,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "turkish"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-turkish-non-vegetarian-main",
+      "title": "Global Turkish Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-turkish-non-vegetarian-main.json",
+      "recipe_count": 15,
+      "size_bytes": 58970,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "turkish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-turkish-non-vegetarian-side",
+      "title": "Global Turkish Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-turkish-non-vegetarian-side.json",
+      "recipe_count": 6,
+      "size_bytes": 21582,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "turkish"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "grilling",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-turkish-vegan-main",
+      "title": "Global Turkish Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-turkish-vegan-main.json",
+      "recipe_count": 3,
+      "size_bytes": 11438,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "turkish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "grilling",
+        "mixing",
+        "roasting"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-turkish-vegetarian-main",
+      "title": "Global Turkish Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-turkish-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 11443,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "turkish"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-ukrainian-mixed-dessert",
+      "title": "Global Ukrainian Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-ukrainian-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 4578,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "ukrainian"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-ukrainian-non-vegetarian-main",
+      "title": "Global Ukrainian Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-ukrainian-non-vegetarian-main.json",
+      "recipe_count": 3,
+      "size_bytes": 12240,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "ukrainian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-ukrainian-vegan-main",
+      "title": "Global Ukrainian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-ukrainian-vegan-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3510,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "ukrainian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-ukrainian-vegetarian-main",
+      "title": "Global Ukrainian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-ukrainian-vegetarian-main.json",
+      "recipe_count": 2,
+      "size_bytes": 10177,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "ukrainian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-mixed-dessert",
+      "title": "Global Unknown Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-mixed-dessert.json",
+      "recipe_count": 43,
+      "size_bytes": 174852,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-non-vegetarian-appetizer",
+      "title": "Global Unknown Non Vegetarian Appetizer",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-non-vegetarian-appetizer.json",
+      "recipe_count": 8,
+      "size_bytes": 35393,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "appetizer",
+        "snack"
+      ],
+      "dish_types": [
+        "snack"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-non-vegetarian-breakfast",
+      "title": "Global Unknown Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-non-vegetarian-breakfast.json",
+      "recipe_count": 4,
+      "size_bytes": 16703,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-non-vegetarian-main-01",
+      "title": "Global Unknown Non Vegetarian Main 01",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-non-vegetarian-main-01.json",
+      "recipe_count": 70,
+      "size_bytes": 326581,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat",
+        "pasta",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-non-vegetarian-main-02",
+      "title": "Global Unknown Non Vegetarian Main 02",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-non-vegetarian-main-02.json",
+      "recipe_count": 7,
+      "size_bytes": 32989,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "frying",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-non-vegetarian-side",
+      "title": "Global Unknown Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-non-vegetarian-side.json",
+      "recipe_count": 40,
+      "size_bytes": 151643,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "roasting",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-vegan-main",
+      "title": "Global Unknown Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-vegan-main.json",
+      "recipe_count": 10,
+      "size_bytes": 34379,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-unknown-vegetarian-main",
+      "title": "Global Unknown Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-unknown-vegetarian-main.json",
+      "recipe_count": 7,
+      "size_bytes": 26115,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "unknown"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-uruguayan-mixed-dessert",
+      "title": "Global Uruguayan Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-uruguayan-mixed-dessert.json",
+      "recipe_count": 5,
+      "size_bytes": 25941,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "uruguayan"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-uruguayan-non-vegetarian-main",
+      "title": "Global Uruguayan Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-uruguayan-non-vegetarian-main.json",
+      "recipe_count": 4,
+      "size_bytes": 19568,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "uruguayan"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-venezuela-mixed-dessert",
+      "title": "Global Venezuela Mixed Dessert",
+      "version": "1.0.0",
+      "path": "packs/global-venezuela-mixed-dessert.json",
+      "recipe_count": 1,
+      "size_bytes": 3633,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "venezuela"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "pudding"
+      ],
+      "techniques": [
+        "baking",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-venezuela-non-vegetarian-breakfast",
+      "title": "Global Venezuela Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/global-venezuela-non-vegetarian-breakfast.json",
+      "recipe_count": 1,
+      "size_bytes": 3715,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "venezuela"
+      ],
+      "courses": [
+        "breakfast",
+        "snack"
+      ],
+      "dish_types": [
+        "omelette"
+      ],
+      "techniques": [
+        "frying"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-venezuela-non-vegetarian-main",
+      "title": "Global Venezuela Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-venezuela-non-vegetarian-main.json",
+      "recipe_count": 6,
+      "size_bytes": 27048,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "venezuela"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-venezuela-non-vegetarian-side",
+      "title": "Global Venezuela Non Vegetarian Side",
+      "version": "1.0.0",
+      "path": "packs/global-venezuela-non-vegetarian-side.json",
+      "recipe_count": 2,
+      "size_bytes": 9601,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "venezuela"
+      ],
+      "courses": [
+        "side"
+      ],
+      "dish_types": [
+        "side"
+      ],
+      "techniques": [
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-vietnamese-non-vegetarian-main",
+      "title": "Global Vietnamese Non Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-vietnamese-non-vegetarian-main.json",
+      "recipe_count": 23,
+      "size_bytes": 101742,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "vietnamese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry",
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "mixing",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-vietnamese-vegan-main",
+      "title": "Global Vietnamese Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/global-vietnamese-vegan-main.json",
+      "recipe_count": 3,
+      "size_bytes": 10210,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "vietnamese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "mixing"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "global-vietnamese-vegetarian-main",
+      "title": "Global Vietnamese Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/global-vietnamese-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 3677,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "vietnamese"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "in-indian-non-vegetarian-breakfast",
+      "title": "In Indian Non Vegetarian Breakfast",
+      "version": "1.0.0",
+      "path": "packs/in-indian-non-vegetarian-breakfast.json",
+      "recipe_count": 2,
+      "size_bytes": 7276,
       "regions": [
         "IN"
       ],
       "diets": [
-        "vegetarian",
-        "lacto-vegetarian",
-        "vegan",
-        "mixed"
+        "halal",
+        "mixed",
+        "non-vegetarian"
       ],
       "cuisines": [
         "indian"
       ],
       "courses": [
         "breakfast",
-        "dinner",
-        "lunch",
-        "main",
-        "side",
         "snack"
       ],
       "dish_types": [
-        "bread",
-        "curry",
-        "dal",
-        "omelette",
-        "side"
+        "omelette"
       ],
       "techniques": [
-        "baking",
-        "frying",
-        "sauteing",
-        "simmering",
-        "tempering"
-      ]
+        "mixing",
+        "simmering"
+      ],
+      "source": "themealdb"
     },
     {
-      "id": "indian-non-vegetarian",
-      "title": "Indian Non-Vegetarian",
+      "id": "in-indian-non-vegetarian-main",
+      "title": "In Indian Non Vegetarian Main",
       "version": "1.0.0",
-      "path": "packs/indian-non-vegetarian.json",
-      "recipe_count": 9,
-      "size_bytes": 44595,
+      "path": "packs/in-indian-non-vegetarian-main.json",
+      "recipe_count": 8,
+      "size_bytes": 41026,
       "regions": [
         "IN"
       ],
       "diets": [
-        "non-vegetarian",
         "halal",
-        "mixed"
+        "mixed",
+        "non-vegetarian"
+      ],
+      "cuisines": [
+        "indian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "meat",
+        "seafood"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "grilling",
+        "simmering",
+        "steaming"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "in-indian-vegan-main",
+      "title": "In Indian Vegan Main",
+      "version": "1.0.0",
+      "path": "packs/in-indian-vegan-main.json",
+      "recipe_count": 3,
+      "size_bytes": 14040,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "indian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "grilling",
+        "roasting",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "in-indian-vegetarian-main",
+      "title": "In Indian Vegetarian Main",
+      "version": "1.0.0",
+      "path": "packs/in-indian-vegetarian-main.json",
+      "recipe_count": 1,
+      "size_bytes": 4104,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "indian"
+      ],
+      "courses": [
+        "dinner",
+        "lunch",
+        "main"
+      ],
+      "dish_types": [
+        "curry"
+      ],
+      "techniques": [
+        "frying",
+        "simmering"
+      ],
+      "source": "themealdb"
+    },
+    {
+      "id": "indian-breakfast-snacks",
+      "title": "Indian Breakfast & Snacks",
+      "version": "1.0.0",
+      "path": "packs/indian-breakfast-snacks.json",
+      "recipe_count": 18,
+      "size_bytes": 53466,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "indian"
+      ],
+      "courses": [
+        "appetizer",
+        "breakfast",
+        "dessert",
+        "lunch",
+        "snack"
+      ],
+      "dish_types": [
+        "bread",
+        "cookie",
+        "curry",
+        "pancake",
+        "snack"
+      ],
+      "techniques": [
+        "baking",
+        "boiling",
+        "fermenting",
+        "frying",
+        "grinding",
+        "kneading",
+        "mixing",
+        "sauteing",
+        "simmering",
+        "soaking",
+        "steaming",
+        "tempering"
+      ],
+      "source": "kitchenai"
+    },
+    {
+      "id": "indian-non-vegetarian-curated",
+      "title": "Indian Non-Vegetarian (KitchenAI curated)",
+      "version": "1.2.0",
+      "path": "packs/indian-non-vegetarian-curated.json",
+      "recipe_count": 14,
+      "size_bytes": 49939,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "non-vegetarian"
       ],
       "cuisines": [
         "indian"
@@ -71,50 +4834,143 @@
         "snack"
       ],
       "dish_types": [
-        "biryani",
         "curry",
+        "fritter",
         "meat",
-        "snack"
+        "omelette",
+        "seafood",
+        "snack",
+        "stew"
       ],
       "techniques": [
-        "baking",
+        "boiling",
         "braising",
+        "deep_fry",
         "frying",
         "grilling",
         "pressure_cooking",
         "roasting",
         "sauteing",
         "simmering"
-      ]
+      ],
+      "source": "kitchenai"
     },
     {
-      "id": "baking-desserts-mixed",
-      "title": "Baking & Desserts",
+      "id": "indian-north-vegetarian",
+      "title": "North Indian Vegetarian",
       "version": "1.0.0",
-      "path": "packs/baking-desserts-mixed.json",
-      "recipe_count": 1,
-      "size_bytes": 2586,
+      "path": "packs/indian-north-vegetarian.json",
+      "recipe_count": 22,
+      "size_bytes": 79099,
       "regions": [
-        "*"
+        "IN"
       ],
       "diets": [
-        "vegetarian",
-        "mixed"
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
       ],
       "cuisines": [
-        "european"
+        "indian",
+        "north_indian"
       ],
       "courses": [
-        "dessert",
-        "snack"
+        "appetizer",
+        "breakfast",
+        "dinner",
+        "lunch",
+        "main",
+        "side",
+        "snack",
+        "soup"
       ],
       "dish_types": [
-        "cake"
+        "bread",
+        "curry",
+        "dal",
+        "dip",
+        "rice",
+        "side",
+        "snack",
+        "soup"
       ],
       "techniques": [
-        "baking"
-      ]
+        "blanching",
+        "boiling",
+        "deep_fry",
+        "frying",
+        "mixing",
+        "no_cook",
+        "pressure_cooking",
+        "roasting",
+        "sauteing",
+        "simmering",
+        "steaming",
+        "tempering"
+      ],
+      "source": "kitchenai"
+    },
+    {
+      "id": "indian-south-vegetarian",
+      "title": "South Indian Vegetarian",
+      "version": "1.0.0",
+      "path": "packs/indian-south-vegetarian.json",
+      "recipe_count": 22,
+      "size_bytes": 65444,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "halal",
+        "mixed",
+        "vegan",
+        "vegetarian"
+      ],
+      "cuisines": [
+        "indian",
+        "south_indian",
+        "tamil"
+      ],
+      "courses": [
+        "appetizer",
+        "beverage",
+        "breakfast",
+        "dinner",
+        "lunch",
+        "main",
+        "side",
+        "snack",
+        "soup"
+      ],
+      "dish_types": [
+        "beverage",
+        "bread",
+        "curry",
+        "dal",
+        "dip",
+        "fritter",
+        "rice",
+        "sauce",
+        "side",
+        "snack",
+        "soup"
+      ],
+      "techniques": [
+        "boiling",
+        "deep_fry",
+        "fermenting",
+        "frying",
+        "mixing",
+        "no_cook",
+        "pressure_cooking",
+        "roasting",
+        "sauteing",
+        "simmering",
+        "steaming",
+        "tempering"
+      ],
+      "source": "kitchenai"
     }
-  ],
-  "repository": "git@github.com:mahboobmonnamd/kitchen-receipe-bank.git"
+  ]
 }

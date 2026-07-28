@@ -1,0 +1,163 @@
+{
+  "id": "global-egyptian-non-vegetarian-side",
+  "title": "Global Egyptian Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53030",
+      "external_id": "53030",
+      "name": "Feteer Meshaltet",
+      "slug": "feteer-meshaltet",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "egyptian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/9f4z6v1598734293.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53030. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix the flour and salt then pour one cup of water and start kneading."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "If you feel the dough is still not coming together or too dry, gradually add the remaining water until you get a dough that is very elastic so that when you pull it and it won\u2019t be torn."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Let the dough rest for just 10 minutes then divide the dough into 6-8 balls depending on the size you want for your feteer."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Warm up the butter/ghee or oil you are using and pour into a deep bowl."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Immerse the dough balls into the warm butter. Let it rest for 15 to 20 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Preheat oven to 550F."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Stretch the first ball with your hands on a clean countertop. Stretch it as thin as you can, the goal here is to see your countertop through the dough."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Fold the dough over itself to form a square brushing in between folds with the butter mixture."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Set aside and start making the next ball."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Stretch the second one thin as we have done for the first ball."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Place the previous one on the middle seam side down. Fold the outer one over brushing with more butter mixture as you fold. Set aside."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Keep doing this for the third and fourth balls. Now we have one ready, place on a 10 inch baking/pie dish seam side down and brush the top with more butter."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Repeat for the remaining 4 balls to make a second one. With your hands lightly press the folded feteer to spread it on the baking dish."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Place in preheated oven for 10 minutes when the feteer starts puffing turn on the broiler to brown the top."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "global-spanish-non-vegetarian-breakfast",
+  "title": "Global Spanish Non Vegetarian Breakfast",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53165",
+      "external_id": "53165",
+      "name": "Torrijas with sherry",
+      "slug": "torrijas-with-sherry",
+      "description": "Breakfast from TheMealDB",
+      "category": "breakfast",
+      "cuisine": "spanish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/f3ee3y1763309332.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53165. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 1
+        },
+        {
+          "name": "double cream",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "milk",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "golden caster sugar",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "sweet sherry",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "bread",
+          "amount": 4.0,
+          "unit": "thick slices",
+          "sort_order": 6
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 7
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 8
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a wide, shallow bowl, beat the eggs with the cream, milk, golden caster sugar and sherry. Cut each slice of bread in two and dip them into the egg mix, turning to make sure they get a good coating on either side. Soak bread in egg mixture for 10 mins to absorb the liquid (carefully turn them over from time to time and make sure they don\u2019t get too soggy)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat 1\u00bd tbsp olive oil in a large frying pan and cook the bread for about 3 mins on each side until dark golden and crisp on the edge. Keep the slices warm in a low oven as you cook the rest."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Divide the torrijas between plates and dust with the icing sugar. Serve with cr\u00e8me fra\u00eeche or Greek yogurt on the side."
+        }
+      ]
+    }
+  ]
+}

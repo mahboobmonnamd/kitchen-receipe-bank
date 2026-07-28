@@ -1,0 +1,113 @@
+{
+  "id": "global-kenyan-vegetarian-main",
+  "title": "Global Kenyan Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53113",
+      "external_id": "53113",
+      "name": "Sukuma Wiki",
+      "slug": "sukuma-wiki",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "kenyan",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "kenyan"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/60o82j1762341177.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53113. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "red onions",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 2
+        },
+        {
+          "name": "kale",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 4
+        },
+        {
+          "name": "double cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the 2 tablespoons of oil in a large skillet or pot over medium heat until shimmering. Add the onions and cook, stirring occasionally, until softened, 5 to 7 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the shredded kale to the onions and mix well. Turn the heat to medium-low, cover and cook for 5 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "After 5 minutes, remove the lid, add salt to taste, and stir in the cream. Continue cooking for another 5 minutes, uncovered, stirring occasionally. The cream will thicken slightly, making for a deliciously rich creamed kale and onions. Yumm!"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Serve it up with your favorite Kenyan stew, and a side of ugali!"
+        }
+      ]
+    }
+  ]
+}

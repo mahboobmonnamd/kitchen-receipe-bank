@@ -1,0 +1,382 @@
+{
+  "id": "global-italian-vegetarian-main",
+  "title": "Global Italian Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52771",
+      "external_id": "52771",
+      "name": "Spicy Arrabiata Penne",
+      "slug": "spicy-arrabiata-penne",
+      "description": "Pasta, Curry",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52771. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "penne rigate",
+          "amount": 1.0,
+          "unit": "pound",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 1.0,
+          "unit": "tin",
+          "sort_order": 4
+        },
+        {
+          "name": "red chilli flakes",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "italian seasoning",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "basil",
+          "amount": 6.0,
+          "unit": "leaves",
+          "sort_order": 7
+        },
+        {
+          "name": "parmigiano-reggiano",
+          "amount": 1.0,
+          "unit": "sprinkling",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Drain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52849",
+      "external_id": "52849",
+      "name": "Spinach & Ricotta Cannelloni",
+      "slug": "spinach-ricotta-cannelloni",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wspuvp1511303478.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52849. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 8.0,
+          "unit": "cloves chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "caster sugar",
+          "amount": 3.0,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "red wine vinegar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 4
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 3.0,
+          "unit": "g Cans",
+          "sort_order": 5
+        },
+        {
+          "name": "basil leaves",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 6
+        },
+        {
+          "name": "mascarpone",
+          "amount": 2.0,
+          "unit": "tubs",
+          "sort_order": 7
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "parmesan",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "mozzarella",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 10
+        },
+        {
+          "name": "spinach",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 11
+        },
+        {
+          "name": "parmesan",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "ricotta",
+          "amount": 3.0,
+          "unit": "tubs",
+          "sort_order": 13
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 14
+        },
+        {
+          "name": "cannellini beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "First make the tomato sauce. Heat the oil in a large pan and fry the garlic for 1 min. Add the sugar, vinegar, tomatoes and some seasoning and simmer for 20 mins, stirring occasionally, until thick. Add the basil and divide the sauce between 2 or more shallow ovenproof dishes (see Tips for freezing, below). Set aside. Make a sauce by beating the mascarpone with the milk until smooth, season, then set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the spinach in a large colander and pour over a kettle of boiling water to wilt it (you may need to do this in batches). When cool enough to handle squeeze out the excess water. Roughly chop the spinach and mix in a large bowl with 100g Parmesan and ricotta. Season well with salt, pepper and the nutmeg."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat oven to 200C/180C fan/gas 6. Using a piping bag or plastic food bag with the corner snipped off, squeeze the filling into the cannelloni tubes. Lay the tubes, side by side, on top of the tomato sauce and spoon over the mascarpone sauce. Top with Parmesan and mozzarella. You can now freeze the cannelloni, uncooked, or you can cook it first and then freeze. Bake for 30-35 mins until golden and bubbling. Remove from oven and let stand for 5 mins before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52866",
+      "external_id": "52866",
+      "name": "Squash linguine",
+      "slug": "squash-linguine",
+      "description": "Pasta, Light",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "roasting"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wxswxy1511452625.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52866. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butternut squash",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "parts",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "linguine pasta",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "sage",
+          "amount": 1.0,
+          "unit": "Small bunch",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 200C/180C fan/gas 6. Put the squash and garlic on a baking tray and drizzle with the olive oil. Roast for 35-40 mins until soft. Season."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the pasta according to pack instructions. Drain, reserving the water. Use a stick blender to whizz the squash with 400ml cooking water. Heat some oil in a frying pan, fry the sage until crisp, then drain on kitchen paper. Tip the pasta and sauce into the pan and warm through. Scatter with sage."
+        }
+      ]
+    }
+  ]
+}

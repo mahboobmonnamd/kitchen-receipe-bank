@@ -1,0 +1,434 @@
+{
+  "id": "global-egyptian-vegan-main",
+  "title": "Global Egyptian Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53025",
+      "external_id": "53025",
+      "name": "Ful Medames",
+      "slug": "ful-medames",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "egyptian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/lvn2d51598732465.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53025. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "broad beans",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 3
+        },
+        {
+          "name": "lemons",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "Sprinking",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "As the cooking time varies depending on the quality and age of the beans, it is good to cook them in advance and to reheat them when you are ready to serve. Cook the drained beans in a fresh portion of unsalted water in a large saucepan with the lid on until tender, adding water to keep them covered, and salt when the beans have softened. They take 2\u20132 1/2 hours of gentle simmering. When the beans are soft, let the liquid reduce. It is usual to take out a ladle or two of the beans and to mash them with some of the cooking liquid, then stir this back into the beans. This is to thicken the sauce."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Serve the beans in soup bowls sprinkled with chopped parsley and accompanied by Arab bread."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pass round the dressing ingredients for everyone to help themselves: a bottle of extra-virgin olive oil, the quartered lemons, salt and pepper, a little saucer with the crushed garlic, one with chili-pepper flakes, and one with ground cumin."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "The beans are eaten gently crushed with the fork, so that they absorb the dressing."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Optional Garnishes"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Peel hard-boiled eggs\u20141 per person\u2014to cut up in the bowl with the beans."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Top the beans with a chopped cucumber-and-tomato salad and thinly sliced mild onions or scallions. Otherwise, pass round a good bunch of scallions and quartered tomatoes and cucumbers cut into sticks."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Serve with tahina cream sauce (page 65) or salad (page 67), with pickles and sliced onions soaked in vinegar for 30 minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Another way of serving ful medames is smothered in a garlicky tomato sauce (see page 464)."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "In Syria and Lebanon, they eat ful medames with yogurt or feta cheese, olives, and small cucumbers."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Variations"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "A traditional way of thickening the sauce is to throw a handful of red lentils (1/4 cup) into the water at the start of the cooking."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "In Iraq, large brown beans are used instead of the small Egyptian ones, in a dish called badkila, which is also sold for breakfast in the street."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53027",
+      "external_id": "53027",
+      "name": "Koshari",
+      "slug": "koshari",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "egyptian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53027. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "brown lentils",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "rice",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "macaroni",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "chickpeas",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 5
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Sprinking",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Now, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you\u2019ll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Now make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cover the chickpeas and warm in the microwave briefly before serving."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Make the crispy onion topping."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Sprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "In a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes)."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53026",
+      "external_id": "53026",
+      "name": "Tamiya",
+      "slug": "tamiya",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "egyptian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/n3xxd91598732796.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53026. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "broad beans",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "spring onions",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "Spinkling",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "As required",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "oak the beans in water to cover overnight.Drain. If skinless beans are unavailable, rub to loosen the skins, then discard the skins. Pat the beans dry with a towel."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Grind the beans in a food mill or meat grinder.If neither appliance is available, process them in a food processor but only until the beans form a paste. (If blended too smoothly, the batter tends to fall apart during cooking.) Add the scallions, garlic, cilantro, cumin, baking powder, cayenne, salt, pepper, and coriander, if using.  Refrigerate for at least 30 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Shape the bean mixture into 1-inch balls.Flatten slightly and coat with flour."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat at least 1\u00bd-inches of oil over medium heat to 365 degrees."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Fry the patties in batches, turning once, until golden brown on all sides, about 5 minutes.Remove with a wire mesh skimmer or slotted spoon. Serve as part of a meze or in pita bread with tomato-cucumber salad and tahina sauce."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "global-russian-mixed-dessert",
+  "title": "Global Russian Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53082",
+      "external_id": "53082",
+      "name": "Strawberries Romanoff",
+      "slug": "strawberries-romanoff",
+      "description": "Fruity",
+      "category": "dessert",
+      "cuisine": "russian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "russian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/oe8rg51699014028.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53082. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "strawberries",
+          "amount": 2.0,
+          "unit": "pint",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "grand marnier",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "sour cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium bowl, combine hulled and quartered strawberries, 4 Tbsp sugar and 4 Tbsp liqueur, stir to combine then cover and refrigerate at least 1 hour and up to 2 hours, stirring once or twice."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Two photos of cut strawberries in a bowl with one having sugar being added to the bowl Two photos of cut up strawberries for Strawberry Romanoff"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Just before serving, in a large mixing bowl, combine 1 cup cold heavy cream and 1/4 cup powdered sugar, and beat with an electric mixer until stiff peaks form. Using a spatula, fold in 1/4 cup sour cream just until well blended."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "To serve, stir strawberries then divide between 6 serving glasses or bowls. You can spoon a little syrup over the berries if you like. You can also use this syrup to soak a cake. Spoon cream over strawberries, dividing evenly. You can also use an ice cream scoop with trigger release for a nice rounded puff of cream. Serve right away or chill and enjoy within 2 hours of assembly."
+        }
+      ]
+    }
+  ]
+}

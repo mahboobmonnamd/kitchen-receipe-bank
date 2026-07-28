@@ -1,0 +1,660 @@
+{
+  "id": "global-mexican-non-vegetarian-main",
+  "title": "Global Mexican Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52826",
+      "external_id": "52826",
+      "name": "Braised Beef Chilli",
+      "slug": "braised-beef-chilli",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "mexican",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "mexican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uuqvwu1504629254.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52826. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 4
+        },
+        {
+          "name": "chorizo",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "allspice",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "cloves",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 9
+        },
+        {
+          "name": "bay leaves",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "oregano",
+          "amount": 2.0,
+          "unit": "tsp dried",
+          "sort_order": 11
+        },
+        {
+          "name": "ancho chillies",
+          "amount": 2.0,
+          "unit": "ancho",
+          "sort_order": 12
+        },
+        {
+          "name": "balsamic vinegar",
+          "amount": 3.0,
+          "unit": "tbsp",
+          "sort_order": 13
+        },
+        {
+          "name": "plum tomatoes",
+          "amount": 2.0,
+          "unit": "x 400g",
+          "sort_order": 14
+        },
+        {
+          "name": "tomato ketchup",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 15
+        },
+        {
+          "name": "dark brown sugar",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 16
+        },
+        {
+          "name": "borlotti beans",
+          "amount": 2.0,
+          "unit": "x 400g tins",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 120C/225F/gas mark 1."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Take the meat out of the fridge to de-chill. Pulse the onions and garlic in a food processor until finely chopped. Heat 2 tbsp olive oil in a large casserole and sear the meat on all sides until golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Set to one side and add another small slug of oil to brown the chorizo. Remove and add the onion and garlic, spices, herbs and chillies then cook until soft in the chorizo oil. Season with salt and pepper and add the vinegar, tomatoes, ketchup and sugar."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put all the meat back into the pot with 400ml water (or red wine if you prefer), bring up to a simmer and cook, covered, in the low oven."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "After 2 hours, check the meat and add the beans. Cook for a further hour and just before serving, pull the meat apart with a pair of forks."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52819",
+      "external_id": "52819",
+      "name": "Cajun spiced fish tacos",
+      "slug": "cajun-spiced-fish-tacos",
+      "description": "Spicy, Fish",
+      "category": "main",
+      "cuisine": "mexican",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "mexican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uvuyxu1503067369.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52819. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cajun",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "white fish",
+          "amount": 4.0,
+          "unit": "fillets",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "flour tortilla",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "avocado",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 6
+        },
+        {
+          "name": "little gem lettuce",
+          "amount": 2.0,
+          "unit": "shredded",
+          "sort_order": 7
+        },
+        {
+          "name": "spring onions",
+          "amount": 4.0,
+          "unit": "shredded",
+          "sort_order": 8
+        },
+        {
+          "name": "salsa",
+          "amount": 1.0,
+          "unit": "x 300ml",
+          "sort_order": 9
+        },
+        {
+          "name": "sour cream",
+          "amount": 1.0,
+          "unit": "pot",
+          "sort_order": 10
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove finely chopped",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cooking in a cajun spice and cayenne pepper marinade makes this fish super succulent and flavoursome. Top with a zesty dressing and serve in a tortilla for a quick, fuss-free main that's delightfully summery."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "On a large plate, mix the cajun spice and cayenne pepper with a little seasoning and use to coat the fish all over."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat a little oil in a frying pan, add in the fish and cook over a medium heat until golden. Reduce the heat and continue frying until the fish is cooked through, about 10 minutes. Cook in batches if you don\u2019t have enough room in the pan."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, prepare the dressing by combining all the ingredients with a little seasoning."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Soften the tortillas by heating in the microwave for 5-10 seconds. Pile high with the avocado, lettuce and spring onion, add a spoonful of salsa, top with large flakes of fish and drizzle over the dressing."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52765",
+      "external_id": "52765",
+      "name": "Chicken Enchilada Casserole",
+      "slug": "chicken-enchilada-casserole",
+      "description": "Casserole, Cheasy, Meat",
+      "category": "main",
+      "cuisine": "mexican",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "mexican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qtuwxu1468233098.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52765. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "enchilada sauce",
+          "amount": 14.0,
+          "unit": "oz jar",
+          "sort_order": 1
+        },
+        {
+          "name": "shredded monterey jack cheese",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 2
+        },
+        {
+          "name": "corn tortillas",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "chicken breasts",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cut each chicken breast in about 3 pieces, so that it cooks faster and put it in a small pot. Pour Enchilada sauce over it and cook covered on low to medium heat until chicken is cooked through, about 20 minutes. No water is needed, the chicken will cook in the Enchilada sauce. Make sure you stir occasionally so that it doesn't stick to the bottom."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Remove chicken from the pot and shred with two forks."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat oven to 375 F degrees."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Start layering the casserole. Start with about \u00bc cup of the leftover Enchilada sauce over the bottom of a baking dish. I used a longer baking dish, so that I can put 2 corn tortillas across. Place 2 tortillas on the bottom, top with \u2153 of the chicken and \u2153 of the remaining sauce. Sprinkle with \u2153 of the cheese and repeat starting with 2 more tortillas, then chicken, sauce, cheese. Repeat with last layer with the remaining ingredients, tortillas, chicken, sauce and cheese."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Bake for 20 to 30 minutes uncovered, until bubbly and cheese has melted and started to brown on top."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Serve warm."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52830",
+      "external_id": "52830",
+      "name": "Crock Pot Chicken Baked Tacos",
+      "slug": "crock-pot-chicken-baked-tacos",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "mexican",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "mexican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ypxvwv1505333929.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52830. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breasts",
+          "amount": 4.0,
+          "unit": "- 6",
+          "sort_order": 1
+        },
+        {
+          "name": "vinaigrette dressing",
+          "amount": 1.0,
+          "unit": "bottle",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin",
+          "amount": 10.5,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "smoked paprika",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "refried beans",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 6
+        },
+        {
+          "name": "hard taco shells",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "shredded mexican cheese",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "grape tomatoes",
+          "amount": 1.0,
+          "unit": "Halved",
+          "sort_order": 9
+        },
+        {
+          "name": "jalapeno",
+          "amount": 1.0,
+          "unit": "Sliced and Seeded",
+          "sort_order": 10
+        },
+        {
+          "name": "avocado",
+          "amount": 1.0,
+          "unit": "Peeled and Sliced",
+          "sort_order": 11
+        },
+        {
+          "name": "green salsa",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 12
+        },
+        {
+          "name": "sour cream",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Put the uncooked chicken breasts in the crock pot. Pour the full bottle of salad dressing over the chicken. Sprinkle the rest of the ingredients over the top and mix them in a bit with a spoon."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cover your crock pot with the lid and cook on high for 4 hours."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Remove all the chicken breasts from the crock pot and let cool."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Shred the chicken breasts and move to a glass bowl."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pour most of the liquid over the shredded chicken."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "FOR THE TACOS:"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Make the guacamole sauce by mixing the avocado and green salsa together. Pour the guacamole mixture through a strainer until smooth and transfer to a squeeze bottle. Cut the tip off the lid of the squeeze bottle to make the opening more wide if needed."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Make the sour cream sauce by mixing the sour cream and milk together until you get a more liquid sour cream sauce. Transfer to a squeeze bottle."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "In a 9x 13 glass baking dish, fill all 12+ tacos with a layer of refried beans, cooked chicken and shredded cheese."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Bake at 450 for 10-15 minutes just until the cheese is melted and bubbling."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Out of the oven top all the tacos with the sliced grape tomaotes, jalapeno and cilantro."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Finish with a drizzle of guacamole and sour cream."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Enjoy!"
+        }
+      ]
+    }
+  ]
+}

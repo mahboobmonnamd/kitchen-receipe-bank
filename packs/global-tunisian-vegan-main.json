@@ -1,0 +1,149 @@
+{
+  "id": "global-tunisian-vegan-main",
+  "title": "Global Tunisian Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52973",
+      "external_id": "52973",
+      "name": "Leblebi Soup",
+      "slug": "leblebi-soup",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "tunisian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "tunisian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x2fw9e1560460636.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52973. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "medium finely diced",
+          "sort_order": 2
+        },
+        {
+          "name": "chickpeas",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 1.5,
+          "unit": "L",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 5.0,
+          "unit": "cloves",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "harissa spice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oil in a large pot. Add the onion and cook until translucent."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain the soaked chickpeas and add them to the pot together with the vegetable stock. Bring to the boil, then reduce the heat and cover. Simmer for 30 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In the meantime toast the cumin in a small ungreased frying pan, then grind them in a mortar. Add the garlic and salt and pound to a fine paste."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the paste and the harissa to the soup and simmer until the chickpeas are tender, about 30 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Season to taste with salt, pepper and lemon juice and serve hot."
+        }
+      ]
+    }
+  ]
+}

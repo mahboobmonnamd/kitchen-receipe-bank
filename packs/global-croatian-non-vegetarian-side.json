@@ -1,0 +1,357 @@
+{
+  "id": "global-croatian-non-vegetarian-side",
+  "title": "Global Croatian Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53060",
+      "external_id": "53060",
+      "name": "Burek",
+      "slug": "burek",
+      "description": "Streetfood,  Onthego",
+      "category": "side",
+      "cuisine": "croatian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tkxquw1628771028.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53060. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "filo pastry",
+          "amount": 1.0,
+          "unit": "Packet",
+          "sort_order": 1
+        },
+        {
+          "name": "minced beef",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "oil",
+          "amount": 40.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 5
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Fry the finely chopped onions and minced meat in oil."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Grease a round baking tray and put a layer of pastry in it."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Cover with a thin layer of filling and cover this with another layer of filo pastry which must be well coated in oil."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put another layer of filling and cover with pastry."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "When you have five or six layers, cover with filo pastry, bake at 200\u00baC/392\u00baF for half an hour and cut in quarters and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53061",
+      "external_id": "53061",
+      "name": "Fresh sardines",
+      "slug": "fresh-sardines",
+      "description": "Fresh",
+      "category": "side",
+      "cuisine": "croatian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/nv5lf31628771380.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53061. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sardines",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 2
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "To Glaze",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Wash the fish under the cold tap."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Roll in the flour and deep fry in oil until crispy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Lay on kitchen towel to get rid of the excess oil and serve hot or cold with a slice of lemon."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53059",
+      "external_id": "53059",
+      "name": "Mushroom soup with buckwheat",
+      "slug": "mushroom-soup-with-buckwheat",
+      "description": "Warming, Soup",
+      "category": "side",
+      "cuisine": "croatian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "croatian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1ngcbf1628770793.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53059. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "mushrooms",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "buckwheat",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 40.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable stock cube",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "sour cream",
+          "amount": 50.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "white wine vinegar",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 9
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Top",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Chop the onion and garlic, slice the mushrooms and wash the buckwheat."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil and lightly saut\u00e9 the onion."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the mushrooms and the garlic and continue to saut\u00e9."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the salt, vegetable seasoning, buckwheat and the bay leaf and cover with water."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Simmer gently and just before it is completely cooked, add pepper, sour cream mixed with flour, the chopped parsley and vinegar to taste."
+        }
+      ]
+    }
+  ]
+}

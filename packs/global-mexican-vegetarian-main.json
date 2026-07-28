@@ -1,0 +1,340 @@
+{
+  "id": "global-mexican-vegetarian-main",
+  "title": "Global Mexican Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52870",
+      "external_id": "52870",
+      "name": "Chickpea Fajitas",
+      "slug": "chickpea-fajitas",
+      "description": "Vegetarian",
+      "category": "main",
+      "cuisine": "mexican",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "roasting"
+        ],
+        "cuisines": [
+          "mexican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tvtxpq1511464705.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52870. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chickpeas",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 2
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 3
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2.0,
+          "unit": "small cut chunks",
+          "sort_order": 4
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "finely sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "red wine vinegar",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "avocado",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 8
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "sour cream",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "harissa spice",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "corn tortillas",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "to serve",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 200C/180C fan/gas 6 and line a baking tray with foil. Drain the chickpeas, pat dry and tip onto the prepared baking tray. Add the oil and paprika, toss to coat, then roast for 20-25 mins until browned and crisp, shaking halfway through cooking."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Meanwhile, put the tomatoes and onion in a small bowl with the vinegar and set aside to pickle. Put the avocado in another bowl and mash with a fork, leaving some larger chunks. Stir in the lime juice and season well. Mix the soured cream with the harissa and set aside until ready to serve."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat a griddle pan until nearly smoking. Add the tortillas , one at a time, charring each side until hot with griddle lines."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put everything on the table and build the fajitas : spread a little of the harissa cream over the tortilla, top with roasted chickpeas, guacamole, pickled salsa and coriander, if you like. Serve with the lime wedges for squeezing over."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53067",
+      "external_id": "53067",
+      "name": "Stuffed Bell Peppers with Quinoa and Black Beans",
+      "slug": "stuffed-bell-peppers-with-quinoa-and-black-beans",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "mexican",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "mexican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/b66myb1683207208.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53067. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "green pepper",
+          "amount": 4.0,
+          "unit": "whole",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small finely diced",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 4
+        },
+        {
+          "name": "quinoa",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "black beans",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 6
+        },
+        {
+          "name": "sweetcorn",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "diced tomatoes",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 8
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "chili powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "smoked paprika",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 12
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 13
+        },
+        {
+          "name": "shredded mexican cheese",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 14
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1. Preheat your oven to 375\u00b0F (190\u00b0C). Lightly grease a 9x13-inch baking dish or a similar-sized casserole dish."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. Place the bell pepper halves in the prepared baking dish, cut side up. Bake for 15-20 minutes, or until slightly softened."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. While the bell peppers are baking, prepare the filling. In a large skillet, heat the olive oil over medium heat. Add the chopped onion, and cook for 3-4 minutes, until softened. Add the garlic, and cook for another 1 minute, until fragrant."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. Stir in the cooked quinoa, black beans, corn, diced tomatoes, ground cumin, chili powder, smoked paprika, salt, and pepper. Cook for 5-7 minutes, until heated through. Remove the skillet from heat, and stir in 1 cup of the shredded cheese, if using."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. Remove the bell peppers from the oven, and carefully stuff each pepper half with the quinoa and black bean mixture. Top the stuffed peppers with the remaining 1/2 cup of shredded cheese, if using."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6. Return the stuffed peppers to the oven, and bake for another 15-20 minutes, until the cheese is melted and the peppers are tender."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "7. Remove from the oven, and allow the stuffed peppers to cool for 5 minutes before serving. Garnish with fresh chopped cilantro."
+        }
+      ]
+    }
+  ]
+}

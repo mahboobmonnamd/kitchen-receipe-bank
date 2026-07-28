@@ -1,0 +1,423 @@
+{
+  "id": "global-turkish-vegetarian-main",
+  "title": "Global Turkish Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53266",
+      "external_id": "53266",
+      "name": "Falafel",
+      "slug": "falafel",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "turkish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "turkish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/u5e9qq1763795441.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53266. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sunflower oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 3
+        },
+        {
+          "name": "chickpeas",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ground coriander",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat 1 tbsp oil in a large pan, then fry the onion and garlic over a low heat for 5 mins until softened. Tip into a large mixing bowl with the chickpeas and spices, then mash together with a fork or potato masher until the chickpeas are totally broken down. Stir in the parsley or dried herbs, with seasoning to taste. Add the egg, then squish the mixture together with your hands."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Mould the mix into 6 balls, then flatten into patties. Heat the remaining oil in the pan, then fry the falafels on a medium heat for 3 mins on each side, until golden brown and firm. Serve hot or cold with couscous, pitta bread or salad."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53274",
+      "external_id": "53274",
+      "name": "Griddled aubergines with sesame dressing",
+      "slug": "griddled-aubergines-with-sesame-dressing",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "turkish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "turkish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yoj48r1763817100.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53274. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "aubergine",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "tahini paste",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 5
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 6
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 7
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 8
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Brush each aubergine slice with some oil, then season. Heat a griddle pan or barbecue. When hot, griddle the aubergine slices for 2-3 mins on each side until golden brown and tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Mix the yogurt with the tahini, garlic, lemon juice and herbs, then season. Top the aubergines with the dressing and scatter over extra herb leaves."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53255",
+      "external_id": "53255",
+      "name": "Grilled aubergines with spicy chickpeas & walnut sauce",
+      "slug": "grilled-aubergines-with-spicy-chickpeas-walnut-sauce",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "turkish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "turkish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ctw3ba1763788978.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53255. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger",
+          "amount": 2.0,
+          "unit": "cm piece",
+          "sort_order": 4
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "chickpeas",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "tomato",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1/2",
+          "sort_order": 8
+        },
+        {
+          "name": "aubergine",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "walnuts",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat 2 tbsp oil in a pan, add the onion and fry until soft and lightly browned, about 10 mins. Add the chilli, ginger and spices and mix well. Stir in the chickpeas, tomatoes and 5 tbsp water, bring to the boil, then simmer for 10 mins. Add a little salt and pepper and the lemon juice."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Arrange the aubergines over a grill pan. Brush lightly with oil, sprinkle with salt and pepper, then grill until golden. Flip them over, brush again with oil, season and grill again until tender and golden."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Mix the yogurt with the garlic, most of the walnuts and coriander and a little salt and pepper. Arrange the aubergine slices over a warm platter and spoon over the chickpea mix. Drizzle with the walnut sauce and scatter with the remaining walnuts and coriander."
+        }
+      ]
+    }
+  ]
+}

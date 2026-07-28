@@ -1,0 +1,825 @@
+{
+  "id": "global-filipino-non-vegetarian-main",
+  "title": "Global Filipino Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53071",
+      "external_id": "53071",
+      "name": "Beef Asado",
+      "slug": "beef-asado",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/pkopc31683207947.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53071. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 1.5,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "beef stock concentrate",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato puree",
+          "amount": 8.0,
+          "unit": "ounces",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "soy sauce",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "white wine vinegar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "pepper",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "bay leaf",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "tomato sauce",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 10
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 11
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 13
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "0.\tCombine beef, crushed peppercorn, soy sauce, vinegar, dried bay leaves, lemon, and tomato sauce. Mix well. Marinate beef for at least 30 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1.\tPut the marinated beef in a cooking pot along with remaining marinade. Add water. Let boil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2.\tAdd Knorr Beef Cube. Stir. Cover the pot and cook for 40 minutes in low heat."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3.\tTurn the beef over. Add tomato paste. Continue cooking until beef tenderizes. Set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4.\tHeat oil in a pan. Fry the potato until it browns. Turn over and continue frying the opposite side. Remove from the pan and place on a clean plate. Do the same with the carrots."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5.\tSave 3 tablespoons of cooking oil from the pan where the potato was fried. Saute onion and garlic until onion softens."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "6.\tPour-in the sauce from the beef stew. Let boil. Add the beef. Cook for 2 minutes."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "7.\tAdd butter and let it melt. Continue cooking until the sauce reduces to half."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53070",
+      "external_id": "53070",
+      "name": "Beef Caldereta",
+      "slug": "beef-caldereta",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/41cxjh1683207682.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53070. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 2.0,
+          "unit": "kg cut cubes",
+          "sort_order": 1
+        },
+        {
+          "name": "beef stock",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 6
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 7
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato puree",
+          "amount": 8.0,
+          "unit": "ounces",
+          "sort_order": 9
+        },
+        {
+          "name": "peanut butter",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "chilli powder",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 12
+        },
+        {
+          "name": "garlic",
+          "amount": 5.0,
+          "unit": "cloves",
+          "sort_order": 13
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "0.\tHeat oil in a cooking pot. Saute onion and garlic until onion softens"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1.\tAdd beef. Saute until the outer part turns light brown."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2.\tAdd soy sauce. Pour tomato sauce and water. Let boil."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3.\tAdd Knorr Beef Cube. Cover the pressure cooker. Cook for 30 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4.\tPan-fry carrot and potato until it browns. Set aside."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5.\tAdd chili pepper, liver spread and peanut butter. Stir."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "6.\tAdd bell peppers, fried potato and carrot. Cover the pot. Continue cooking for 5 to 7 minutes."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "7.\tSeason with salt and ground black pepper. Serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53068",
+      "external_id": "53068",
+      "name": "Beef Mechado",
+      "slug": "beef-mechado",
+      "description": "Stew, Warming",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/cgl60b1683206581.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53068. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "beef",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato puree",
+          "amount": 8.0,
+          "unit": "ounces",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Slice",
+          "sort_order": 7
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 8
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "0.\tMake the beef tenderloin marinade by combining soy sauce, vinegar, ginger, garlic, sesame oil, olive oil, sugar, salt, and ground black pepper in a large bowl. Mix well."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1.\tAdd the cubed beef tenderloin to the bowl with the beef tenderloin marinade. Gently toss to coat the beef. Let it stay for 1 hour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2.\tUsing a metal or bamboo skewer, assemble the beef kebob by skewering the vegetables and marinated beef tenderloin."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3.\tHeat-up the grill and start grilling the beef kebobs for 3 minutes per side. This will give you a medium beef that is juicy and tender on the inside. Add more time if you want your beef well done, but it will be less tender."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4.\tTransfer to a serving plate. Serve with Saffron rice."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5.\tShare and enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53069",
+      "external_id": "53069",
+      "name": "Bistek",
+      "slug": "bistek",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/4pqimk1683207418.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53069. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "soy sauce",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 3.0,
+          "unit": "parts",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "0.\tMarinate beef in soy sauce, lemon (or calamansi), and ground black pepper for at least 1 hour. Note: marinate overnight for best result"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1.\tHeat the cooking oil in a pan then pan-fry half of the onions until the texture becomes soft. Set aside"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2.\tDrain the marinade from the beef. Set it aside. Pan-fry the beef on the same pan where the onions were fried for 1 minute per side. Remove from the pan. Set aside"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3.\tAdd more oil if needed. Saute garlic and remaining raw onions until onion softens."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4.\tPour the remaining marinade and water. Bring to a boil."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5.\tAdd beef. Cover the pan and simmer until the meat is tender. Note: Add water as needed."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "6.\tSeason with ground black pepper and salt as needed. Top with pan-fried onions."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "7.\tTransfer to a serving plate. Serve hot. Share and Enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53073",
+      "external_id": "53073",
+      "name": "Eggplant Adobo",
+      "slug": "eggplant-adobo",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/y7h0lq1683208991.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53073. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg plants",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "whole",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "ground pork",
+          "amount": 4.0,
+          "unit": "oz",
+          "sort_order": 7
+        },
+        {
+          "name": "rice vinegar",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 9
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1.\tSlice 1 lb. small Japanese or Italian eggplant (about 3) into quarters lengthwise, then cut crosswise into 2\"-wide pieces. Place in a medium bowl. Add 1 Tbsp. sugar, 1 tsp. Diamond Crystal or \u00bd tsp. Morton kosher salt, and \u00bd tsp. freshly ground black pepper. Toss to evenly coat eggplant and let sit at room temperature at least 20 minutes and up to 2 hours."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2.\tPeel and thinly slice 8 garlic cloves. Add 3 Tbsp. vegetable oil and half of garlic to a medium Dutch oven or other heavy pot. Cook over medium-high heat, stirring constantly with a wooden spoon, until light golden and crisp, about 5 minutes. Using a slotted spoon, transfer garlic chips to a plate; season lightly with salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. Place 4 oz. ground pork in same pot and break up into small pieces with wooden spoon. Season with \u00bc tsp. Diamond Crystal or Morton kosher salt and cook, undisturbed, until deeply browned underneath, about 5 minutes. Using a slotted spoon, transfer to another plate, leaving fat behind in the pot."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. Place eggplant on a clean kitchen towel and blot away any moisture the salt has drawn out."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. Working in batches and adding more oil if needed, cook eggplant in the same pot until lightly browned, about 3 minutes per side. Transfer to a plate with pork."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6. Pour 1\u00bd cups of water into the pot and scrape up browned bits from the bottom with a wooden spoon. Add remaining garlic, 3 Tbsp. coconut vinegar or unseasoned rice vinegar, 2 Tbsp. soy sauce, 2 bay leaves, 1 tsp. freshly ground black pepper, and remaining 1 Tbsp. sugar. Bring to a simmer, then return pork and eggplant to pot. Reduce heat to medium-low, partially cover, and simmer until eggplant is tender and silky and sauce is reduced by half, 20\u201325 minutes. Taste and season with more salt and pepper and add a little more sugar if needed."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "7. Top with garlic chips and serve with cooked white rice."
+        }
+      ]
+    }
+  ]
+}

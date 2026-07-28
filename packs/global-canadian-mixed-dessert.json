@@ -1,0 +1,1641 @@
+{
+  "id": "global-canadian-mixed-dessert",
+  "title": "Global Canadian Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52928",
+      "external_id": "52928",
+      "name": "BeaverTails",
+      "slug": "beavertails",
+      "description": "Treat, Pudding, Speciality",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ryppsv1511815505.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52928. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "yeast",
+          "amount": 2.0,
+          "unit": "parts",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "butter",
+          "amount": 6.0,
+          "unit": "tblsp",
+          "sort_order": 5
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "-1/2 cups",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "for frying",
+          "sort_order": 9
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "garnish",
+          "sort_order": 10
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "garnish",
+          "sort_order": 11
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "garnish",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In the bowl of a stand mixer, add warm water, a big pinch of sugar and yeast. Allow to sit until frothy."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Into the same bowl, add 1/2 cup sugar, warm milk, melted butter, eggs and salt, and whisk until combined."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place a dough hook on the mixer, add the flour with the machine on, until a smooth but slightly sticky dough forms."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Place dough in a bowl, cover with plastic wrap, and allow to proof for 1 1/2 hours."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cut dough into 12 pieces, and roll out into long oval-like shapes about 1/4 inch thick that resemble a beaver\u2019s tail."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In a large, deep pot, heat oil to 350 degrees. Gently place beavertail dough into hot oil and cook for 30 to 45 seconds on each side until golden brown."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Drain on paper towels, and garnish as desired. Toss in cinnamon sugar, in white sugar with a squeeze of lemon, or with a generous slathering of Nutella and a handful of toasted almonds. Enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52923",
+      "external_id": "52923",
+      "name": "Canadian Butter Tarts",
+      "slug": "canadian-butter-tarts",
+      "description": "Speciality, Snack, Desert, Pudding",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wpputp1511812960.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52923. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "shortcrust pastry",
+          "amount": 375.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 2
+        },
+        {
+          "name": "muscovado sugar",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "raisins",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "single cream",
+          "amount": 4.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "walnuts",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to fan 170C/ conventional 190C/gas 5. Roll out the pastry on a lightly floured surface so it\u2019s slightly thinner than straight from the pack. Then cut out 18-20 rounds with a 7.5cm fluted cutter, re-rolling the trimmings. Use the rounds to line two deep 12-hole tart tins (not muffin tins). If you only have a regular-sized, 12-hole tart tin you will be able to make a few more slightly shallower tarts."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Beat the eggs in a large bowl and combine with the rest of the ingredients except the walnuts. Tip this mixture into a pan and stir continuously for 3-4 minutes until the butter melts, and the mixture bubbles and starts to thicken. It should be thick enough to coat the back of a wooden spoon. Don\u2019t overcook, and be sure to stir all the time as the mixture can easily burn. Remove from the heat and stir in the nuts."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Spoon the filling into the unbaked tart shells so it\u2019s level with the pastry. Bake for 15-18 minutes until set and pale golden. Leave in the tin to cool for a few minutes before lifting out on to a wire rack. Serve warm or cold."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53338",
+      "external_id": "53338",
+      "name": "Date squares",
+      "slug": "date-squares",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/u4scbo1764446514.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53338. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pitted dates",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "vanilla",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "oats",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 350\u00b0F (180\u00b0C). Grease an 8-inch (20 cm) square baking pan."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the date filing: Combine the dates and water in a medium saucepan over high heat and bring to a boil. Reduce heat to low and simmer gently, stirring occasionally until the mixture thickens, around 6 to 8 minutes. Remove from heat, stir in vanilla and let cool. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Combine rolled oats, flour, sugar, baking soda and salt in a food processor. Pulse 3 times (careful not to overmix, you don\u2019t want the mixture to be powdery, just combined). Add butter and pulse again until the mixture is crumbly in pea-sized clumps. Transfer to a mixing bowl to thoroughly mix in the butter."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Spread half of the oat mixture on the bottom of the prepared baking pan, pressing down to make a flat, equal bottom later. Add the date mixture over the crust and then spread evenly. Layer with the remaining oat mixture and press down to flatten the top layer."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Bake in the centre of the oven until the top is golden brown, 30 to 35 minutes. Let cool completely in the pan before cutting and serving. Date Squares keep well, covered in the refrigerator for up to a week, and frozen for 2 to 3 months."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53342",
+      "external_id": "53342",
+      "name": "Figgy Duff",
+      "slug": "figgy-duff",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kzi6p51764787198.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53342. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "raisins",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "melted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "molasses",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium bowl, whisk together flour, brown sugar, baking powder, and spices."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add raisins and stir well, making sure to coat the raisins in the flour mixture."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add melted butter, molasses and water and mix with a wooden spoon. Form a ball with the spoon or your hands and put the dough ball in a cotton pudding bag. Tie the bag, leaving at least 1 inch of room to allow the pudding to expand while cooking."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Boil pudding for 1.5 hours. (In NL, this is typically done in the pot along with Jiggs Dinner, but it can be done independently.)"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "When the duff is firm, remove it from the boiling water and let it cool slightly before removing it from the pudding bag."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Slice pudding like a cake and serve with the warm sauce of your choice: rum butter sauce, warmed molasses or Molasses Coady sauce (1 cup (250 mL) molasses, 1/4 cup (60 mL) butter, 1/4 cup (60 mL) water) is common in Newfoundland."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53341",
+      "external_id": "53341",
+      "name": "Flapper Pie",
+      "slug": "flapper-pie",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/6ht8141764786479.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53341. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "graham cracker crumbs",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "melted butter",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "cornstarch",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "egg yolks",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "egg white",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "cream of tartar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 350\u02daF."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix all the crust ingredients (graham cracker crumbs, melted butter, granulated sugar and ground cinnamon) in a medium bowl. Set aside about 2 Tbsp (30 mL) for later and press the mixture into a 9-inch deep-dish pie plate in the bottom and up the sides. Bake crust for 10 minutes, it will only brown slightly."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Combine the vanilla custard filling ingredients (milk, granulated sugar, cornstarch, egg yolks, vanilla extract and salt together) and cook on medium heat, stirring constantly, until it bubbles and thickens to the texture of pudding. Set aside to cool while you make the meringue topping."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In the bowl of a stand mixer fitted with the beater attachment or in a large bowl using an electric mixer beat the meringue ingredients (egg whites, granulated sugar, cream of tartar) together until it holds stiff and glossy peaks."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "To assemble the pie, pour the filling into the crust and top with a thick layer of the meringue, making little spikes that will brown on top. Sprinkle the reserved crumb over the top and place it into the preheated oven."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake until the meringue browns, around 10 minutes, making sure to watch it carefully."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Chill in the fridge and eat within a few hours of baking. This pie is best eaten the same day as the meringue will soften and liquify."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53339",
+      "external_id": "53339",
+      "name": "Jam jam cookies",
+      "slug": "jam-jam-cookies",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sktequ1764447186.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53339. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "molasses",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "flour",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 11
+        },
+        {
+          "name": "jam",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 350 \u00b0F (180 \u00b0C) and line a large baking sheet with parchment paper."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a stand mixer with the paddle attachment, cream the butter, white sugar and egg until combined, then add the molasses and vanilla and mix until smooth."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Once combined, add the baking soda water mixture and mix for another minute to combine."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Combine dry ingredients; mix baking powder, cinnamon, flour and salt in a separate bowl then add to the wet ingredients a little at a time, mixing on low until fully combined and scraping down the sides to ensure everything is incorporated. The dough should be easily shaped."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Portion dough with a small spoon, roll them into balls and place them on the lined cookie sheet, press them into flat discs using a floured glass or your moistened palm."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Place cookies on parchment-lined baking sheets and bake for 10-12 mins. Remove from the oven and let them cool for at least 10 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Once cooled the cookie sandwiches by spreading at least two teaspoons of your favourite jam between the two cookies. Repeat and enjoy with a cup of tea."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52924",
+      "external_id": "52924",
+      "name": "Nanaimo Bars",
+      "slug": "nanaimo-bars",
+      "description": "Treat, Snack, Dairy",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vwuprt1511813703.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52924. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "custard",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "cocoa",
+          "amount": 5.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 4
+        },
+        {
+          "name": "digestive biscuits",
+          "amount": 200.0,
+          "unit": "g shredded",
+          "sort_order": 5
+        },
+        {
+          "name": "desiccated coconut",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "almonds",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "double cream",
+          "amount": 4.0,
+          "unit": "tbs",
+          "sort_order": 9
+        },
+        {
+          "name": "custard powder",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 10
+        },
+        {
+          "name": "icing sugar",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Start by making the biscuit base. In a bowl, over a pan of simmering water, melt the butter with the sugar and cocoa powder, stirring occasionally until smooth. Whisk in the egg for 2 to 3 mins until the mixture has thickened. Remove from heat and mix in the biscuit crumbs, coconut and almonds if using, then press into the base of a lined 20cm square tin. Chill for 10 mins."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "For the middle layer, make the custard icing; whisk together the butter, cream and custard powder until light and fluffy, then gradually add the icing sugar until fully incorporated. Spread over the bottom layer and chill in the fridge for at least 10 mins until the custard is no longer soft."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Melt the chocolate and butter together in the microwave, then spread over the chilled bars and put back in the fridge. Leave until the chocolate has fully set (about 2 hrs). Take the mixture out of the tin and slice into squares to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52932",
+      "external_id": "52932",
+      "name": "Pouding chomeur",
+      "slug": "pouding-chomeur",
+      "description": "Pudding",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yqqqwu1511816912.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52932. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "maple syrup",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "single cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 10
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a large bowl, with an electric mixer, mix the butter and sugar till the mix is light."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add eggs and vanilla and mix."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In another bowl, mix flour and baking powder."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Alternate flour mix and milk to the butter mix."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pour into a 13 inch by 9 inch greased pan."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "MAPLE SAUCE."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "In a large casserole, bring to boil the syrup, brown sugar, cream and butter and constantly stir."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Reduce heat and and gently cook 2 minutes or till sauce has reduced a little bit."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Pour sauce gently over cake."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Bake at 325\u00b0f (160\u00b0c) about 35 minutes or till cake is light brown and when toothpick inserted comes out clean."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53337",
+      "external_id": "53337",
+      "name": "Saskatoon Pie",
+      "slug": "saskatoon-pie",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/5xdrkw1764444472.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53337. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 6.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "salt",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable shortening",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 5
+        },
+        {
+          "name": "vinegar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 7
+        },
+        {
+          "name": "saskatoon berries",
+          "amount": 5.0,
+          "unit": "Cups",
+          "sort_order": 8
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        },
+        {
+          "name": "cornstarch",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 12
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 13
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "To make the pastry, place the flour and salt in a large bowl. Mix well. Add the cubes of butter and shortening and mix them in (I like to use my hands to mix the fat into the flour, but you can use a pastry blender) just until it looks like coarse oatmeal with some pea-sized bits remaining. Place the egg in a 2-cup measure and beat it with a fork. Beat in the vinegar and just enough ice-cold water to bring it to the 1-cup mark. Stir this into the flour mixture, just until the dough clings together. I like to use my hands for this part as well, but a wooden spoon would also work. Try not to overmix it."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "On a lightly floured surface, gather the dough into a ball and divide it into 5 evenly sized portions. Shape each portion into a disc and wrap tightly in plastic. Chill 2 of these discs for 1 hour. Freeze the other 3 in a resealable freezer bag for future use. The pastry keeps well in the freezer for up to 2 months."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat the oven to 350\u00b0F. Place the rack in the lower third of the oven. Line a baking sheet with aluminum foil to catch drippings."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "On a lightly floured surface, roll out 1 disc of pastry into a 12-inch circle, or thereabouts. Place it in the bottom of a 9-inch pie plate, with the pastry overhanging the edges of the pie plate."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "To make the filling, place the saskatoon berries in a large bowl and stir in the 1/2 cup sugar and the cornstarch until well combined. Pour the berry mixture into the bottom of the pie. Dot with the butter. On a lightly floured surface, roll out the pastry in another 12-inch circle for the top crust. Use a ruler to guide you when cutting the pastry into 6 wide, long strips to keep the edges straight. Save the 2 end pieces in case you need to do any patching. I like wide strips, but if you like a thinner look, feel free to cut thin strips of pastry. Weave the pastry strips, going over and under, making sure they connect with the edges of the pie crust. Fold over the edges of the bottom crust, tucking in the lattice ends. This will help to trap the juices and give a rustic look."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "If you prefer a cleaner, tidier look, you can trim the overhanging pieces and crimp the edges with a fork. Brush the top of the pie with the egg wash. Sprinkle with the remaining Tbsp sugar. Place the pie on the prepared baking sheet and bake it for about 90 \u2013 100 minutes, until it\u2019s golden brown and bubbling. Remove the pie from the oven and place it on a wire rack to cool."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Serve the pie warm or at room temperature with whipped cream or ice cream. Makes 6 servings. This keeps well if covered with plastic and refrigerated for up to 4 days."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52931",
+      "external_id": "52931",
+      "name": "Sugar Pie",
+      "slug": "sugar-pie",
+      "description": "Pie, Desert",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yrstur1511816601.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52931. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "brown sugar",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 0.25,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "plain flour",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie dish."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place the brown sugar and butter in a mixing bowl, and beat them together with an electric mixer until creamy and very well combined, without lumps. Beat in eggs, one at a time, incorporating the first egg before adding the next one. Add the vanilla extract and salt; beat the flour in, a little at a time, and then the milk, making a creamy batter. Pour the batter into the prepared pie dish."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bake in the preheated oven for 35 minutes; remove pie, and cover the rim with aluminum foil to prevent burning. Return to oven, and bake until the middle sets and the top forms a crusty layer, about 15 more minutes. Let the pie cool to room temperature, then refrigerate for at least 1 hour before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52929",
+      "external_id": "52929",
+      "name": "Timbits",
+      "slug": "timbits",
+      "description": "Snack, Treat",
+      "category": "dessert",
+      "cuisine": "canadian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/txsupu1511815755.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52929. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "baking powder",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 5
+        },
+        {
+          "name": "milk",
+          "amount": 0.75,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "for frying",
+          "sort_order": 8
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "garnish",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Sift together dry ingredients."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix together wet ingredients and incorporate into dry. Stir until smooth."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Drop by teaspoonfuls(no bigger) into hot oil (365 degrees, no hotter), turning after a few moments until golden brown on all sides."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove and drain."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Roll in cinnamon sugar while still warm and serve."
+        }
+      ]
+    }
+  ]
+}

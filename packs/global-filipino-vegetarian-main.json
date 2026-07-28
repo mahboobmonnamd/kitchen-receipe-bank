@@ -1,0 +1,359 @@
+{
+  "id": "global-filipino-vegetarian-main",
+  "title": "Global Filipino Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53072",
+      "external_id": "53072",
+      "name": "Crispy Eggplant",
+      "slug": "crispy-eggplant",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/c7lzrl1683208757.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53072. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg plants",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "sesame seed",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 5
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Slice eggplant into 1 cm (0.4-inch) slices. Place them in a bowl and sprinkle them with salt. allow them to sit for 30 minutes to render some of their liquid and bitterness."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. After 30 minutes wash eggplant slices from salt and pat dry with a kitchen towel."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. In a large bowl/plate place breadcrumbs and sesame seeds. In another bowl beat 2 eggs with pinch salt and pepper."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. Heal oil in a large skillet over high heat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. Dip eggplant slices in egg, then in crumbs, and place in hot oil. Fry 2 to 3 minutes on each side, or until golden brown. Drain on a paper towel."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53074",
+      "external_id": "53074",
+      "name": "Grilled eggplant with coconut milk",
+      "slug": "grilled-eggplant-with-coconut-milk",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/bopa2i1683209167.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53074. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg plants",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "coconut milk",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 2
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "red pepper flakes",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 5
+        },
+        {
+          "name": "onions",
+          "amount": 4.0,
+          "unit": "Sticks",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": ".  Prepare the eggplants for grilling by pricking them all over with a fork.  This is so it won\u2019t burst during the grilling process as the natural water in it heats up."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2.  Grill the eggplants, turning them over frequently to ensure even cooking.  Grill until the skins are dark brown, even black and the eggplant is soft when you touch it."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3.  Soak the grilled eggplant in a bowl of water to cool it down.  Peel the skin off the eggplant.  Place the whole eggplants in a shallow dish (my mom actually cuts the eggplant into small, bite-sized pieces)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4.  In a small mixing bowl, mix together the coconut milk or cream, lemon powder, salt and hot pepper.  Mix until the lemon powder and salt dissolve.  Taste, then adjust the amount of lemon powder, salt and hot pepper to your liking.  Pour the mixture over the eggplant.  Sprinkle the green onions over the eggplant and coconut milk.  Stir gently to combine."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53075",
+      "external_id": "53075",
+      "name": "Tortang Talong",
+      "slug": "tortang-talong",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "filipino",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "filipino"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/va668f1683209318.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53075. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg plants",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tsp",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "0.\tGrill the eggplant until the color of skin turns almost black"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "1.\tLet the eggplant cool for a while then peel off the skin. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2.\tCrack the eggs and place in a bowl"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3.\tAdd salt and beat"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "4.\tPlace the eggplant on a flat surface and flatten using a fork."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "5.\tDip the flattened eggplant in the beaten egg mixture"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "6.\tHeat the pan and pour the cooking oil"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "7.\tFry the eggplant (that was dipped in the beaten mixture). Make sure that both sides are cooked. Frying time will take you about 3 to 4 minutes per side on medium heat."
+        }
+      ]
+    }
+  ]
+}

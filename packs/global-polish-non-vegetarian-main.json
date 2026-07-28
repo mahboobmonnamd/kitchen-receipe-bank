@@ -1,0 +1,1720 @@
+{
+  "id": "global-polish-non-vegetarian-main",
+  "title": "Global Polish Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53018",
+      "external_id": "53018",
+      "name": "Bigos (Hunters Stew)",
+      "slug": "bigos-hunters-stew",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/md8w601593348504.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53018. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "bacon",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "kielbasa",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 2
+        },
+        {
+          "name": "pork",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 3
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 6
+        },
+        {
+          "name": "mushrooms",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "cabbage",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "sauerkraut",
+          "amount": 1.0,
+          "unit": "Jar",
+          "sort_order": 9
+        },
+        {
+          "name": "red wine",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 10
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "basil",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "marjoram",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 14
+        },
+        {
+          "name": "caraway seed",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 15
+        },
+        {
+          "name": "hotsauce",
+          "amount": 1.0,
+          "unit": "dash",
+          "sort_order": 16
+        },
+        {
+          "name": "beef stock",
+          "amount": 5.0,
+          "unit": "Cups",
+          "sort_order": 17
+        },
+        {
+          "name": "tomato puree",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 18
+        },
+        {
+          "name": "diced tomatoes",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 19
+        },
+        {
+          "name": "worcestershire sauce",
+          "amount": 1.0,
+          "unit": "dash",
+          "sort_order": 20
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat a large pot over medium heat. Add the bacon and kielbasa; cook and stir until the bacon has rendered its fat and sausage is lightly browned. Use a slotted spoon to remove the meat and transfer to a large casserole or Dutch oven."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Coat the cubes of pork lightly with flour and fry them in the bacon drippings over medium-high heat until golden brown. Use a slotted spoon to transfer the pork to the casserole. Add the garlic, onion, carrots, fresh mushrooms, cabbage and sauerkraut. Reduce heat to medium; cook and stir until the carrots are soft, about 10 minutes. Do not let the vegetables brown."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Deglaze the pan by pouring in the red wine and stirring to loosen all of the bits of food and flour that are stuck to the bottom. Season with the bay leaf, basil, marjoram, paprika, salt, pepper, caraway seeds and cayenne pepper; cook for 1 minute."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Mix in the dried mushrooms, hot pepper sauce, Worcestershire sauce, beef stock, tomato paste and tomatoes. Heat through just until boiling. Pour the vegetables and all of the liquid into the casserole dish with the meat. Cover with a lid."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake in the preheated oven for 2 1/2 to 3 hours, until meat is very tender."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53300",
+      "external_id": "53300",
+      "name": "Bigos (Polish hunter's stew)",
+      "slug": "bigos-polish-hunter-s-stew",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/fl4brj1764361323.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53300. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "white cabbage",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "beef stock",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "mushrooms",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "lard",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "german sausages",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "bacon",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "beef",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "prunes",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "cloves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "peppercorns",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "juniper berries",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 13
+        },
+        {
+          "name": "allspice berries",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "red wine",
+          "amount": 90.0,
+          "unit": "ml",
+          "sort_order": 15
+        },
+        {
+          "name": "tomato puree",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the cabbage in a heavy casserole dish, add the stock and cook over a low heat for about 50 mins, until tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cut the soaked mushrooms into strips and save the soaking water. Heat the lard and fry the sausages and bacon, then scoop out, leaving the fat in the pan. Fry the onion in the same pan for 5-8 mins until lightly browned."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the mushrooms and their liquid along with all the cooked meat, onions and prunes, then cover and cook for 20 mins. Add the spices, red wine and tomato pur\u00e9e and bring to a simmer, then cover and cook for 1 hr. Season well and leave to cool. Will keep covered and chilled for up to two days. Bigos improves in flavour over a couple of days. Leave to cool first. Reheat until piping hot before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53021",
+      "external_id": "53021",
+      "name": "Golabki (cabbage roll)",
+      "slug": "golabki-cabbage-roll",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/q8sp3j1593349686.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53021. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ground beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 4
+        },
+        {
+          "name": "ground pork",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 5
+        },
+        {
+          "name": "rice",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "tomato puree",
+          "amount": 3.0,
+          "unit": "cans",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Bring a large pot of lightly salted water to a boil. Place cabbage head into water, cover pot, and cook until cabbage leaves are slightly softened enough to remove from head, 3 minutes. Remove cabbage from pot and let cabbage sit until leaves are cool enough to handle, about 10 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Remove 18 whole leaves from the cabbage head, cutting out any thick tough center ribs. Set whole leaves aside. Chop the remainder of the cabbage head and spread it in the bottom of a casserole dish."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Melt butter in a large skillet over medium-high heat. Cook and stir onion in hot butter until tender, 5 to 10 minutes. Cool."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Stir onion, beef, pork, rice, garlic, 1 teaspoon salt, and 1/4 teaspoon pepper together in a large bowl."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Place about 1/2 cup beef mixture on a cabbage leaf. Roll cabbage around beef mixture, tucking in sides to create an envelope around the meat. Repeat with remaining leaves and meat mixture. Place cabbage rolls in a layer atop the chopped cabbage in the casserole dish; season rolls with salt and black pepper."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Whisk tomato soup, tomato juice, and ketchup together in a bowl. Pour tomato soup mixture over cabbage rolls and cover dish wish aluminum foil."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Bake in the preheated oven until cabbage is tender and meat is cooked through, about 1 hour."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53017",
+      "external_id": "53017",
+      "name": "Paszteciki (Polish Pasties)",
+      "slug": "paszteciki-polish-pasties",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/c9a3l31593261890.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53017. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "Yolk",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "butter",
+          "amount": 5.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 6.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "swede",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "beef brisket",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 9
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "Beaten",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Sift flour and salt into a large mixing bowl."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Use a spoon to push the egg yolk through a fine sieve into the flour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the raw egg and mix well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Beat in butter 1 tablespoon at a time."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Place dough on a floured surface and knead until smooth and elastic, then wrap in waxed paper and refrigerate until firm (at least 30 minutes)."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In a heavy skillet, melt 2 tablespoons butter over medium heat; saute the onion and rutabaga until the onion is soft and transparent (5 minutes)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Put the onions, rutabaga, and beef through a meat grinder twice if you have one, if not just chop them up as fine as possible."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Melt the remaining 4 tablespoons butter over medium heat, and add the meat mixture."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Cook over low heat, stirring occasionally, until all of the liquid has evaporated and the mixture is thick enough to hold its shape."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Remove from heat and let cool, then stir in 1 egg, and season with salt and pepper."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Preheat oven to 350\u00b0F."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "On a lightly floured surface, roll the dough out into a 13x8\" rectangle (1/8\" thick)."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Spoon the filling down the center of the rectangle lengthwise, leaving about an inch of space on each end."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Lightly brush the long sides with cold water, then fold one of the long sides over the filling and the other side over the top of that."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53301",
+      "external_id": "53301",
+      "name": "Pork & sauerkraut goulash",
+      "slug": "pork-sauerkraut-goulash",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/cyuhwp1764362103.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53301. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lard",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "pork shoulder",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 5
+        },
+        {
+          "name": "plain flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "beef stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 8
+        },
+        {
+          "name": "bay leaves",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "white sauerkraut",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "whipping cream",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 11
+        },
+        {
+          "name": "sour cream",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the lard in a saucepan over a medium heat and fry the finely chopped onion until golden, around 5-8 mins. Tip in the cumin and pork, and fry for 10 mins all over until browned. Add the garlic, season well and scatter over the flour. Cook for about a minute, then add the paprika and cook for 1 min more."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour in half of the stock, add the bay leaves, and simmer with the lid on over a low heat for 30 mins."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the sauerkraut, remaining stock and a drizzle of the sauerkraut pickling juices. Simmer with the lid for 30 mins, stirring occasionally, until the meat is tender. Stir in the cream and simmer for 5 mins to combine the flavours. Season to taste, the serve garnished with a spoonful of soured cream."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "This recipe has been provided by Apetit Online and not been re-tested by us."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53306",
+      "external_id": "53306",
+      "name": "Pork rib bortsch",
+      "slug": "pork-rib-bortsch",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/om5hsl1764364721.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53306. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pork back ribs",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "dried white beans",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic clove",
+          "amount": 3.0,
+          "unit": "sliced thinly",
+          "sort_order": 6
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "red chilli",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "beetroot",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "potatoes",
+          "amount": 3.0,
+          "unit": "chopped",
+          "sort_order": 10
+        },
+        {
+          "name": "tomato puree",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        },
+        {
+          "name": "white cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 13
+        },
+        {
+          "name": "dill",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 14
+        },
+        {
+          "name": "sour cream",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut the meat into large pieces, put in your largest saucepan and cover with 5 litres water. Bring to the boil over a high heat, skimming away any foam that rises to the surface. Add the bay leaves. Season. Turn the heat down to a simmer and cook for 1 hr, or until the meat is soft and falls off the bone. Add the beans if using dried."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Turn the heat up. Bring back to the boil, then reduce the heat and simmer for another 20 mins \u2013 the beans should still be slightly raw. Add the carrots, onions, garlic and pepper. Stir well, then add the chillies, if using. Cook for 15 mins more."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Stir in the beetroot and cook for 10 mins before adding the potatoes. After 15 mins, add the tomato pur\u00e9e to taste and beans, if using canned, and bring to the boil. Cook for 5 mins, add the cabbage and cook for 5 mins more. Season, then garnish with the parsley and dill. Turn off the heat and leave to stand for 5 mins. Serve with soured cream on the side."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53020",
+      "external_id": "53020",
+      "name": "Rosol (Polish Chicken Soup)",
+      "slug": "rosol-polish-chicken-soup",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/lx1kkj1593349302.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53020. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken legs",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 5.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 5
+        },
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "cloves",
+          "amount": 1.0,
+          "unit": "whole",
+          "sort_order": 7
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "parsley",
+          "amount": 4.0,
+          "unit": "sprigs",
+          "sort_order": 10
+        },
+        {
+          "name": "dill",
+          "amount": 4.0,
+          "unit": "sprigs",
+          "sort_order": 11
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add chicken to a large Dutch oven or stock pot"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cover with water"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bring to a boil and simmer for 2 to 2 1/2 hours, skimming any impurities off the top to insure a clear broth"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "If your pot is big enough, add the vegetables and spices for the last hour of the cooking time"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "My Dutch oven wasn\u2019t big enough to hold everything, just the chicken and other bones filled the pot, so I cooked the meat/bones for the full cooking time, then removed them, and cooked the vegetables and spices separately"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Strain everything out of the broth"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Bone the chicken, pulling the meat into large chunks"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Slice the carrots"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Return the chicken and carrots to the broth"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Cook noodles according to package instructions if you\u2019re using them"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Add noodles to bowl and then top with hot soup"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53023",
+      "external_id": "53023",
+      "name": "Sledz w Oleju (Polish Herrings)",
+      "slug": "sledz-w-oleju-polish-herrings",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/7ttta31593350374.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53023. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "herring",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Soak herring in cold water for at least 1 hour. If very salty, repeat, changing the water each time."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain thoroughly and slice herring into bite-size pieces."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place in a jar large enough to accommodate the pieces and cover with oil, allspice, peppercorns, and bay leaf. Close the jar."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Refrigerate for 2 to 3 days before eating. This will keep refrigerated up to 2 weeks."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Serve with finely chopped onion or onion slices, lemon, and parsley or dill."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53302",
+      "external_id": "53302",
+      "name": "Slow-roasted ham with lemon, garlic & sage",
+      "slug": "slow-roasted-ham-with-lemon-garlic-sage",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/w36ets1764362474.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53302. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "garlic",
+          "amount": 5.0,
+          "unit": "chopped cloves",
+          "sort_order": 1
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 15.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "black pepper",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 50.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "pork shoulder",
+          "amount": 2.0,
+          "unit": "kg",
+          "sort_order": 6
+        },
+        {
+          "name": "dry white wine",
+          "amount": 500.0,
+          "unit": "ml",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 200C/180C fan/gas 6. Bash the garlic, sage, lemon zest, salt and pepper together using a pestle and mortar until the mixture becomes a paste. Stir in the oil, then spread the mixture over the pork shoulder, avoiding the skin on top. Score the skin using a sharp knife, then rub a large pinch of salt into the skin. Tie the pork together using kitchen string."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Line a large baking tray with a double layer of foil and put the pork on top, skin-side up. Bring the sides of the foil up around the pork to create a parcel, then pour the wine into the tray around the sides. Transfer to the oven and reduce the temperature to 140C/120C fan/gas 1. Roast for 4-5 hrs, or until a meat thermometer inserted into the thickest part of the pork reads 70C."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Turn the oven up to 240C/220C fan/gas 9. Carefully spoon the pork roasting juices from the pan into a saucepan and cook over a medium heat for 10-15 mins, or until reduced by a third. Season to taste."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Meanwhile, arrange the foil around the meat so only the skin is exposed, then return to the oven for 10-15 mins until the skin is puffed up and browned all over. Leave to rest for 20 mins before slicing. Serve with the sauce drizzled over."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53294",
+      "external_id": "53294",
+      "name": "Zapiekanki",
+      "slug": "zapiekanki",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "polish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/72lmpt1764122511.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53294. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "baguette",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "mushrooms",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 6
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        },
+        {
+          "name": "cheddar cheese",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "ham",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "polish kabanos",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "mozzarella",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "dill",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "chives",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 13
+        },
+        {
+          "name": "tomato ketchup",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 200C/180C fan/gas 6. Bake the baguettes on a baking tray for 8-10 mins, then leave to cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat 2 tsp of the butter and 1 tsp of the oil in a pan over a low heat and cook the chopped onion for 5 mins until soft. Stir in the mushrooms, turn the heat to medium and cook for 5-10 mins more until the veg is soft and the mushroom liquid has evaporated. Stir in the garlic and cook for 1-2 mins until soft. Season, then stir in the mayonnaise and remove from the heat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Halve the baguettes lengthways, then return to the baking tray, cut-side up and spread over the mushroom mixture, then sprinkle over the cheddar, ham, kabanos and mozzarella. Bake for 8-10 mins, or until the cheese has melted and turned golden."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Meanwhile, heat the remaining butter and oil in a pan over a medium heat and fry the sliced onions for 5 mins until golden and soft. Remove from the heat and set aside. Once the pizzas are cooked, top with the caramelised onions, dill pickles (if using), the chives and a zig-zag drizzle of ketchup."
+        }
+      ]
+    }
+  ]
+}

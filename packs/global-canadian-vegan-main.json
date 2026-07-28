@@ -1,0 +1,147 @@
+{
+  "id": "global-canadian-vegan-main",
+  "title": "Global Canadian Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53336",
+      "external_id": "53336",
+      "name": "Molasses Baked Beans",
+      "slug": "molasses-baked-beans",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/9tddhg1764443699.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53336. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "dried white navy beans",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "bacon",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 3
+        },
+        {
+          "name": "molasses",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "cider vinegar",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "mustard",
+          "amount": 1.0,
+          "unit": "Ground",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place the dried beans into a Dutch oven with 6 cups (1.5 L) of water. Soak overnight."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain and pour beans back into the pot with enough water to cover the beans by a couple of inches, cook for 30 minutes until they are tender but still firm. Drain beans, making sure to reserve cooking liquid, set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat the oven to 325 \u00b0F (160 \u00b0C). While the oven is preheating, cook pork over medium-high heat in the Dutch Oven until fat is rendered and pork is beginning to brown, then add the onion cooking until tender."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the beans back to the pot, along with molasses, brown sugar, apple cider vinegar, ground mustard, salt and pepper and 3 cups (750 mL) of reserved bean water."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Bake uncovered for 3 to 5 hours until the beans are tender, and the sauce has thickened, and the edges of the pot get sticky."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "(Note: if beans get dry, add another cup of water.)"
+        }
+      ]
+    }
+  ]
+}

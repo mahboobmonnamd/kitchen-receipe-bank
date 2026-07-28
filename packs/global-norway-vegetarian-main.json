@@ -1,0 +1,196 @@
+{
+  "id": "global-norway-vegetarian-main",
+  "title": "Global Norway Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53117",
+      "external_id": "53117",
+      "name": "Nordic sm\u00f8rrebr\u00f8d with asparagus and horseradish cream",
+      "slug": "nordic-sm-rrebr-d-with-asparagus-and-horseradish-cream",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8a8fu01762772651.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53117. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "creme fraiche",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "horseradish",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 2
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 6
+        },
+        {
+          "name": "shallots",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "white asparagus",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "asparagus",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "rye bread",
+          "amount": 4.0,
+          "unit": "slices",
+          "sort_order": 11
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 12
+        },
+        {
+          "name": "v\u00e4sterbottensost cheese",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "dill",
+          "amount": 1.0,
+          "unit": "Sprinking",
+          "sort_order": 14
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 15
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "To make the horseradish cream, mix the cr\u00e8me fra\u00eeche, grated horseradish, lemon juice, salt and white pepper in a bowl. Refrigerate until serving."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the crispy shallots, heat some vegetable oil in a frying pan over a medium heat. Add the sliced shallots and fry until golden brown and crispy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Remove with a slotted spoon and drain on a plate lined with kitchen paper. Season with a pinch of salt."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "To make the open sandwich, bring a large saucepan of salted water to the boil, then blanch half of the asparagus (four white and four green) until tender-crisp, about 2\u20133 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add ice to a bowl of cold water. Use a slotted spoon to remove the asparagus from the boiling water and immediately transfer to the iced water to stop cooking. Thinly slice the remaining asparagus lengthwise to serve raw."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Pre-heat the grill until hot. Spread the rye bread with butter and grill until golden and crisp."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "To serve, place the grilled bread slices on serving plates. Arrange both the blanched and raw asparagus on the bread. Drizzle with horseradish cream, then sprinkle grated cheese over the top. Garnish with the crispy shallots and some fresh dill to finish."
+        }
+      ]
+    }
+  ]
+}

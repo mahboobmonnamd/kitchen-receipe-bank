@@ -1,0 +1,236 @@
+{
+  "id": "global-kenyan-non-vegetarian-breakfast",
+  "title": "Global Kenyan Non Vegetarian Breakfast",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52967",
+      "external_id": "52967",
+      "name": "Home-made Mandazi",
+      "slug": "home-made-mandazi",
+      "description": "Baking, Breakfast, Egg, Warm, Snack",
+      "category": "breakfast",
+      "cuisine": "kenyan",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "kenyan"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/thazgm1555350962.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52967. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "self-raising flour",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "This is one recipe a lot of people have requested and I have tried to make it as simple as possible and I hope it will work for you. Make sure you use the right flour which is basically one with raising agents. Adjust the amount of sugar to your taste and try using different flavours to have variety whenever you have them."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "You can use Coconut milk instead of regular milk, you can also add desiccated coconut to the dry flour or other spices like powdered cloves or cinnamon."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "For \u201chealthy looking\u201d mandazis do not roll the dough too thin before frying and use the procedure I have indicated above."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "1. Mix the flour,cinnamon and sugar in a suitable bowl."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "2. In a separate bowl whisk the egg into the milk"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "3. Make a well at the centre of the flour and add the milk and egg mixture and slowly mix to form a dough."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4. Knead the dough for 3-4 minutes or until it stops sticking to the sides of the bowl and you have a smooth surface."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "5. Cover the dough with a damp cloth  and allow to rest for 15 minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "6. Roll the dough on a lightly floured surface into a 1cm thick piece."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "7. Using a sharp small knife, cut the dough into the desired size setting aside ready for deep frying."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "8. Heat your oil in a suitable pot and gently dip the mandazi pieces to cook until light brown on the first side then turn to cook on the second side."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "9. Serve them warm or cold"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53114",
+      "external_id": "53114",
+      "name": "Ugali \u2013 Kenyan cornmeal",
+      "slug": "ugali-kenyan-cornmeal",
+      "description": "Breakfast from TheMealDB",
+      "category": "breakfast",
+      "cuisine": "kenyan",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "kenyan"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/smoa3h1762341142.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53114. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "white cornmeal",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 2
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Bring the water to a boil in a medium saucepan."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Reduce the heat to low, and stirring constantly with a whisk, slowly add the cornmeal to the boiling water. The ugali will begin to thicken quite quickly."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Continue cooking on low heat, stirring constantly with a sturdy wooden spoon, until the ugali begins to pull away from the sides of the pan, hold together, and takes on the aroma of roasted corn. Turn it out immediately onto a serving plate. If you would like, using a spoon or spatula, quickly shape it into a thick disk or round."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "The ugali will continue to firm as it cools and will be thick enough to cut with a knife (similar to firm polenta)."
+        }
+      ]
+    }
+  ]
+}

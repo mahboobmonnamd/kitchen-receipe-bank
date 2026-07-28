@@ -1,0 +1,809 @@
+{
+  "id": "global-jamaican-mixed-dessert",
+  "title": "Global Jamaican Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53360",
+      "external_id": "53360",
+      "name": "Caribbean Tamarind balls",
+      "slug": "caribbean-tamarind-balls",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/z1hz7z1765316430.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53360. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "tamarind pulp",
+          "amount": 16.0,
+          "unit": "ounces",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 2
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add tamarind pulp and 1 cup granulated sugar to a bowl and mash together with a spoon or fork. Take small amounts of the tamarind and sugar mix and shape them into small balls by rolling them in your hands. Make them the size of a marble or slightly bigger, as you like."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the remaining sugar to a flat surface, like a plate or a sheet pan. Roll the tamarind balls in granulated sugar until they're well-coated."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "You can eat the tamarind balls immediately, or you can let them set for a few hours or overnight. Allowing them to set will give them a firmer texture and more crystallized sugar coating. Enjoy."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53346",
+      "external_id": "53346",
+      "name": "Grape Nut Ice Cream",
+      "slug": "grape-nut-ice-cream",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1xscby1764790242.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53346. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "heavy cream",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "condensed milk",
+          "amount": 1.0,
+          "unit": "oz",
+          "sort_order": 2
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "grape nut cereal",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a large bowl, use an electric mixer to whip the cold heavy cream until stiff peaks form. Gently fold in the sweetened condensed milk and vanilla extract until well combined."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Fold in the cereal and stir until evenly distributed throughout the mixture."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour the mixture into a freezer-safe container (such as a loaf pan). Lay plastic wrap on top of the ice cream to avoid freezer burn. Cover the container and freeze for at least 6 hours or until solid."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Once frozen, let the ice cream sit at room temperature for a few minutes to soften slightly before scooping and serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53351",
+      "external_id": "53351",
+      "name": "Jamaican Banana Fritters",
+      "slug": "jamaican-banana-fritters",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ul2uy31764794321.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53351. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "banana",
+          "amount": 3.0,
+          "unit": "Medium",
+          "sort_order": 1
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "brown sugar",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 6
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mash bananas with fork in bowl."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add brown sugar, vanilla, extract, cinnamon, nutmeg and a pinch of salt. Sift in flour and stir with spoon until fully combined."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add oil to a 10 inch skillet over medium-high heat. Once oil is hot, drop banana fritter batter in oil by the spoonful. Once one side is golden and bubbles appear on the top, flip fritter and cook until the other side is browned as well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove fritters and drain on paper towels. Enjoy"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53348",
+      "external_id": "53348",
+      "name": "Jamaican Spice Bun Recipe",
+      "slug": "jamaican-spice-bun-recipe",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "jamaican",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/08c5f41764791918.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53348. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 380.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 5
+        },
+        {
+          "name": "brown sugar",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "beer",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "molasses",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 11
+        },
+        {
+          "name": "caramelized sugar sauce",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "dried cranberries",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 14
+        },
+        {
+          "name": "raisins",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 15
+        },
+        {
+          "name": "dried cherries",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Soak the craisins, raisins, and cherries in the 1 cup of beer. Set aside and allow to soak for 30 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat the oven to 325 degrees Fahrenheit. Grease an 8x4 loaf pan. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Combine all-purpose flour, baking powder, ground cinnamon, salt, in a large bowl and set aside."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In another bowl, combine brown sugar, egg, milk, honey, melted butter, molasses, browning, vanilla extract, and the beer that\u2019s soaking the fruit. Do not pour the fruit in at this time, just the beer. Mix to combine."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Remove 2 tablespoon of flour from the flour mixture and toss the fruit in it. Set aside."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Make a well in the middle of the bowl of dry ingredients and pour in wet mixture, stirring until fully combined. And the fruits to the mixture and stir until incpororated."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Pour mixture into prepared loaf pan and bake in the preheated oven for 50-60 minutes or until a toothpick comes out clean."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Cool for 5 minutes in the pan and then move to a cooling rack to finish cooling. Serve with slices of cheddar cheese."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53344",
+      "external_id": "53344",
+      "name": "Jamaican Sweet Potato Pudding",
+      "slug": "jamaican-sweet-potato-pudding",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xj9sa81764788866.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53344. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sweet potatoes",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "coconut milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "ground nutmeg",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "ground ginger",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "raisins",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 11
+        },
+        {
+          "name": "coconut milk",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 13
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 14
+        },
+        {
+          "name": "ground nutmeg",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 350\u00b0F (175\u00b0C). Grease and line a 9-inch round pan or loaf pan with parchment paper."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place your cut sweet potatoes in the bowl of a food processor and process until finely grated. In a small bowl, toss raisins in 2 teaspoons flour from the \u00bd cup. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a large bowl, combine grated sweet potatoes, light brown sugar, all-purpose flour, vanilla extract, allspice, cinnamon, nutmeg, ginger, and salt. Stir in 1\u00bd cups of coconut milk until a batter forms. Fold in the raisins that were tossed in the flour."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour the batter into the prepared pan and smooth the top. Bake uncovered for 1 hour 30 minutes, until mostly set but still slightly soft in the center"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53347",
+      "external_id": "53347",
+      "name": "No-Churn Rum Raisin Ice Cream",
+      "slug": "no-churn-rum-raisin-ice-cream",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/s9qyzd1764790772.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53347. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "dark rum",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "raisins",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "condensed milk",
+          "amount": 14.0,
+          "unit": "oz jar",
+          "sort_order": 4
+        },
+        {
+          "name": "brown sugar",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "heavy cream",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the rum in a small saucepan over medium heat until warm (do not boil). Remove from heat and stir in the raisins and vanilla extract. Let the mixture sit for at least 30 minutes. After soaking, drain off the extra rum, but keep \u00bc cup of the rum and reserve it to mix into your ice cream base."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large bowl, whisk together the sweetened condensed milk, dark brown sugar, cinnamon, allspice, salt, and reserved rum (\u00bc cup). Stir until the brown sugar is fully dissolved."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a separate bowl, whip the cold heavy cream with an electric mixer until stiff peaks form."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Gently fold the whipped cream into the condensed milk mixture until fully combined, being careful not to deflate the cream. Fold in the drained rum-soaked raisins to distribute them evenly."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pour the mixture into a loaf pan or freezer-safe container. Smooth the top and cover with plastic wrap or an airtight lid. Freeze for at least 6 hours, or until firm."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Let the ice cream sit at room temperature for 5\u201310 minutes before scooping for the best texture."
+        }
+      ]
+    }
+  ]
+}

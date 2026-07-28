@@ -1,0 +1,4832 @@
+{
+  "id": "global-spanish-non-vegetarian-main",
+  "title": "Global Spanish Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53156",
+      "external_id": "53156",
+      "name": "Arroz al horno (baked rice)",
+      "slug": "arroz-al-horno-baked-rice",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qt4i0n1763256454.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53156. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "extra virgin olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "pork belly slices",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "black pudding",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "bacon lardon",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "red pepper",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "plum tomatoes",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic clove",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "paprika",
+          "amount": 4.0,
+          "unit": "teaspoons",
+          "sort_order": 9
+        },
+        {
+          "name": "chilli flakes",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 10
+        },
+        {
+          "name": "dried white beans",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 12
+        },
+        {
+          "name": "thyme",
+          "amount": 6.0,
+          "unit": "parts",
+          "sort_order": 13
+        },
+        {
+          "name": "paella rice",
+          "amount": 375.0,
+          "unit": "g",
+          "sort_order": 14
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 200C/180C/gas 6. Heat half the oil in a deep frying or saut\u00e9 pan (or shallow casserole dish) measuring around 30cm in diameter. Over a high heat, colour the pork belly slices on each side in several batches, then transfer to a bowl. Add the remaining oil to the pan and lower the heat to medium, then add the black pudding and bacon and fry all over for several mins. Remove with a slotted spoon. Fry the onion and peppers for around 10 mins until soft and pale gold, then add the tomato and cook until soft. Add the garlic, smoked paprika and chilli flakes and cook for another 2 mins, then put the pork, black pudding and bacon back in the pan. Add the beans, stock and whichever herb you're using, and bring everything to the boil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Sprinkle the rice around the pork belly, pushing it underneath the stock. Let the stock come to the boil again, season well, then transfer to the oven (leave it uncovered). Cook for 20 mins without stirring, then check to see how the rice is doing. The rice should be tender and the stock absorbed. If it\u2019s not ready, put back in the oven for another 5 mins, then check again. Taste for seasoning."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Squeeze lemon juice over the top and drizzle over some extra virgin olive oil just before serving, if you like."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53147",
+      "external_id": "53147",
+      "name": "Arroz con gambas y calamar",
+      "slug": "arroz-con-gambas-y-calamar",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/jc6oub1763196663.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53147. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "raw king prawns",
+          "amount": 24.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 3
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "paella rice",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "tomato puree",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 7
+        },
+        {
+          "name": "white wine",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "seafood stock",
+          "amount": 650.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "squid",
+          "amount": 3.0,
+          "unit": "Medium",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Peel and devein most of the prawns (a fishmonger should be able to do this for you), keeping a few whole for decoration, if you like. Heat the olive oil in a large frying pan or shallow flameproof casserole over a medium-low heat and fry the onion for 5 mins until softened. Add the bay leaf, saffron, rice and tomato pur\u00e9e, and cook for 1-2 mins more, stirring."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour in the wine and bubble for 1-2 mins, then pour in the seafood stock and 150ml water. Cook for 5 mins, then add the squid, season well and stir to combine. Bring to the boil, then cover and reduce the heat to a gentle simmer. Cook for 12 mins more, adding a little more water if the mixture starts to look dry."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Uncover the pan and stir through the peeled prawns, then arrange any whole prawns on top of the rice mixture. Cover again and simmer for a further 5-6 mins until the prawns are pink and cooked through. Leave to stand for a couple of minutes before serving from the pan."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53161",
+      "external_id": "53161",
+      "name": "Chicken & chorizo rice pot",
+      "slug": "chicken-chorizo-rice-pot",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/fk80jp1763280767.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53161. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 1
+        },
+        {
+          "name": "chicken",
+          "amount": 1.0,
+          "unit": "whole",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Large Chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 5
+        },
+        {
+          "name": "chorizo",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 7
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "tablespoon chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "white wine",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "chicken stock",
+          "amount": 800.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "rice",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tbs chopped",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a large flameproof casserole dish and brown the chicken pieces on all sides \u2013 you may have to do this in batches. Remove from the dish and put to one side."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Lower the heat, add the onion and pepper, and gently cook for 10 mins until softened. Add the garlic and chorizo, and cook for a further 2 mins until the chorizo has released some of its oils into the dish. Stir in the tomato pur\u00e9e and cook for 1 min more."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Return the chicken pieces to the dish along with the thyme, white wine and stock. Bring the liquid to a boil, cover the dish with a tight-fitting lid and lower the heat. Cook for 30 mins."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Tip in the rice and stir everything together. Cover, set over a low heat and cook for a further 15 mins, or until the rice is cooked and has absorbed most of the cooking liquid. Remove from the heat and leave the dish to sit for 10 mins to absorb any remaining liquid. Season to taste and scatter with parsley to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53186",
+      "external_id": "53186",
+      "name": "Chicken with saffron, raisins & pine nuts",
+      "slug": "chicken-with-saffron-raisins-pine-nuts",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/4mhr3u1763481087.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53186. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 1.25,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves Chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "dry sherry",
+          "amount": 125.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken stock",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "raisins",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "pine nuts",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat a large frying pan on a high heat and season the chicken. Add the olive oil to the pan, then the chicken. Brown for about 5 mins on each side, remove onto a plate, then set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Lower the heat to medium. In the remaining fat, fry the onions for 3 mins, then add the garlic and saffron. Cook for 3-4 mins more. Add the sherry, then simmer for 3-5 mins until syrupy."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Put the chicken leg pieces back into the pan, tip in the stock, thyme and raisins, cover, then gently cook on a low heat for 20 mins. Add the breast meat and any juices left on the plate. Simmer for 10 mins more until cooked through and the sauce in the pan has reduced."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "While the chicken is cooking, heat oven to 200C/180C fan/gas 6. Scatter the pine nuts over a baking sheet, then roast for 10 mins until golden and toasted. Once the chicken has cooked through, season to taste, scatter with pine nuts and parsley, then serve with rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53166",
+      "external_id": "53166",
+      "name": "Chickpea, chorizo & spinach stew",
+      "slug": "chickpea-chorizo-spinach-stew",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xvnx8j1763287209.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53166. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "extra virgin olive oil",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 3
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 4
+        },
+        {
+          "name": "thyme",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "chorizo",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 10
+        },
+        {
+          "name": "chickpeas",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "sherry vinegar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 12
+        },
+        {
+          "name": "spinach",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a large pan, then gently fry the onion for 3-4 mins until it begins to soften. Stir in the carrot, celery, thyme and bay leaves. Season, then cook for 2-3 mins, stirring occasionally. Add the garlic, chorizo, cinnamon and smoked paprika. Gently fry until the vegetables soften and the chorizo starts to release its oils and crisp up."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Stir in the chickpeas, vinegar and 150ml water, then bring to a simmer for 1-2 mins until the chickpeas have heated up. Add the spinach, then stir through the chickpeas until it wilts a little. Remove from the heat, season to taste, then serve warm with crusty bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53168",
+      "external_id": "53168",
+      "name": "Chorizo & chickpea soup",
+      "slug": "chorizo-chickpea-soup",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kggfo91763288633.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53168. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "tinned tomatos",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "chorizo",
+          "amount": 110.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "savoy cabbage",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "chilli flakes",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 4
+        },
+        {
+          "name": "chickpeas",
+          "amount": 400.0,
+          "unit": "g can",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "crusty bread",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put a medium pan on the heat and tip in the tomatoes, followed by a can of water. While the tomatoes are heating, quickly chop the chorizo into chunky pieces (removing any skin) and shred the cabbage."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pile the chorizo and cabbage into the pan with the chilli flakes and chickpeas, then crumble in the stock cube. Stir well, cover and leave to bubble over a high heat for 6 mins or until the cabbage is just tender. Ladle into bowls and eat with crusty or garlic bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53157",
+      "external_id": "53157",
+      "name": "Chorizo & soft-boiled egg salad",
+      "slug": "chorizo-soft-boiled-egg-salad",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/v8eaed1763257313.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53157. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "baby new potatoes",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "egg",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "green beans",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "chorizo",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "sherry vinegar",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tbsp chopped",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the potatoes in a large pan of boiling salted water for 12 mins, adding the eggs after 6 mins, and the beans for the final 2 mins. Drain everything and cool the eggs under cold running water."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile fry chorizo slices for 1-2 mins, until beginning to crisp. Remove from the pan with a slotted spoon and set aside, leaving the oil from the chorizo in the pan. Add the garlic to the pan and cook gently for 1 min."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove the pan from the heat, stir in the vinegar and parsley, then toss with the potatoes, beans, chorizo and seasoning. Shell the eggs, cut into quarters and add to the salad."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53185",
+      "external_id": "53185",
+      "name": "Chorizo & tomato salad",
+      "slug": "chorizo-tomato-salad",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/6cskio1763338156.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53185. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef tomatoes",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Sprigs of fresh",
+          "sort_order": 3
+        },
+        {
+          "name": "sherry vinegar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 5
+        },
+        {
+          "name": "chorizo",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the tomatoes in a bowl with the onion and thyme. Season, then drizzle with the vinegar and oil. Let the flavours mingle while you cook the chorizo."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In a hot, dry pan, fry the chorizo slices until browned on both sides. Serve the tomatoes with the fried chorizo, drizzled with a little oil from the pan."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53159",
+      "external_id": "53159",
+      "name": "Chorizo, potato & cheese omelette",
+      "slug": "chorizo-potato-cheese-omelette",
+      "description": "Cheesy",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0y6uvc1763258983.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53159. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 2
+        },
+        {
+          "name": "chorizo",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "cheddar cheese",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the potato in boiling water for 8-10 mins or until tender. Drain and allow to steam-dry. Heat oil in an omelette pan, add chorizo and cook for 2 mins. Add the potato and cook for a further 5 mins until the potato starts to crisp. Spoon pan contents out, wipe pan and cook a 2 or 3-egg omelette in the same pan. When almost cooked, scatter with the chorizo and potato, parsley and cheese. Fold the omelette in the pan and cook for 1 min more to melt the cheese."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53154",
+      "external_id": "53154",
+      "name": "Clam, chorizo & white bean stew",
+      "slug": "clam-chorizo-white-bean-stew",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/92wbmf1763252334.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53154. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chorizo",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "butter beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "sherry vinegar",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 8
+        },
+        {
+          "name": "clams",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "crusty bread",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Fry the chorizo in a large frying pan with a lid, over a medium heat until it is starting to crisp up and release its oil. Add the onion and cook for 5 mins until starting to soften. Then add the garlic and finely chopped parsley, and fry for 1 min more."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour on the stock and tomatoes. Bring to the boil, reduce the heat, then add the beans and sherry vinegar. Simmer for 10 mins until the liquid is slightly reduced."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Scatter over the clams, cover with the lid and steam for 2-4 mins, shaking the pan occasionally until the clams are open. Have a little taste before seasoning, as the clams can be quite salty. Then scatter over the chopped parsley. Eat with lots of crusty bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53143",
+      "external_id": "53143",
+      "name": "Easy Spanish chicken",
+      "slug": "easy-spanish-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kzxflc1763194887.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53143. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "extra virgin olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "chorizo",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "yellow pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "sweet smoked paprika",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 7
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "green olives",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "butter beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "chicken thighs",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handfull",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 200C/180C fan/gas 6. Heat the olive oil in a large ovenproof frying pan over a medium heat and fry the onion, chorizo and peppers along with a pinch of salt and pepper for 15 mins until the veg has softened and the chorizo has released its oils. Add the paprika and garlic, and cook for another few minutes until fragrant."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip in the chopped tomatoes, olives and butter beans, stir to combine and season. Nestle in the chicken thighs and season well. Transfer to the oven and bake for 40 mins until the chicken skin is crisp and the meat cooked through and tender. Scatter with the parsley and serve."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Watch after ad (0.04):"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "3 Budget Egg Ideas"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53178",
+      "external_id": "53178",
+      "name": "Fried calamari",
+      "slug": "fried-calamari",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yhi46r1763330279.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53178. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "squid",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "plain flour",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "capers",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 4
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 5.0,
+          "unit": "tblsp",
+          "sort_order": 5
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut the squid into rings about \u00bdcm thick. Tip the flour into a freezer bag and season well. Add the capers, then give everything a good shake to mix together. Tip the squid into the bag, then shake again until all the rings are well coated. Mix together the garlic and mayonnaise, then place in a serving bowl."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour some oil into a large pan until it comes about 7cm up the sides, but the pan is no more than a third full. Place over a medium heat and let the oil warm up. To test that the oil is ready, place a small piece of bread in the pan \u2013 it should sizzle when it touches the oil."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove a handful of squid from the flour and shake off any excess. Gently drop into the oil, then cook for about 3 mins until crisp. Remove with a slotted spoon and place on kitchen paper. Repeat with the remaining squid. Serve straight away with the mayonnaise and lemon wedges."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53144",
+      "external_id": "53144",
+      "name": "Gambas al ajillo",
+      "slug": "gambas-al-ajillo",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ze8uwg1763196123.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53144. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "raw king prawns",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic clove",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 3
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "tablespoon chopped",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Peel the prawns, leaving the tails intact, and, using a cocktail stick, remove the digestive tracts. Or, if you are using a frying pan rather than a terracotta pot, you can cook the prawns in their shells. Season with a little sea salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put the garlic, olive oil and chillies in a flameproof terracotta pot or frying pan and set over a high heat. When the garlic starts to turn golden, add the prawns and cook for 1-2 mins on each side until just pink. Sprinkle over the chopped parsley and some freshly cracked black pepper, and serve immediately. If using a terracotta pot, you can take that straight to the table, but be careful with it as the oil and terracotta will remain hot for several minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53180",
+      "external_id": "53180",
+      "name": "Garlicky prawns with sherry",
+      "slug": "garlicky-prawns-with-sherry",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/u2lhqb1763331899.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53180. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves Chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "prawns",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "dry sherry",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the olive oil in a large frying pan. Tip in the garlic slices and cook for a few secs. Then stir through the prawns and cook for a couple of mins until they start to turn pink."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour over the sherry and cook for a few mins more, just until the prawns are cooked through. Sprinkle with parsley before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53179",
+      "external_id": "53179",
+      "name": "Ham croquetas",
+      "slug": "ham-croquetas",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/6dpa7m1763331105.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53179. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "plain flour",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 2
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 4
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "jam\u00f3n ib\u00e9rico",
+          "amount": 70.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "plain flour",
+          "amount": 60.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 75.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "milk",
+          "amount": 330.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "Grated",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the filling, heat the olive oil in a pan until it starts to shimmer. Add the leek and saut\u00e9 until soft but not coloured. Stir in the ham with a wooden spoon, fry for 1 min, then stir in the flour and fry over a medium heat, stirring occasionally, until the mixture is golden but not burnt \u2013 this will take about 5 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, combine the stock and milk in a small pan and heat until steaming but not boiling. Season with a few scrapes of nutmeg. Gradually add the liquid, a few tbsp at a time, stirring constantly."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once you\u2019ve incorporated all the milk stock, continue to cook the filling over a medium heat for about 10 mins or until it thickens and leaves the sides of the pan when you stir it."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Season with black pepper, taste and adjust the salt if necessary \u2013 the ham can be very salty to start with. The filling is now done: it has to be really thick because you don\u2019t want the croquetas to turn into pancakes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Smooth the mixture onto a baking tray (30 x 20cm is fine). Once it has stopped steaming, cover with cling film to stop it drying out. Leave to cool before putting it in the fridge for 1 hr."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "step 6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "When you're ready for the next stage, line up three bowls: the first filled with the flour, the second with beaten egg and the third with breadcrumbs. Take the ham mixture out of the fridge. Put a little bit of olive oil on your hands to make it easier to roll the croquetas."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "step 7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Roll a spoonful of the mixture between your palms. The size and shape of the croquetas is up to you, but the easiest is a walnut-sized ball. Then begin coating as follows."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53145",
+      "external_id": "53145",
+      "name": "Jamon & wild garlic croquetas",
+      "slug": "jamon-wild-garlic-croquetas",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/zc9cwz1763196177.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53145. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "wild garlic leaves",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "milk",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 45.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "flour",
+          "amount": 65.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "manchego",
+          "amount": 35.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "jam\u00f3n ib\u00e9rico",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Wash the wild garlic leaves well in a colander, then pour over boiling water from the kettle until just wilted. Immediately rinse under cold running water, then squeeze out the excess water and finely chop."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Warm the milk in a pan over a low heat until just steaming. Heat the oil or butter in a second pan and, once warm or melted, stir in the flour for a couple of minutes until it starts to brown a little. Gradually add the warm milk, a little at a time, until you have a thick, silky sauce. Bubble for a minute or two, stirring to make sure all the flour has cooked out. Season."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the manchego, jam\u00f3n and wild garlic to the pan, and beat to combine. Tip out onto a lightly oiled baking tray or plate, spread out then cover and chill for at least 1 hr. Will keep chilled for up to 24 hrs."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Lightly oil your hands and shape the mixture into 18-20 even-sized balls. Arrange on a baking tray and freeze for 30 mins to firm up."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Beat the egg in a shallow dish with a little seasoning. Tip the panko into a second dish. Dip each of the croquetas in the egg, then turn to coat in the breadcrumbs. At this point, the raw croquetas can be frozen for up to three months. Pour the oil into a large, deep pan ensuring it is no more than a third full and heat to 170C, or until a cube of bread browns lightly in 30 seconds. Fry the croquetas in batches for 2-3 mins until deeply golden. To cook from frozen, fry at 160C for a few minutes longer until they\u2019re piping hot inside. Remove to a sheet of kitchen paper using a slotted spoon and leave to drain. Serve warm with a glass of sherry."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53086",
+      "external_id": "53086",
+      "name": "Migas",
+      "slug": "migas",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xd9aj21740432378.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53086. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "Half",
+          "sort_order": 3
+        },
+        {
+          "name": "pork",
+          "amount": 1.0,
+          "unit": "Handfull",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Crumble the bread into small pieces. Sprinkle with cold water, cover with a damp cloth and leave for 30 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat 2 tsp of olive oil in a deep pan. Add the garlic cloves separated, skins on; just make a small cut with a knife to open them and keep frying for 5 minutes. Set the garlic aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In the same oil, where we fried everything, simmer the bread, stirring constantly for 15 minutes and add a grinding of black pepper."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the garlic, continue stirring for about 20 minutes. It will be ready when the bread is soft and golden."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53151",
+      "external_id": "53151",
+      "name": "Paella",
+      "slug": "paella",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/9bl20p1763248192.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53151. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "raw tiger prawns",
+          "amount": 10.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 3
+        },
+        {
+          "name": "dry sherry",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "mussels",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 6
+        },
+        {
+          "name": "chorizo",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 9
+        },
+        {
+          "name": "squid",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 10
+        },
+        {
+          "name": "tomato",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "paella rice",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "broad beans",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "lemon zest",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat 1 tbsp of the oil in a wide, shallow pan. Add the prawn heads and parsley stalks and sizzle until the heads turn pink, then mash with a potato masher. Pour over the sherry or wine and 300ml water, season with salt and simmer for 10 mins to make a stock, mashing the prawn heads as they cook."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Scatter the mussels into the pan, cover the pan loosely with a lid or tea towel, then put over a high heat for 3-4 mins until the mussels just open. Stir to release the mussel juices, then pour the contents of the pan into a colander set over a large bowl containing the saffron. Let the saffron steep in the stock \u2013 you will need 700ml in total, so top up with water if needed and give everything a good stir. Pick the mussels out from the colander, then set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Wipe out the pan and add the rest of the olive oil. Sizzle the chorizo until it releases its oil, then add the onion and garlic and cook until softened. Add the squid and turn over until it turns white. Add the tomatoes and cook down for a minute, then pour over most of the stock, give everything a good stir and bring to the boil. Scatter the rice over the stock, stir well once, then boil vigorously for 5 mins. Reduce the heat to the lowest setting and slowly simmer for 10 mins without stirring until the rice has absorbed most of the liquid."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Tuck the prawn tails into the rice and simmer for 5 mins, turning them over until cooked through. Stir through the mussels and broad beans or peas. Taste the rice \u2013 if it is still a little raw but the pan is dry, add a splash more stock and continue to cook; if it\u2019s too soupy, then increase the heat to cook off the last of the stock."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Once the rice is just cooked, turn off the heat and cover with a tea towel for a few minutes. Scatter over the parsley leaves and lemon zest, then season with smoked salt if you like. Stir everything once, then serve straight from the pan, with lemon wedges on the side."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53152",
+      "external_id": "53152",
+      "name": "Pan-fried hake, white bean & chorizo broth",
+      "slug": "pan-fried-hake-white-bean-chorizo-broth",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/4yjart1763248459.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53152. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "dried white beans",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 2
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "bread",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "chorizo",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "paprika",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 11
+        },
+        {
+          "name": "hake",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain the beans, then tip into a large pan with 2 litres of water. Simmer with the whole garlic cloves, bay leaves and thyme for 30 mins or until cooked and tender. Remove from the heat and set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, heat 2 tbsp oil in a frying pan. Fry the bread with the remaining garlic clove. When golden and crisp, scoop out and drain on kitchen paper. Add the chorizo to the pan, fry until crisp, tip out and keep warm with the bread."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add another 2 tbsp oil and the onion to the pan, and cook for 5 mins until softened. Stir in the paprika. Drain the beans and add to the onions with the chicken stock and 2 tsp salt. Cook for 5-10 mins. Stir through the parsley and keep warm."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Season the hake and heat the remaining 2 tbsp oil in the frying pan. Put the hake, skin-side down, in the pan and cook for 3-5 mins over a mediumhigh heat to crisp up the skin. Flip the fish over and cook for a further 3-5 mins until cooked through. Spoon the white bean mix into bowls, place the hake on top and finish with the fried bread, chorizo and a little more thyme."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53162",
+      "external_id": "53162",
+      "name": "Pollo en pepitoria",
+      "slug": "pollo-en-pepitoria",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/li30ck1763281992.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53162. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 1
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic clove",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "almonds",
+          "amount": 35.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "stale bread",
+          "amount": 30.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tbs chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken thighs",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 10
+        },
+        {
+          "name": "dry sherry",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 11
+        },
+        {
+          "name": "chicken stock",
+          "amount": 350.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 13
+        },
+        {
+          "name": "cloves",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 14
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 15
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 16
+        },
+        {
+          "name": "almonds",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the saffron in a small bowl with 75ml of just-boiled water. Stir and set aside. Heat 2 tbsp of the oil in a broad, shallow casserole dish. Cook the garlic until pale gold in colour, then add the blanched almonds and bread, and continue to fry until everything is golden. Tip into a food processor with some salt and pepper and the parsley, and whizz together."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat 2 more tbsp of the oil in the pan and brown the chicken all over, seasoning as you cook. Put in a bowl and set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove all but about 2 tbsp of chicken fat from the pan and cook the onion, carrot and celery until golden. Add the sherry, stirring to dislodge any brown bits that have stuck to the pan. Pour in the stock and the saffron (with its water), and bring to the boil, then turn the heat down to a simmer. Add the spices and bay leaves, and put the chicken back in the pan with any juices. Season and gently cook the chicken for about 40 mins with the lid on."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Transfer the chicken to a bowl again, leaving the sauce in the pan, and cover with foil to keep warm. Remove the yolks from the eggs and roughly chop the whites. Mash the egg yolks in a small bowl and gradually mix in a couple of tbsp of the sauce. Bring the remaining sauce to the boil to reduce a bit (you want it to just coat the chicken), then turn the heat down. Remove the bay and cinnamon stick. Add the egg yolks and cook for a few mins until the mixture has thickened. Stir in the almond mixture that you made earlier (this will thicken the sauce, too). Put the chicken back in the pan and heat it for about 3 mins, spooning the sauce over it. Season to taste."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Scatter over the extra parsley, the almonds pieces and the chopped egg whites (if you\u2019re going to use them). You can serve this straight from the dish with some rice, if you like."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53174",
+      "external_id": "53174",
+      "name": "Prawns with Romesco sauce",
+      "slug": "prawns-with-romesco-sauce",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/u03xhi1763308917.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53174. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic clove",
+          "amount": 3.0,
+          "unit": "Large",
+          "sort_order": 2
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 4
+        },
+        {
+          "name": "shelled hazelnuts",
+          "amount": 10.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "almonds",
+          "amount": 10.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 3.0,
+          "unit": "sprigs",
+          "sort_order": 7
+        },
+        {
+          "name": "bread",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 8
+        },
+        {
+          "name": "olive oil",
+          "amount": 120.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "red wine vinegar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 10
+        },
+        {
+          "name": "tiger prawns",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Prepare ahead - halve the pepper lengthways and remove the seeds and stalk. Line a grill pan with foil and put the pepper halves, skin side up, on the grill pan with the whole garlic cloves, chilli and tomato. Grill for 2 minutes, turn the tomato, then grill for a further 2 minutes. Remove the tomato with a large spoon, then peel, quarter and remove the seeds. Then chop the tomato roughly."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Continue grilling the pepper, chilli and garlic for 4-5 minutes, until the pepper and chilli skins have blackened and the garlic is starting to soften (the garlic skin will start to split when it is ready). When cool enough to handle, peel and halve the chilli, and scrape out and discard the seeds. Peel the pepper and roughly chop both the pepper and chilli."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Spread nuts over the foil and grill until toasted. Finely chop the nuts and parsley in a food processor. Tip into a small bowl."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Heat 3 tablespoons of oil in a frying pan, add the pepper, garlic and chilli and fry for 3 minutes. Tear up the bread and add to the pan, turning it in the oil until lightly browned. Pulse in food processor with the tomatoes, salt, vinegar and oil until roughly chopped. Tip into a bowl. Leave to cool and store in fridge for up to 3 days."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "On the day add the nuts and parsley to the sauce and mix. Serve in a small bowl on a plate with the peeled prawns. Supply cocktail sticks for spearing the prawns."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53171",
+      "external_id": "53171",
+      "name": "Salt cod tortilla",
+      "slug": "salt-cod-tortilla",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/njj1681763297231.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53171. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Large Chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "jersey royal potatoes",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "Tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "salt cod",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat half the oil in a frying pan, and saut\u00e9 the onion over a medium heat until soft and pale gold \u2013 this will take about 8 mins. Remove from the pan, set aside, and add the potatoes to the pan. Cook until they are tender but not falling apart, carefully turning every so often. Cover the pan some of the time to help the slices cook through. Add the onions back to the pan along with the garlic and cook for another 4 mins. Tip into a bowl with the eggs, parsley and some seasoning and mix together. Leave to sit for half an hour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, put the cod in a saucepan and cover with water. Bring up to a simmer. Remove from the heat, cover and leave for 10 mins. Drain, leave to cool and remove the skin and any bones. Break into large flakes and add to the potato and egg mixture."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Heat the rest of the oil in a non-stick frying pan. Pour in the tortilla mix and cook over a medium-low heat until it is just set and coming away from the sides of the pan. You might need to cover it to help the centre set. Be careful not to overcook it. Put a spatula underneath the tortilla every so often to make sure it isn\u2019t sticking. Slide the tortilla onto a plate, then put the pan on top and flip the tortilla into it, uncooked side-down. Cook over a low heat until golden, or grill until just set. Leave to cool a little before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52836",
+      "external_id": "52836",
+      "name": "Seafood fideu\u00e0",
+      "slug": "seafood-fideu",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wqqvyq1511179730.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52836. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "mussels",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "prawns",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "saffron",
+          "amount": 2.0,
+          "unit": "pinches",
+          "sort_order": 3
+        },
+        {
+          "name": "vermicelli pasta",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 5.0,
+          "unit": "tblsp",
+          "sort_order": 5
+        },
+        {
+          "name": "onions",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 7
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "monkfish",
+          "amount": 1.0,
+          "unit": "tail",
+          "sort_order": 9
+        },
+        {
+          "name": "baby squid",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "fish stock",
+          "amount": 650.0,
+          "unit": "ml",
+          "sort_order": 11
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 12
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 13
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Boil the kettle. Empty the mussels into a colander and run under cold water. Throw away any with broken shells. Pick through the shells, tapping each one on the side of the sink \u2013 they should be closed or should slowly close when tapped \u2013 if they stay open, throw them away. If any of the shells still have barnacles or stringy beards attached, pull them off with a cutlery knife and rinse the shells well. Keep in the colander, covered with a cold, damp cloth, until you\u2019re ready to cook. Peel the prawn shells on the body section only \u2013 leave the heads and tails intact. Score down the backs and pull out any gritty entrails. Chill until you\u2019re ready to cook."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the saffron in a small cup, cover with 50ml kettle-hot water and set aside for 10 mins. If using vermicelli, put in a bowl and crush to little pieces (about 1cm long) with your hands."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat the oil in a large frying pan with at least a 3cm lip, or a 40cm paella pan. Add the onion and stir around the pan for 5 mins until soft. Add the garlic and cook for 1 min more, then tip in the vermicelli and cook for 5 mins, stirring from time to time, until the vermicelli is toasted brown. Stir in the paprika."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Keeping the heat moderate, stir through the monkfish, squid and saffron with its water, seasoning well. Spread the ingredients out in an even layer, then pour over the hot stock and scatter the tomatoes on top. Bring to a simmer, then cover the whole dish with a tight-fitting lid (or foil). Turn the heat to medium and cook for 6 mins."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Uncover and stir to incorporate the dry top layer of pasta. Push the mussels into the pasta so the hinges are buried in the bottom of the dish, and they stand straight up. Arrange the prawns on top, cover tightly and cook for another 6 mins or until the mussels are open, the prawns are pink and the pasta is cooked through. Leave to simmer for another 2-3 mins to cook off most of the remaining liquid (leave a little in the pan to prevent the pasta from sticking together). Allow to sit for 2-3 mins, then squeeze over the lemon juice and arrange the wedges on top. Scatter with parsley before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53167",
+      "external_id": "53167",
+      "name": "Seafood rice",
+      "slug": "seafood-rice",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/5r5rvx1763287943.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53167. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "chorizo",
+          "amount": 110.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "rice",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "fish stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 6
+        },
+        {
+          "name": "peas",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "frozen seafood mix",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a deep frying pan, then soften the leek for 5 mins without browning. Add the chorizo and fry until it releases its oils. Stir in the turmeric and rice until coated by the oils, then pour in the stock. Bring to the boil, then simmer for 15 mins, stirring occasionally."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip in the peas and cook for 5 mins, then stir in the seafood to heat through for a final 1-2 mins cooking or until rice is cooked. Check for seasoning and serve immediately with lemon wedges."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53177",
+      "external_id": "53177",
+      "name": "Spaghetti with Spanish flavours",
+      "slug": "spaghetti-with-spanish-flavours",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vpcqn01763335688.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53177. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chorizo",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "spaghetti",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "parsley",
+          "amount": 20.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "parmesan cheese",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put a pan of water on over a high heat to boil. Meanwhile, snip the chorizo into strips with scissors, and chop the parsley and peppers (check for stray seeds first)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "When the water is boiling briskly, add the spaghetti with a good measure of salt, stir and return to the boil. Cook for 3 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In a large frying pan, heat the oil, add the chorizo and peppers and plenty of black pepper. Cook for a minute or so, until heated through and the juices are stained red from the paprika in the chorizo. Scoop half a mugful of pasta water from the pan, drain the remainder and tip the spaghetti into the frying pan."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add the parsley and parmesan, toss well and splash in the pasta water, to moisten. Hand round extra parmesan at the table."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53181",
+      "external_id": "53181",
+      "name": "Spanish beans with chicken & chorizo",
+      "slug": "spanish-beans-with-chicken-chorizo",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/bpkxtw1763332446.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53181. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pinto beans",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Sprigs of fresh",
+          "sort_order": 4
+        },
+        {
+          "name": "bay leaves",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken thighs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "jersey royal potatoes",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "chorizo",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "spinach",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Soak the beans for at least 4 hrs or overnight in a large bowl with plenty of water to cover. Next day, rinse and drain, then put in a large heavy based pan with the onion, paprika, herb bundle and chicken. Pour over enough water or stock to cover, bring to the boil, then reduce the heat, cover and simmer for 45 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove the chicken to a plate, then add the potatoes and chorizo to the pan. Continue cooking for 30 mins until the beans and potatoes are tender."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Discard the skin and bones from the chicken and tear into large chunks. Return the chicken to the pan with the spinach and simmer for 5 mins."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53164",
+      "external_id": "53164",
+      "name": "Spanish Chicken",
+      "slug": "spanish-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/pqulvm1763282839.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53164. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 3.0,
+          "unit": "sliced thinly",
+          "sort_order": 2
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Zest and juice of 1",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken stock",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 190C/170C fan/gas 5. Put all the ingredients into a large, wide ovenproof dish. Mix everything together with your hands and season."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake for 45 mins, stirring the onions after 20 mins, until the chicken is golden and the onions tender. Serve with rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53155",
+      "external_id": "53155",
+      "name": "Spanish chicken pie",
+      "slug": "spanish-chicken-pie",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8ovxf41763253962.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53155. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "paprika",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 5
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "roasted pepper",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "green olives",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 200C/fan 180C/gas 6. Boil the potatoes for 15-20 mins until tender. Drain, return to the pan, then mash with some seasoning and 2 tsp of the paprika."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, heat the oil in a large pan, then fry the onions and garlic for a few mins until softened. Stir in the remaining paprika for 1 min, add the tomatoes , then, bring to a simmer. Tip into a large ovenproof dish, then stir in the chicken, peppers, olives and some seasoning."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Spoon over the mash, then bake for 15 mins until the mash is golden on top and the sauce is bubbling."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53183",
+      "external_id": "53183",
+      "name": "Spanish meatballs with clams, chorizo & squid",
+      "slug": "spanish-meatballs-with-clams-chorizo-squid",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/2wt8721763334199.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53183. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "shallots",
+          "amount": 3.0,
+          "unit": "diced",
+          "sort_order": 2
+        },
+        {
+          "name": "smoked paprika",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove finely chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "dry sherry",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "pork",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "egg yolks",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 50.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "chorizo",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "squid",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "white wine",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 13
+        },
+        {
+          "name": "tomato",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 14
+        },
+        {
+          "name": "clams",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 15
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 16
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 17
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Melt the butter in a heavy-based casserole, then soften the shallots for 5 mins. Add the paprika and crushed garlic and cook for 1 min until the paprika becomes fragrant. Splash in the sherry, then pour the whole lot into a bowl with the breadcrumbs. Season and cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the pork mince and the egg yolk to the bowl, then beat well. Shape into 18 small meatballs. Wipe the pan, put on a medium-high heat, then add the oil. Fry the meatballs for 5 mins, just to colour, then lift onto a plate, but keep the oil in the pan. Sizzle the chorizo with the sliced garlic. Add the squid and fry to give a little colour. Now tip in the white wine and bring to the boil, scraping the bottom. Stir in the pulped tomatoes, bring to the boil, then add the meatballs and the clams. Cover and cook for 5 mins until the clam shells open. Discard any that stay shut. Sprinkle with the chopped parsley, drizzle with the extra virgin oil, then serve with crusty bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53184",
+      "external_id": "53184",
+      "name": "Spanish rice & prawn one-pot",
+      "slug": "spanish-rice-prawn-one-pot",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sl6vqv1763335988.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53184. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "chorizo",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "basmati rice",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "prawns",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Boil the kettle. In a non-stick frying or shallow pan with a lid, fry the onion, peppers, chorizo and garlic in the oil over a high heat for 3 mins. Stir in the rice and chopped tomatoes with 500ml boiling water, cover, then cook over a high heat for 12 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Uncover, then stir \u2013 the rice should be almost tender. Stir in the prawns, with a splash more water if the rice is looking dry, then cook for another min until the prawns are just pink and rice tender."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53182",
+      "external_id": "53182",
+      "name": "Spanish seafood rice",
+      "slug": "spanish-seafood-rice",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/c6ghxm1763335584.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53182. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "yellow pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic clove",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "paella rice",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 800.0,
+          "unit": "ml",
+          "sort_order": 7
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "frozen seafood mix",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1/2",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a large saucepan and soften the onion for 6-7 mins. Add the pepper and garlic, cook for 2 mins more, then stir in the paella rice and cook for 1 min, stirring to coat."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour in the stock, add the saffron and bring to the boil. Cook, uncovered, at a gentle bubble, for 20 mins, stirring occasionally until the rice is tender."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Stir in the seafood and lemon juice and cook for 2 mins or until piping hot and completely cooked through. Serve in warm bowls scattered with the parsley."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53176",
+      "external_id": "53176",
+      "name": "Spanish tomato bread with jam\u00f3n Serrano",
+      "slug": "spanish-tomato-bread-with-jam-n-serrano",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/hsp1fo1763327867.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53176. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "tomato",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove finely chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "baguette",
+          "amount": 20.0,
+          "unit": "slices",
+          "sort_order": 6
+        },
+        {
+          "name": "serrano ham",
+          "amount": 5.0,
+          "unit": "Slices",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix together the chopped tomatoes, garlic clove, olive oil, salt and pepper. Keep in the fridge until needed."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "To serve, toast 20 slices of baguette. Spoon a little tomato topping on to each piece of toast. Tear 5-6 slices of jam\u00f3n Serrano into pieces and put one piece on each slice of bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53175",
+      "external_id": "53175",
+      "name": "Spanish-style slow-cooked lamb shoulder & beans",
+      "slug": "spanish-style-slow-cooked-lamb-shoulder-beans",
+      "description": "Lamb from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/9kwatm1763327074.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53175. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lamb shoulder",
+          "amount": 2.5,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "carrots",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic bulb",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken stock",
+          "amount": 500.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "butter beans",
+          "amount": 1200.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "roasted pepper",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "black olives",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "parsley",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 11
+        },
+        {
+          "name": "hot smoked paprika",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 12
+        },
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        },
+        {
+          "name": "rosemary",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the spice mix, combine all of the ingredients together with a large pinch of salt. Slash the lamb shoulder all over with a sharp knife and rub in. If you have the time, marinate for up to 24 hrs, but this is not essential."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat the oven to 150C/130C fan/gas 2. Heat the oil in a large flameproof casserole dish or roasting tin over a medium-high heat, add the onions, carrots and garlic and sizzle for 5 mins until the onions and carrots are softened. Pour over the stock, then bring to the boil. Nestle the lamb in the pan and cover, then transfer to the oven and roast for 2 hrs."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Uncover and transfer the lamb to a plate using tongs. Stir the beans, peppers and olives through the stock in the pan, sit the lamb back on top and return to the oven, uncovered, for 1 hr 30 mins until the lamb is cooked through. Transfer the lamb to a board and shred using two forks. Stir the parsley through the braised beans before serving."
+        }
+      ]
+    }
+  ]
+}

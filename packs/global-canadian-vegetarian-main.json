@@ -1,0 +1,149 @@
+{
+  "id": "global-canadian-vegetarian-main",
+  "title": "Global Canadian Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53340",
+      "external_id": "53340",
+      "name": "Hodge Podge",
+      "slug": "hodge-podge",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xihv0c1764447887.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53340. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "new potatoes",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 2
+        },
+        {
+          "name": "green beans",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "peas",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "dill",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "chives",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 6
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 7
+        },
+        {
+          "name": "heavy cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "First, cook your vegetables. Bring a large pot of salted water to boil. Par-cook carrots and potatoes for five minutes until carrots and potatoes are fork tender, then blanch the peas and beans for about a minute in the same pot. Strain vegetables and set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a heavy-bottomed pot or Dutch oven, melt butter over medium heat, add vegetables, and cook to warm through."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add milk and cream and bring the soup to a boil. Turn the heat down to low and season with salt and pepper."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add dill and chives and let simmer for at least 10 minutes. Serve warm."
+        }
+      ]
+    }
+  ]
+}

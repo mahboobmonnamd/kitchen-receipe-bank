@@ -1,0 +1,1706 @@
+{
+  "id": "global-norway-mixed-dessert",
+  "title": "Global Norway Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53127",
+      "external_id": "53127",
+      "name": "Authentic Norwegian Kransekake",
+      "slug": "authentic-norwegian-kransekake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yk78uc1763075719.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53127. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "almonds",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 1
+        },
+        {
+          "name": "egg white",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 3
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "egg white",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Grind almonds in an almond grinder or food processor."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Mix almonds and powdered sugar together in a large mixing bowl. Add three of the egg whites and knead the dough together with your hands until it comes together in a ball. Wrap in cling film and leave in the fridge for at least an hour, preferably until the next day."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Grease the kransekake forms thoroughly and coat with semolina, flour, or bread crumbs."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Preheat oven to 210\u00b0C (410\u00b0F) top and bottom heat. Divide the dough into six sections."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Slowly add the remaining egg white to the dough and knead it until you can roll it into long sausages about as thick as your index finger. Fill the forms with the dough sausages, pinching the ends together to make rings."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Set the forms on a baking sheet and back in the middle of the oven for about 10 \u2013 12 minutes, until the tops are golden brown."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53116",
+      "external_id": "53116",
+      "name": "Cinnamon buns",
+      "slug": "cinnamon-buns",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/as88dq1762772486.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53116. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "unsalted butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "milk",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 3
+        },
+        {
+          "name": "flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "strong white flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "fast action yeast",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "caster sugar",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 8
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 10
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "cinnamon",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 13
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a small saucepan heat the butter, milk and salt until the butter is melted. Allow the mixture to cool until it is lukewarm."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large bowl, stir together the flours, yeast, cardamom and sugar until combined."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Make a well in the centre and crack in the eggs. Pour in the lukewarm milk mixture and stir everything together to form a sticky dough. You may have to use your hands as the dough becomes stiffer."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Oil the work surface with a teaspoon of olive oil. Turn the dough out onto the oiled surface and knead vigorously for 5\u20138 minutes, using a plastic scraper as needed to prise the dough from the work surface. Don\u2019t be tempted to add flour, as this will make the buns dry and tough. Keep kneading until the dough is considerably less sticky, smoother and more elastic."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Shape into a ball, and put into a large, greased bowl. Cover the bowl with a clean tea towel and set aside in a warm place to prove for an hour, or until doubled in size."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Meanwhile, for the filling and topping, mix the softened butter in a bowl with half the sugar and 1 tablespoon cinnamon. Use a fork to mix the sugar and spice into the butter until it is completely combined."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Mix the remaining sugar and cinnamon in a separate bowl and set aside."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "When the dough has risen, turn out onto a floured work surface and gently roll out into a 36x24cm/14x9\u00bdin rectangle. Spread the cinnamon-sugar-butter evenly over the dough with a table or palette knife."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "With the longest edge closest to you, roll the dough up into a cylinder. Cut into 12 even slices."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Place each slice onto a flattened out paper cupcake case on a baking tray, or into a greased muffin tin. (Baking in a muffin tin will make your cinnamon buns taller and domed.)"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Cover with a clean tea towel and set aside to prove again for 30\u201345 minutes, or until risen."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Preheat the oven to 200C/180C Fan/Gas 6."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Brush the tops of the buns with beaten egg and dust liberally with the cinnamon sugar. Bake for 12 minutes until the buns are dark golden-brown. Enjoy warm with a cup of coffee."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53131",
+      "external_id": "53131",
+      "name": "Fyrstekake \u2013 Norwegian Prince Cake",
+      "slug": "fyrstekake-norwegian-prince-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/9zqrod1763075574.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53131. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "granulated sugar",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "Cup",
+          "sort_order": 3
+        },
+        {
+          "name": "egg yolks",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "almonds",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "brown sugar",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "melted butter",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 10
+        },
+        {
+          "name": "brandy",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        },
+        {
+          "name": "almond extract",
+          "amount": 5.0,
+          "unit": "drops",
+          "sort_order": 12
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Crust"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Mix together sugar, vanilla and butter until light and fluffy. Mix in the egg yolks. Add in the flour and baking powder and knead with hands until the dough is smooth."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pack the dough in plastic wrap and chill in refrigerator for at least 30 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Almond filling"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Run the almonds and sugar together in a food processor until the almonds are finely ground (you can decide for yourself how coarse or fine you want them)."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Stir in the butter, egg, cognac and/or almond extract (if using)."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Assembly"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Line the bottom of your cake form with baking paper and grease the sides of the form."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "\u25a2"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53128",
+      "external_id": "53128",
+      "name": "Kv\u00e6fjord Cake \u201cVerdens Beste\u201d (World\u2019s Best Cake)",
+      "slug": "kv-fjord-cake-verdens-beste-world-s-best-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/gdn1ot1763075684.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53128. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg yolks",
+          "amount": 2.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "cornstarch",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 2
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "heavy cream",
+          "amount": 2.0,
+          "unit": "Cup",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "vanilla pod",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "Cup",
+          "sort_order": 7
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "egg yolks",
+          "amount": 5.0,
+          "unit": "Large",
+          "sort_order": 9
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 10
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "egg white",
+          "amount": 7.0,
+          "unit": "unit",
+          "sort_order": 13
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 14
+        },
+        {
+          "name": "almonds",
+          "amount": 1.0,
+          "unit": "Sliced",
+          "sort_order": 15
+        },
+        {
+          "name": "whipping cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Vanilla custard"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Separate the egg yolks and set aside the whites to use in the meringue."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Whisk together the egg yolks, cornstarch and sugar in a bowl."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Heat the cream and milk in a saucepan. Split open the vanilla pod and add the beans to the saucepan. Once the milk begins to bubble pour about half of it into the bowl with the egg mixture, whisking constantly. Then return the saucepan to the heat and pour the egg mixture back into the saucepan with remaining milk, whisking constantly. Once the mixture thickens lower the heat and continue whisking for about 30 seconds."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Pour the custard into a clean bowl and cover with plastic wrap, placing the plastic directly on the top layer of the custard. Chill in the fridge."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Cake"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Mix together butter and sugar until light and fluffy. Add egg yolks one at a time, setting aside the egg whites for the meringue. Add the flour mixed with baking powder. Stir in the milk, beating until smooth (you can use an electric mixer if you prefer)."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Preheat oven to 320\u00b0F (160\u00b0C). Cover a baking sheet with baking paper and spread out the batter into a large, even rectangle."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53132",
+      "external_id": "53132",
+      "name": "Mazariner \u2013 Scandinavian Almond Tartlets",
+      "slug": "mazariner-scandinavian-almond-tartlets",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uh1n5u1763075545.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53132. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 1
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 8
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 9
+        },
+        {
+          "name": "almond flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 10
+        },
+        {
+          "name": "almond extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 12
+        },
+        {
+          "name": "heavy cream",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        },
+        {
+          "name": "almond extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Shells"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Combine the flour and powdered sugar in a food processor. Add the butter and pulse until it's evenly distributed. Add the egg and pulse until the dough comes together."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Roll out the dough on a floured surface. Cut the dough in circles with a large mug. Press the circles down into a greased muffin pan. Put the pan of shells in the fridge while you prepare the almond filling."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Almond filling"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Preheat oven to 355\u00b0F (180\u00b0C)."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Whisk the egg and powdered sugar together until thick and airy. Melt the butter and stir it into the egg mixture. Stir in the vanilla, flour, and almond extract. Stir in the almond flour."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Pipe or spoon the almond filling onto the shells, filling the shells about 3/4 full."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Bake the mazariner for 20 \u2013 25 minutes, until light golden brown. Cool on a wire rack."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53129",
+      "external_id": "53129",
+      "name": "Norwegian Krumkake",
+      "slug": "norwegian-krumkake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/z9g8011763075640.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53129. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "Large",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "Cup",
+          "sort_order": 3
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "nutmeg",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Whisk the egg and sugar until the mixture thickens."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Melt the butter and let it cool slightly, then add the butter to the egg mixture."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Mix in spices and then slowly add the flour while stirring to avoid lumps."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Let the batter rest for at least 30 minutes. This improves the texture of the krumkaker."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Spoon about one heaping tablespoon of batter onto iron and bake. If the batter is too thick, add some water to it."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "While still hot, shape the krumkake with a wooden krumkake roller or over a cup (if using a cup, make them a bit thicker). The krumkaker harden quickly, so you can just let them sit on the roller/cup until the next krumkake is ready to be shaped."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "After completely cooled, store the krumkaker in a metal or glass tin lined with paper towels at the bottom. You can also freeze them!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53130",
+      "external_id": "53130",
+      "name": "Suksessterte (Norwegian almond \u201csuccess cake\u201d)",
+      "slug": "suksessterte-norwegian-almond-success-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/de83k51763075604.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53130. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "almonds",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 4
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "egg yolks",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "heavy cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Almond base"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat oven to 345\u00b0F (175\u00b0C) and grease cake form (I use a 27 cm spring form) \u2013 you can line the bottom with baking paper if you like."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Grind almonds in an almond grinder or food processor. I like to keep them a bit coarse."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Gently whisk the eggs and sugar together until combined (no longer). Stir in the ground almonds, flour, and baking powder."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Pour batter into cake form and bake for about 45 \u2013 50 minutes, monitoring to make sure the top doesn't burn."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Yellow egg cream"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Add egg yolks, heavy cream, sugar, and vanilla to a saucepan. Heat over low/medium heat while stirring constantly until the mixture thickens \u2013 about 15 minutes. Turn up the heat if the mixture doesn't thicken, but be careful not to boil."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Let the mixture cool to room temperature and then add the butter. You can use an electric mixer for a fluffy egg cream."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53119",
+      "external_id": "53119",
+      "name": "Tall Skoleboller",
+      "slug": "tall-skoleboller",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xihiu41762773169.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53119. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "instant yeast",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 1.0,
+          "unit": "-\u2153 cups",
+          "sort_order": 3
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 5.0,
+          "unit": "tblsp",
+          "sort_order": 7
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 1.0,
+          "unit": "-\u2153 cups",
+          "sort_order": 9
+        },
+        {
+          "name": "egg yolks",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "cornstarch",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 11
+        },
+        {
+          "name": "vanilla pod",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 13
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 14
+        },
+        {
+          "name": "shredded coconut",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the milk until it's lukewarm. Add the yeast and dissolve."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the sugar, cardamom, vanilla, and about 2/3 of the flour."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Mix the dough together either by hand or in a mixer with a dough hook, slowly adding the rest of the flour. You might need a bit more or less flour to form dough that isn't too sticky to knead. When the dough forms a nice ball, add the softened butter and continue to knead the dough for about ten minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Roll the dough into a cylinder and cut into six equal parts. Roll each piece into a round bun and set them in a greased muffin/cake tin. Cover and let rise until doubled in size (about an hour)."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53120",
+      "external_id": "53120",
+      "name": "\u00c6bleskiver",
+      "slug": "bleskiver",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "norway",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wkhg581762773124.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53120. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 2
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "buttermilk",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "For Greasing",
+          "sort_order": 8
+        },
+        {
+          "name": "powdered sugar",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 9
+        },
+        {
+          "name": "raspberry jam",
+          "amount": 1.0,
+          "unit": "scoop",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Whisk the flour, salt, sugar, baking soda, and cardamom together in a large bowl."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Separate the eggs and add the egg yolks to the flour mixture. Pour in the buttermilk (or cultured milk) and whisk the batter together until smooth. Cover and refrigerate for about 30 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Use a hand (or stand) mixer to beat the egg whites until stiff. Carefully fold into the \u00e6bleskiver batter."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Heat the pan on medium heat. Once hot, brush the pan with butter and fill each \u00e6bleskive hole almost full with the batter."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Once the edges become firm use a knitting needle or wooden skewer to turn the \u00e6bleskiver about 1/4. Continue turning until you get round pancake spheres. They should be golden brown."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "\u25a2"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Remove the \u00e6bleskiver from the pan and serve with powdered sugar and jam."
+        }
+      ]
+    }
+  ]
+}

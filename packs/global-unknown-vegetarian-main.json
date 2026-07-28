@@ -1,0 +1,954 @@
+{
+  "id": "global-unknown-vegetarian-main",
+  "title": "Global Unknown Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53490",
+      "external_id": "53490",
+      "name": "Cottage Cheese And Feta Stuffed Peppers",
+      "slug": "cottage-cheese-and-feta-stuffed-peppers",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/w0rsga1782683912.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53490. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red pepper",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "feta",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "cottage cheese",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "chives",
+          "amount": 1.0,
+          "unit": "tablespoon chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "tablespoon chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cut the peppers lengthwise and remove the seeds."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a bowl combine 3.5 oz (100 grams) Feta cheese, 7 oz (200 grams) cottage cheese, 1 tbsp chopped chives (optional), 1 tbsp chopped parsley (optional), 1/4 tsp salt (more or less to taste) and 1 tbsp lemon juice."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Fill the peppers with the mixture. Top with chopped chives and parsley."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53518",
+      "external_id": "53518",
+      "name": "Empanadas Fritas de Queso",
+      "slug": "empanadas-fritas-de-queso",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/9tllzd1782853513.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53518. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 1
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "lard",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 6
+        },
+        {
+          "name": "swiss cheese",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Sift the flour, baking powder, and salt into a large mixing bowl. Combine the lard and milk in a saucepan, and heat until the milk is hot. Pour the hot milk into the flour mixture, and stir until a dough forms. Turn out onto a floured surface, and knead until smooth and elastic. Cover, and allow to rest for 15 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat oven to 375 degrees F (190 degrees C)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Roll the dough out on a floured surface 1/4-inch thick. Cut into 4-inch rounds. Brush the outer edges of each circle with beaten egg, and fill with a small mound of cheese. Fold each circle in half to form a half-moon; press the edges with your fingers or a fork to seal. Place the empanadas onto a parchment paper-lined baking sheet. Brush the tops with remaining egg."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake in preheated oven until golden-brown, about 20 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Alternatively, the empanadas may be deep fried in 375 degrees F (190 degrees C) oil. If deep frying, do not brush the outsides of the empanadas with egg. Drain on paper towels."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53398",
+      "external_id": "53398",
+      "name": "Kadu Borani",
+      "slug": "kadu-borani",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/walmi81779552709.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53398. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "squash",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 5.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "green chilli",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 3
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "Bulb",
+          "sort_order": 6
+        },
+        {
+          "name": "sugar",
+          "amount": 7.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 9
+        },
+        {
+          "name": "yogurt",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Peel the squash and cut it into pieces 1cm wide. Deep fry it in oil until golden and set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Using the same pan and oil, deep fry the onions until golden. Remove the onions and grind with the garlic (if using garlic paste, mix it into the onions once ground)."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add a small amount of oil to a pan on medium heat. Once hot, add the turmeric. Mix the salt into one cup of water and add it to the turmeric. Add a layer of squash, then a layer of onion and garlic. Repeat this step until the squash, onion and garlic have been used up."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the sugar and one cup of water. Turn the heat down and cook until the water has reduced."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add 1-2 tablespoons of melted curd to a plate, add the squash on top with another layer of melted curd. At last, add some green chilli and serve!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53445",
+      "external_id": "53445",
+      "name": "Kaspresskn\u00f6del - Cheese Dumplings",
+      "slug": "kaspresskn-del-cheese-dumplings",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x26z3y1780155760.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53445. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "bread",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "cheese",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "potatoes",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "flour",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "milk",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 9
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix the cubed white bread with the milk, season with salt, and let the mixture rest for a while."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Now add the shredded potatoes, the grated cheese, eggs, and parsley."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Melt the butter and fry the cubed onions until golden brown in colour and put into the mixture."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add the flour and gently knead the dough. Shape it into round dumplings, gently press them flat and fry them on both sides in butter until golden brown."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Serve in clear broth."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53407",
+      "external_id": "53407",
+      "name": "Lakror me Kungull Summer Squash Pie",
+      "slug": "lakror-me-kungull-summer-squash-pie",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ae4rwb1779645576.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53407. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "squash",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "flour",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preparation"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a mixing bowl mix together the summer squash, sugar, eggs and baking soda. Add the flour and continue to mix, you are looking for a thick sticky mixture. Add a bit more flour if the mixture is still thin and slightly runny."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "In a large round baking tray (about 2 inches deep) rub some olive oil over the base and edges."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "3"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Scoop the mixture onto the tray and spread out evenly, then pour a small amount of olive oil onto you hand and rub it in circles gently over the top of the mixture. This should flatten it and leave it with a slightly shiny glossing."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "4"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Cooking"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Bake in the oven for 40 minutes on 180 degrees \u2013 the top should be a golden brown once cooked."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "5"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Serving"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Leave to cool before slicing into squares and serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53467",
+      "external_id": "53467",
+      "name": "Liegeoise Salad",
+      "slug": "liegeoise-salad",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ji3mho1782499823.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53467. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "green beans",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "bacon",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "tbs chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "white wine vinegar",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "mustard",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 9
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Scrub the potatoes well but don't peel them. Cut them into bite-size pieces. Add them to a large pan water and a pinch of salt. Bring it to a good boil. Cook the potatoes until tender and then remove them using a slotted spoon. Keep the potatoes at room temperature."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Trim and clean the green beans. Add them to the pan of hot water you boiled the potatoes in. Cook the green beans until nearly tender (keep them crunchy). Strain and refresh them immediately under cold running tap water to stop the cooking process."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the bacon to a large non-stick pan and place it over medium heat. Cook the bacon for a couple of minutes until cooked through. Then take the pan off the heat and let the bacon cool down a little."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Combine the olive oil, vinegar and mustard. Transfer the cooked potatoes, green beans, bacon, chopped onion, parsley and vinaigrette. Season with pepper and salt."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Stir well. Check the seasoning and add extra vinegar, pepper or salt to taste. Transfer the salad to a large serving bowl or 2 deep plates and garnish with the boiled eggs. Serve lukewarm."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53506",
+      "external_id": "53506",
+      "name": "Rice and Beans",
+      "slug": "rice-and-beans",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/j8c1d51782772399.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53506. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "kidney beans",
+          "amount": 1.0,
+          "unit": "bag",
+          "sort_order": 1
+        },
+        {
+          "name": "coconut milk",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 3
+        },
+        {
+          "name": "scotch bonnet",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cook beans until tender, add rice, coconut milk, onion, black pepper and salt, and add enough water to just cover the ingredients."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place Scotch Bonnet peppers on top, careful not to burst them."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Simmer until rice is tender."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove pepper before serving."
+        }
+      ]
+    }
+  ]
+}

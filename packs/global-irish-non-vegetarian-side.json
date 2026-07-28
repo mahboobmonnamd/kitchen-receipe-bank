@@ -1,0 +1,130 @@
+{
+  "id": "global-irish-non-vegetarian-side",
+  "title": "Global Irish Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53038",
+      "external_id": "53038",
+      "name": "Mustard champ",
+      "slug": "mustard-champ",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "irish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/o7p9581608589317.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53038. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "milk",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "mustard",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "spring onions",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 5
+        },
+        {
+          "name": "spring onions",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Boil the potatoes for 15 mins or until tender. Drain, then mash."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat the milk and half the butter in the corner of the pan, then beat into the mash, along with the wholegrain mustard."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Gently fry the spring onions in the remaining butter for 2 mins until just soft but still a perky green. Fold into the mash and serve. Great with gammon or to top a fish pie."
+        }
+      ]
+    }
+  ]
+}

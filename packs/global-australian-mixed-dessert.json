@@ -1,0 +1,644 @@
+{
+  "id": "global-australian-mixed-dessert",
+  "title": "Global Australian Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53111",
+      "external_id": "53111",
+      "name": "Anzac biscuits",
+      "slug": "anzac-biscuits",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "australian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/q47rkb1762324620.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53111. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "porridge oats",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "desiccated coconut",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "plain flour",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "golden syrup",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "bicarbonate of soda",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 180C/fan 160C/gas 4. Put the oats, coconut, flour and sugar in a bowl. Melt the butter in a small pan and stir in the golden syrup. Add the bicarbonate of soda to 2 tbsp boiling water, then stir into the golden syrup and butter mixture."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Make a well in the middle of the dry ingredients and pour in the butter and golden syrup mixture. Stir gently to incorporate the dry ingredients."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Put dessertspoonfuls of the mixture on to buttered baking sheets, about 2.5cm/1in apart to allow room for spreading. Bake in batches for 8-10 mins until golden. Transfer to a wire rack to cool."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53100",
+      "external_id": "53100",
+      "name": "Blueberry & lemon friands",
+      "slug": "blueberry-lemon-friands",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "australian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/e756bf1761848342.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53100. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "unsalted butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "icing sugar",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "flour",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "almonds",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "egg white",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "unwaxed lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "blackberries",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat the oven to fan 180C/conventional 200C/gas 6. Generously butter six non-stick friand or muffin tins. Melt the butter and set aside to cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Sift the icing sugar and flour into a bowl. Add the almonds and mix everything between your fingers."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Whisk the egg whites in another bowl until they form a light, floppy foam. Make a well in the centre of the dry ingredients, tip in the egg whites and lemon rind, then lightly stir in the butter to form a soft batter."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Divide the batter among the tins, a large serving spoon is perfect for this job. Sprinkle a handful of blueberries over each cake and bake for 15-20 minutes until just firm to the touch and golden brown."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Cool in the tins for 5 minutes, then turn out and cool on a wire rack. To serve, dust lightly with icing sugar."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53101",
+      "external_id": "53101",
+      "name": "Chocolate Coconut Squares",
+      "slug": "chocolate-coconut-squares",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "australian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8oupz51761848432.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53101. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "self-raising flour",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "cocoa powder",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "milk",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "plain chocolate",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "butter",
+          "amount": 25.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "icing sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "desiccated coconut",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 180C/fan 160C/gas 4. Butter and line the base of a 20cm square baking tin. Beat together the butter and sugar until pale and creamy, then beat in the eggs. Add 1 tbsp of the flour if the mix starts to curdle."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Sieve in the flour, baking powder and cocoa and fold in with a metal spoon. Stir in the milk. Scrape mix into the tin and level the top. Bake for 18-20 mins or until the cake springs back when pressed. Allow to cool in the tin."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "To make the icing, put the chocolate, butter and 4 tbsp water in a pan and gently heat until melted. Allow to cool slightly, then beat in the icing sugar."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Remove cake from tin and peel away paper. Cut into 16 squares. Dip the squares into the icing, then roll in the coconut. Allow to set on cooling rack."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53104",
+      "external_id": "53104",
+      "name": "Lamingtons",
+      "slug": "lamingtons",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "australian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/j2n7vg1761848636.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53104. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "salted butter",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "golden caster sugar",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "Large",
+          "sort_order": 3
+        },
+        {
+          "name": "self-raising flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "double cream",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 7
+        },
+        {
+          "name": "icing sugar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 8
+        },
+        {
+          "name": "raspberry jam",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "desiccated coconut",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "milk",
+          "amount": 250.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "cocoa powder",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "icing sugar",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 200C/180C fan/gas 6. Butter and line a 20 x 30cm rectangle tin."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Beat the butter and sugar in a free-standing mixer until pale and fluffy. Add the eggs one at a time and beat well. Beat through the flour, milk and salt until fully combined, then spoon into the tin. Bake in the oven for 25 mins or until golden and firm to the touch. Set aside to cool completely."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Slice the sponge horizontally to create two halves. Trim the edges to make perfect corners. Cut the sponge into 18 squares. Lightly whip the cream with the icing sugar until it reaches soft peaks. Spread a little of the jam on half of the sponge squares then pipe or spread over a little of the cream. Sandwich each one with a second square of sponge then set aside in the fridge to chill."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "To make the icing, whisk together the melted butter and milk in a bowl. Sieve the cocoa powder and icing sugar together in a seperate bowl. Gradually add the cocoa and sugar to the butter and milk mixture, whisking continuously to ensure there are no lumps. If it gets lumpy, whizz with a hand blender until smooth."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Divide the coconut between three shallow bowls (this keeps it from getting coated in too much chocolate whilst you\u2019re dipping)."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "step 6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Dip each lamington in the icing until completely covered. Roll in the coconut and set on a wire rack. Repeat with the remaining sponges. Chill for a minimum of 1 hr."
+        }
+      ]
+    }
+  ]
+}

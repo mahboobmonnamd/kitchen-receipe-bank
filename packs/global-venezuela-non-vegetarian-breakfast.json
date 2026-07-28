@@ -1,0 +1,149 @@
+{
+  "id": "global-venezuela-non-vegetarian-breakfast",
+  "title": "Global Venezuela Non Vegetarian Breakfast",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53331",
+      "external_id": "53331",
+      "name": "Oatmeal pancakes",
+      "slug": "oatmeal-pancakes",
+      "description": "Breakfast from TheMealDB",
+      "category": "breakfast",
+      "cuisine": "venezuela",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "omelette"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "venezuela"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/c400ok1764439058.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53331. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 1
+        },
+        {
+          "name": "milk",
+          "amount": 80.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "dash",
+          "sort_order": 6
+        },
+        {
+          "name": "ground oats",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "butter",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "sugar syrup",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 9
+        },
+        {
+          "name": "strawberries",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place all the ingredients in the glass and beat."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Let the mixture stand for 10 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Grease a hot frying pan with a little butter and pour a little of the mixture."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "When it starts to bubble on the surface, turn over with a spatula. Cook over medium-low heat so that they do not burn."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Finally, add the caramel and strawberries."
+        }
+      ]
+    }
+  ]
+}

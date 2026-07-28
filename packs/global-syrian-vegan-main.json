@@ -1,0 +1,255 @@
+{
+  "id": "global-syrian-vegan-main",
+  "title": "Global Syrian Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53091",
+      "external_id": "53091",
+      "name": "Falafel Pita Sandwich with Tahini Sauce",
+      "slug": "falafel-pita-sandwich-with-tahini-sauce",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "syrian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "syrian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ae6clc1760524712.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53091. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "falafel",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "tahini",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon juice",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 5
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "pita bread",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "lettuce",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "cucumber",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "dill pickles",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "harissa spice",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 450 degrees F (230 degrees C). Place falafel on a baking sheet."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bake in the preheated oven until heated through, 8 to 10 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "While falafel bake, whisk tahini, water, lemon juice, garlic, and paprika together in a bowl."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cut about 1 inch from the top of each pita to form a pocket. Add 2 falafel to each pita with equal amounts lettuce, tomato, cucumber, pickle, and red onion. Drizzle each with about 1 tablespoon tahini sauce and some harissa."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53092",
+      "external_id": "53092",
+      "name": "Fasoliyyeh Bi Z-Zayt (Syrian Green Beans with Olive Oil)",
+      "slug": "fasoliyyeh-bi-z-zayt-syrian-green-beans-with-olive-oil",
+      "description": "Vegan from TheMealDB",
+      "category": "main",
+      "cuisine": "syrian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "steaming"
+        ],
+        "cuisines": [
+          "syrian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/21yc5s1760524759.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53092. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "green beans",
+          "amount": 16.0,
+          "unit": "ounces",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 4
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place the green beans into a large pot, and drizzle with olive oil. Season with salt to taste, and put the lid on the pot. Cook over medium-high heat, stirring occasionally, until beans are cooked to your desired doneness. Syrians like it cooked until the green beans are turning brownish in color. The idea is not to saute them, but to let them steam in the moisture released by the ice crystals."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add cilantro and garlic to the beans, and continue to cook just until the cilantro has started to wilt. Eat as a main course by scooping up with warm pita bread or serve as a side dish."
+        }
+      ]
+    }
+  ]
+}

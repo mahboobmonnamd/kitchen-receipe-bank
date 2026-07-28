@@ -1,0 +1,552 @@
+{
+  "id": "global-polish-non-vegetarian-side",
+  "title": "Global Polish Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53310",
+      "external_id": "53310",
+      "name": "Challah",
+      "slug": "challah",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/fm01ky1764366365.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53310. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "strong white bread flour",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 70.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "yeast",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "Beaten",
+          "sort_order": 4
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 70.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "poppy seeds",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine the yeast, a pinch of the sugar and a couple tablespoons of lukewarm water in a small bowl. Stir to dissolve the yeast, then leave for 10 mins until foamy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, combine the flour, the remaining sugar and 2 tsp fine salt in a large bowl. Make a well in the centre, then add half the beaten egg, the yeast mixture and the oil. Pour in 200ml lukewarm water (it should feel slightly warm to the touch) and stir with a spoon, then mix using one hand, keeping the other clean while you bring the dough together. If there are a lot of very dry bits, gradually add a little water to just bring it together \u2013 you don't want it to get too wet and sticky. The dough should be moist, but not soggy."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once the dough has come together, turn it out onto a lightly floured surface. Knead using both hands for 10 mins until smooth and a bit springy. If it gets very sticky, add a very small amount of flour \u2013 as little as possible. A dough scraper is useful if the dough is sticking to the work surface. Stretch the sides of the dough down and pull together to form a ball. Lightly oil a bowl, then lightly roll the dough ball around the bowl so it's coated in the oil. Cover with a clean tea towel and leave in a warm place for 1 hr, or until dough has doubled in size."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Line a baking sheet with baking parchment. Turn the dough out onto a clean work surface and divide into three equal pieces, weighing for accuracy, if you like. Roll each piece into a long sausage shape about 25cm long, tapering them slightly at both ends. Lay the pieces out in front of you, parallel to one another with a couple centimetres between each. Bring the sausages together at the top end, then plait them down the length, tucking in the ends when you reach the bottom. Carefully transfer the loaf to the prepared baking sheet and loosely cover with a clean tea towel. Leave to rise until puffy and billowy, about 40 mins."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Meanwhile, heat the oven to 200C/180C fan/gas 6. Gently brush the rest of the beaten egg all over the challah, getting it into all the crevices, and sprinkle with the poppy or sesame seeds, if using. Bake on a middle shelf of the oven for 25-30 mins, until the loaf is golden brown underneath and sounds hollow when tapped. Check after about 15 mins \u2013 if the top of the loaf has started to get too dark, cover it with foil. Leave to cool on a wire rack, then serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53019",
+      "external_id": "53019",
+      "name": "Pierogi (Polish Dumplings)",
+      "slug": "pierogi-polish-dumplings",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/45xxr21593348847.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53019. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "chopped onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "sauerkraut",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "chopped onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "potatoes",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 6
+        },
+        {
+          "name": "eggs",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "sour cream",
+          "amount": 1.0,
+          "unit": "pot",
+          "sort_order": 8
+        },
+        {
+          "name": "flour",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "To prepare the sauerkraut filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Add the drained sauerkraut and cook for an additional 5 minutes. Season to taste with salt and pepper, then remove to a plate to cool."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "For the mashed potato filling, melt the butter in a skillet over medium heat. Stir in the onion, and cook until translucent, about 5 minutes. Stir into the mashed potatoes, and season with salt and white pepper."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To make the dough, beat together the eggs and sour cream until smooth. Sift together the flour, salt, and baking powder; stir into the sour cream mixture until dough comes together. Knead the dough on a lightly floured surface until firm and smooth. Divide the dough in half, then roll out one half to 1/8 inch thickness. Cut into 3 inch rounds using a biscuit cutter."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Place a small spoonful of the mashed potato filling into the center of each round. Moisten the edges with water, fold over, and press together with a fork to seal. Repeat procedure with the remaining dough and the sauerkraut filling."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Bring a large pot of lightly salted water to a boil. Add perogies and cook for 3 to 5 minutes or until pierogi float to the top. Remove with a slotted spoon."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53299",
+      "external_id": "53299",
+      "name": "Polish patties (kotlety)",
+      "slug": "polish-patties-kotlety",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "polish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vvn5f71764360273.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53299. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "bread rolls",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "milk",
+          "amount": 120.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "ground beef",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "marjoram",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Soak the bread roll in the milk so it softens completely. Meanwhile, fry the onion in the oil for around 8 mins or until soft and golden. Add the fried onion to the beef mince along with the egg, garlic, marjoram and some seasoning. Squeeze the excess milk from the bread roll and add it to the mince mixture. Mix everything together and season well."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Divide the meat into 8 patties. Tip the dried breadcrumbs into a shallow bowl and coat the patties in it, all over. Heat some oil in a deep frying pan and fry the patties in batches on both sides until browned and cooked through, about 6-7 mins on each side."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53308",
+      "external_id": "53308",
+      "name": "Rye bread",
+      "slug": "rye-bread",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "polish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/lmc6r51764365554.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53308. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "rye",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "strong white bread flour",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "yeast",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "caraway seed",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip the flours, yeast and salt into a bowl. In a jug, mix the honey with 250ml warm water, pour the liquid into the bowl and mix to form a dough. Rye flour can be quite dry and absorbs lots of water, if the dough looks too dry add more warm water until you have a soft dough Tip out onto your work surface and knead for 10 mins until smooth. Rye contains less gluten than white flour so the dough will not feel as springy as a conventional white loaf."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Place the dough in a well oiled bowl, cover with cling film and leave to rise in a warm place for 1-2 hrs, or until roughly doubled in size. Dust a 2lb/900g loaf tin with flour."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Tip the dough back onto your work surface and knead briefly to knock out any air bubbles. If using caraway seeds work these in to the dough. Shape into a smooth oval loaf and pop into your tin. Cover the tin with oiled cling film and leave to rise somewhere warm for a further 1 \u2013 1.5 hr, or until doubled in size."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Heat oven to 220C/200C fan/gas 7. Remove the cling film and dust the surface of the loaf with rye flour. Slash a few incisions on an angle then bake for 30 mins until dark brown and hollow sounding when tapped. Transfer to a wire cooling rack and leave to cool for at least 20 mins before serving"
+        }
+      ]
+    }
+  ]
+}

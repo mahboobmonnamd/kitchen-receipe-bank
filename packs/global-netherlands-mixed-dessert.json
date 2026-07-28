@@ -1,0 +1,905 @@
+{
+  "id": "global-netherlands-mixed-dessert",
+  "title": "Global Netherlands Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53380",
+      "external_id": "53380",
+      "name": "Apple cake",
+      "slug": "apple-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "netherlands",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/c0gmo31766594751.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53380. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "eggs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "self-raising flour",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "melted butter",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "apples",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "ground sugar",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 180\u00b0C. (350\u02daF) Grease a cake pan and line it with baking paper."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large bowl, break the four eggs with the sugar and beat until they have tripled in volume and become fluffy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Sift the self-rising baking flour and add it to your egg mixture. Fold this over, preserving as much air as possible. Add the melted (and slightly cooled) butter and mix until combined."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add cinnamon, pinch of salt and vanilla extract."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add the diced apple to the batter and gently fold them into the batter so that the apple pieces are evenly distributed. You can roll the apple pieces through some more cinnamon."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Pour the batter into the prepared cake pan and smooth the top with a spatula."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Place the apple slices on top of the batter and press lightly. Sprinkle optionally with some almond shavings."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Bake the apple cake in the preheated oven for about 45-50 minutes, or until a wooden skewer comes out clean when inserted into the center of the cake."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Remove the cake from the oven and let it cool in the mold for a few minutes. Then carefully remove the cake from the mold and let cool completely on a wire rack."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Sprinkle the cooled apple cake with powdered sugar"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53385",
+      "external_id": "53385",
+      "name": "Boterkoek (Dutch Butter Cake)",
+      "slug": "boterkoek-dutch-butter-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "netherlands",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tkwxmv1777540463.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53385. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "dulce de leche",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 180\u00b0C/350\u02daF (conventional oven)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place the softened butter and sugar in the bowl of a stand mixer and whisk until creamy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the flour and salt and knead by hand until you have a smooth dough. Divide into two pieces."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Line the base of a square or round cake tin with baking parchment (not a springform tin) and place the first half of the pastry on top. Flatten with your fingers and a spoon."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Using a teaspoon, sprinkle dollops of dulce de leche over the base. Sprinkle with the chopped chocolate and cover with the second half of the pastry."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "This is a bit trickier, but if you don\u2019t get it right, don\u2019t worry, it\u2019ll be fine once it\u2019s baked! Brush the pastry with the beaten egg."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Bake in the oven for about 30 minutes or until golden brown. It will be wobbly. That's because butter cake only firms up when it cools."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Cut into small pieces when it has cooled completely!"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Notes"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Storing: Store in an airtight container outside of the fridge for about 2-3 days or in the fridge for 5 days. Freeze for up to three months."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53386",
+      "external_id": "53386",
+      "name": "Dutch Apple Pie",
+      "slug": "dutch-apple-pie",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "netherlands",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/zy4fs51777540384.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53386. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "egg yolks",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "flour",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "sugar",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "raisins",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "apples",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "cold water",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add the flour, 150 gr of the sugar, pinch of salt and 1 egg yolk in the bowl of a food processor. Cut the butter into small cubes and add to the bowl. Turn this into a firm dough. Don't over process, you do not want the dough to turn warm. Check if it sticks by pinching it between your fingers."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Turn out onto a piece of plastic wrap. Make a round ball of it by using your hands and roll it into the plastic. Place into the fridge for half an hour to cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Take a round baking tin of 22 cm diameter and cover this with baking paper. Brush the sides with butter."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Preheat the oven to 170\u02daC (340\u02daF)"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cut the apple into cubes and mix this with the raisins, the left over sugar and the cinnamon."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Place the cooled dough on a flat surface sprinkled with flour and roll out into a thin sheet. Place this into the baking tin and cover the bottom and the sides well. I usually just press it into the tin without rolling it out. I find that the easiest way but it is less smooth. Just do whatever works for you."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Make sure you keep 1/4 of the dough separate to form the strips on the top."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Once the bottom and sides are covered with the dough, take the rusks and crumble them over the bottom. You can use breadcrumbs for this as well. Shake it a bit so it is divided equally across the bottom."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Add the apple mixture and divide well over the tin. Rol out the rest of the dough and cut into strips. Place that over the top of the pie in a diamond shaped pattern. Brush the strokes and sides with the other egg yolk and place in the preaheated oven."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Bake the apple pie for about 1 hour or until golden and cooked through. Leave to cool in the tin and make sure the sides are loose before opening the tin."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53387",
+      "external_id": "53387",
+      "name": "Dutch Spiced Breakfast Cake (Ontbijtkoek)",
+      "slug": "dutch-spiced-breakfast-cake-ontbijtkoek",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "netherlands",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uwq8001777540502.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53387. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "self-raising flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "dark brown soft sugar",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "milk",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "sugar",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 160\u02daC (320\u02daF) Line a cake pan with parchment paper and set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix all the dry ingredients together in a large bowl. Place the milk in a small saucepan and heat it until it is almost boiling but not quite."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour the milk slowly into the dry ingredients while whisking. Don't overmix! As soon as it is combined to a smooth batter you pour it into the cake pan. Sprinkle the pearl sugar over the top and bake it in the oven for about 1 hour."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Check after about 50 minutes how the cake is progressing. If a cake tester comes out clean the cake it cooked. If not let it cook for a little longer."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53382",
+      "external_id": "53382",
+      "name": "Dutch stroopwafel",
+      "slug": "dutch-stroopwafel",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "netherlands",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8cvkcz1766596315.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53382. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "milk",
+          "amount": 15.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "instant yeast",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 120.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "sugar",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "dutch stroop",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "brown sugar",
+          "amount": 120.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine milk and yeast in a bowl. Let stand for a moment to allow the yeast to dissolve."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In another bowl, combine flour, butter, sugar, egg, and salt. Pour in the yeast mixture and knead until smooth. Cover the bowl and let the dough rise for one hour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "When the dough is almost ready, make the stroop filling. Combine all the ingredients in a saucepan and stir until the butter is melted and the sugar is dissolved. Let it simmer for a while. The stroop will continue to thicken as it cools."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Shape the dough into balls weighing about 35 grams each. Make a total of 14. Turn your stroopwafel iron on the highest setting."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Place a ball of dough in the iron and close the iron. Don\u2019t flatten the waffle too much; you should still be able to cut through it. Bake for 1-2 minutes until the waffle is nicely golden brown."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "When the waffle is done, work quickly. Remove the waffle from the iron and immediately use a round cutter to cut out a nice circle of about 8 to 9 cm (3 to 3.5 inches)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Place the hot waffle on a cutting board and cut horizontally with a sharp knife. The stroopwafel is very hot, so use an oven mitt to hold it in place."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Take half a waffle and spread the (hot!) stroop on it. Place the other half on top, pressing gently if necessary, and place the waffle on a wire rack to cool. Repeat for all the balls."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53381",
+      "external_id": "53381",
+      "name": "Gevulde speculaas",
+      "slug": "gevulde-speculaas",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "netherlands",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "netherlands"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/rw64di1766595573.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53381. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "self-raising flour",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "brown sugar",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "speculaas spice mix",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "butter",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "milk",
+          "amount": 10.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "almond paste",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "For brushing",
+          "sort_order": 9
+        },
+        {
+          "name": "almonds",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix the self-rising flour, sugar, speculaas spice mix and salt. Add the butter and milk and knead into a firm ball of dough. Start with 6 tablespoons of milk, if the dough is too stiff you can add more milk."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Wrap the dough in plastic wrap and refrigerate overnight. You can process and bake it immediately, but the flavor will be much better if you let it rest."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Mix the almond paste with half of the beaten egg and knead well. This makes it easier to work with and gives it a better and tastier texture."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Take half of the dough and roll it out to 20 x 20 cm. Place in a baking pan lined with parchment paper. Spread the almond paste mixture evenly. Roll out the remaining dough and place on top of the almond paste."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Brush the top with the remaining beaten egg. Garnish with almonds and top with another layer of egg wash."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake the filled speculaas for 40 minutes at 180\u00b0C/350\u2109 (conventional oven) or until done."
+        }
+      ]
+    }
+  ]
+}

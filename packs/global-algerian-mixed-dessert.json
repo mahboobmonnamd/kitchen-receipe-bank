@@ -1,0 +1,388 @@
+{
+  "id": "global-algerian-mixed-dessert",
+  "title": "Global Algerian Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53291",
+      "external_id": "53291",
+      "name": "Cornes de Gazelle (Gazelle Horns)",
+      "slug": "cornes-de-gazelle-gazelle-horns",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "algerian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "roasting"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0h1b7m1764120235.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53291. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "almonds",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "orange blossom water",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 6
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 10
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        },
+        {
+          "name": "orange blossom water",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 12
+        },
+        {
+          "name": "pistachio",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 300 degrees F (150 degrees C). Line a baking sheet with parchment paper. Spread almonds over the baking sheet."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bake in the preheated oven until almonds are fragrant and roasted, 20 to 25 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Prepare pastry dough while almonds are roasting. Combine flour, 1/2 cup plus 1 tablespoon butter, and salt in a bowl and rub together until the mixture resembles breadcrumbs. Add egg, oil, and 1 1/2 tablespoons orange blossom water; knead everything into a smooth pastry dough. Add a little water, 1 teaspoon at a time, if dough is too dry. Shape pastry dough into a ball, wrap in plastic wrap, and set aside for 30 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove almonds from oven and cool slightly, about 5 minutes. Place almonds in the bowl of a food processor; process until finely and evenly ground. Add 3/4 cup plus 1 tablespoon sugar, cinnamon, egg, and 1 tablespoon orange blossom water in that order to the food processor, pulsing after each addition until mixture is evenly combined and resembles a paste."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Remove small walnut-sized portions of filling with greased hands. Roll them into small logs with thin ends. Set aside."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Preheat oven to 325 degrees F (165 degrees C). Line a baking sheet with parchment paper."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Roll out half of the pastry dough on a lightly floured surface until very thin. Place one of the almond paste logs on the edge of the pastry, fold pastry over the filling, covering it completely, and seal the edges. Mold with your fingers into a crescent shape. Using a pastry cutter, cut around the crescent, and transfer to the prepared baking sheet. Repeat with remaining dough and filling."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Bake in the preheated oven until gazelle horns are lightly golden and baked through, about 20 minutes. They should not get too dark. Let cool slightly, about 3 minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Heat honey in a small saucepan over low-medium heat. Remove from heat and stir in 1 tablespoon orange blossom water. Dip gazelle horns into the honey and place on a serving plate. Sprinkle with crushed pistachios."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53285",
+      "external_id": "53285",
+      "name": "Dziriat (Algerian Almond Tarts)",
+      "slug": "dziriat-algerian-almond-tarts",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "algerian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ne5wzp1764115568.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53285. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "orange blossom water",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "orange blossom water",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        },
+        {
+          "name": "almonds",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 11
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 13
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 14
+        },
+        {
+          "name": "vanilla",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 15
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 16
+        },
+        {
+          "name": "orange blossom water",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 17
+        },
+        {
+          "name": "cornstarch",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 18
+        },
+        {
+          "name": "pine nuts",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 19
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Prepare the almonds the day before. Bring 6 cups of water to a boil. Remove from heat, and add the almonds. Let the almonds soak in water for about 5 minutes, then drain and peel. Spread the almonds on baking sheets, and bake at 200 degrees F(95 degrees C) until completely dry and toasted. This takes several hours, and needs to be prepared ahead. Be careful not to burn the nuts, as this will give a bitter taste to the filling."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine 1 cup sugar and 1 cup water in a saucepan, and bring to a boil. Add 1 teaspoon lemon juice, reduce heat to low, and let it simmer until syrupy, about 30 to 40 minutes. Stir in orange blossom water, and remove from heat. Set sugar syrup aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Combine flour and salt in a large mixing bowl. Make a hole in the center, and pour oil, egg, 1/2 teaspoon lemon juice, and 1 tablespoon orange blossom water into the center. Mix with fingers until the dough resembles coarse crumbs. Gradually sprinkle with warm water while mixing until the dough becomes soft and pliable. Divide into 4 equal portions. Cover dough with a wet cloth, and set aside."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In a food processor, finely grind the almonds. Measure 3 cups of the finely ground almonds into a mixing bowl, and stir together with 1 cup sugar, baking powder, vanilla powder, lemon zest, and 2 tablespoons orange flower water. Mix in three eggs one at a time, stirring constantly; mix until you get a sticky, paste-like mixture."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Sprinkle cornstarch on the rolling surface to prevent sticking. Roll each portion of dough very thinly, 1 to 2 millimeters (1/16 inch). Cut the rolled dough into circles of about 10 centimeters (4 inches) in diameter each. Lightly wipe the surface of each circle with cornstarch, and fit into a tart mold, cornstarch side down to prevent sticking. Gently press the dough onto the sides and bottom of the mold, and trim extra dough from around the rim. Fill three quarters of each mold with the almond filling."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake on the top shelf at 350 degrees F (175 degrees C) for 20 to 25 minutes, or until the surface of the tart is golden and the dough is firm. Remove the tarts from the molds as soon as they come out of the oven. Dip each tart in the sugar syrup while still hot. Stick a pine nut into the middle of each tart for decoration. Place on a wire rack to drain."
+        }
+      ]
+    }
+  ]
+}

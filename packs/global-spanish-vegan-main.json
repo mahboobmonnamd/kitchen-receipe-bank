@@ -1,0 +1,536 @@
+{
+  "id": "global-spanish-vegan-main",
+  "title": "Global Spanish Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53158",
+      "external_id": "53158",
+      "name": "Air fryer patatas bravas",
+      "slug": "air-fryer-patatas-bravas",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/3m8yae1763257951.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53158. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 900.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 4
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "basil leaves",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Soak the potatoes in just-boiled water for 30 mins, then drain and leave to air-dry for 5 mins. Heat the air fryer to 200C. Tip the potatoes into a bowl and drizzle over 1 tbsp of the oil and add 1/2 tsp each of salt and freshly ground black pepper. Mix to coat the potatoes all over, then tip into the air fryer basket and cook for 20-30 mins until crisp and golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, heat the remaining oil in a small pan over a medium-low heat and fry the onion for 8-10 mins until softened but not golden. Stir in the garlic and cook for a minute before adding the paprika and cooking for 30 seconds more. Stir in the tomato pur\u00e9e, cook for 1 min, then tip in the chopped tomatoes. Cook for 5-10 mins over a medium heat until thickened slightly."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once the potatoes are cooked, tip out onto a platter and pour over the tomato sauce. Sprinkle with the basil leaves, then serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53150",
+      "external_id": "53150",
+      "name": "Padron peppers",
+      "slug": "padron-peppers",
+      "description": "Vegan from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0ljvc51763248075.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53150. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 1
+        },
+        {
+          "name": "padron peppers",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 2
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the olive oil in a large frying pan over a high heat, or if using an air-fryer, heat to 205C for 3 mins. Fry the peppers, stirring frequently, for 5 mins until blistered and wilted. The peppers should be soft and slightly charred."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Transfer the peppers to a serving plate and season with some sea salt. Serve with dips or as part of a tapas spread, if you like."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53172",
+      "external_id": "53172",
+      "name": "Patatas bravas",
+      "slug": "patatas-bravas",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/bvg8sn1763298713.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53172. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small finely diced",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "tinned tomatos",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "chilli powder",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "potatoes",
+          "amount": 900.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a pan and fry the onion for about 5 mins until softened. Add the garlic, chopped tomatoes, tomato pur\u00e9e, sweet paprika, chilli powder, sugar and a pinch of salt, then bring to the boil, stirring occasionally. Lower to a simmer and cook for 10 mins until pulpy. Can be kept chilled for up to 24 hrs."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat oven to 200C/180C fan/gas 6. Pat the potatoes dry with kitchen paper, then tip into a roasting tin and toss in the olive oil and some seasoning. Roast for 40-50 mins until crisp and golden. Tip the potatoes into serving dishes and spoon over the tomato sauce. Sprinkle with some fresh parsley to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52942",
+      "external_id": "52942",
+      "name": "Roast fennel and aubergine paella",
+      "slug": "roast-fennel-and-aubergine-paella",
+      "description": "Vegan, Paella",
+      "category": "main",
+      "cuisine": "spanish",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "spanish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1520081754.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52942. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "baby aubergine",
+          "amount": 6.0,
+          "unit": "small",
+          "sort_order": 1
+        },
+        {
+          "name": "fennel",
+          "amount": 4.0,
+          "unit": "small",
+          "sort_order": 2
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "thinly sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "courgettes",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "paella rice",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "white wine",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 700.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "frozen peas",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 12
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 13
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 14
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1 Put the fennel, aubergine, pepper and courgette in a roasting tray. Add a glug of olive oil, season with salt and pepper and toss around to coat the veggies in the oil. Roast in the oven for 20 minutes, turning a couple of times until the veg are pretty much cooked through and turning golden."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2 Meanwhile, heat a paella pan or large frying pan over a low\u2013 medium heat and add a glug of olive oil. Saut\u00e9 the onion for 8\u201310 minutes until softened. Increase the heat to medium and stir in the rice, paprika and saffron. Cook for around 1 minute to start toasting the rice, then add the white wine. Reduce by about half before stirring in two-thirds of the stock. Reduce to a simmer and cook for 10 minutes without a lid, stirring a couple of times."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3 Stir in the peas, add some seasoning, then gently mix in the roasted veg. Pour over the remaining stock, arrange the lemon wedges on top and cover with a lid or some aluminium foil. Cook for a further 10 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4 To ensure you get the classic layer of toasted rice at the bottom of the pan, increase the heat to high until you hear a slight crackle. Remove from the heat and sit for 5 minutes before sprinkling over the parsley and serving."
+        }
+      ]
+    }
+  ]
+}

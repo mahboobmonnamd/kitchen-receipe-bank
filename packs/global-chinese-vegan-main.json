@@ -1,0 +1,230 @@
+{
+  "id": "global-chinese-vegan-main",
+  "title": "Global Chinese Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53371",
+      "external_id": "53371",
+      "name": "Sichuan Style Stir-Fried Chinese Long Beans",
+      "slug": "sichuan-style-stir-fried-chinese-long-beans",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "chinese",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "chinese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/i0610h1765659464.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53371. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chinese long beans",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "peanut oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "dried chillies",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "sichuan pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "sesame seed oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Chinese long beans can be found in both green and purple varieties. Both have similar flavors and textures, and either kind can be used for this recipe."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "If you don't have a wok, use a sturdy, large saut\u00e9 pan that has at least a two-inch lip."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53369",
+      "external_id": "53369",
+      "name": "Silken Tofu with Sesame Soy Sauce",
+      "slug": "silken-tofu-with-sesame-soy-sauce",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "chinese",
+      "protein_type": "tofu",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "chinese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53369. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "silken tofu",
+          "amount": 16.0,
+          "unit": "ounces",
+          "sort_order": 1
+        },
+        {
+          "name": "soy sauce",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "chinese sesame sauce",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "scallions",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "sesame seed",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Prepare the tofu:"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain the tofu and gently remove it from its packaging onto a large plate. Carefully slice the tofu into 1/2-inch slabs widthwise. With the palm of your hands, gently push the sliced tofu sidewise so that they fan out over the plate."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Garnish with toppings and serve:"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Drizzle the soy sauce and sesame sauce on top. Then garnish it with scallions and sesame seeds, and serve."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Tightly cover leftovers and refrigerate for up to 2 days. You can enjoy it cold straight out of the fridge or you can reheat it by microwaving in 30-second increments until warmed through"
+        }
+      ]
+    }
+  ]
+}

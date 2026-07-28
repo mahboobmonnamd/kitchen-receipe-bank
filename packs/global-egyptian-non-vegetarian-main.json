@@ -1,0 +1,540 @@
+{
+  "id": "global-egyptian-non-vegetarian-main",
+  "title": "Global Egyptian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53031",
+      "external_id": "53031",
+      "name": "Egyptian Fatteh",
+      "slug": "egyptian-fatteh",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "egyptian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/rlwcc51598734603.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53031. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "chicken stock cube",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "rice",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "noodles",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 10
+        },
+        {
+          "name": "pita bread",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 12
+        },
+        {
+          "name": "white wine vinegar",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 13
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 14
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "To prepare bread for bottom of dish: Take pita bread and rip into bite size pieces. In a frying pan, add about a 1/4 stick of butter, add bread pieces and fry until golden brown and crisp. Put these pieces in a glass baking dish, preferably a square sized dish. Set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Then add to same pan, a little more butter, salt, approximately 2 cloves of crushed fresh garlic, and a teaspoon or so of cumin stir around a bit until you can smell aroma, then add fried bread pieces to this mixture, stir to coat bread and put back into glass baking dish. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To prepare meat: put some butter in a pot, stir fry meat until brown, add 1 onion quartered, salt & pepper, 1 cube of chicken bouillon and water to cover meat. Bring to a boil, turn down to simmer, cover and cook until tender, approximately 2 hours. After meat has cooled, take out chunks of meat and put in a bowl, set aside. Reserve soup from the meat separately."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "To prepare the rice: Put some butter into a pot, add shareya (fideo noodles) like a handful or so, keep stirring until golden brown, not too dark, but very golden. Then add two cups of rice, stir a little bit until some of the rice turns an opaque white. Add 2-1/4 cups of water and salt to taste. Bring to a boil, cover and turn down to simmer, cook until tender. Test the rice tenderness after about 35 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Now take some of the soup from meat and add to the top of the bread pieces in baking dish to saturate.Add cooked rice on top of bread pieces. Slowly spoon remainder of soup onto rice, looking at glass dish sides to see level of soup, should reach just to top of rice, don\u2019t worry, this doesn\u2019t have to be exact. Now you\u2019re ready to make the sauce and fry the meat to put on top."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "To prepare red sauce: In a pan, add a little oil or butter, crushed tomato, a half teaspoon of tomato paste, salt & pepper, 2 cloves of fresh crushed garlic and cumin. Add also approximately 3 tablespoons of vinegar, stir this until you smell aroma and it is a bit smooth. It should be a bit thick, not watery, but if too thick you can add a bit of water. Spread with a wooden spoon atop the rice to cover."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "To fry meat: In a pan add a bit of butter or oil, the meat, just a touch of tomato paste, about a tablespoon of fresh crushed garlic, salt & pepper, a teaspoon of cumin. Cook until meat is golden fried."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Spoon this atop the rice and serve. Enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53029",
+      "external_id": "53029",
+      "name": "Mulukhiyah",
+      "slug": "mulukhiyah",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "egyptian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53029. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "mulukhiyah",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "beef",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "Litre",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Saute the onions in the 3-4 tablespoons olive oil"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the beef cubes or the chicken cutlets, sear for 3-4 min on each side"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add 1 liter of water or just enough to cover the meat"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cook over medium heat until the meat is done (I usually do this in the pressure cooker and press them for 5 min)"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add the frozen mulukhyia and stir until it thaws completely and then comes to a boil"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In another pan add the 1/4 to 1/2 cup of olive oil and the cloves of garlic and cook over medium low heat until you can smell the garlic (don\u2019t brown it, it will become bitter)"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add the oil and garlic to the mulukhyia and lower the heat and simmer for 5-10 minutes"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add salt to taste"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Serve with a generous amount of lemon juice."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "You can serve it with some short grain rice or some pita bread"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53028",
+      "external_id": "53028",
+      "name": "Shawarma",
+      "slug": "shawarma",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "egyptian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "egyptian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53028. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon juice",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 12
+        },
+        {
+          "name": "lettuce",
+          "amount": 1.0,
+          "unit": "Sliced",
+          "sort_order": 13
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "Sliced",
+          "sort_order": 14
+        },
+        {
+          "name": "pita bread",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine the marinade ingredients in a large ziplock bag (or bowl)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Marinate overnight or up to 24 hours."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Combine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge)."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Heat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Place chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Remove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "TO SERVE"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Slice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "To make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!"
+        }
+      ]
+    }
+  ]
+}

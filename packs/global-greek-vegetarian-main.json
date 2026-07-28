@@ -1,0 +1,135 @@
+{
+  "id": "global-greek-vegetarian-main",
+  "title": "Global Greek Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53012",
+      "external_id": "53012",
+      "name": "Gigantes Plaki",
+      "slug": "gigantes-plaki",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "greek",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "greek"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/b79r6f1585566277.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53012. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic clove",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "tomatoes",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "dried oregano",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "chopped parsley",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Soak the beans overnight in plenty of water. Drain, rinse, then place in a pan covered with water. Bring to the boil, reduce the heat, then simmer for approx 50 mins until slightly tender but not soft. Drain, then set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 180C/160C fan/gas 4. Heat the olive oil in a large frying pan, tip in the onion and garlic, then cook over a medium heat for 10 mins until softened but not browned. Add the tomato pur\u00e9e, cook for a further min, add remaining ingredients, then simmer for 2-3 mins. Season generously, then stir in the beans. Tip into a large ovenproof dish, then bake for approximately 1 hr, uncovered and without stirring, until the beans are tender. The beans will absorb all the fabulous flavours and the sauce will thicken. Allow to cool, then scatter with parsley and drizzle with a little more olive oil to serve."
+        }
+      ]
+    }
+  ]
+}

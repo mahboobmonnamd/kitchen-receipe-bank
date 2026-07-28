@@ -1,0 +1,1024 @@
+{
+  "id": "global-japanese-non-vegetarian-main",
+  "title": "Global Japanese Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52831",
+      "external_id": "52831",
+      "name": "Chicken Karaage",
+      "slug": "chicken-karaage",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tyywsw1505930373.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52831. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 450.0,
+          "unit": "grams Boneless skin",
+          "sort_order": 1
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 3
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "sake",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 2.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "potato starch",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add the ginger, garlic, soy sauce, sake and sugar to a bowl and whisk to combine. Add the chicken, then stir to coat evenly. Cover and refrigerate for at least 1 hour."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add 1 inch of vegetable oil to a heavy bottomed pot and heat until the oil reaches 360 degrees F. Line a wire rack with 2 sheets of paper towels and get your tongs out. Put the potato starch in a bowl"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add a handful of chicken to the potato starch and toss to coat each piece evenly."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Fry the karaage in batches until the exterior is a medium brown and the chicken is cooked through. Transfer the fried chicken to the paper towel lined rack. If you want the karaage to stay crispy longer, you can fry the chicken a second time, until it's a darker color after it's cooled off once. Serve with lemon wedges."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52773",
+      "external_id": "52773",
+      "name": "Honey Teriyaki Salmon",
+      "slug": "honey-teriyaki-salmon",
+      "description": "Fish, Breakfast, DateNight",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xxyupu1468262513.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52773. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "salmon",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "sake",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "sesame seed",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix all the ingredients in the Honey Teriyaki Glaze together. Whisk to blend well. Combine the salmon and the Glaze together."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat up a skillet on medium-low heat. Add the oil, Pan-fry the salmon on both sides until it\u2019s completely cooked inside and the glaze thickens."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Garnish with sesame and serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53034",
+      "external_id": "53034",
+      "name": "Japanese Katsudon",
+      "slug": "japanese-katsudon",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/d8f6qx1604182128.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53034. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 2
+        },
+        {
+          "name": "pork",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "mirin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "Beaten",
+          "sort_order": 8
+        },
+        {
+          "name": "sushi rice",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "chives",
+          "amount": 1.0,
+          "unit": "Chopped",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a pan, fry the sliced onion until golden brown, then add the tonkatsu (see recipe here), placing it in the middle of the pan. Mix the dashi, soy, mirin and sugar together and tip three-quarters of the mixture around the tonkatsu. Sizzle for a couple of mins so the sauce thickens a little and the tonkatsu reheats."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip the beaten eggs around the tonkatsu and cook for 2-3 mins until the egg is cooked through but still a little runny. Divide the rice between two bowls, then top each with half the egg and tonkatsu mix, sprinkle over the chives and serve immediately, drizzling with a little more soy if you want an extra umami kick."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52820",
+      "external_id": "52820",
+      "name": "Katsu Chicken curry",
+      "slug": "katsu-chicken-curry",
+      "description": "Curry, Meat",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vwrpps1503068729.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52820. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "amount": 4.0,
+          "unit": "pounded to 1cm thickness",
+          "sort_order": 1
+        },
+        {
+          "name": "plain flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 3
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 100.0,
+          "unit": "g fine",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 230.0,
+          "unit": "ml frying",
+          "sort_order": 5
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic",
+          "amount": 5.0,
+          "unit": "chopped cloves",
+          "sort_order": 8
+        },
+        {
+          "name": "carrot",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 9
+        },
+        {
+          "name": "plain flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "curry powder",
+          "amount": 4.0,
+          "unit": "teaspoons",
+          "sort_order": 11
+        },
+        {
+          "name": "chicken stock",
+          "amount": 600.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "honey",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 13
+        },
+        {
+          "name": "soy sauce",
+          "amount": 4.0,
+          "unit": "teaspoons",
+          "sort_order": 14
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 15
+        },
+        {
+          "name": "garam masala",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Prep:15min  \u203a  Cook:30min  \u203a  Ready in:45min"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "For the curry sauce: Heat oil in medium non-stick saucepan, add onion and garlic and cook until softened. Stir in carrots and cook over low heat for 10 to 12 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add flour and curry powder; cook for 1 minute. Gradually stir in stock until combined; add honey, soy sauce and bay leaf. Slowly bring to the boil."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Turn down heat and simmer for 20 minutes or until sauce thickens but is still of pouring consistency. Stir in garam masala. Pour the curry sauce through a sieve; return to saucepan and keep on low heat until ready to serve."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "For the chicken: Season both sides of chicken breasts with salt and pepper. Place flour, egg and breadcrumbs in separate bowls and arrange in a row. Coat the chicken breasts in flour, then dip them into the egg, then coat in breadcrumbs, making sure you cover both sides."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Heat oil in large frying pan over medium-high heat. Place chicken into hot oil and cook until golden brown, about 3 or 4 minutes each side. Once cooked, place on kitchen paper to absorb excess oil."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Pour curry sauce over chicken, serve with white rice and enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53065",
+      "external_id": "53065",
+      "name": "Sushi",
+      "slug": "sushi",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53065. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sushi rice",
+          "amount": 300.0,
+          "unit": "ml",
+          "sort_order": 1
+        },
+        {
+          "name": "rice wine",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "caster sugar",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "rice wine",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "cucumber",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "TO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Spread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the filling. Get your child to top the mayonnaise with a line of their favourite fillings \u2013 here we\u2019ve used tuna and cucumber."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Roll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "STEP 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Stick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "STEP 6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Wrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "STEP 7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "TO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52772",
+      "external_id": "52772",
+      "name": "Teriyaki Chicken Casserole",
+      "slug": "teriyaki-chicken-casserole",
+      "description": "Meat, Casserole",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52772. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "soy sauce",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "brown sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "ground ginger",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "minced garlic",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "cornstarch",
+          "amount": 4.0,
+          "unit": "Tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken breasts",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "stir-fry vegetables",
+          "amount": 1.0,
+          "unit": "(12 oz.)",
+          "sort_order": 8
+        },
+        {
+          "name": "brown rice",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 350\u00b0 F. Spray a 9x13-inch baking pan with non-stick spray."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine soy sauce, \u00bd cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Meanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once sauce is boiling, add mixture to the saucepan and stir to combine. Cook until the sauce starts to thicken then remove from heat."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Place the chicken breasts in the prepared pan. Pour one cup of the sauce over top of chicken. Place chicken in oven and bake 35 minutes or until cooked through. Remove from oven and shred chicken in the dish using two forks."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "*Meanwhile, steam or cook the vegetables according to package directions."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the cooked vegetables and rice to the casserole dish with the chicken. Add most of the remaining sauce, reserving a bit to drizzle over the top when serving. Gently toss everything together in the casserole dish until combined. Return to oven and cook 15 minutes. Remove from oven and let stand 5 minutes before serving. Drizzle each serving with remaining sauce. Enjoy!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53032",
+      "external_id": "53032",
+      "name": "Tonkatsu pork",
+      "slug": "tonkatsu-pork",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/lwsnkl1604181187.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53032. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pork chops",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "flour",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "Beaten",
+          "sort_order": 3
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "Fry",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato ketchup",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "worcestershire sauce",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "oyster sauce",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "caster sugar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Remove the large piece of fat on the edge of each pork loin, then bash each of the loins between two pieces of baking parchment until around 1cm in thickness \u2013 you can do this using a meat tenderiser or a rolling pin. Once bashed, use your hands to reshape the meat to its original shape and thickness \u2013 this step will ensure the meat is as succulent as possible."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put the flour, eggs and panko breadcrumbs into three separate wide-rimmed bowls. Season the meat, then dip first in the flour, followed by the eggs, then the breadcrumbs."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In a large frying or saute\u0301 pan, add enough oil to come 2cm up the side of the pan. Heat the oil to 180C \u2013 if you don\u2019t have a thermometer, drop a bit of panko into the oil and if it sinks a little then starts to fry, the oil is ready. Add two pork chops and cook for 1 min 30 secs on each side, then remove and leave to rest on a wire rack for 5 mins. Repeat with the remaining pork chops."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "While the pork is resting, make the sauce by whisking the ingredients together, adding a splash of water if it\u2019s particularly thick. Slice the tonkatsu and serve drizzled with the sauce."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "id": "global-algerian-non-vegetarian-main",
+  "title": "Global Algerian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53281",
+      "external_id": "53281",
+      "name": "Algerian Kefta (Meatballs)",
+      "slug": "algerian-kefta-meatballs",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "algerian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/8rfd4q1764112993.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53281. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "ground beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 5
+        },
+        {
+          "name": "plum tomatoes",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine ground beef with 1/2 of the minced garlic and 1 tablespoon chopped onion in a large bowl. Mix with your hands until fully incorporated. Shape meat mixture into 1 1/2-inch oblong patties; you should have 12 to 14 meatballs."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat a large skillet over medium-high heat. Brown patties in batches in the hot skillet until crispy on both sides and no longer pink in the center, about 10 minutes. Set meatballs aside in a rimmed serving dish."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Reduce heat to medium and stir remaining chopped onion into drippings in the skillet. Season with salt and pepper. Cook, stirring constantly, until onion has softened and turned translucent, about 5 minutes. Stir in remaining garlic and cook for 30 seconds. Stir in Roma tomatoes, dried parsley, and ras el hanout. Pour in water. Cook until tomatoes are soft, about 5 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour tomato sauce over meatballs to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53289",
+      "external_id": "53289",
+      "name": "Chorba Hamra bel Frik (Algerian Lamb, Tomato, and Freekeh Soup)",
+      "slug": "chorba-hamra-bel-frik-algerian-lamb-tomato-and-freekeh-soup",
+      "description": "Lamb from TheMealDB",
+      "category": "main",
+      "cuisine": "algerian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/p9tebp1764118792.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53289. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "freekeh",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "lamb",
+          "amount": 12.0,
+          "unit": "ounces",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 9
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 10
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "chickpeas",
+          "amount": 14.0,
+          "unit": "oz jar",
+          "sort_order": 12
+        },
+        {
+          "name": "water",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 13
+        },
+        {
+          "name": "zucchini",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 14
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 15
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 16
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "Medium",
+          "sort_order": 17
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "Diced",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place freekeh in a small bowl and cover with cold water. Set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine lamb, onion, black pepper, paprika, cinnamon, and salt in a pot. Stir in oil, 1/2 the cilantro, 1/2 the mint, and celery stalk until combined. Simmer over low heat for 15 minutes. Stir in chickpeas; pour in just enough water to cover, and return to a simmer. Stir in zucchini, carrot, and tomato paste."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Set a steamer over the pot; add tomatoes. Cover and steam tomatoes until soft, about 5 minutes. Crush tomatoes using a wooden spoon, so pulp drips into soup. Remove the steamer and discard leftover tomato peels."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add potato to soup and just enough water to cover. Simmer until potato is soft, about 10 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Drain freekeh and add to soup. Simmer until soft, about 15 minutes. Remove celery stalk and discard. Sprinkle soup with remaining 1/2 cilantro and remaining 1/2 mint before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53280",
+      "external_id": "53280",
+      "name": "Poulet Roti a l'Algerienne (Algerian Roast Chicken)",
+      "slug": "poulet-roti-a-l-algerienne-algerian-roast-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "algerian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "roasting"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/nlxald1764112200.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53280. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "balsamic vinegar",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "dijon mustard",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 6
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 9
+        },
+        {
+          "name": "chicken",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 350 degrees F (175 degrees C)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix water, onion, olive oil, balsamic vinegar, Dijon mustard, garlic, black pepper, cayenne pepper, and salt together in a roasting dish. Add chicken; turn until well coated with mixture."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bake in the preheated oven until an instant-read thermometer inserted into the thickest part of the thigh, near the bone, reads 165 degrees F (74 degrees C), about 1 hour 30 minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53287",
+      "external_id": "53287",
+      "name": "Tajine de Poulet aux Carottes et Patates Douces (Chicken and Sweet Potato Tagine)",
+      "slug": "tajine-de-poulet-aux-carottes-et-patates-douces-chicken-and-",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "algerian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/d8bfyg1764117503.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53287. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "celery",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "bag",
+          "sort_order": 3
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "bag",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "ground ginger",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 10
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 11
+        },
+        {
+          "name": "chicken thighs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 13
+        },
+        {
+          "name": "raisins",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 14
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 15
+        },
+        {
+          "name": "sweet potatoes",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 16
+        },
+        {
+          "name": "carrots",
+          "amount": 3.0,
+          "unit": "sliced thinly",
+          "sort_order": 17
+        },
+        {
+          "name": "prunes",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine onions, celery, cilantro, and parsley in a large pot. Stir in turmeric, cumin, paprika, ginger, cayenne pepper, salt, and pepper. Place chicken thighs on top. Drizzle olive oil over chicken. Cover and simmer over low heat until chicken is tender, about 40 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place raisins in a small bowl and cover with hot water; let soak for 10 minutes. Drain."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Transfer chicken mixture into an oven-safe tagine or casserole dish. Add sweet potato and carrots. Cover with lid or aluminum foil."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Bake in the preheated oven until sweet potato is soft, about 40 minutes. Add drained raisins and prunes. Continue baking, covered, until raisins and prunes are heated through, about 10 minutes."
+        }
+      ]
+    }
+  ]
+}

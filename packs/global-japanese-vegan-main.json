@@ -1,0 +1,134 @@
+{
+  "id": "global-japanese-vegan-main",
+  "title": "Global Japanese Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52871",
+      "external_id": "52871",
+      "name": "Yaki Udon",
+      "slug": "yaki-udon",
+      "description": "LowCalorie",
+      "category": "main",
+      "cuisine": "japanese",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "japanese"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wrustq1511475474.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52871. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "udon noodles",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sesame seed oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "cabbage",
+          "amount": 0.25,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "shiitake mushrooms",
+          "amount": 10.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "spring onions",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "mirin",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "caster sugar",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 9
+        },
+        {
+          "name": "worcestershire sauce",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Boil some water in a large saucepan. Add 250ml cold water and the udon noodles. (As they are so thick, adding cold water helps them to cook a little bit slower so the middle cooks through). If using frozen or fresh noodles, cook for 2 mins or until al dente; dried will take longer, about 5-6 mins. Drain and leave in the colander."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat 1 tbsp of the oil, add the onion and cabbage and saut\u00e9 for 5 mins until softened. Add the mushrooms and some spring onions, and saut\u00e9 for 1 more min. Pour in the remaining sesame oil and the noodles. If using cold noodles, let them heat through before adding the ingredients for the sauce \u2013 otherwise tip in straight away and keep stir-frying until sticky and piping hot. Sprinkle with the remaining spring onions."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1590 @@
+{
+  "id": "indian-south-vegetarian",
+  "title": "South Indian Vegetarian",
+  "version": "1.0.0",
+  "recipes": [
+    {
+      "id": "pack:indian-south-vegetarian:soft-steamed-idli",
+      "name": "Soft Steamed Idli",
+      "slug": "soft-steamed-idli",
+      "description": "Pillowy fermented rice-and-lentil cakes steamed until springy — a Tamil breakfast staple with coconut chutney.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack", "bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack", "bread"],
+        "techniques": ["fermenting", "steaming"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "soft",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Batter needs overnight ferment (not counted in prep).",
+      "ingredients": [
+        { "name": "idli rice", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "urad dal", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "fenugreek seeds", "amount": 0.5, "unit": "tsp", "sort_order": 3 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 4 },
+        { "name": "water", "amount": 2.5, "unit": "cup", "sort_order": 5 },
+        { "name": "oil for greasing", "amount": 1, "unit": "tsp", "sort_order": 6 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Soak",
+          "instruction": "Rinse idli rice and urad dal separately. Soak rice 4–6 hours; soak dal with fenugreek 3–4 hours."
+        },
+        {
+          "step_number": 2,
+          "title": "Grind",
+          "instruction": "Grind dal with a little water to a fluffy paste. Grind rice to a slightly coarse batter. Mix both with salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Ferment",
+          "instruction": "Cover and ferment 8–12 hours in a warm spot until batter rises and smells lightly tangy."
+        },
+        {
+          "step_number": 4,
+          "title": "Steam",
+          "instruction": "Grease idli moulds, pour batter three-quarters full, and steam 10–12 minutes until a skewer comes out clean."
+        },
+        {
+          "step_number": 5,
+          "title": "Serve",
+          "instruction": "Rest 2 minutes, unmould with a wet spoon, and serve hot with sambar and coconut chutney."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:crispy-plain-dosa",
+      "name": "Crispy Plain Dosa",
+      "slug": "crispy-plain-dosa",
+      "description": "Thin, lacy fermented crepes cooked on a hot tawa until golden and crisp at the edges.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack", "bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack", "lunch"],
+        "dish_types": ["snack", "bread"],
+        "techniques": ["fermenting", "frying"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "crisp",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Same batter base as idli, thinned for spreading.",
+      "ingredients": [
+        { "name": "idli or dosa rice", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "urad dal", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "chana dal", "amount": 2, "unit": "tbsp", "sort_order": 3 },
+        { "name": "fenugreek seeds", "amount": 0.5, "unit": "tsp", "sort_order": 4 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 5 },
+        { "name": "water", "amount": 3, "unit": "cup", "sort_order": 6 },
+        { "name": "oil or ghee", "amount": 3, "unit": "tbsp", "sort_order": 7 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Soak and grind",
+          "instruction": "Soak rice, urad, chana dal, and fenugreek 4–5 hours. Grind to a smooth batter; mix salt and ferment overnight."
+        },
+        {
+          "step_number": 2,
+          "title": "Thin batter",
+          "instruction": "Stir fermented batter and thin with water to pouring cream consistency."
+        },
+        {
+          "step_number": 3,
+          "title": "Heat tawa",
+          "instruction": "Heat a cast-iron or nonstick tawa until a water droplet sizzles and dances."
+        },
+        {
+          "step_number": 4,
+          "title": "Spread",
+          "instruction": "Pour a ladle of batter in the centre and quickly spiral outward into a thin circle."
+        },
+        {
+          "step_number": 5,
+          "title": "Crisp",
+          "instruction": "Drizzle oil around the edges. Cook until the underside is deep golden; fold and serve with chutney and potato masala."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:classic-tomato-sambar",
+      "name": "Classic Tomato Sambar",
+      "slug": "classic-tomato-sambar",
+      "description": "Tangy toor-dal stew with tomato, drumstick, and a roasted spice mix — the everyday gravy of South Indian meals.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["dal", "soup", "curry"],
+      "taxonomy": {
+        "courses": ["main", "side", "lunch", "dinner", "soup"],
+        "dish_types": ["dal", "soup", "curry"],
+        "techniques": ["simmering", "tempering", "pressure_cooking"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "toor dal", "amount": 0.75, "unit": "cup", "sort_order": 1 },
+        { "name": "tomato", "amount": 2, "unit": "piece", "sort_order": 2 },
+        { "name": "drumstick pieces", "amount": 1, "unit": "cup", "sort_order": 3 },
+        { "name": "small onion or shallots", "amount": 8, "unit": "piece", "sort_order": 4 },
+        { "name": "tamarind paste", "amount": 1.5, "unit": "tsp", "sort_order": 5 },
+        { "name": "sambar powder", "amount": 2, "unit": "tbsp", "sort_order": 6 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 10 },
+        { "name": "dried red chilli", "amount": 2, "unit": "piece", "sort_order": 11 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 12 },
+        { "name": "water", "amount": 4, "unit": "cup", "sort_order": 13 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 14 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook dal",
+          "instruction": "Pressure-cook toor dal with turmeric and 2.5 cups water until soft. Mash lightly."
+        },
+        {
+          "step_number": 2,
+          "title": "Simmer vegetables",
+          "instruction": "In a pot, simmer onion, tomato, and drumstick with tamarind paste, salt, and 1.5 cups water until tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Add spice",
+          "instruction": "Stir in sambar powder and cook 3–4 minutes so the raw spice smell fades."
+        },
+        {
+          "step_number": 4,
+          "title": "Combine",
+          "instruction": "Add mashed dal, adjust consistency with water, and simmer 8–10 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, red chilli, and curry leaves. Pour over sambar, garnish with coriander, and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:pepper-rasam",
+      "name": "Pepper Rasam",
+      "slug": "pepper-rasam",
+      "description": "Thin, peppery tamarind broth finished with a crackling temper — light soup for rice or sipping when under the weather.",
+      "category": "soup",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["soup"],
+      "taxonomy": {
+        "courses": ["soup", "side", "lunch", "appetizer"],
+        "dish_types": ["soup"],
+        "techniques": ["simmering", "tempering", "boiling"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "broth",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "toor dal cooked and mashed", "amount": 0.25, "unit": "cup", "sort_order": 1 },
+        { "name": "tomato", "amount": 1, "unit": "piece", "sort_order": 2 },
+        { "name": "tamarind paste", "amount": 1, "unit": "tsp", "sort_order": 3 },
+        { "name": "black peppercorns", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "cumin seeds", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "garlic cloves", "amount": 3, "unit": "piece", "sort_order": 6 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 7 },
+        { "name": "rasam powder", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "water", "amount": 3.5, "unit": "cup", "sort_order": 10 },
+        { "name": "mustard seeds", "amount": 0.5, "unit": "tsp", "sort_order": 11 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 12 },
+        { "name": "ghee or oil", "amount": 1, "unit": "tbsp", "sort_order": 13 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 14 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Crush spices",
+          "instruction": "Coarsely crush pepper, cumin, and garlic together."
+        },
+        {
+          "step_number": 2,
+          "title": "Build broth",
+          "instruction": "In a pot combine crushed spices, chopped tomato, tamarind, turmeric, rasam powder, salt, and water. Bring to a gentle boil."
+        },
+        {
+          "step_number": 3,
+          "title": "Add dal",
+          "instruction": "Stir in mashed dal and simmer until foam rises and the broth smells fragrant, about 8 minutes. Do not overboil."
+        },
+        {
+          "step_number": 4,
+          "title": "Temper",
+          "instruction": "Heat ghee; crackle mustard and curry leaves. Pour over rasam, add coriander, and serve with hot rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:beans-poriyal",
+      "name": "Beans Poriyal",
+      "slug": "beans-poriyal",
+      "description": "Finely chopped green beans sautéed with mustard, urad dal, and fresh coconut — a dry Tamil side dish.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["side"],
+      "taxonomy": {
+        "courses": ["side", "lunch", "dinner"],
+        "dish_types": ["side"],
+        "techniques": ["sauteing", "tempering", "steaming"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "green beans", "amount": 400, "unit": "g", "sort_order": 1 },
+        { "name": "grated coconut", "amount": 0.33, "unit": "cup", "sort_order": 2 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 3 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "dried red chilli", "amount": 2, "unit": "piece", "sort_order": 5 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 6 },
+        { "name": "asafoetida", "amount": 0.125, "unit": "tsp", "sort_order": 7 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 8 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "oil", "amount": 1.5, "unit": "tbsp", "sort_order": 10 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep beans",
+          "instruction": "Trim and finely chop green beans into small pieces."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, then fry urad dal until golden. Add red chilli, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 3,
+          "title": "Cook beans",
+          "instruction": "Add beans, turmeric, and salt. Sprinkle 2–3 tbsp water, cover, and cook on medium-low until tender-crisp, 8–10 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Uncover, evaporate excess moisture, fold in grated coconut, and serve warm with rice and sambar."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:mixed-vegetable-avial",
+      "name": "Mixed Vegetable Avial",
+      "slug": "mixed-vegetable-avial",
+      "description": "Kerala-style mixed vegetables simmered in coconut-yogurt gravy with cumin and curry leaves.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["dairy"]
+      },
+      "health_flags": {
+        "contains": ["dairy"]
+      },
+      "dish_types": ["curry", "side"],
+      "taxonomy": {
+        "courses": ["side", "main", "lunch", "dinner"],
+        "dish_types": ["curry", "side"],
+        "techniques": ["simmering", "steaming", "mixing"],
+        "cuisines": ["indian", "south_indian"]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Use thick slightly sour yogurt.",
+      "ingredients": [
+        { "name": "drumstick pieces", "amount": 0.5, "unit": "cup", "sort_order": 1 },
+        { "name": "carrot batons", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "ash gourd cubes", "amount": 1, "unit": "cup", "sort_order": 3 },
+        { "name": "raw banana cubes", "amount": 0.5, "unit": "cup", "sort_order": 4 },
+        { "name": "green beans pieces", "amount": 0.5, "unit": "cup", "sort_order": 5 },
+        { "name": "grated coconut", "amount": 0.75, "unit": "cup", "sort_order": 6 },
+        { "name": "cumin seeds", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 8 },
+        { "name": "thick yogurt", "amount": 0.75, "unit": "cup", "sort_order": 9 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 10 },
+        { "name": "salt", "amount": 1.25, "unit": "tsp", "sort_order": 11 },
+        { "name": "coconut oil", "amount": 2, "unit": "tbsp", "sort_order": 12 },
+        { "name": "curry leaves", "amount": 12, "unit": "piece", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook vegetables",
+          "instruction": "Simmer mixed vegetables with turmeric, salt, and just enough water until almost tender but not mushy."
+        },
+        {
+          "step_number": 2,
+          "title": "Grind paste",
+          "instruction": "Grind coconut, cumin, and green chilli to a coarse paste with a splash of water."
+        },
+        {
+          "step_number": 3,
+          "title": "Combine",
+          "instruction": "Add coconut paste to the vegetables and simmer 3–4 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Yogurt",
+          "instruction": "Lower heat. Whisk yogurt smooth and stir in; warm gently without boiling so it does not split."
+        },
+        {
+          "step_number": 5,
+          "title": "Finish",
+          "instruction": "Drizzle coconut oil, add curry leaves, rest 5 minutes, and serve with rice or adai."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:lemon-rice",
+      "name": "Lemon Rice",
+      "slug": "lemon-rice",
+      "description": "Fluffy leftover rice brightened with lemon, turmeric, peanuts, and a classic South Indian temper.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "rice",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["nuts"]
+      },
+      "health_flags": {
+        "contains": ["nuts"]
+      },
+      "dish_types": ["rice"],
+      "taxonomy": {
+        "courses": ["main", "side", "lunch", "snack"],
+        "dish_types": ["rice"],
+        "techniques": ["tempering", "mixing", "sauteing"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Best with cooled day-old rice.",
+      "ingredients": [
+        { "name": "cooked rice", "amount": 3, "unit": "cup", "sort_order": 1 },
+        { "name": "lemon juice", "amount": 3, "unit": "tbsp", "sort_order": 2 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 3 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "raw peanuts", "amount": 3, "unit": "tbsp", "sort_order": 7 },
+        { "name": "dried red chilli", "amount": 2, "unit": "piece", "sort_order": 8 },
+        { "name": "green chilli", "amount": 1, "unit": "piece", "sort_order": 9 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 10 },
+        { "name": "asafoetida", "amount": 0.125, "unit": "tsp", "sort_order": 11 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 12 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Fluff rice",
+          "instruction": "Spread cooked rice and cool so grains separate. Mix lemon juice and turmeric in a small bowl."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard. Fry urad, chana dal, and peanuts until golden. Add chillies, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 3,
+          "title": "Season",
+          "instruction": "Lower heat, pour in lemon-turmeric mix, and stir 10 seconds."
+        },
+        {
+          "step_number": 4,
+          "title": "Toss",
+          "instruction": "Add rice and salt; toss gently until evenly yellow. Rest 5 minutes and serve with yogurt or papad."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:coconut-chutney",
+      "name": "Coconut Chutney",
+      "slug": "coconut-chutney",
+      "description": "Fresh coconut ground with green chilli and ginger, finished with a mustard-curry leaf temper — the classic idli-dosa dip.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "none",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["dip", "sauce"],
+      "taxonomy": {
+        "courses": ["side", "appetizer", "breakfast", "snack"],
+        "dish_types": ["dip", "sauce"],
+        "techniques": ["mixing", "tempering"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "paste",
+      "servings_base": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 5,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "grated coconut", "amount": 1, "unit": "cup", "sort_order": 1 },
+        { "name": "roasted chana dal", "amount": 2, "unit": "tbsp", "sort_order": 2 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "salt", "amount": 0.75, "unit": "tsp", "sort_order": 5 },
+        { "name": "water", "amount": 0.5, "unit": "cup", "sort_order": 6 },
+        { "name": "mustard seeds", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "urad dal", "amount": 0.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "dried red chilli", "amount": 1, "unit": "piece", "sort_order": 9 },
+        { "name": "curry leaves", "amount": 6, "unit": "piece", "sort_order": 10 },
+        { "name": "oil", "amount": 1, "unit": "tsp", "sort_order": 11 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Grind",
+          "instruction": "Blend coconut, roasted chana, green chilli, ginger, salt, and water to a slightly coarse paste."
+        },
+        {
+          "step_number": 2,
+          "title": "Adjust",
+          "instruction": "Transfer to a bowl; thin with a splash of water if needed for dipping consistency."
+        },
+        {
+          "step_number": 3,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, fry urad dal, red chilli, and curry leaves. Pour over chutney and stir."
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Serve immediately with idli, dosa, or vada."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:tomato-chutney",
+      "name": "Tomato Chutney",
+      "slug": "tomato-chutney",
+      "description": "Tangy onion-tomato chutney with a mild spice base — a bright companion for dosa and upma.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["dip", "sauce"],
+      "taxonomy": {
+        "courses": ["side", "appetizer", "breakfast", "snack"],
+        "dish_types": ["dip", "sauce"],
+        "techniques": ["sauteing", "tempering", "simmering"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "paste",
+      "servings_base": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "tomato", "amount": 3, "unit": "piece", "sort_order": 1 },
+        { "name": "onion", "amount": 1, "unit": "piece", "sort_order": 2 },
+        { "name": "garlic cloves", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "dried red chilli", "amount": 3, "unit": "piece", "sort_order": 4 },
+        { "name": "chana dal", "amount": 1, "unit": "tbsp", "sort_order": 5 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "tamarind paste", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 9 },
+        { "name": "mustard seeds", "amount": 0.5, "unit": "tsp", "sort_order": 10 },
+        { "name": "curry leaves", "amount": 6, "unit": "piece", "sort_order": 11 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Fry base",
+          "instruction": "Heat 1.5 tbsp oil; fry chana and urad dal until golden. Add red chilli, garlic, and onion; sauté until soft."
+        },
+        {
+          "step_number": 2,
+          "title": "Cook tomato",
+          "instruction": "Add chopped tomato, salt, and tamarind. Cook until pulpy and oil separates slightly."
+        },
+        {
+          "step_number": 3,
+          "title": "Blend",
+          "instruction": "Cool slightly and grind to a smooth chutney; adjust salt."
+        },
+        {
+          "step_number": 4,
+          "title": "Temper",
+          "instruction": "Heat remaining oil; crackle mustard and curry leaves. Pour over chutney and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:vegetable-upma",
+      "name": "Vegetable Upma",
+      "slug": "vegetable-upma",
+      "description": "Savory semolina porridge with mixed vegetables and a mustard-cashew temper — quick South Indian breakfast.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["gluten", "nuts"]
+      },
+      "health_flags": {
+        "contains": ["gluten", "nuts"]
+      },
+      "dish_types": ["snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack", "lunch"],
+        "dish_types": ["snack"],
+        "techniques": ["sauteing", "simmering", "tempering"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "soft",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Rava is wheat-based (not gluten-free).",
+      "ingredients": [
+        { "name": "semolina (rava)", "amount": 1, "unit": "cup", "sort_order": 1 },
+        { "name": "water", "amount": 2.5, "unit": "cup", "sort_order": 2 },
+        { "name": "onion", "amount": 1, "unit": "piece", "sort_order": 3 },
+        { "name": "carrot diced", "amount": 0.33, "unit": "cup", "sort_order": 4 },
+        { "name": "green peas", "amount": 0.25, "unit": "cup", "sort_order": 5 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 6 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 10 },
+        { "name": "cashews", "amount": 10, "unit": "piece", "sort_order": 11 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 12 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 13 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 14 },
+        { "name": "lemon juice", "amount": 1, "unit": "tbsp", "sort_order": 15 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Roast rava",
+          "instruction": "Dry-roast semolina on medium heat until fragrant and lightly coloured; set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, fry dals and cashews. Add chilli, ginger, curry leaves, then onion."
+        },
+        {
+          "step_number": 3,
+          "title": "Vegetables",
+          "instruction": "Add carrot and peas; sauté 2 minutes. Pour in water and salt; bring to a boil."
+        },
+        {
+          "step_number": 4,
+          "title": "Cook",
+          "instruction": "Lower heat and slowly rain in roasted rava while stirring to avoid lumps."
+        },
+        {
+          "step_number": 5,
+          "title": "Steam",
+          "instruction": "Cover and cook 3–4 minutes until fluffy. Finish with lemon juice and serve hot."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:medu-vada",
+      "name": "Medu Vada",
+      "slug": "medu-vada",
+      "description": "Crisp-fried urad dal doughnuts with soft centres — a classic tiffin with coconut chutney and sambar.",
+      "category": "snack",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["fritter", "snack"],
+      "taxonomy": {
+        "courses": ["snack", "appetizer", "breakfast"],
+        "dish_types": ["fritter", "snack"],
+        "techniques": ["deep_fry", "mixing"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "crisp",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Soak time not counted in prep.",
+      "ingredients": [
+        { "name": "urad dal", "amount": 1, "unit": "cup", "sort_order": 1 },
+        { "name": "rice flour", "amount": 1, "unit": "tbsp", "sort_order": 2 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "black pepper crushed", "amount": 0.5, "unit": "tsp", "sort_order": 5 },
+        { "name": "curry leaves chopped", "amount": 8, "unit": "piece", "sort_order": 6 },
+        { "name": "onion finely chopped", "amount": 0.25, "unit": "cup", "sort_order": 7 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "oil for deep frying", "amount": 500, "unit": "ml", "sort_order": 9 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Soak",
+          "instruction": "Rinse and soak urad dal 3–4 hours. Drain well."
+        },
+        {
+          "step_number": 2,
+          "title": "Grind",
+          "instruction": "Grind dal with almost no water to a thick fluffy paste. Mix in rice flour, chilli, ginger, pepper, curry leaves, onion, and salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Shape",
+          "instruction": "Wet hands, shape doughnuts with a hole in the centre on a banana leaf or plastic sheet."
+        },
+        {
+          "step_number": 4,
+          "title": "Fry",
+          "instruction": "Heat oil to medium-hot. Slide in vadas and fry, flipping, until deep golden and crisp, 4–5 minutes each batch."
+        },
+        {
+          "step_number": 5,
+          "title": "Drain",
+          "instruction": "Drain on paper towels and serve hot with coconut chutney and sambar."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:ven-pongal",
+      "name": "Ven Pongal",
+      "slug": "ven-pongal",
+      "description": "Comforting savory rice-and-moong porridge enriched with ghee, pepper, cumin, and cashews.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["dairy", "nuts"]
+      },
+      "health_flags": {
+        "contains": ["dairy", "nuts"]
+      },
+      "dish_types": ["rice", "snack"],
+      "taxonomy": {
+        "courses": ["breakfast", "main", "snack", "lunch"],
+        "dish_types": ["rice", "snack"],
+        "techniques": ["simmering", "pressure_cooking", "tempering"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "soft",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "raw rice", "amount": 0.75, "unit": "cup", "sort_order": 1 },
+        { "name": "moong dal", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "water", "amount": 4.5, "unit": "cup", "sort_order": 3 },
+        { "name": "ghee", "amount": 3, "unit": "tbsp", "sort_order": 4 },
+        { "name": "black peppercorns", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "cumin seeds", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "cashews", "amount": 12, "unit": "piece", "sort_order": 7 },
+        { "name": "ginger grated", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 9 },
+        { "name": "asafoetida", "amount": 0.125, "unit": "tsp", "sort_order": 10 },
+        { "name": "salt", "amount": 1.25, "unit": "tsp", "sort_order": 11 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Roast dal",
+          "instruction": "Dry-roast moong dal lightly until aromatic. Rinse with rice."
+        },
+        {
+          "step_number": 2,
+          "title": "Cook",
+          "instruction": "Pressure-cook rice and dal with water and salt until soft and porridge-like (about 4–5 whistles)."
+        },
+        {
+          "step_number": 3,
+          "title": "Mash",
+          "instruction": "Open cooker, mash gently, and keep warm. Add a splash of hot water if too thick."
+        },
+        {
+          "step_number": 4,
+          "title": "Temper",
+          "instruction": "Heat ghee; fry cashews golden. Add pepper, cumin, ginger, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 5,
+          "title": "Finish",
+          "instruction": "Pour tempering over pongal, mix well, and serve with coconut chutney and sambar."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:curd-rice",
+      "name": "Curd Rice",
+      "slug": "curd-rice",
+      "description": "Cool yogurt rice tempered with mustard, ginger, and green chilli — the soothing close to a spicy South Indian meal.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["dairy"]
+      },
+      "health_flags": {
+        "contains": ["dairy"]
+      },
+      "dish_types": ["rice"],
+      "taxonomy": {
+        "courses": ["main", "side", "lunch", "dinner"],
+        "dish_types": ["rice"],
+        "techniques": ["mixing", "tempering", "no_cook"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "creamy",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 5,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Use slightly warm rice so yogurt blends smoothly.",
+      "ingredients": [
+        { "name": "cooked rice", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "plain yogurt", "amount": 1.5, "unit": "cup", "sort_order": 2 },
+        { "name": "milk", "amount": 0.25, "unit": "cup", "sort_order": 3 },
+        { "name": "salt", "amount": 0.75, "unit": "tsp", "sort_order": 4 },
+        { "name": "mustard seeds", "amount": 0.75, "unit": "tsp", "sort_order": 5 },
+        { "name": "urad dal", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "green chilli", "amount": 1, "unit": "piece", "sort_order": 7 },
+        { "name": "ginger grated", "amount": 1, "unit": "tsp", "sort_order": 8 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 9 },
+        { "name": "asafoetida", "amount": 0.125, "unit": "tsp", "sort_order": 10 },
+        { "name": "oil or ghee", "amount": 1, "unit": "tbsp", "sort_order": 11 },
+        { "name": "pomegranate arils optional", "amount": 2, "unit": "tbsp", "sort_order": 12 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Mash rice",
+          "instruction": "Mash warm cooked rice lightly. Mix with yogurt, milk, and salt to a creamy loose consistency."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, fry urad dal, then add chilli, ginger, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 3,
+          "title": "Combine",
+          "instruction": "Pour tempering over curd rice and mix. Chill 15–20 minutes if desired."
+        },
+        {
+          "step_number": 4,
+          "title": "Garnish",
+          "instruction": "Top with pomegranate if using and serve with pickle or fried chillies."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:potato-masala",
+      "name": "Potato Masala",
+      "slug": "potato-masala",
+      "description": "Soft spiced potato filling with onion and curry leaves — the classic stuffing for masala dosa.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["side", "curry"],
+      "taxonomy": {
+        "courses": ["side", "breakfast", "lunch", "snack"],
+        "dish_types": ["side", "curry"],
+        "techniques": ["boiling", "sauteing", "tempering"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "soft",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "potatoes", "amount": 4, "unit": "piece", "sort_order": 1 },
+        { "name": "onion", "amount": 2, "unit": "piece", "sort_order": 2 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 3 },
+        { "name": "ginger", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "urad dal", "amount": 0.5, "unit": "tsp", "sort_order": 7 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 8 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 9 },
+        { "name": "salt", "amount": 1.25, "unit": "tsp", "sort_order": 10 },
+        { "name": "oil", "amount": 2, "unit": "tbsp", "sort_order": 11 },
+        { "name": "fresh coriander", "amount": 2, "unit": "tbsp", "sort_order": 12 },
+        { "name": "lemon juice", "amount": 1, "unit": "tsp", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Boil potatoes",
+          "instruction": "Boil potatoes until tender, peel, and roughly mash leaving some chunks."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, fry dals golden. Add chilli, ginger, and curry leaves."
+        },
+        {
+          "step_number": 3,
+          "title": "Onion",
+          "instruction": "Sauté sliced onion until soft and translucent. Add turmeric."
+        },
+        {
+          "step_number": 4,
+          "title": "Combine",
+          "instruction": "Add mashed potato, salt, and a splash of water. Cook 3–4 minutes, folding gently."
+        },
+        {
+          "step_number": 5,
+          "title": "Finish",
+          "instruction": "Stir in coriander and lemon juice. Use as dosa filling or as a dry side."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:adai",
+      "name": "Adai",
+      "slug": "adai",
+      "description": "Protein-rich mixed-lentil and rice pancakes, thicker than dosa, with onion and curry leaves in the batter.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["snack", "bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack", "lunch"],
+        "dish_types": ["snack", "bread"],
+        "techniques": ["frying", "mixing"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "crisp",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. No long fermentation required.",
+      "ingredients": [
+        { "name": "raw rice", "amount": 0.75, "unit": "cup", "sort_order": 1 },
+        { "name": "toor dal", "amount": 0.25, "unit": "cup", "sort_order": 2 },
+        { "name": "chana dal", "amount": 0.25, "unit": "cup", "sort_order": 3 },
+        { "name": "urad dal", "amount": 2, "unit": "tbsp", "sort_order": 4 },
+        { "name": "dried red chilli", "amount": 3, "unit": "piece", "sort_order": 5 },
+        { "name": "fennel seeds", "amount": 0.5, "unit": "tsp", "sort_order": 6 },
+        { "name": "onion finely chopped", "amount": 0.5, "unit": "cup", "sort_order": 7 },
+        { "name": "curry leaves chopped", "amount": 8, "unit": "piece", "sort_order": 8 },
+        { "name": "salt", "amount": 1.25, "unit": "tsp", "sort_order": 9 },
+        { "name": "oil", "amount": 3, "unit": "tbsp", "sort_order": 10 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Soak",
+          "instruction": "Soak rice and dals together with red chilli and fennel for 2–3 hours."
+        },
+        {
+          "step_number": 2,
+          "title": "Grind",
+          "instruction": "Grind to a slightly coarse thick batter. Mix salt, onion, and curry leaves. Rest 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Spread",
+          "instruction": "Heat tawa; pour a ladle and spread into a thick pancake with a few holes for crisp edges."
+        },
+        {
+          "step_number": 4,
+          "title": "Cook",
+          "instruction": "Drizzle oil; cook both sides until golden and crisp at the rim."
+        },
+        {
+          "step_number": 5,
+          "title": "Serve",
+          "instruction": "Serve hot with avocado or jaggery, or with avial and coconut chutney."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:keerai-kootu",
+      "name": "Keerai Kootu",
+      "slug": "keerai-kootu",
+      "description": "Spinach simmered with moong dal and ground coconut-cumin paste — a mild Tamil kootu for rice meals.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["dal", "side", "curry"],
+      "taxonomy": {
+        "courses": ["side", "main", "lunch", "dinner"],
+        "dish_types": ["dal", "side", "curry"],
+        "techniques": ["simmering", "tempering", "pressure_cooking"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "spinach chopped", "amount": 4, "unit": "cup", "sort_order": 1 },
+        { "name": "moong dal", "amount": 0.5, "unit": "cup", "sort_order": 2 },
+        { "name": "grated coconut", "amount": 0.33, "unit": "cup", "sort_order": 3 },
+        { "name": "cumin seeds", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 5 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 6 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 7 },
+        { "name": "mustard seeds", "amount": 0.75, "unit": "tsp", "sort_order": 8 },
+        { "name": "urad dal", "amount": 0.5, "unit": "tsp", "sort_order": 9 },
+        { "name": "dried red chilli", "amount": 1, "unit": "piece", "sort_order": 10 },
+        { "name": "curry leaves", "amount": 6, "unit": "piece", "sort_order": 11 },
+        { "name": "oil", "amount": 1, "unit": "tbsp", "sort_order": 12 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook dal",
+          "instruction": "Pressure-cook moong dal with turmeric and 1.5 cups water until soft."
+        },
+        {
+          "step_number": 2,
+          "title": "Wilt greens",
+          "instruction": "Add chopped spinach to the dal and cook 3–4 minutes until wilted."
+        },
+        {
+          "step_number": 3,
+          "title": "Coconut paste",
+          "instruction": "Grind coconut, cumin, and green chilli. Stir into the pot with salt; simmer 5 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, fry urad dal, red chilli, and curry leaves. Pour over kootu and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:tamarind-rice",
+      "name": "Tamarind Rice",
+      "slug": "tamarind-rice",
+      "description": "Tangy puliyodarai-style rice with roasted spice paste, peanuts, and sesame — excellent for lunchboxes.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "rice",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["nuts", "sesame"]
+      },
+      "health_flags": {
+        "contains": ["nuts", "sesame"]
+      },
+      "dish_types": ["rice"],
+      "taxonomy": {
+        "courses": ["main", "lunch", "snack", "side"],
+        "dish_types": ["rice"],
+        "techniques": ["tempering", "roasting", "mixing"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "cooked rice", "amount": 4, "unit": "cup", "sort_order": 1 },
+        { "name": "tamarind paste", "amount": 2, "unit": "tbsp", "sort_order": 2 },
+        { "name": "jaggery", "amount": 1, "unit": "tsp", "sort_order": 3 },
+        { "name": "sesame seeds", "amount": 1, "unit": "tbsp", "sort_order": 4 },
+        { "name": "coriander seeds", "amount": 1, "unit": "tbsp", "sort_order": 5 },
+        { "name": "chana dal", "amount": 1, "unit": "tbsp", "sort_order": 6 },
+        { "name": "dried red chilli", "amount": 4, "unit": "piece", "sort_order": 7 },
+        { "name": "fenugreek seeds", "amount": 0.25, "unit": "tsp", "sort_order": 8 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "raw peanuts", "amount": 3, "unit": "tbsp", "sort_order": 10 },
+        { "name": "curry leaves", "amount": 12, "unit": "piece", "sort_order": 11 },
+        { "name": "turmeric", "amount": 0.5, "unit": "tsp", "sort_order": 12 },
+        { "name": "asafoetida", "amount": 0.25, "unit": "tsp", "sort_order": 13 },
+        { "name": "salt", "amount": 1.5, "unit": "tsp", "sort_order": 14 },
+        { "name": "oil", "amount": 3, "unit": "tbsp", "sort_order": 15 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Roast spice",
+          "instruction": "Dry-roast coriander, chana dal, sesame, fenugreek, and 2 red chillies until fragrant. Cool and grind coarse."
+        },
+        {
+          "step_number": 2,
+          "title": "Tamarind base",
+          "instruction": "Heat 1 tbsp oil; add tamarind paste, turmeric, salt, jaggery, and 0.5 cup water. Simmer until thick."
+        },
+        {
+          "step_number": 3,
+          "title": "Spice paste",
+          "instruction": "Stir in ground spice powder and cook 2 minutes to a pulpy paste."
+        },
+        {
+          "step_number": 4,
+          "title": "Temper",
+          "instruction": "In remaining oil, crackle mustard, fry peanuts, remaining chillies, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 5,
+          "title": "Mix rice",
+          "instruction": "Combine tempering and tamarind paste with cooled rice. Toss gently and rest 10 minutes before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:coconut-rice",
+      "name": "Coconut Rice",
+      "slug": "coconut-rice",
+      "description": "Fragrant rice tossed with fresh coconut, green chilli, and a crunchy lentil-cashew temper.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "rice",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["nuts"]
+      },
+      "health_flags": {
+        "contains": ["nuts"]
+      },
+      "dish_types": ["rice"],
+      "taxonomy": {
+        "courses": ["main", "side", "lunch", "snack"],
+        "dish_types": ["rice"],
+        "techniques": ["tempering", "mixing", "sauteing"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "cooked rice", "amount": 3, "unit": "cup", "sort_order": 1 },
+        { "name": "grated coconut", "amount": 0.75, "unit": "cup", "sort_order": 2 },
+        { "name": "mustard seeds", "amount": 1, "unit": "tsp", "sort_order": 3 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 5 },
+        { "name": "cashews", "amount": 10, "unit": "piece", "sort_order": 6 },
+        { "name": "dried red chilli", "amount": 2, "unit": "piece", "sort_order": 7 },
+        { "name": "green chilli", "amount": 1, "unit": "piece", "sort_order": 8 },
+        { "name": "curry leaves", "amount": 10, "unit": "piece", "sort_order": 9 },
+        { "name": "asafoetida", "amount": 0.125, "unit": "tsp", "sort_order": 10 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 11 },
+        { "name": "coconut oil", "amount": 2, "unit": "tbsp", "sort_order": 12 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep rice",
+          "instruction": "Fluff cooled cooked rice so grains are separate."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat coconut oil; crackle mustard, fry dals and cashews until golden. Add chillies, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 3,
+          "title": "Toast coconut",
+          "instruction": "Add grated coconut and sauté 1–2 minutes until just fragrant — do not brown deeply."
+        },
+        {
+          "step_number": 4,
+          "title": "Toss",
+          "instruction": "Add rice and salt; toss gently. Serve with potato fry or yogurt."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:mor-kuzhambu",
+      "name": "Mor Kuzhambu",
+      "slug": "mor-kuzhambu",
+      "description": "Mild yogurt curry with ash gourd and a coconut-cumin-chilli paste — a Tamil classic for rice.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["dairy"]
+      },
+      "health_flags": {
+        "contains": ["dairy"]
+      },
+      "dish_types": ["curry", "soup"],
+      "taxonomy": {
+        "courses": ["main", "side", "lunch", "dinner"],
+        "dish_types": ["curry", "soup"],
+        "techniques": ["simmering", "tempering", "mixing"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Do not boil after adding yogurt.",
+      "ingredients": [
+        { "name": "ash gourd cubes", "amount": 2, "unit": "cup", "sort_order": 1 },
+        { "name": "plain yogurt", "amount": 2, "unit": "cup", "sort_order": 2 },
+        { "name": "grated coconut", "amount": 0.5, "unit": "cup", "sort_order": 3 },
+        { "name": "cumin seeds", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "green chilli", "amount": 2, "unit": "piece", "sort_order": 5 },
+        { "name": "raw rice", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "turmeric", "amount": 0.25, "unit": "tsp", "sort_order": 7 },
+        { "name": "salt", "amount": 1.25, "unit": "tsp", "sort_order": 8 },
+        { "name": "mustard seeds", "amount": 0.75, "unit": "tsp", "sort_order": 9 },
+        { "name": "fenugreek seeds", "amount": 0.25, "unit": "tsp", "sort_order": 10 },
+        { "name": "dried red chilli", "amount": 1, "unit": "piece", "sort_order": 11 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 12 },
+        { "name": "oil", "amount": 1.5, "unit": "tbsp", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook vegetable",
+          "instruction": "Simmer ash gourd with turmeric, salt, and a little water until just tender."
+        },
+        {
+          "step_number": 2,
+          "title": "Grind paste",
+          "instruction": "Grind coconut, cumin, green chilli, and soaked raw rice to a smooth paste."
+        },
+        {
+          "step_number": 3,
+          "title": "Yogurt mix",
+          "instruction": "Whisk yogurt with the coconut paste until smooth."
+        },
+        {
+          "step_number": 4,
+          "title": "Combine",
+          "instruction": "Lower heat under the vegetable. Stir in yogurt mixture and warm gently until it just begins to froth — do not boil."
+        },
+        {
+          "step_number": 5,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard and fenugreek, add red chilli and curry leaves. Pour over kuzhambu and serve with rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:beetroot-poriyal",
+      "name": "Beetroot Poriyal",
+      "slug": "beetroot-poriyal",
+      "description": "Sweet grated beetroot stir-fried with mustard temper and coconut — a colourful everyday side.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": ["side"],
+      "taxonomy": {
+        "courses": ["side", "lunch", "dinner"],
+        "dish_types": ["side"],
+        "techniques": ["sauteing", "tempering"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        { "name": "beetroot grated", "amount": 3, "unit": "cup", "sort_order": 1 },
+        { "name": "grated coconut", "amount": 0.33, "unit": "cup", "sort_order": 2 },
+        { "name": "mustard seeds", "amount": 0.75, "unit": "tsp", "sort_order": 3 },
+        { "name": "urad dal", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "dried red chilli", "amount": 2, "unit": "piece", "sort_order": 5 },
+        { "name": "curry leaves", "amount": 6, "unit": "piece", "sort_order": 6 },
+        { "name": "asafoetida", "amount": 0.125, "unit": "tsp", "sort_order": 7 },
+        { "name": "salt", "amount": 0.75, "unit": "tsp", "sort_order": 8 },
+        { "name": "oil", "amount": 1.5, "unit": "tbsp", "sort_order": 9 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Temper",
+          "instruction": "Heat oil; crackle mustard, fry urad dal, red chilli, curry leaves, and asafoetida."
+        },
+        {
+          "step_number": 2,
+          "title": "Cook beet",
+          "instruction": "Add grated beetroot and salt. Cover and cook on medium-low 8–10 minutes, stirring occasionally."
+        },
+        {
+          "step_number": 3,
+          "title": "Dry",
+          "instruction": "Uncover and cook off excess moisture until beet is tender but not mushy."
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Fold in coconut, cook 1 minute, and serve with rice and rasam."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:rava-idli",
+      "name": "Rava Idli",
+      "slug": "rava-idli",
+      "description": "Quick semolina steamed cakes with yogurt, cashews, and temper — no overnight ferment needed.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": ["dairy", "gluten", "nuts"]
+      },
+      "health_flags": {
+        "contains": ["dairy", "gluten", "nuts"]
+      },
+      "dish_types": ["snack", "bread"],
+      "taxonomy": {
+        "courses": ["breakfast", "snack"],
+        "dish_types": ["snack", "bread"],
+        "techniques": ["steaming", "tempering", "mixing"],
+        "cuisines": ["indian", "south_indian"]
+      },
+      "texture": "soft",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Semolina contains gluten.",
+      "ingredients": [
+        { "name": "semolina (rava)", "amount": 1.5, "unit": "cup", "sort_order": 1 },
+        { "name": "plain yogurt", "amount": 1, "unit": "cup", "sort_order": 2 },
+        { "name": "water", "amount": 0.5, "unit": "cup", "sort_order": 3 },
+        { "name": "eno fruit salt or baking soda", "amount": 1, "unit": "tsp", "sort_order": 4 },
+        { "name": "mustard seeds", "amount": 0.75, "unit": "tsp", "sort_order": 5 },
+        { "name": "chana dal", "amount": 1, "unit": "tsp", "sort_order": 6 },
+        { "name": "cashews chopped", "amount": 2, "unit": "tbsp", "sort_order": 7 },
+        { "name": "green chilli", "amount": 1, "unit": "piece", "sort_order": 8 },
+        { "name": "ginger grated", "amount": 1, "unit": "tsp", "sort_order": 9 },
+        { "name": "curry leaves", "amount": 8, "unit": "piece", "sort_order": 10 },
+        { "name": "carrot grated optional", "amount": 0.25, "unit": "cup", "sort_order": 11 },
+        { "name": "salt", "amount": 1, "unit": "tsp", "sort_order": 12 },
+        { "name": "oil or ghee", "amount": 2, "unit": "tbsp", "sort_order": 13 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Roast and temper",
+          "instruction": "Heat oil; crackle mustard, fry chana dal and cashews. Add chilli, ginger, and curry leaves. Stir in semolina and roast 3–4 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Batter",
+          "instruction": "Cool slightly. Mix yogurt, water, salt, and carrot into the rava. Rest 15–20 minutes; batter should be thick-pourable."
+        },
+        {
+          "step_number": 3,
+          "title": "Leaven",
+          "instruction": "Just before steaming, stir in eno or baking soda until the batter turns light and foamy."
+        },
+        {
+          "step_number": 4,
+          "title": "Steam",
+          "instruction": "Grease moulds, fill, and steam 10–12 minutes until a skewer comes out clean."
+        },
+        {
+          "step_number": 5,
+          "title": "Serve",
+          "instruction": "Unmould and serve hot with coconut chutney and sambar."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-south-vegetarian:filter-coffee",
+      "name": "South Indian Filter Coffee",
+      "slug": "filter-coffee",
+      "description": "Strong decoction from a traditional filter, frothed with hot milk and a touch of sugar.",
+      "category": "beverage",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": ["dairy"]
+      },
+      "health_flags": {
+        "contains": ["dairy"]
+      },
+      "dish_types": ["beverage"],
+      "taxonomy": {
+        "courses": ["beverage", "breakfast", "snack"],
+        "dish_types": ["beverage"],
+        "techniques": ["mixing", "no_cook"],
+        "cuisines": ["indian", "south_indian", "tamil"]
+      },
+      "texture": "liquid",
+      "servings_base": 2,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Decoction drip time varies by grind.",
+      "ingredients": [
+        { "name": "filter coffee powder", "amount": 3, "unit": "tbsp", "sort_order": 1 },
+        { "name": "hot water", "amount": 0.75, "unit": "cup", "sort_order": 2 },
+        { "name": "whole milk", "amount": 1.5, "unit": "cup", "sort_order": 3 },
+        { "name": "sugar", "amount": 2, "unit": "tsp", "sort_order": 4 }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Load filter",
+          "instruction": "Place coffee powder in the upper chamber of a South Indian filter. Tamp lightly."
+        },
+        {
+          "step_number": 2,
+          "title": "Brew",
+          "instruction": "Pour hot water over the powder, cover, and let decoction drip 10–15 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Heat milk",
+          "instruction": "Warm milk until steaming hot but not boiled over."
+        },
+        {
+          "step_number": 4,
+          "title": "Froth",
+          "instruction": "In a tumbler, mix 2–3 tbsp decoction with sugar. Add hot milk and pour between tumbler and davara until frothy. Serve immediately."
+        }
+      ]
+    }
+  ]
+}

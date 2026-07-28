@@ -1,0 +1,665 @@
+{
+  "id": "global-jamaican-non-vegetarian-side",
+  "title": "Global Jamaican Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53361",
+      "external_id": "53361",
+      "name": "Callaloo and SaltFish",
+      "slug": "callaloo-and-saltfish",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/73o3vq1765317873.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53361. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "salt cod",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "bacon",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "callaloo",
+          "amount": 525.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "spring onions",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 6
+        },
+        {
+          "name": "scotch bonnet",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 7
+        },
+        {
+          "name": "plum tomatoes",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "thyme",
+          "amount": 2.0,
+          "unit": "sprigs",
+          "sort_order": 9
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Soak salted fish in water overnight. Next, heat salted fish in water on stove until water boils. You should see a foam on top. Remove from heat and drain. Set aside and shred salted fish once it cools."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook bacon in skillet over medium heat until crispy. Remove bacon from heat and drain the majority of the bacon grease, leaving about 1 tablespoon in the skillet."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add yellow onion, green onion, scotch bonnet pepper, and garlic to the skillet and stir. Cook for about 2 minutes or until onions soften. Add salted fish to skillet and stir. Cook for about a minute."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Next, add callaloo, roma tomatoes, thyme, and black pepper. Stir to combine and cook until heated through, about 2 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Enjoy"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53353",
+      "external_id": "53353",
+      "name": "Jamaican Boiled Dumplings",
+      "slug": "jamaican-boiled-dumplings",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tsdbcq1764795636.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53353. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 8.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Instructions"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large pot, bring water and salt to a boil to boil the dumplings."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a large mixing bowl, combine the all-purpose flour and salt, stirring to distribute the salt evenly throughout the flour. Gradually add water to the flour mixture, mixing with your hands until a dough forms."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Divide the dough into equal-sized pieces, rolling each into a smooth ball. Flatten each ball slightly with the palm of your hand to form a round, circular dumpling. It should look like a thick disk."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Carefully drop the dumplings into the boiling water, one at a time, ensuring that they don't stick together. You can use a wooden spoon to stir the dumplings in the water."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Boil the dumplings for 15-20 minutes, or until they are cooked through and have risen to the surface of the water. Stir occasionally to prevent sticking."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Use a slotted spoon to remove the cooked dumplings from the pot, allowing any excess water to drain."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Serve with your favorite recipes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53355",
+      "external_id": "53355",
+      "name": "Jamaican Festival (Sweet Dumpling)",
+      "slug": "jamaican-festival-sweet-dumpling",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/g6xb8m1764875029.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53355. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "cornmeal",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat a heavy bottom pot of oil that has at least 3 inches of oil in it or use a deep fryer if you have one. Turn the heat over medium heat until the temperature reaches 350 degrees Fahrenheit."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the all-purpose flour, cornmeal, granulated sugar, baking powder, and salt to a large bowl and stir to combine."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the vanilla extract and milk and stir until the dough comes together. Then use your hands to lightly form the mixture into a ball."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pinch off pieces of dough and roll them into long oval shapes. Make about 12 dumplings."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Once the oil has reached the temperature of 350 degrees Fahrenheit, fry the dough on all sides, until golden brown. This should take about 4-6 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove dough and drain off any excess grease. Serve and enjoy."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53356",
+      "external_id": "53356",
+      "name": "Jamaican Fried Dumplings",
+      "slug": "jamaican-fried-dumplings",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/dd7t4d1764877271.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53356. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add flour, baking powder, and salt in a large bowl and stir to combine. Pour in the milk and stir until combined. Then roll the mixture into a ball and lightly knead until it comes together."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Break off about 10 pieces of dough and form them into balls. Set them aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a 10-inch skillet, heat enough oil over medium heat to fry the dumplings, until the oil is about 350 degrees."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Once the dumplings are browned on one side, flip them and cook until both sides are browned, about 2-3 minutes each."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Once done, remove the dumplings from the oil and place them on paper towels or a cooling rack to drain off any excess oil."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Serve and enjoy."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53364",
+      "external_id": "53364",
+      "name": "Jamaican Steamed Cabbage",
+      "slug": "jamaican-steamed-cabbage",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "jamaican",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/paejva1765321314.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53364. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "plum tomatoes",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "spring onions",
+          "amount": 4.0,
+          "unit": "Chopped",
+          "sort_order": 6
+        },
+        {
+          "name": "thyme",
+          "amount": 4.0,
+          "unit": "sprigs",
+          "sort_order": 7
+        },
+        {
+          "name": "scotch bonnet",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        },
+        {
+          "name": "kosher salt",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add all the ingredients to a large pan over medium heat and cover with a lid."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook on medium heat for 10 minutes, stirring occasionally."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "After 10 minutes, reduce the heat to low and continue to cook for an additional 5 minutes, until the cabbage is soft and tender. Remove from the heat and remove the stalks of thyme before serving."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2067 @@
+{
+  "id": "indian-non-vegetarian-curated",
+  "title": "Indian Non-Vegetarian (KitchenAI curated)",
+  "version": "1.2.0",
+  "recipes": [
+    {
+      "id": "pack:indian-non-vegetarian:home-chicken-curry",
+      "name": "Home-Style Chicken Curry",
+      "slug": "home-style-chicken-curry",
+      "description": "Weeknight onion-tomato chicken curry with everyday spices.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "amount": 800,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "large, sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "cilantro",
+          "amount": 2,
+          "unit": "tbsp, chopped",
+          "sort_order": 11
+        },
+        {
+          "name": "water",
+          "amount": 1.5,
+          "unit": "cup",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oil, saute onions until golden."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add ginger-garlic paste; cook 1 minute. Stir in tomatoes and cook until soft."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add turmeric, chilli, coriander, and salt; cook spices 1\u20132 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add chicken and sear 4\u20135 minutes until opaque."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Pour water, cover, and simmer until chicken is tender and gravy thickens.",
+          "timer_seconds": 1500
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Finish with garam masala and cilantro. Serve with rice or roti."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "meat"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:butter-chicken-home",
+      "name": "Butter Chicken (Home-Style)",
+      "slug": "butter-chicken-home-style",
+      "description": "Mild tomato-butter chicken gravy without a tandoor.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry"
+      ],
+      "ingredients": [
+        {
+          "name": "boneless chicken",
+          "amount": 700,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "yogurt",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "garam masala",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "Kashmiri chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.5,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cream",
+          "amount": 0.3,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "kasuri methi",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Marinate chicken in yogurt, 1 tsp garam masala, chilli, salt, and half the ginger-garlic for 20 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Pan-sear or grill chicken pieces until lightly charred; set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In the same pan melt butter with oil; saute remaining ginger-garlic 30 seconds."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add tomato puree, sugar, and salt; simmer until oil separates."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add chicken with a splash of water; simmer 10 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Stir in cream, remaining garam masala, and crushed kasuri methi. Serve with naan."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "meat"
+        ],
+        "techniques": [
+          "grilling",
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:chicken-korma",
+      "name": "Chicken Korma",
+      "slug": "chicken-korma",
+      "description": "Gently spiced yogurt-cashew chicken curry.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy",
+          "nuts"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy",
+          "nuts"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 800,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "yogurt",
+          "amount": 0.75,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "cashews",
+          "amount": 12,
+          "unit": "soaked",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "green cardamom",
+          "amount": 4,
+          "unit": "pods",
+          "sort_order": 6
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1,
+          "unit": "stick",
+          "sort_order": 7
+        },
+        {
+          "name": "cloves",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 8
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "white pepper",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "ghee",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Blend soaked cashews with a little water to a smooth paste."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat ghee; bloom cardamom, cinnamon, and cloves. Saute onions until soft golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add ginger-garlic; cook 1 minute. Add chicken and sear."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Lower heat; stir in whisked yogurt, coriander, white pepper, and salt."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add cashew paste and a splash of water; cover and simmer until chicken is tender."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Adjust consistency and serve with pulao or roti."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "meat"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:egg-curry",
+      "name": "Egg Curry",
+      "slug": "egg-curry",
+      "description": "Boiled eggs simmered in a spiced onion-tomato gravy.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "egg"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "egg"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "amount": 6,
+          "unit": "piece",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "mustard seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "curry leaves",
+          "amount": 8,
+          "unit": "leaf",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "cilantro",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Hard-boil eggs 9\u201310 minutes; peel and lightly score."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oil; crackle mustard seeds and curry leaves. Saute onions until golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add ginger-garlic, then tomatoes and dry spices; cook to a thick masala."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add 1 cup water and salt; bring to a simmer."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Slip in eggs; simmer 5\u20137 minutes. Finish with garam masala and cilantro."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "boiling",
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:egg-bhurji",
+      "name": "Egg Bhurji",
+      "slug": "egg-bhurji",
+      "description": "Spiced Indian scrambled eggs with onion, tomato, and green chilli.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "egg"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "egg"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 2,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "omelette"
+      ],
+      "ingredients": [
+        {
+          "name": "eggs",
+          "amount": 4,
+          "unit": "piece",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "finely chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 1,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "oil",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "cilantro",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "butter",
+          "amount": 1,
+          "unit": "tsp, optional",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Beat eggs with salt and turmeric."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oil; saute onion and green chilli until soft. Add tomato; cook 2 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour eggs; scramble on medium heat until just set."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Finish with cumin powder, butter, and cilantro. Serve with pav or toast."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "lunch",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette",
+          "snack"
+        ],
+        "techniques": [
+          "frying",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:keema-matar",
+      "name": "Keema Matar",
+      "slug": "keema-matar",
+      "description": "Minced meat cooked with green peas and warm spices.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "mutton",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 35,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "meat",
+        "curry"
+      ],
+      "ingredients": [
+        {
+          "name": "minced mutton or lamb",
+          "amount": 500,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "green peas",
+          "amount": 1,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 1,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "cilantro",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oil; crackle cumin. Saute onions until deep golden."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add ginger-garlic; cook 1 minute. Add tomato and dry spices; cook until oil releases."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add keema; break up lumps and cook until browned."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add peas and 1/2 cup water; cover and simmer until meat is cooked and dry-ish."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Finish with garam masala and cilantro. Serve with roti or pav."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat",
+          "curry"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:kerala-fish-fry",
+      "name": "Kerala Fish Fry",
+      "slug": "kerala-fish-fry",
+      "description": "Crisp shallow-fried fish with chilli-pepper masala.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "fish",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 15,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "seafood"
+      ],
+      "ingredients": [
+        {
+          "name": "firm fish steaks",
+          "amount": 500,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "black pepper",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "rice flour",
+          "amount": 2,
+          "unit": "tbsp, optional",
+          "sort_order": 8
+        },
+        {
+          "name": "coconut oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "curry leaves",
+          "amount": 10,
+          "unit": "leaf",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Pat fish dry. Mix chilli, turmeric, pepper, ginger-garlic, lemon, and salt into a paste."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Coat fish; rest 15 minutes. Dust lightly with rice flour if using."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat coconut oil; fry fish 3\u20134 minutes per side until crisp."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Flash-fry curry leaves in remaining oil and pour over fish. Serve hot."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "appetizer",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood",
+          "snack"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:bengali-mustard-fish-curry",
+      "name": "Bengali Mustard Fish Curry",
+      "slug": "bengali-mustard-fish-curry",
+      "description": "Light fish curry with mustard paste and green chilli.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "fish",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "mustard"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "mustard"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 20,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry",
+        "seafood"
+      ],
+      "ingredients": [
+        {
+          "name": "rohu or similar fish pieces",
+          "amount": 600,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "mustard paste",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "green chilli",
+          "amount": 3,
+          "unit": "slit",
+          "sort_order": 4
+        },
+        {
+          "name": "mustard oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "kalonji (nigella)",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 1.25,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "cilantro",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Rub fish with 1/2 tsp turmeric and salt; lightly fry in mustard oil; set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In remaining oil, bloom kalonji. Add mustard paste, turmeric, green chilli, and a splash of water; cook 1 minute on low."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add water and salt; bring to a gentle simmer."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Slide in fish; cook 6\u20138 minutes without stirring harshly. Garnish with cilantro."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:chicken-65",
+      "name": "Chicken 65 (Home)",
+      "slug": "chicken-65-home",
+      "description": "Spicy deep-fried chicken starter with curry leaves.",
+      "category": "appetizer",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "egg",
+          "gluten"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 20,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "meat",
+        "snack"
+      ],
+      "ingredients": [
+        {
+          "name": "boneless chicken cubes",
+          "amount": 500,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "yogurt",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cornflour",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "oil",
+          "amount": 2,
+          "unit": "cup, for frying",
+          "sort_order": 10
+        },
+        {
+          "name": "curry leaves",
+          "amount": 12,
+          "unit": "leaf",
+          "sort_order": 11
+        },
+        {
+          "name": "garlic",
+          "amount": 4,
+          "unit": "cloves, sliced",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Marinate chicken with yogurt, ginger-garlic, chilli, garam masala, and salt for 20 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix in flours and egg to coat."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Deep-fry in hot oil until crisp and cooked through; drain."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In 1 tbsp oil, saute garlic and curry leaves; toss fried chicken. Serve with lemon."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack",
+          "main"
+        ],
+        "dish_types": [
+          "meat",
+          "snack",
+          "fritter"
+        ],
+        "techniques": [
+          "deep_fry"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:mutton-curry",
+      "name": "Home Mutton Curry",
+      "slug": "home-mutton-curry",
+      "description": "Slow-simmered bone-in mutton in onion-tomato masala.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "mutton",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 60,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry",
+        "meat"
+      ],
+      "ingredients": [
+        {
+          "name": "bone-in mutton",
+          "amount": 800,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 3,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "coriander powder",
+          "amount": 2,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 9
+        },
+        {
+          "name": "oil",
+          "amount": 4,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "water",
+          "amount": 2.5,
+          "unit": "cup",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oil; saute onions with bay leaf until deep brown."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add ginger-garlic, then tomatoes and dry spices; cook to a thick masala."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add mutton; sear 5 minutes. Add water and salt."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pressure-cook until meat is tender (about 5\u20136 whistles / 25\u201330 min), or simmer covered 60\u201375 minutes.",
+          "timer_seconds": 1800
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Reduce gravy if needed; finish with garam masala."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "meat",
+          "stew"
+        ],
+        "techniques": [
+          "pressure_cooking",
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:prawn-masala",
+      "name": "Prawn Masala",
+      "slug": "prawn-masala",
+      "description": "Quick coastal-style prawns in onion-tomato gravy.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "shellfish"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "shellfish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 18,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry",
+        "seafood"
+      ],
+      "ingredients": [
+        {
+          "name": "prawns, peeled",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "fine chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "coconut oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "curry leaves",
+          "amount": 8,
+          "unit": "leaf",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "cilantro",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Pat prawns dry; toss with a pinch of turmeric and salt."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oil; saute curry leaves and onion until soft. Add ginger-garlic."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add tomato and spices; cook until thick."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add prawns; cook 4\u20136 minutes until just opaque. Finish with garam masala and cilantro."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "seafood"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:chicken-pepper-fry",
+      "name": "Chicken Pepper Fry",
+      "slug": "chicken-pepper-fry",
+      "description": "Dry Kerala-style chicken with crushed black pepper.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "meat"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "amount": 700,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "black pepper, crushed",
+          "amount": 2,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "slit",
+          "sort_order": 5
+        },
+        {
+          "name": "curry leaves",
+          "amount": 12,
+          "unit": "leaf",
+          "sort_order": 6
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "coconut oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "vinegar",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cook chicken with turmeric, salt, and a splash of water until just done; drain any liquid."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat coconut oil; saute onion, green chilli, and curry leaves until golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add ginger-garlic, then chicken; fry on high heat until edges crisp."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add crushed pepper and vinegar; toss 1 minute. Serve dry as a side or starter."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "appetizer",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat",
+          "snack"
+        ],
+        "techniques": [
+          "sauteing",
+          "frying"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:chicken-chettinad",
+      "name": "Chicken Chettinad",
+      "slug": "chicken-chettinad",
+      "description": "Peppery Chettinad chicken with roasted spice paste.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "curry",
+        "meat"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 800,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "coconut, grated",
+          "amount": 0.3,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "dried red chilli",
+          "amount": 4,
+          "unit": "piece",
+          "sort_order": 5
+        },
+        {
+          "name": "coriander seeds",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "fennel seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "black peppercorns",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "curry leaves",
+          "amount": 10,
+          "unit": "leaf",
+          "sort_order": 12
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Dry-roast chilli, coriander, fennel, pepper, and cumin; cool and grind with coconut to a paste."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oil; saute onion and curry leaves until golden. Add ginger-garlic."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add tomato; cook soft. Stir in spice paste and salt; cook until oil surfaces."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add chicken and 1.5 cups water; simmer until tender and gravy coats the meat."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "meat"
+        ],
+        "techniques": [
+          "roasting",
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:indian-non-vegetarian:kerala-chicken-stew",
+      "name": "Kerala Chicken Stew",
+      "slug": "kerala-chicken-stew",
+      "description": "Mild coconut-milk chicken stew with potato and carrot.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "stew",
+        "curry"
+      ],
+      "ingredients": [
+        {
+          "name": "chicken pieces",
+          "amount": 700,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "potato",
+          "amount": 1,
+          "unit": "cubed",
+          "sort_order": 2
+        },
+        {
+          "name": "carrot",
+          "amount": 1,
+          "unit": "cubed",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "green chilli",
+          "amount": 3,
+          "unit": "slit",
+          "sort_order": 5
+        },
+        {
+          "name": "ginger",
+          "amount": 1,
+          "unit": "tbsp, julienne",
+          "sort_order": 6
+        },
+        {
+          "name": "thin coconut milk",
+          "amount": 1.5,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "thick coconut milk",
+          "amount": 0.75,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "black pepper",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "coconut oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "curry leaves",
+          "amount": 10,
+          "unit": "leaf",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat coconut oil; saute onion, ginger, green chilli, and curry leaves until soft (do not brown hard)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add chicken, potato, carrot, pepper, and salt; saute 3 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour thin coconut milk; simmer covered until chicken and veg are tender."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Stir in thick coconut milk on low heat; do not boil hard. Serve with appam or bread."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "breakfast",
+          "dinner"
+        ],
+        "dish_types": [
+          "stew",
+          "curry",
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian"
+        ],
+        "occasions": [
+          "sunday_breakfast"
+        ]
+      }
+    }
+  ],
+  "source": "kitchenai"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "global-norway-vegan-main",
+  "title": "Global Norway Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53115",
+      "external_id": "53115",
+      "name": "Red onion pickle",
+      "slug": "red-onion-pickle",
+      "description": "Vegan from TheMealDB",
+      "category": "main",
+      "cuisine": "norway",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "norway"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ppodrp1762325183.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53115. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red onions",
+          "amount": 3.0,
+          "unit": "Large",
+          "sort_order": 1
+        },
+        {
+          "name": "sea salt",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "cider vinegar",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 3
+        },
+        {
+          "name": "granulated sugar",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaves",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Peel the onions, cut them in half from top to bottom and finely slice into half-moon pieces. Put in a colander placed over a bowl and sprinkle with salt, lightly turning over the onion pieces with your hands so the surfaces are all covered. Set aside for an hour or so to brine."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Meanwhile put the vinegar, 50ml/2fl oz water and the sugar in a saucepan. Bring to a simmer, stirring to help the sugar dissolve, and cook for a couple of minutes. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pack the onions into the sterilised jars, sprinkling in a little pepper as you go. Cover with the warm vinegar and finish by tucking a couple of bay leaves down the side of the jars. Seal. The onions are best kept in the fridge and used within to 4 weeks."
+        }
+      ]
+    }
+  ]
+}

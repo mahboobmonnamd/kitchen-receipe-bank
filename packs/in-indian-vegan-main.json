@@ -1,10 +1,12 @@
 {
-  "id": "indian-vegetarian",
-  "title": "Indian Vegetarian",
+  "id": "in-indian-vegan-main",
+  "title": "In Indian Vegan Main",
   "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
   "recipes": [
     {
-      "id": "corpus-tmdb-52807",
+      "id": "pack:themealdb:52807",
       "external_id": "52807",
       "name": "Baingan Bharta",
       "slug": "baingan-bharta",
@@ -17,21 +19,42 @@
         "is_vegan": true,
         "is_halal": true,
         "is_gluten_free": true,
+        "is_jain": false,
         "contains": []
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "grilling",
+          "roasting"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52807). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52807. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "aubergine",
@@ -148,128 +171,68 @@
           "step_number": 12,
           "title": "Step 12",
           "instruction": "5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the"
-        }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main"
-        ],
-        "dish_types": [
-          "side"
-        ],
-        "techniques": [],
-        "cuisines": [
-          "indian"
-        ]
-      }
-    },
-    {
-      "id": "corpus-tmdb-53076",
-      "external_id": "53076",
-      "name": "Bread omelette",
-      "slug": "bread-omelette",
-      "description": "Indian recipe from TheMealDB",
-      "category": "breakfast",
-      "cuisine": "indian",
-      "protein_type": "egg",
-      "dietary_tags": {
-        "is_vegetarian": true,
-        "is_vegan": false,
-        "is_halal": true,
-        "is_gluten_free": true,
-        "contains": [
-          "egg"
-        ]
-      },
-      "health_flags": {
-        "contains": []
-      },
-      "texture": "gravy",
-      "servings_base": 4,
-      "prep_time_minutes": 20,
-      "cook_time_minutes": 40,
-      "difficulty": "medium",
-      "freezer_suitable": false,
-      "photos": [
-        "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg"
-      ],
-      "notes": "Source: TheMealDB (id 53076). Free for commercial use.",
-      "ingredients": [
-        {
-          "name": "bread",
-          "amount": 2.0,
-          "unit": "unit",
-          "sort_order": 1
         },
         {
-          "name": "egg",
-          "amount": 2.0,
-          "unit": "unit",
-          "sort_order": 2
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "charcoal smoke to get infused for 1 to 2 minutes. The more you do, the more smoky the baingan bharta will"
         },
         {
-          "name": "salt",
-          "amount": 0.5,
-          "unit": "unit",
-          "sort_order": 3
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "become. I just keep for a minute. Alternatively, you can also do this dhungar method once the baingan bharta is"
         }
-      ],
-      "steps": [
-        {
-          "step_number": 1,
-          "title": "Step 1",
-          "instruction": "Make and enjoy"
-        }
-      ],
-      "taxonomy": {
-        "courses": [
-          "breakfast",
-          "lunch",
-          "side",
-          "snack"
-        ],
-        "dish_types": [
-          "omelette",
-          "bread"
-        ],
-        "techniques": [
-          "frying",
-          "baking"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52785",
+      "id": "pack:themealdb:52785",
       "external_id": "52785",
       "name": "Dal fry",
       "slug": "dal-fry",
       "description": "Curry, Vegetarian, Cake",
       "category": "main",
       "cuisine": "indian",
-      "protein_type": "lentil",
+      "protein_type": "vegetable",
       "dietary_tags": {
         "is_vegetarian": true,
         "is_vegan": true,
         "is_halal": true,
         "is_gluten_free": true,
+        "is_jain": false,
         "contains": []
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52785). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52785. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "toor dal",
@@ -404,28 +367,10 @@
           "title": "Step 7",
           "instruction": "Serve with Naan."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "side",
-          "lunch",
-          "dinner"
-        ],
-        "dish_types": [
-          "dal"
-        ],
-        "techniques": [
-          "simmering",
-          "tempering"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     },
     {
-      "id": "corpus-tmdb-52868",
+      "id": "pack:themealdb:52868",
       "external_id": "52868",
       "name": "Kidney Bean Curry",
       "slug": "kidney-bean-curry",
@@ -438,21 +383,42 @@
         "is_vegan": true,
         "is_halal": true,
         "is_gluten_free": true,
+        "is_jain": false,
         "contains": []
       },
       "health_flags": {
         "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
       },
       "texture": "gravy",
       "servings_base": 4,
       "prep_time_minutes": 20,
       "cook_time_minutes": 40,
       "difficulty": "medium",
-      "freezer_suitable": false,
+      "freezer_suitable": true,
       "photos": [
         "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg"
       ],
-      "notes": "Source: TheMealDB (id 52868). Free for commercial use.",
+      "notes": "Source: TheMealDB id 52868. Free for commercial use. https://www.themealdb.com/",
       "ingredients": [
         {
           "name": "vegetable oil",
@@ -537,159 +503,7 @@
           "title": "Step 3",
           "instruction": "Turn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves."
         }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "lunch",
-          "dinner"
-        ],
-        "dish_types": [
-          "curry"
-        ],
-        "techniques": [
-          "simmering",
-          "sauteing"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
-    },
-    {
-      "id": "corpus-tmdb-52865",
-      "external_id": "52865",
-      "name": "Matar Paneer",
-      "slug": "matar-paneer",
-      "description": "Curry, Vegetarian",
-      "category": "main",
-      "cuisine": "indian",
-      "protein_type": "paneer",
-      "dietary_tags": {
-        "is_vegetarian": true,
-        "is_vegan": false,
-        "is_halal": true,
-        "is_gluten_free": true,
-        "contains": [
-          "dairy"
-        ]
-      },
-      "health_flags": {
-        "contains": []
-      },
-      "texture": "gravy",
-      "servings_base": 4,
-      "prep_time_minutes": 20,
-      "cook_time_minutes": 40,
-      "difficulty": "medium",
-      "freezer_suitable": false,
-      "photos": [
-        "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
-      ],
-      "notes": "Source: TheMealDB (id 52865). Free for commercial use.",
-      "ingredients": [
-        {
-          "name": "sunflower oil",
-          "amount": 1.0,
-          "unit": "tbls",
-          "sort_order": 1
-        },
-        {
-          "name": "paneer",
-          "amount": 225.0,
-          "unit": "g",
-          "sort_order": 2
-        },
-        {
-          "name": "ginger",
-          "amount": 2.0,
-          "unit": "unit",
-          "sort_order": 3
-        },
-        {
-          "name": "cumin",
-          "amount": 1.0,
-          "unit": "tsp",
-          "sort_order": 4
-        },
-        {
-          "name": "turmeric",
-          "amount": 1.0,
-          "unit": "tsp",
-          "sort_order": 5
-        },
-        {
-          "name": "coriander",
-          "amount": 1.0,
-          "unit": "tsp",
-          "sort_order": 6
-        },
-        {
-          "name": "green chilli",
-          "amount": 1.0,
-          "unit": "unit",
-          "sort_order": 7
-        },
-        {
-          "name": "tomato",
-          "amount": 4.0,
-          "unit": "large",
-          "sort_order": 8
-        },
-        {
-          "name": "peas",
-          "amount": 150.0,
-          "unit": "g",
-          "sort_order": 9
-        },
-        {
-          "name": "garam masala",
-          "amount": 1.0,
-          "unit": "tsp",
-          "sort_order": 10
-        },
-        {
-          "name": "coriander",
-          "amount": 1.0,
-          "unit": "Small bunch",
-          "sort_order": 11
-        },
-        {
-          "name": "naan bread",
-          "amount": 1.0,
-          "unit": "to serve",
-          "sort_order": 12
-        }
-      ],
-      "steps": [
-        {
-          "step_number": 1,
-          "title": "Step 1",
-          "instruction": "Heat the oil in a frying pan over high heat until it\u2019s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side \u2013 the paneer will brown faster than you think, so don\u2019t walk away. Remove the paneer from the pan and drain on kitchen paper."
-        },
-        {
-          "step_number": 2,
-          "title": "Step 2",
-          "instruction": "Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it\u2019s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
-        }
-      ],
-      "taxonomy": {
-        "courses": [
-          "main",
-          "lunch",
-          "dinner"
-        ],
-        "dish_types": [
-          "curry"
-        ],
-        "techniques": [
-          "simmering",
-          "sauteing"
-        ],
-        "cuisines": [
-          "indian"
-        ]
-      }
+      ]
     }
   ]
 }

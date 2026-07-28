@@ -1,0 +1,3124 @@
+{
+  "id": "indian-north-vegetarian",
+  "title": "North Indian Vegetarian",
+  "version": "1.0.0",
+  "recipes": [
+    {
+      "id": "pack:indian-north-vegetarian:paneer-butter-masala",
+      "name": "Paneer Butter Masala (Home Style)",
+      "slug": "paneer-butter-masala",
+      "description": "Soft paneer in a tomato-cashew gravy finished with butter and cream — weeknight restaurant-style at home.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy",
+          "tree_nut"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy",
+          "tree_nut"
+        ]
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home version. Commercial-safe original text.",
+      "ingredients": [
+        {
+          "name": "paneer",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "ripe tomatoes",
+          "amount": 4,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "cashews",
+          "amount": 20,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "kashmiri red chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "kasuri methi",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "fresh cream",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "sugar",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "water",
+          "amount": 200,
+          "unit": "ml",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Blanch base",
+          "instruction": "Simmer tomatoes, roughly chopped onion, and cashews in 1 cup water for 10 minutes until soft. Cool slightly, then blend smooth."
+        },
+        {
+          "step_number": 2,
+          "title": "Cook masala",
+          "instruction": "Heat oil and 1 tbsp butter. Add ginger-garlic paste; saute 30 seconds. Pour in the puree, chilli powder, salt, and sugar. Cook on medium until the oil separates and the gravy thickens, about 12 minutes.",
+          "timer_seconds": 720
+        },
+        {
+          "step_number": 3,
+          "title": "Finish gravy",
+          "instruction": "Stir in remaining butter, cream, garam masala, and crushed kasuri methi. Add a splash of water if too thick."
+        },
+        {
+          "step_number": 4,
+          "title": "Add paneer",
+          "instruction": "Cut paneer into cubes, slide into the gravy, and simmer gently 3–4 minutes. Do not boil hard. Rest 5 minutes before serving with roti or jeera rice.",
+          "tip": "Soak paneer in warm water 10 minutes for softer cubes."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:palak-paneer",
+      "name": "Palak Paneer",
+      "slug": "palak-paneer",
+      "description": "Blanched spinach puree simmered with spices and soft paneer cubes — classic Punjabi green curry.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "blanching",
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "spinach",
+          "amount": 500,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "paneer",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 5
+        },
+        {
+          "name": "ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "sort_order": 7
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "cream or milk",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "ghee or oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Blanch spinach",
+          "instruction": "Wash spinach. Blanch in boiling water 2 minutes with a pinch of salt. Plunge into ice water, drain, and blend with green chilli to a smooth puree."
+        },
+        {
+          "step_number": 2,
+          "title": "Make tadka base",
+          "instruction": "Heat ghee. Crackling cumin, then saute finely chopped onion until golden. Add ginger, garlic, and chopped tomato; cook until soft."
+        },
+        {
+          "step_number": 3,
+          "title": "Simmer",
+          "instruction": "Add spinach puree and salt. Cook 8–10 minutes on medium, stirring. Loosen with a splash of water if needed.",
+          "timer_seconds": 600
+        },
+        {
+          "step_number": 4,
+          "title": "Paneer finish",
+          "instruction": "Add paneer cubes, garam masala, and cream. Simmer 3 minutes. Serve hot with roti or rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:punjabi-chole",
+      "name": "Punjabi Chole",
+      "slug": "punjabi-chole",
+      "description": "Slow-simmered chickpeas in a dark, tangy onion-tomato masala — dhaba-style without meat stock.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "legume",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "pressure_cooking",
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 45,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Soak chickpeas overnight. Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "dried chickpeas",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 1,
+          "notes": "soaked overnight"
+        },
+        {
+          "name": "tea bag or loose black tea",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 2,
+          "notes": "optional for colour"
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "chole masala",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "amchur",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 11
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook chickpeas",
+          "instruction": "Pressure-cook soaked chickpeas with salt, tea bag, and enough water until soft (about 5–6 whistles). Discard tea. Reserve cooking liquid."
+        },
+        {
+          "step_number": 2,
+          "title": "Onion-tomato base",
+          "instruction": "Heat oil. Cumin first, then onions until deep golden. Add ginger-garlic paste and green chilli; saute. Add tomatoes and cook until mashy."
+        },
+        {
+          "step_number": 3,
+          "title": "Spice and simmer",
+          "instruction": "Add chole masala and cook 2 minutes. Add chickpeas with 1–1.5 cups cooking liquid. Mash a few beans for body. Simmer 15–20 minutes.",
+          "timer_seconds": 1080
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Stir in amchur and coriander. Rest 10 minutes. Serve with bhature, kulcha, or rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:rajma-masala",
+      "name": "Rajma Masala",
+      "slug": "rajma-masala",
+      "description": "Creamy kidney-bean curry in a slow-cooked onion-tomato gravy — Sunday lunch staple of North India.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "legume",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "pressure_cooking",
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 50,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Soak rajma overnight. Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "dried kidney beans (rajma)",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "Kashmiri chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook beans",
+          "instruction": "Pressure-cook soaked rajma with salt and water until very soft. Reserve liquid."
+        },
+        {
+          "step_number": 2,
+          "title": "Bhuno masala",
+          "instruction": "Heat oil. Cumin, then finely chopped onion until deep brown. Add ginger-garlic paste. Add tomatoes and powders; cook until oil leaves the sides."
+        },
+        {
+          "step_number": 3,
+          "title": "Combine",
+          "instruction": "Add rajma and enough cooking liquid for a thick gravy. Simmer 20–25 minutes, mashing a few beans.",
+          "timer_seconds": 1380
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Stir garam masala and coriander. Serve with steamed rice or jeera rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:aloo-gobi",
+      "name": "Aloo Gobi",
+      "slug": "aloo-gobi",
+      "description": "Dry-ish potato and cauliflower stir-simmered with turmeric, cumin, and coriander — everyday North Indian sabzi.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side",
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "side",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "side",
+          "curry"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "cauliflower florets",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "potato",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 2.5,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep veg",
+          "instruction": "Cut potatoes into medium cubes. Separate cauliflower into bite-size florets; rinse and drain well."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper and saute",
+          "instruction": "Heat oil. Add cumin. Saute onion until translucent, then ginger. Add potato; cook 3 minutes. Add cauliflower, turmeric, chilli, coriander powder, and salt. Toss gently."
+        },
+        {
+          "step_number": 3,
+          "title": "Cover cook",
+          "instruction": "Add chopped tomato and 2–3 tbsp water. Cover and cook on low 12–15 minutes until tender, stirring once or twice.",
+          "timer_seconds": 840
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Uncover to dry excess moisture. Garnish with coriander. Serve with roti and dal."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:dal-makhani",
+      "name": "Dal Makhani (Home Style)",
+      "slug": "dal-makhani",
+      "description": "Black lentils and a few kidney beans slow-simmered, finished with butter and cream — vegetarian, no meat stock.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "dal"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "side",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "dal"
+        ],
+        "techniques": [
+          "simmering",
+          "pressure_cooking",
+          "tempering"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 90,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Soak overnight. Original KitchenAI curated veg-leaning home version.",
+      "ingredients": [
+        {
+          "name": "whole black urad dal",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "rajma",
+          "amount": 40,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato puree",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "fresh cream",
+          "amount": 4,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "Kashmiri chilli powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "oil",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "kasuri methi",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook dals",
+          "instruction": "Pressure-cook soaked urad and rajma with salt and water until very soft and creamy (several whistles, then natural release)."
+        },
+        {
+          "step_number": 2,
+          "title": "Tomato base",
+          "instruction": "In a heavy pot, heat oil and 1 tbsp butter. Saute ginger-garlic paste. Add tomato puree and chilli powder; cook until thick and glossy."
+        },
+        {
+          "step_number": 3,
+          "title": "Slow simmer",
+          "instruction": "Add cooked dals with cooking liquid. Simmer uncovered on low 45–60 minutes, stirring often and adding water as needed for a silky consistency.",
+          "timer_seconds": 3000
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Stir in remaining butter, cream, garam masala, and crushed kasuri methi. Rest 10 minutes. Serve with roti or rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:jeera-rice",
+      "name": "Jeera Rice",
+      "slug": "jeera-rice",
+      "description": "Fluffy basmati tempered with cumin — the classic partner for dal, chole, and paneer curries.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "rice"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side",
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "rice"
+        ],
+        "techniques": [
+          "boiling",
+          "tempering",
+          "steaming"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "basmati rice",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "ghee or oil",
+          "amount": 1.5,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "water",
+          "amount": 480,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "whole green cardamom",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Rinse rice",
+          "instruction": "Rinse basmati until water runs clearer. Soak 15–20 minutes; drain."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat ghee. Add cumin, bay leaf, and cardamom until cumin crackles and smells nutty."
+        },
+        {
+          "step_number": 3,
+          "title": "Cook",
+          "instruction": "Add drained rice; toast 1 minute. Add water and salt. Bring to a boil, cover, and cook on lowest heat 12–14 minutes.",
+          "timer_seconds": 780
+        },
+        {
+          "step_number": 4,
+          "title": "Rest and fluff",
+          "instruction": "Rest covered 5 minutes. Fluff with a fork. Serve hot."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:soft-atta-roti",
+      "name": "Soft Atta Roti",
+      "slug": "soft-atta-roti",
+      "description": "Everyday whole-wheat flatbreads rolled thin and cooked on a tawa until soft and lightly blistered.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "gluten"
+        ]
+      },
+      "dish_types": [
+        "bread"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side",
+          "breakfast",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "bread"
+        ],
+        "techniques": [
+          "mixing",
+          "frying"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Roti technique notes as a full recipe. Original KitchenAI curated.",
+      "ingredients": [
+        {
+          "name": "whole wheat flour (atta)",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "warm water",
+          "amount": 180,
+          "unit": "ml",
+          "sort_order": 2,
+          "notes": "adjust as needed"
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "oil",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 4,
+          "notes": "optional in dough"
+        },
+        {
+          "name": "atta for dusting",
+          "amount": 30,
+          "unit": "g",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Knead",
+          "instruction": "Mix atta and salt. Add water gradually and knead to a soft, smooth dough. Add oil, knead 1 minute more. Rest covered 15–20 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Portion",
+          "instruction": "Divide into 10–12 balls. Dust with atta and roll each into a thin even circle."
+        },
+        {
+          "step_number": 3,
+          "title": "Cook first side",
+          "instruction": "Heat a tawa on medium-high. Place roti; cook until pale bubbles appear (about 30 seconds). Flip."
+        },
+        {
+          "step_number": 4,
+          "title": "Puff and finish",
+          "instruction": "Cook second side until brown spots form. Press gently with a cloth to help puff, or finish briefly over open flame if comfortable. Stack in a cloth to stay soft.",
+          "tip": "Dough should feel soft, not stiff — soft dough makes soft roti."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:matar-paneer",
+      "name": "Matar Paneer",
+      "slug": "matar-paneer",
+      "description": "Peas and paneer in a lightly spiced tomato gravy — North Indian home comfort food.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "paneer",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "green peas",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Base",
+          "instruction": "Heat oil. Cumin, then onion until soft-golden. Add ginger-garlic paste. Add chopped tomatoes, turmeric, coriander powder, and salt; cook until mushy."
+        },
+        {
+          "step_number": 2,
+          "title": "Peas",
+          "instruction": "Add peas and 3/4 cup water. Cover and simmer until peas are tender.",
+          "timer_seconds": 600
+        },
+        {
+          "step_number": 3,
+          "title": "Paneer",
+          "instruction": "Add paneer cubes and garam masala. Simmer 3–4 minutes. Garnish with coriander."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:bhindi-do-pyaza",
+      "name": "Bhindi Do Pyaza",
+      "slug": "bhindi-do-pyaza",
+      "description": "Okra cooked with a double hit of onion until dry and lightly spiced — no sliminess if cooked uncovered.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side",
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "sauteing",
+          "frying"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 25,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "okra (bhindi)",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "coriander powder",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "amchur",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep okra",
+          "instruction": "Wash and thoroughly dry okra. Trim and cut into 2–3 cm pieces. Slice onions thickly."
+        },
+        {
+          "step_number": 2,
+          "title": "Fry okra",
+          "instruction": "Heat 2 tbsp oil. Saute okra on medium-high, stirring, until edges brown and slime cooks off, about 10 minutes. Remove."
+        },
+        {
+          "step_number": 3,
+          "title": "Onion and spice",
+          "instruction": "Add remaining oil. Cumin, then onions until soft with light colour. Return okra; add powders and salt. Cook uncovered 5–7 minutes.",
+          "timer_seconds": 360
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Sprinkle amchur, toss, and serve with dal-roti."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:kadhi-pakora",
+      "name": "Punjabi Kadhi Pakora",
+      "slug": "kadhi-pakora",
+      "description": "Tangy yogurt-besan gravy simmered with onion fritters — North Indian comfort with rice.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "legume",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "curry",
+        "soup"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner",
+          "soup"
+        ],
+        "dish_types": [
+          "curry",
+          "soup"
+        ],
+        "techniques": [
+          "simmering",
+          "deep_fry",
+          "tempering"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "yogurt (slightly sour)",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "besan (gram flour)",
+          "amount": 80,
+          "unit": "g",
+          "sort_order": 2,
+          "notes": "half for kadhi, half for pakora"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "mustard seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "dried red chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 8
+        },
+        {
+          "name": "curry leaves",
+          "amount": 8,
+          "unit": "piece",
+          "sort_order": 9
+        },
+        {
+          "name": "ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "oil for frying",
+          "amount": 250,
+          "unit": "ml",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "water",
+          "amount": 700,
+          "unit": "ml",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Pakora batter",
+          "instruction": "Mix half the besan with grated onion, pinch of salt, chilli powder, and enough water for a thick batter. Deep-fry spoonfuls until golden. Drain."
+        },
+        {
+          "step_number": 2,
+          "title": "Kadhi mix",
+          "instruction": "Whisk yogurt with remaining besan, turmeric, salt, and water until lump-free."
+        },
+        {
+          "step_number": 3,
+          "title": "Simmer kadhi",
+          "instruction": "Pour into a pot; bring to a gentle boil while stirring. Simmer 20–25 minutes until it thickens and loses raw besan taste.",
+          "timer_seconds": 1380
+        },
+        {
+          "step_number": 4,
+          "title": "Temper and combine",
+          "instruction": "Heat 1 tbsp oil. Mustard, cumin, dried chilli, curry leaves, and ginger. Pour over kadhi. Add pakoras 5 minutes before serving so they soften but hold shape."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:malai-kofta",
+      "name": "Malai Kofta (Vegetarian)",
+      "slug": "malai-kofta",
+      "description": "Paneer-potato dumplings in a mild cashew-tomato cream gravy — celebration dish, home-kitchen scale.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "dairy",
+          "tree_nut",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy",
+          "tree_nut",
+          "gluten"
+        ]
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 35,
+      "cook_time_minutes": 35,
+      "difficulty": "hard",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Use cornstarch instead of flour for GF.",
+      "ingredients": [
+        {
+          "name": "paneer",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "boiled potato",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "cornflour or maida",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "cashews",
+          "amount": 25,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 6
+        },
+        {
+          "name": "fresh cream",
+          "amount": 4,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "Kashmiri chilli powder",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "oil for frying",
+          "amount": 300,
+          "unit": "ml",
+          "sort_order": 11
+        },
+        {
+          "name": "butter",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 12
+        },
+        {
+          "name": "salt",
+          "amount": 1.25,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "raisins",
+          "amount": 10,
+          "unit": "g",
+          "sort_order": 14,
+          "notes": "optional in kofta"
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Kofta mix",
+          "instruction": "Mash paneer and potato. Mix with cornflour, salt, and optional raisins. Shape into balls. Fry on medium until golden; drain."
+        },
+        {
+          "step_number": 2,
+          "title": "Gravy",
+          "instruction": "Saute onion in butter/oil until soft. Add ginger-garlic paste, then tomatoes and cashews; cook soft. Blend smooth with a little water."
+        },
+        {
+          "step_number": 3,
+          "title": "Cook gravy",
+          "instruction": "Return puree to pan with chilli powder and salt. Simmer until thick. Finish with cream and garam masala.",
+          "timer_seconds": 600
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Warm gravy, add koftas just before serving so they stay intact. Pair with naan or jeera rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:shahi-paneer",
+      "name": "Shahi Paneer",
+      "slug": "shahi-paneer",
+      "description": "Mild Mughlai-leaning paneer curry with yogurt, cream, and warm whole spices — richer and less tangy than butter masala.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy",
+          "tree_nut"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy",
+          "tree_nut"
+        ]
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner",
+          "lunch"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "paneer",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "cashews",
+          "amount": 20,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "yogurt",
+          "amount": 80,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "fresh cream",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "green cardamom",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 7
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 8
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "white pepper or mild chilli",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "ghee",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "saffron milk",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 13,
+          "notes": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Onion paste",
+          "instruction": "Boil chopped onion and cashews until soft; blend smooth."
+        },
+        {
+          "step_number": 2,
+          "title": "Whole spices",
+          "instruction": "Heat ghee. Add bay leaf and cardamom. Saute ginger-garlic paste, then onion-cashew paste until light golden and oil shows."
+        },
+        {
+          "step_number": 3,
+          "title": "Yogurt",
+          "instruction": "Lower heat. Whisk in beaten yogurt gradually so it does not split. Add salt, pepper/chilli, and a little water; simmer 8 minutes.",
+          "timer_seconds": 480
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Add paneer, cream, garam masala, and optional saffron milk. Warm through gently. Serve with naan or roti."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:baingan-bharta",
+      "name": "Baingan Bharta",
+      "slug": "baingan-bharta",
+      "description": "Fire-roasted eggplant mashed into a smoky onion-tomato masala — Punjabi winter favourite.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side",
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "side",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "side",
+          "curry"
+        ],
+        "techniques": [
+          "roasting",
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "mash",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe. Oven-roast if open flame is unavailable.",
+      "ingredients": [
+        {
+          "name": "large eggplant",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 3,
+          "unit": "clove",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Roast eggplant",
+          "instruction": "Prick eggplants. Roast over flame or under broiler until skin chars and flesh collapses. Cool, peel, and mash."
+        },
+        {
+          "step_number": 2,
+          "title": "Masala",
+          "instruction": "Heat oil. Cumin, then onion until golden. Add ginger, garlic, and green chilli. Add tomato and chilli powder; cook until soft."
+        },
+        {
+          "step_number": 3,
+          "title": "Combine",
+          "instruction": "Add mashed eggplant and salt. Cook on medium 10–12 minutes, stirring, until thick and smoky aroma deepens.",
+          "timer_seconds": 660
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Garnish with coriander. Serve with roti or paratha."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:aloo-paratha",
+      "name": "Aloo Paratha",
+      "slug": "aloo-paratha",
+      "description": "Whole-wheat flatbreads stuffed with spiced mashed potato — North Indian breakfast classic.",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "gluten",
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "gluten",
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "bread",
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "lunch",
+          "snack",
+          "side"
+        ],
+        "dish_types": [
+          "bread",
+          "snack"
+        ],
+        "techniques": [
+          "frying",
+          "mixing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 30,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Ghee optional for vegan oil finish. Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "whole wheat flour",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "boiled potato",
+          "amount": 4,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "ajwain or cumin",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "amchur",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.25,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "ghee or oil",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "water",
+          "amount": 160,
+          "unit": "ml",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Dough and filling",
+          "instruction": "Knead soft atta dough; rest 15 minutes. Mash potatoes with chopped chilli, coriander, spices, and salt. Cool filling completely."
+        },
+        {
+          "step_number": 2,
+          "title": "Stuff",
+          "instruction": "Roll a dough ball into a small disc, place filling in centre, seal, and roll gently into a thick circle."
+        },
+        {
+          "step_number": 3,
+          "title": "Cook",
+          "instruction": "Cook on a hot tawa. Flip when brown spots appear; brush both sides with ghee/oil until cooked through and crisp at edges.",
+          "timer_seconds": 180
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Serve hot with yogurt, pickle, or butter."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:paneer-bhurji",
+      "name": "Paneer Bhurji",
+      "slug": "paneer-bhurji",
+      "description": "Crumbled paneer quickly sauteed with onion, tomato, and green chilli — ready in under 20 minutes.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "side",
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "breakfast",
+          "lunch",
+          "side"
+        ],
+        "dish_types": [
+          "side",
+          "curry"
+        ],
+        "techniques": [
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 12,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "paneer",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "green chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Crumble",
+          "instruction": "Crumble paneer by hand into uneven bits."
+        },
+        {
+          "step_number": 2,
+          "title": "Saute base",
+          "instruction": "Heat oil. Cumin, then onion until soft. Add chilli, tomato, turmeric, and salt; cook until tomato softens."
+        },
+        {
+          "step_number": 3,
+          "title": "Add paneer",
+          "instruction": "Add paneer and garam masala. Toss 3–4 minutes on medium — do not dry it out.",
+          "timer_seconds": 240
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Scatter coriander. Serve with roti, pav, or toast."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:yellow-dal-tadka",
+      "name": "Yellow Dal Tadka",
+      "slug": "yellow-dal-tadka",
+      "description": "Everyday toor or moong dal finished with a sizzling ghee tempering of cumin, garlic, and chilli.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "dal"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "side",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "dal"
+        ],
+        "techniques": [
+          "simmering",
+          "tempering",
+          "pressure_cooking"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 30,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Use oil instead of ghee for vegan. Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "toor dal or moong dal",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "ghee",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 4,
+          "unit": "clove",
+          "sort_order": 6
+        },
+        {
+          "name": "dried red chilli",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 7
+        },
+        {
+          "name": "asafoetida",
+          "amount": 1,
+          "unit": "pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "fresh coriander",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "water",
+          "amount": 700,
+          "unit": "ml",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cook dal",
+          "instruction": "Rinse dal. Pressure-cook with turmeric, salt, tomato, and water until soft. Whisk to a pourable consistency."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat ghee. Add cumin, asafoetida, sliced garlic, and dried chilli until garlic turns golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Combine",
+          "instruction": "Pour tempering over dal. Simmer 3 minutes. Garnish with coriander. Serve with rice or roti."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:cucumber-raita",
+      "name": "Cucumber Raita",
+      "slug": "cucumber-raita",
+      "description": "Cool yogurt side with grated cucumber, roasted cumin, and a pinch of chaat masala.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy"
+        ]
+      },
+      "dish_types": [
+        "dip",
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side",
+          "appetizer"
+        ],
+        "dish_types": [
+          "dip",
+          "side"
+        ],
+        "techniques": [
+          "mixing",
+          "no_cook"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "creamy",
+      "servings_base": 4,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 0,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "plain yogurt",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "cucumber",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 2
+        },
+        {
+          "name": "roasted cumin powder",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "chaat masala",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "fresh coriander or mint",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "green chilli",
+          "amount": 0.5,
+          "unit": "piece",
+          "sort_order": 7,
+          "notes": "optional"
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep cucumber",
+          "instruction": "Grate cucumber. Squeeze lightly to remove excess water if very watery."
+        },
+        {
+          "step_number": 2,
+          "title": "Whisk",
+          "instruction": "Whisk yogurt smooth. Fold in cucumber, spices, salt, herbs, and optional chilli."
+        },
+        {
+          "step_number": 3,
+          "title": "Chill",
+          "instruction": "Rest 10 minutes in the fridge. Serve with biryani, pulao, or paratha."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:gajar-matar",
+      "name": "Gajar Matar Sabzi",
+      "slug": "gajar-matar",
+      "description": "Winter carrots and peas cooked lightly with cumin and coriander — simple North Indian dry sabzi.",
+      "category": "side",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "carrot",
+          "amount": 350,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "green peas",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "green chilli",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "coriander powder",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "amchur",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Cut",
+          "instruction": "Dice carrots into small cubes."
+        },
+        {
+          "step_number": 2,
+          "title": "Temper",
+          "instruction": "Heat oil. Cumin and slit chilli. Add carrot, peas, turmeric, coriander powder, and salt. Toss."
+        },
+        {
+          "step_number": 3,
+          "title": "Cover cook",
+          "instruction": "Add 2 tbsp water, cover, and cook on low until carrots are tender but not mushy, about 12–15 minutes.",
+          "timer_seconds": 840
+        },
+        {
+          "step_number": 4,
+          "title": "Finish",
+          "instruction": "Sprinkle amchur, toss dry, and serve with roti and dal."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:vegetable-pulao",
+      "name": "Vegetable Pulao",
+      "slug": "vegetable-pulao",
+      "description": "One-pot basmati with mixed vegetables and whole spices — lighter than biryani, weeknight-friendly.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "grain",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "rice"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner",
+          "side"
+        ],
+        "dish_types": [
+          "rice"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 30,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "basmati rice",
+          "amount": 300,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "mixed vegetables",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 2,
+          "notes": "carrot, beans, peas, potato"
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "ghee or oil",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 6
+        },
+        {
+          "name": "cloves",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 7
+        },
+        {
+          "name": "green cardamom",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 8
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "water",
+          "amount": 480,
+          "unit": "ml",
+          "sort_order": 11
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep rice",
+          "instruction": "Rinse and soak rice 15 minutes; drain."
+        },
+        {
+          "step_number": 2,
+          "title": "Saute",
+          "instruction": "Heat ghee. Whole spices and cumin. Saute onion until light gold. Add ginger-garlic and vegetables; cook 3 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Rice",
+          "instruction": "Add rice; toast 1 minute. Add water and salt. Boil, then cover on low 12–14 minutes.",
+          "timer_seconds": 780
+        },
+        {
+          "step_number": 4,
+          "title": "Rest",
+          "instruction": "Rest 5 minutes. Fluff and serve with raita."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:aloo-methi",
+      "name": "Aloo Methi",
+      "slug": "aloo-methi",
+      "description": "Potatoes cooked with fresh fenugreek leaves until the greens wilt and turn fragrant — slightly bitter, deeply savoury.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side",
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 3,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "potato",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 1
+        },
+        {
+          "name": "fresh fenugreek leaves (methi)",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "coriander powder",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "oil",
+          "amount": 2.5,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "garlic",
+          "amount": 2,
+          "unit": "clove",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep methi",
+          "instruction": "Pluck methi leaves, wash well, drain. Chop roughly. Cube potatoes."
+        },
+        {
+          "step_number": 2,
+          "title": "Cook potato",
+          "instruction": "Heat oil. Cumin and sliced garlic. Add potato, turmeric, chilli, coriander powder, and salt. Cover and cook until nearly tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Add methi",
+          "instruction": "Add methi; cook uncovered on medium until leaves wilt and moisture dries, 6–8 minutes.",
+          "timer_seconds": 420
+        },
+        {
+          "step_number": 4,
+          "title": "Serve",
+          "instruction": "Taste for salt. Serve with roti and dal or kadhi."
+        }
+      ]
+    },
+    {
+      "id": "pack:indian-north-vegetarian:navratan-korma",
+      "name": "Navratan Korma",
+      "slug": "navratan-korma",
+      "description": "Mild creamy vegetable curry with nine treasure-style mix-ins — nuts, paneer, and seasonal veg in a yogurt-cashew base.",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy",
+          "tree_nut"
+        ]
+      },
+      "health_flags": {
+        "contains": [
+          "dairy",
+          "tree_nut"
+        ]
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner",
+          "lunch"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing",
+          "boiling"
+        ],
+        "cuisines": [
+          "indian",
+          "north_indian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated recipe.",
+      "ingredients": [
+        {
+          "name": "mixed vegetables",
+          "amount": 400,
+          "unit": "g",
+          "sort_order": 1,
+          "notes": "carrot, beans, cauliflower, peas"
+        },
+        {
+          "name": "paneer",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "cashews",
+          "amount": 25,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "yogurt",
+          "amount": 80,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "fresh cream",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "ginger-garlic paste",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "white pepper",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "raisins",
+          "amount": 15,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "ghee",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "green cardamom",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Prep",
+          "instruction": "Parboil firm vegetables until just tender. Soak cashews in warm water 10 minutes; blend with a little water to a paste."
+        },
+        {
+          "step_number": 2,
+          "title": "Base",
+          "instruction": "Heat ghee. Cardamom, then onion until soft. Add ginger-garlic paste. Stir in cashew paste; cook 2 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Gravy",
+          "instruction": "Lower heat; add beaten yogurt, salt, and white pepper. Simmer gently. Add cream and a splash of water for a pourable gravy.",
+          "timer_seconds": 480
+        },
+        {
+          "step_number": 4,
+          "title": "Assemble",
+          "instruction": "Fold in vegetables, paneer cubes, raisins, and garam masala. Warm 3–4 minutes. Serve with naan or pulao."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,987 @@
+{
+  "id": "global-malaysian-non-vegetarian-main",
+  "title": "Global Malaysian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53050",
+      "external_id": "53050",
+      "name": "Ayam Percik",
+      "slug": "ayam-percik",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "malaysian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming",
+          "roasting"
+        ],
+        "cuisines": [
+          "malaysian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/020z181619788503.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53050. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken thighs",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "challots",
+          "amount": 16.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic clove",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "turmeric",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "fennel",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "tamarind paste",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 10
+        },
+        {
+          "name": "coconut milk",
+          "amount": 1.0,
+          "unit": "can",
+          "sort_order": 11
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a blender, add the ingredients for the spice paste and blend until smooth."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Over medium heat, pour the spice paste in a skillet or pan and fry for 10 minutes until fragrant. Add water or oil 1 tablespoon at a time if the paste becomes too dry. Don't burn the paste. Lower the fire slightly if needed."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the cloves, cardamom, tamarind pulp, coconut milk, water, sugar and salt. Turn the heat up and bring the mixture to boil. Turn the heat to medium low and simmer for 10 minutes. Stir occasionally. It will reduce slightly. This is the marinade/sauce, so taste and adjust seasoning if necessary. Don't worry if it's slightly bitter. It will go away when roasting."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "When the marinade/sauce has cooled, pour everything over the chicken and marinate overnight to two days."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Preheat the oven to 425 F."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove the chicken from the marinade. Spoon the marinade onto a greased (or aluminum lined) baking sheet. Lay the chicken on top of the sauce (make sure the chicken covers the sauce and the sauce isn't exposed or it'll burn) and spread the remaining marinade on the chicken. Roast for 35-45 minutes or until internal temp of the thickest part of chicken is at least 175 F."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Let chicken rest for 5 minutes. Brush the chicken with some of the oil. Serve chicken with the sauce over steamed rice (or coconut rice)."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53053",
+      "external_id": "53053",
+      "name": "Beef Rendang",
+      "slug": "beef-rendang",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "malaysian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "malaysian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/bc8v651619789840.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53053. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 5.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "cloves",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "star anise",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "cardamom",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "coconut cream",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "tamarind paste",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 9
+        },
+        {
+          "name": "lime",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 11
+        },
+        {
+          "name": "challots",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Chop the spice paste ingredients and then blend it in a food processor until fine."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a stew pot, add the spice paste, cinnamon, cloves, star anise, and cardamom and stir-fry until aromatic. Add the beef and the pounded lemongrass and stir for 1 minute. Add the coconut milk, tamarind juice, water, and simmer on medium heat, stirring frequently until the meat is almost cooked. Add the kaffir lime leaves, kerisik (toasted coconut), sugar or palm sugar, stirring to blend well with the meat."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Lower the heat to low, cover the lid, and simmer for 1 to 1 1/2 hours or until the meat is really tender and the gravy has dried up. Add more salt and sugar to taste. Serve immediately with steamed rice and save some for overnight."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52821",
+      "external_id": "52821",
+      "name": "Laksa King Prawn Noodles",
+      "slug": "laksa-king-prawn-noodles",
+      "description": "Shellfish, Seafood",
+      "category": "main",
+      "cuisine": "malaysian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "malaysian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/rvypwy1503069308.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52821. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "finely sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "thai red curry paste",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable stock cube",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "coconut milk",
+          "amount": 400.0,
+          "unit": "ml can",
+          "sort_order": 5
+        },
+        {
+          "name": "fish sauce",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "rice noodles",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "lime",
+          "amount": 2.0,
+          "unit": "juice of 1, the other halved",
+          "sort_order": 8
+        },
+        {
+          "name": "king prawns",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "coriander",
+          "amount": 0.5,
+          "unit": "small pack",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oil in a medium saucepan and add the chilli. Cook for 1 min, then add the curry paste, stir and cook for 1 min more. Dissolve the stock cube in a large jug in 700ml boiling water, then pour into the pan and stir to combine. Tip in the coconut milk and bring to the boil."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the fish sauce and a little seasoning. Toss in the noodles and cook for a further 3-4 mins until softening. Squeeze in the lime juice, add the prawns and cook through until warm, about 2-3 mins. Scatter over some of the coriander."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Serve in bowls with the remaining coriander and lime wedges on top for squeezing over."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53048",
+      "external_id": "53048",
+      "name": "Mee goreng mamak",
+      "slug": "mee-goreng-mamak",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "malaysian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "malaysian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xquakq1619787532.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53048. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "peanuts",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "chilli",
+          "amount": 15.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "prawns",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "oil",
+          "amount": 5.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 750.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "tamarind paste",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "potatoes",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "red onions",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "cabbage",
+          "amount": 30.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "chinese broccoli",
+          "amount": 30.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "tofu",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "soy sauce",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 13
+        },
+        {
+          "name": "noodles",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oil in a pan at medium heat. Then, add peanuts, dried chilies, dried shrimps and dhal. Fry the aromatics until fragrant. Remove from pan and leave aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Blend fried ingredients with tamarind paste and water until fine. Then, saut\u00e9 the blended ingredients in oil heated over low heat. Continue cooking until the oil separates from the paste and turns a darker shade."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Skin and cut potatoes into small chunks and boil them in a pot of water until knife-tender. Once ready, remove them from the pot and leave aside. Discard water."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Slice onion and fried tofu, mince garlic, cut some cabbage and Chinese flowering cabbage (choi sam). Prepare prawn fritters and cut them. Boil noodles to soften them if bought dried. Also mix black soy sauce with water."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "To fry one portion of mee goreng mamak, heat oil and add 1/4 of the following ingredients in this order: garlic, onion, paste. Saut\u00e9 until fragrant. Optionally, add prawns."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add in 1/4 amount of tofu, boiled potatoes, cabbage, Chinese flowering cabbage and prawn fritters. Saut\u00e9 for another 30 seconds."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add noodles to the wok. Add 3 tablespoons of dark soy sauce mixture. Mix evenly for the next 1 minute. Then, move the noodles to the side of the wok. Stir in an egg. Garnish with a slice of lime and slices of green chilies. To cook another plate of noodles, repeat from step 5 onwards."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53051",
+      "external_id": "53051",
+      "name": "Nasi lemak",
+      "slug": "nasi-lemak",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "malaysian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "malaysian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wai9bw1619788844.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53051. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "coconut milk",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "ginger paste",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "rice",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 6
+        },
+        {
+          "name": "eggs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "cucumber",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "peanuts",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 9
+        },
+        {
+          "name": "anchovy fillet",
+          "amount": 4.0,
+          "unit": "oz",
+          "sort_order": 10
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 11
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 13
+        },
+        {
+          "name": "shallots",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "chilli powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 15
+        },
+        {
+          "name": "anchovy fillet",
+          "amount": 4.0,
+          "unit": "oz",
+          "sort_order": 16
+        },
+        {
+          "name": "sugar",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 17
+        },
+        {
+          "name": "tamarind paste",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium saucepan over medium heat, stir together coconut milk, water, ground ginger, ginger root, salt, bay leaf, and rice. Cover, and bring to a boil. Reduce heat, and simmer for 20 to 30 minutes, or until done."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Step 2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place eggs in a saucepan, and cover with cold water. Bring water to a boil, and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water, cool, peel and slice in half. Slice cucumber."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Step 3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Meanwhile, in a large skillet or wok, heat 1 cup vegetable oil over medium-high heat. Stir in peanuts and cook briefly, until lightly browned. Remove peanuts with a slotted spoon and place on paper towels to soak up excess grease. Return skillet to stove. Stir in the contents of one package anchovies; cook briefly, turning, until crisp. Remove with a slotted spoon and place on paper towels. Discard oil. Wipe out skillet."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Step 4"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Heat 2 tablespoons oil in the skillet. Stir in the onion, garlic, and shallots; cook until fragrant, about 1 or 2 minutes. Mix in the chile paste, and cook for 10 minutes, stirring occasionally. If the chile paste is too dry, add a small amount of water. Stir in remaining anchovies; cook for 5 minutes. Stir in salt, sugar, and tamarind juice; simmer until sauce is thick, about 5 minutes."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Step 5"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Serve the onion and garlic sauce over the warm rice, and top with peanuts, fried anchovies, cucumbers, and eggs."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53052",
+      "external_id": "53052",
+      "name": "Roti john",
+      "slug": "roti-john",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "malaysian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "malaysian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53052. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "minced beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "chilli",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "baguette",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 6
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 7
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 1.0,
+          "unit": "Top",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix all the ingredients in a bowl."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat a pan or griddle with a little vegetable oil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour the mixture onto the pan and place a piece of open-faced baguette on top."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Press on the bread with a spatula and grill for 2 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Turn the bread over to make it a little crispy."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove from pan and cut the bread into small portions."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add mayonnaise and/or Sambal before cutting the sandwich (optional)."
+        }
+      ]
+    }
+  ]
+}

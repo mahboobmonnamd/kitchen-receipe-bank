@@ -1,0 +1,1031 @@
+{
+  "id": "global-canadian-non-vegetarian-main",
+  "title": "Global Canadian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53343",
+      "external_id": "53343",
+      "name": "Classic Tourti\u00e8re",
+      "slug": "classic-tourti-re",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0sd7ac1764787957.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53343. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "canola oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 3
+        },
+        {
+          "name": "ground beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 4
+        },
+        {
+          "name": "ground pork",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 5
+        },
+        {
+          "name": "dried leaves of summer savoury",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 7
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 8
+        },
+        {
+          "name": "ground clove",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "ground nutmeg",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "beef stock",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "russet potato",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 13
+        },
+        {
+          "name": "shortcrust pastry",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oil on medium-high heat in a large saut\u00e9 pan or skillet, then saut\u00e9 the onion and garlic until softened, about 5 minutes. Add the ground beef, pork, and spices and cook until the meat is browned."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the beef broth and bring it up to a simmer then reduce heat to medium low. Add the grated potato and stir it in. Cook until liquid is almost absorbed, about 15 min. Remove the bay leaves and add salt to taste. Remove the pan from the heat and let the mixture cool completely \u2014 it bakes best if the filling is chilled."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat the oven to 375 \u00b0F (190 \u00b0C). On a lightly floured surface, roll out one disc of the pie dough to less than the 1/4-inch thickness and line the 9-inch pie plate. Fill this with the cooled tourti\u00e8re mixture and spread out evenly. Roll out the remaining dough to the same thickness, cut a hole in the centre (for steam to escape) and place on top of the filling. Trim the dough to 1/2-inch beyond the edge of the pie plate and pinch the edges of the crust together. Brush the crust with the egg wash."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake tourti\u00e8re for about 45 minutes or until the pastry is a rich golden brown. Let cool for 15 minutes before slicing to serve."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Serves: 8-10 (makes 2 9-inch pies)"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53335",
+      "external_id": "53335",
+      "name": "Jiggs Dinner",
+      "slug": "jiggs-dinner",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/z1tfnw1764443171.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53335. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "yellow split peas",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "head",
+          "sort_order": 3
+        },
+        {
+          "name": "carrots",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "turnips",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 5
+        },
+        {
+          "name": "potatoes",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "The night before, break salt beef into big chunks and soak in water overnight, at least 8-10 hours. Put split peas into a bowl and cover with water to soak overnight."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Drain the salt beef and place it into a large stockpot. Cover with fresh water, at least 6-7 litres. Place the split peas into a pease pudding canvas bag or triple layer of cheesecloth and tie, making sure to leave room for peas to expand inside the bag."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Put the bag inside the pot, tying the strings to the outside handle so it doesn't stick to the bottom of the pot with the salt beef. Bring to a boil, then lower the heat and simmer for 2 hours."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove the peas pudding bag and empty contents into a bowl, mixing with butter and pepper for taste. Set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add your cabbage to the pot and boil for 20 more minutes. Then add turnip, carrots and potatoes then boil for 20 more, or until vegetables are tender."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove salt beef and vegetables from the pot and put them on a platter."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Use the cooking liquid in two ways; as a pot liquor which some people like to drink or reduce it to make a jus or gravy to pour over the meal."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52927",
+      "external_id": "52927",
+      "name": "Montreal Smoked Meat",
+      "slug": "montreal-smoked-meat",
+      "description": "Speciality, Snack, StrongFlavor",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling",
+          "simmering",
+          "steaming",
+          "roasting"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uttupv1511815050.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52927. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "salt",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 2
+        },
+        {
+          "name": "black pepper",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cloves",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "black pepper",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 9
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 10
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 11
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 12
+        },
+        {
+          "name": "dill",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 13
+        },
+        {
+          "name": "english mustard",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 14
+        },
+        {
+          "name": "celery salt",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 15
+        },
+        {
+          "name": "red pepper flakes",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "To make the cure, in a small bowl mix together salt, pink salt, black pepper, coriander, sugar, bay leaf, and cloves. Coat entire brisket with the cure and place in an extra-large resealable plastic bag. Place in the coldest part of the refrigerator and cure for 4 days, flipping brisket twice a day."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Remove brisket from bag and wash as much cure off as possible under cold running water. Place brisket in a large container and fill with water and let soak for 2 hours, replacing water every 30 minutes. Remove from water and pat dry with paper towels."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To make the rub, mix together black pepper, coriander, paprika, garlic powder, onion powder, dill weed, mustard, celery seed, and crushed red papper in a small bowl. Coat entire brisket with the rub."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Fire up smoker or grill to 225 degrees, adding chunks of smoking wood chunks when at temperature. When wood is ignited and producing smoke, place brisket in, fat side up, and smoke until an instant read thermometer registers 165 degrees when inserted into thickest part of the brisket, about 6 hours."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Transfer brisket to large roasting pan with V-rack. Place roasting pan over two burners on stovetop and fill with 1-inch of water. Bring water to a boil over high heat, reduce heat to medium, cover roasting pan with aluminum foil, and steam brisket until an instant read thermometer registers 180 degrees when inserted into thickest part of the meat, 1 to 2 hours, adding more hot water as needed."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Transfer brisket to cutting board and let cool slightly. Slice and serve, preferably on rye with mustard."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52930",
+      "external_id": "52930",
+      "name": "Pate Chinois",
+      "slug": "pate-chinois",
+      "description": "MainMeal, Alcoholic",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yyrrxr1511816289.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52930. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 60.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "milk",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "minced beef",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "creamed corn",
+          "amount": 500.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "to taste",
+          "sort_order": 7
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "to taste",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 9
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a large pot of salted water, cook the potatoes until they are very tender. Drain."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "With a masher, coarsely crush the potatoes with at least 30 ml (2 tablespoons) of butter. With an electric mixer, pur\u00e9e with the milk. Season with salt and pepper. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "With the rack in the middle position, preheat the oven to 190 \u00b0C (375 \u00b0F)."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In a large skillet, brown the onion in the remaining butter. Add the meat and cook until golden brown. Season with salt and pepper. Remove from the heat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Lightly press the meat at the bottom of a 20-cm (8-inch) square baking dish. Cover with the corn and the mashed potatoes. Sprinkle with paprika and parsley."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake for about 30 minutes. Finish cooking under the broiler. Let cool for 10 minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52804",
+      "external_id": "52804",
+      "name": "Poutine",
+      "slug": "poutine",
+      "description": "UnHealthy, Speciality, HangoverFood",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uuyrrx1487327597.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52804. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 1
+        },
+        {
+          "name": "beef gravy",
+          "amount": 1.0,
+          "unit": "Can",
+          "sort_order": 2
+        },
+        {
+          "name": "potatoes",
+          "amount": 5.0,
+          "unit": "thin cut",
+          "sort_order": 3
+        },
+        {
+          "name": "cheese curds",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oil in a deep fryer or deep heavy skillet to 365\u00b0F (185\u00b0C)."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Warm gravy in saucepan or microwave."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place the fries into the hot oil, and cook until light brown, about 5 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove to a paper towel lined plate to drain."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Place the fries on a serving platter, and sprinkle the cheese over them."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Ladle gravy over the fries and cheese, and serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52933",
+      "external_id": "52933",
+      "name": "Rappie Pie",
+      "slug": "rappie-pie",
+      "description": "Pie",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ruwpww1511817242.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52933. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "chicken stock",
+          "amount": 4.0,
+          "unit": "qt",
+          "sort_order": 3
+        },
+        {
+          "name": "chicken breast",
+          "amount": 1.5,
+          "unit": "kg",
+          "sort_order": 4
+        },
+        {
+          "name": "potatoes",
+          "amount": 4.0,
+          "unit": "kg",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat oven to 400 degrees F (200 degrees C). Grease a 10x14x2-inch baking pan."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat margarine in a skillet over medium heat; stir in onion. Cook and stir until onion has softened and turned translucent, about 5 minutes. Reduce heat to low and continue to cook and stir until onion is very tender and dark brown, about 40 minutes more."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bring chicken broth to a boil in a large pot; stir in chicken breasts, reduce heat, and simmer until chicken is no longer pink at the center, about 20 minutes. Remove from heat. Remove chicken breasts to a plate using a slotted spoon; reserve broth."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Juice potatoes with an electric juicer; place dry potato flesh into a bowl and discard juice. Stir salt and pepper into potatoes; stir in enough reserved broth to make the mixture the consistency of oatmeal. Set remaining broth aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Spread half of potato mixture evenly into the prepared pan. Lay cooked chicken breast evenly over potatoes; scatter caramelized onion evenly over chicken. Spread remaining potato mixture over onions and chicken to cover."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake in the preheated oven until golden brown, about 1 hour. Reheat chicken broth; pour over individual servings as desired."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52926",
+      "external_id": "52926",
+      "name": "Tourtiere",
+      "slug": "tourtiere",
+      "description": "Pie, MainMeal, BBQ, Cake",
+      "category": "main",
+      "cuisine": "canadian",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "canadian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ytpstt1511814614.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52926. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 1
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "minced pork",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic clove",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "cinnamon",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "allspice",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "nutmeg",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "shortcrust pastry",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "To Glaze",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 200C/180C fan/gas 6. Boil the potato until tender, drain and mash, then leave to cool. Heat the oil in a non-stick pan, add the mince and onion and quickly fry until browned. Add the garlic, spices, stock, plenty of pepper and a little salt and mix well. Remove from the heat, stir into the potato and leave to cool."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Roll out half the pastry and line the base of a 20-23cm pie plate or flan tin. Fill with the pork mixture and brush the edges of the pastry with water. Roll out the remaining dough and cover the pie. Press the edges of the pastry to seal, trimming off the excess. Prick the top of the pastry case to allow steam to escape and glaze the top with the beaten egg."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bake for 30 mins until the pastry is crisp and golden. Serve cut into wedges with a crisp green salad. Leftovers are good cold for lunch the next day, served with a selection of pickles."
+        }
+      ]
+    }
+  ]
+}

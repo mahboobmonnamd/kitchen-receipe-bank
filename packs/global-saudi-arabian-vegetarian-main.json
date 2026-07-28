@@ -1,0 +1,190 @@
+{
+  "id": "global-saudi-arabian-vegetarian-main",
+  "title": "Global Saudi Arabian Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53222",
+      "external_id": "53222",
+      "name": "Vegetarian Shakshuka",
+      "slug": "vegetarian-shakshuka",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/eo0yfb1763600916.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53222. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic granules",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 9
+        },
+        {
+          "name": "chilli flakes",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 10
+        },
+        {
+          "name": "toast",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Fry onion and pepper together on medium heat until onion is soft"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add garlic granules, cook for a minute"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add chopped tomatoes and remaining spices, stir well"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Simmer for about 20 minutes"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Make indents for in the sauce and crack an egg into each one"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Once egg whites are cooked through, garnish and serve with toast"
+        }
+      ]
+    }
+  ]
+}

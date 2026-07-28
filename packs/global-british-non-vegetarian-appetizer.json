@@ -1,0 +1,287 @@
+{
+  "id": "global-british-non-vegetarian-appetizer",
+  "title": "Global British Non Vegetarian Appetizer",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52842",
+      "external_id": "52842",
+      "name": "Broccoli & Stilton soup",
+      "slug": "broccoli-stilton-soup",
+      "description": "Soup,  Cheesy",
+      "category": "appetizer",
+      "cuisine": "british",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "british"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tvvxpv1511191952.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52842. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "rapeseed oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "leek",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "knob",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 1.0,
+          "unit": "litre hot",
+          "sort_order": 7
+        },
+        {
+          "name": "broccoli",
+          "amount": 1.0,
+          "unit": "Head chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "stilton cheese",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the rapeseed oil in a large saucepan and then add the onions. Cook on a medium heat until soft. Add a splash of water if the onions start to catch."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the celery, leek, potato and a knob of butter. Stir until melted, then cover with a lid. Allow to sweat for 5 minutes. Remove the lid."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour in the stock and add any chunky bits of broccoli stalk. Cook for 10 \u2013 15 minutes until all the vegetables are soft."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the rest of the broccoli and cook for a further 5 minutes. Carefully transfer to a blender and blitz until smooth. Stir in the stilton, allowing a few lumps to remain. Season with black pepper and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52841",
+      "external_id": "52841",
+      "name": "Creamy Tomato Soup",
+      "slug": "creamy-tomato-soup",
+      "description": "Baking",
+      "category": "appetizer",
+      "cuisine": "british",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "british"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/stpuws1511191310.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52841. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "celery",
+          "amount": 2.0,
+          "unit": "sticks",
+          "sort_order": 3
+        },
+        {
+          "name": "carrots",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "potatoes",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "tomato puree",
+          "amount": 5.0,
+          "unit": "tblsp",
+          "sort_order": 7
+        },
+        {
+          "name": "sugar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 8
+        },
+        {
+          "name": "white vinegar",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 9
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 10.5,
+          "unit": "kg",
+          "sort_order": 10
+        },
+        {
+          "name": "passata",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "vegetable stock cube",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "whole milk",
+          "amount": 400.0,
+          "unit": "ml",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Put the oil, onions, celery, carrots, potatoes and bay leaves in a big casserole dish, or two saucepans. Fry gently until the onions are softened \u2013 about 10-15 mins. Fill the kettle and boil it."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Stir in the tomato pur\u00e9e, sugar, vinegar, chopped tomatoes and passata, then crumble in the stock cubes. Add 1 litre boiling water and bring to a simmer. Cover and simmer for 15 mins until the potato is tender, then remove the bay leaves. Pur\u00e9e with a stick blender (or ladle into a blender in batches) until very smooth. Season to taste and add a pinch more sugar if it needs it. The soup can now be cooled and chilled for up to 2 days, or frozen for up to 3 months."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To serve, reheat the soup, stirring in the milk \u2013 try not to let it boil. Serve in small bowls with cheesy sausage rolls."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1114 @@
+{
+  "id": "global-saudi-arabian-non-vegetarian-main",
+  "title": "Global Saudi Arabian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53218",
+      "external_id": "53218",
+      "name": "Chicken Shawarma with homemade garlic herb yoghurt sauce",
+      "slug": "chicken-shawarma-with-homemade-garlic-herb-yoghurt-sauce",
+      "description": "Kebab",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/hcg6l91763596970.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53218. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken breast",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 2
+        },
+        {
+          "name": "ground coriander",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 4
+        },
+        {
+          "name": "ground cardomom",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "smoked paprika",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "lemon juice",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 11
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 12
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Start by cutting your chicken up into reasonably small slices. Grab your ziplock bag and dump the freshly sliced chicken inside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add garlic, coriander, cumin, cardomom, cayenne pepper, paprika, salt, pepper, lemon juice and olive oil to the bag. Close the bag and mix thoroughly. Place in fridge for 10-12 hours (shorter is fine but longer is better)."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once ready to cook, heat your fry pan to medium-high and add a tiny bit of olive oil. Fry one side of all of your flatbreads until slightly toasty. Remove from pan, add enough oil to coat the fry pan. Put crumble fries into air fryer on 180 for 15 minutes shaking occasionally."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "The pan should be pretty hot by now, add the chicken in 2 batches (unless you have a big fry pan) to avoid overcrowding. The chicken should get a nice sear and darker colour which is perfect. Cook for a further 5-8 minutes or until cooked through. Repeat with next chicken batch."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "While chicken is cooking, place your Greek yoghurt into a bowl. Combine garlic, finely chopped mint and parsley, squeeze or so of lemon and cumin. Combine and add salt to taste. In a small bowl, combine 1tsp garlic powder, paprika, cumin, onion powder, oregano, dried parsley, cayenne pepper (optional) mix and leave aside for fries."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Season fries immediately once cooked and add salt to taste. Once the chicken is complete, serve immediately by laying out your flatbread, spreading the sauce evenly over the bread, add lettuce, onion, tomato, fries, chicken, feta and more sauce on top. Serve immediately."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53220",
+      "external_id": "53220",
+      "name": "kabse",
+      "slug": "kabse",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/utqnjv1763598650.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53220. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "rice",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "mushrooms",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "sweetcorn",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "raisins",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 8
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "kabse spice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 11
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Caramelize the chicken with olive oil then add a maggi cube and boil it for around 30 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In another pot, add all the veggies and caramelize them till they are soft."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once everything is done, add the rice, raisins & spices to the veggies and add 2 and a half cups of water for the rice to cook."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Once the rice is done put everything in the oven."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53223",
+      "external_id": "53223",
+      "name": "Mutabbaq",
+      "slug": "mutabbaq",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/i5o2b61763739053.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53223. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "mincemeat",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 1.5,
+          "unit": "tbs minced",
+          "sort_order": 2
+        },
+        {
+          "name": "ginger",
+          "amount": 1.5,
+          "unit": "tbs minced",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 5
+        },
+        {
+          "name": "spring onions",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "filo pastry",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "melted butter",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 14
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the frying pan and add in some oil. Fry the mashed garlic and ginger first and then add in the minced meat and all seasoning. When the meat is cooked, set aside to cool down."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Get another big bowl. Add in egg, chopped tomato, chopped spring onion and minced meat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Get one 2 sheets of filo pastry or 1 sheet spring roll wrap. Brush it with some butter and then put some filling in the middle. Fold the pastry and brush more butter on the seal part."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Heat a frying pan and add in some oil to cook the parcel until its both sides and 4 edges all turn into golden brown. (Or brush melted butter all over the parcel and bake it in 180\u00b0C oven for 10-15 minutes)"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Enjoy"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53215",
+      "external_id": "53215",
+      "name": "Shakshouka",
+      "slug": "shakshouka",
+      "description": "Miscellaneous from TheMealDB",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/crd1jz1763592990.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53215. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "tomato",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 40.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "sliced",
+          "sort_order": 4
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "First, pan fry the black pepper and garlic over a dry medium heat until fragrant."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add a good amount of extra virgin olive oil and infuse for a minute."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once the oil heats up, add the tomatoes and salt, and cover with a lid. Simmer for 5 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Remove the lid and mash the tomatoes. Reduce until you reach the desired consistency of choice."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Make craters for the eggs and lower the heat. Carefully crack the eggs into the craters, making sure it touches the pan and not the tomato sauce."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Cover the eggs and leave it for 5 minutes without lifting the lid."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Remove from the heat and let the residual heat steam the eggs for 1-2 minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53219",
+      "external_id": "53219",
+      "name": "Shakshuka Feta Cheese",
+      "slug": "shakshuka-feta-cheese",
+      "description": "Cheesy",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wpkfin1763597958.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53219. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg",
+          "amount": 4.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "tomato sauce",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "shallots",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 6
+        },
+        {
+          "name": "spinach",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "feta",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a pan heat the oil medium to high heat, with a tablespoon of olive oil"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the chopped vegetables as onions, garlic, celery and red pepper. Stir all together for 5 mins."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the cumin powder and salt and pepper and the tomato sauce and let it cook for another 7 mins."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add the eggs, cover and leave to coo for 8 mins. Add the fresh spinach and feta cheese at the end."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Serve with fresh bread."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53217",
+      "external_id": "53217",
+      "name": "Shawarma chuck roast wrap",
+      "slug": "shawarma-chuck-roast-wrap",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "saudi-arabian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "saudi-arabian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/swo87v1763595282.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53217. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chuck roast",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "beef stock",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "lemon juice",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "ground ginger",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 10
+        },
+        {
+          "name": "ground coriander",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "ground clove",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a dutch oven or slow cooker, add all the spices, beef broth and lemon juice. Stir to combine.."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the beef and turn to coat, spoon some sauce over the top."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Cover and cook on low for 8-10 hours."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "After cooking, remove beef and use two forks to shred. Discard any excess fat."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Skim fat off of the top of the liquid remaining."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Mix shredded beef into sauce. Keep warm until you are ready to serve."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Build wrap by spreading garlic sauce on the pita. Top with beef and add garnishes to your liking."
+        }
+      ]
+    }
+  ]
+}

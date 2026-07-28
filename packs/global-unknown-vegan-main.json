@@ -1,0 +1,1345 @@
+{
+  "id": "global-unknown-vegan-main",
+  "title": "Global Unknown Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53536",
+      "external_id": "53536",
+      "name": "Black Beans Hotpot",
+      "slug": "black-beans-hotpot",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/81ahfr1784394567.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53536. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "black beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 2
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 6
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "oregano",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "black pepper",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "water",
+          "amount": 5.0,
+          "unit": "Cups",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add all the ingredients in the Instant pot, Lock the lid on and set the Instant Pot to High Pressure for 35 minutes. Once the beans are done cooking, let the pressure release naturally for 20 minutes before releasing the remaining pressure. Open and serve!"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Let the beans get cool completely before saving them in the fridge or freezer."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53576",
+      "external_id": "53576",
+      "name": "Carrot and Bean Fritters",
+      "slug": "carrot-and-bean-fritters",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xjii2g1784836867.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53576. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "carrots",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "canned beans",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "breadcrumbs",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 6
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Pour the beans into the sieve, remove liquid."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Grate carrots and add beans, Mix and mash together. Season with garlic, thyme, salt and pepper."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Form the dough into round buns, dip them slightly into the bread crumbs, and press the fritters."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Fry fritters in hot oil for a short time until the fritters are browned.  Place on the greased or /baking paper-lined oven plate and bake at 200C for 10 minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53480",
+      "external_id": "53480",
+      "name": "Creamy Aji green sauce",
+      "slug": "creamy-aji-green-sauce",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/81j8iu1782590903.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53480. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 1
+        },
+        {
+          "name": "jalapeno",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "spring onions",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 4
+        },
+        {
+          "name": "white wine vinegar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put all the ingredients in a blender or food processor and mix into a sauce. Add seasoning, then pour into a serving bowl."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53486",
+      "external_id": "53486",
+      "name": "Easy White Bean Soup",
+      "slug": "easy-white-bean-soup",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/p5nzbk1782680889.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53486. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cannellini beans",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 2
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 6.0,
+          "unit": "cups",
+          "sort_order": 7
+        },
+        {
+          "name": "dried mint",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "summer savoury",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place beans in a large pot and cover with cold water. Soak for at least 4 hours or overnight. Drain and rinse, before you use in the soup."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Chop one of the onions and leave the other one whole. Chop carrots."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat oil on a large pot over medium heat. Add the onion and carrots. Cook for 2 minutes. Add beans, water, peppers, head of onion, salt, pepper, summer savory, mint, thyme, Vegeta and tomato puree. Stir, bring to a boil, then reduce to a simmer and cook for 2 hours, or until the beans are tender."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Remove the peppers and whole onion. Mash the onion. Peel peppers and chop. Return to the pot."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add more salt and pepper, if needed. Garnish with chopped parsley. Serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53541",
+      "external_id": "53541",
+      "name": "Gallo pinto",
+      "slug": "gallo-pinto",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ytogg31784397116.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53541. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "black beans",
+          "amount": 2.0,
+          "unit": "Cup",
+          "sort_order": 1
+        },
+        {
+          "name": "rice",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "pepper",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "cilantro",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "salsa lizano",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat up a pan over medium high heat, add olive oil and let it get hot. Add onions, peppers, cilantro, garlic, cumin, salt and pepper, cook for 3 to 5 min until onion is translucent."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix in the beans, stir and reduce heat to medium, add the Lizano sauce, stir and cook for 5 more minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add the rice, stir and cooked for a few more minutes, to incorporate all the flavors in the rice. The time to cook it I will depend of how you like your gallo pinto, some people like it a little wet and some other like it a little toasted or dry."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "I prefer it not too dry, so I cook it for about 5 to 7 min."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53478",
+      "external_id": "53478",
+      "name": "Grilled corn with garlic mayo & grated cheese",
+      "slug": "grilled-corn-with-garlic-mayo-grated-cheese",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/k1if4d1782589892.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53478. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "corn on the cob",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 2
+        },
+        {
+          "name": "mayonnaise",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "parmesan",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 4
+        },
+        {
+          "name": "coriander",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Boil the corn cobs for 5 mins. Leave in the water until you\u2019re ready to grill them. Mix the garlic and mayonnaise in a small bowl. Just before barbecuing, remove the cobs from the pan, pat dry and rub the mayonnaise into each one."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Season the cobs and grill them until marks appear, about 5 mins. Remove and scatter over the Parmesan and coriander. Squeeze lime over to serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53417",
+      "external_id": "53417",
+      "name": "Pa Amb Tomaquet (Bread with Tomato)",
+      "slug": "pa-amb-tomaquet-bread-with-tomato",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/lz9rw91779733434.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53417. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "bread",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 4
+        },
+        {
+          "name": "sea salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Toast the bread slices -- either in a toaster, or by baking them in the oven at 400\u00b0F -- until crispy and golden.  (Toasting/baking time will totally depend on the type and thickness of your bread.)"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Take a clove of garlic and rub it cut-side-down all over the top of a slice of bread."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Take a tomato half and rub it cut-side-down all over the top of the bread."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Drizzle the bread evenly with a hint of olive oil.  Sprinkle with a pinch of salt."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Repeat with the remaining slices of bread.  Then serve immediately while they're nice and warm!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53573",
+      "external_id": "53573",
+      "name": "Papaya salad",
+      "slug": "papaya-salad",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/7ytdtz1784833420.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53573. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "green papaya",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 3
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "spring onions",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "roasted peanut",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cut, peel and shred papaya. I used a hand julienne shredder. If you don't have a shredder, use a grater."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Peel and shred carrots."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Cut green onions really small"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Slice tomatoes down the middle"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "I then combined all ingredients"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "I topped it with the peanuts"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53491",
+      "external_id": "53491",
+      "name": "Shopska Salad",
+      "slug": "shopska-salad",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/bqx8mc1782684286.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53491. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cucumber",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "tomatoes",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 2
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "green pepper",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "feta",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tbs chopped",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine vegetables in a bowl and sprinkle salt on top."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Let it stand for 5 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Top with feta and parsley."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53405",
+      "external_id": "53405",
+      "name": "Tav\u00eb me Presh ska Mish Meatless Leek Bake",
+      "slug": "tav-me-presh-ska-mish-meatless-leek-bake",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "unknown",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/p5m3w21779644533.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53405. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "leek",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "red pepper",
+          "amount": 3.0,
+          "unit": "diced",
+          "sort_order": 2
+        },
+        {
+          "name": "rice",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove finely chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 5
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "oregano",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "basil",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 11
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Prepare the dish"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Fry the leeks in a small dash of olive oil for a few minutes until they start to brown."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "2"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Prepare the Dish"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the roasted red peppers, garlic, stock, herbs, salt, pepper and paprika. Give it a good stir, add the rice and stir again."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "3"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Leave it to come to the boil. Leave to simmer for 2 minutes."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "4"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Pour the mixture into a baking tray with a depth of 2 inches or more. Mix thoroughly and ensure equally levelled out."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "5"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Cooking"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Place on the bottom self of a preheated oven at 180 degrees. Leave to bake for 1 hour."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "6"
+        }
+      ]
+    }
+  ]
+}

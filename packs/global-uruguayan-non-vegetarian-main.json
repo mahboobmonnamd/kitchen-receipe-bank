@@ -1,0 +1,713 @@
+{
+  "id": "global-uruguayan-non-vegetarian-main",
+  "title": "Global Uruguayan Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53317",
+      "external_id": "53317",
+      "name": "Beef Empanadas",
+      "slug": "beef-empanadas",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "uruguayan",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "uruguayan"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/dxpc7j1764370714.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53317. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lard",
+          "amount": 60.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 340.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 6
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 7
+        },
+        {
+          "name": "spring onions",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 8
+        },
+        {
+          "name": "sirloin steak",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "dried oregano",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 10
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "red pepper flakes",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 14
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 15
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 16
+        },
+        {
+          "name": "egg wash",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 17
+        },
+        {
+          "name": "chimichurri sauce",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "For the dough place lard, warm water and salt in a large kneading bowl and stir. Add flour and oregano and either knead five miutes by hand or with the kneading function of your machine. Let rest covered for at least half an hour or overnight in the fridge."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "For the filling place tomatoes for about 30 seconds in boiling water, then cool with cold water and peel of skin and cut into cubes. Press garlic through garlic press, cut onions into cubes. Simmer garlic and onions in some olive oil until translucent. Take out onions and garlic and brown the meat at high heat from all sides. Season with all herbs and add the onions, garlic and tomatoes. Let simmer for a few minutes, add salt, pepper and additional spices to taste. You can prepare the meat the night before, chill in fridge if doing so. Boil eggs and also cut into cubes and mix with prepared meat."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cut dough into half and roll out one half thinnly on floured surface. Cut out circles about 12-15cm in diameter. Mine have a diameter of 12.5 cm. Place about 2-4 teaspoons of filling on one circle, put a bit of water all around the edges and fold over the other half so that you get half moons. Be sure to seal the edges with a fork. Repeat until you have no dough and filling left."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "4"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Meanwhile preheat oven to 200 degrees Celsius. Brush empanadas with egg wash and bake about 8 empanadas on a baking sheet lined with parchment paper for about 25min or until golden. Serve warm with chimichurri sauce."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53319",
+      "external_id": "53319",
+      "name": "Chivito sandwich",
+      "slug": "chivito-sandwich",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "uruguayan",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "uruguayan"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/j80gmw1764372176.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53319. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "milk",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 60.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "molasses",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 220.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 9.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "bread flour",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "yeast",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "egg wash",
+          "amount": 1.0,
+          "unit": "Splash",
+          "sort_order": 9
+        },
+        {
+          "name": "sesame seed",
+          "amount": 1.0,
+          "unit": "Sprinkling",
+          "sort_order": 10
+        },
+        {
+          "name": "onion",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "sirloin steak",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 13
+        },
+        {
+          "name": "bacon",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "ham",
+          "amount": 8.0,
+          "unit": "slices",
+          "sort_order": 15
+        },
+        {
+          "name": "mozzarella",
+          "amount": 8.0,
+          "unit": "slices",
+          "sort_order": 16
+        },
+        {
+          "name": "tomato",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 17
+        },
+        {
+          "name": "lettuce",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 18
+        },
+        {
+          "name": "mustard",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 19
+        },
+        {
+          "name": "chimichurri sauce",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 20
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "For the brioche buns heat the milk with the butter and molasses until the butter has melted. Add the cold water and egg to this mix."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a large bowl place flour, salt and yeast and mix. Then add the milk and water mix and stir with a wooden spoon until combined. You don't have to knead the dough, it is perfectly fine to do this by hand with a wooden spoon, this doesn't need to be very thorough. Cover with a damp towel and stick in the fridge overnight."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "The next morning knead dough on a generously floured surface for a little and cut into eight equal pieces. Shape these into balls and place on a baking sheet lined with parchment paper. Cover again with damp towel and let rise for about an hour or until double in size."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "4"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Heat oven to 220 degrees Celsius. Brush the buns with either milk, heavy cream or egg wash and sprinkle with sesame seeds, if desired. Bake for about 15-20min or until golden. Let cool."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "5"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "For the toppings chop the onions and saut\u00e9 in a bit of butter, let caramelize, this may take ten to 15 minutes, stir occasionally. Rub the steaks with a bit of garlic and then grill or fry the steaks, the bacon, and eggs with salt and pepper, toast the buns after having cut in half. Spread mustard on one bun half, layer each chivito with steak, a slice of ham, a slice of cheese, one bacon stripe, a tomato slice, and some lettuce. Place fried egg on top and sprinkle generously with chimichurri and some onions right before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53063",
+      "external_id": "53063",
+      "name": "Chivito uruguayo",
+      "slug": "chivito-uruguayo",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "uruguayan",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "uruguayan"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/n7qnkb1630444129.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53063. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "bread",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "lettuce",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "ham",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "mozzarella",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "bacon",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Crush the meat so that it is finite and we put it on a griddle to brown. Put the eggs, bacon and ham to fry."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut the bread in half, put the beef brisket, the fried eggs, the bacon, the ham, the mozzarella, the tomato and the lettuce. Cover with the other half of the bread and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53318",
+      "external_id": "53318",
+      "name": "Torta de fiambre",
+      "slug": "torta-de-fiambre",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "uruguayan",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "uruguayan"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/okl9cm1764371087.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53318. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "cheddar cheese",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "ham",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 240.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 120.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "baking powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "dried oregano",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Line the bottom of a springform of 20-2cm (8-9inches) with parchment paper, I usually leave some overhang as the batter is very liquid and may spill a bit. Preheat oven to 220 degrees Celsius."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Grate the cheese and take out the ham."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Mix all remaining ingredients in a large bowl for about one to two minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "4"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Pour half the batter into the prepared pan, it is going to be very liquid. Then place ham and cheese on top and pour the remaining batter on top."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "5"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Bake for about 20-25 minutes or until top is golden. Wait for a few minutes before releasing from the pan and enjoy either hot or cold with some fresh herbs."
+        }
+      ]
+    }
+  ]
+}

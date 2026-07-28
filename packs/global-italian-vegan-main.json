@@ -1,0 +1,325 @@
+{
+  "id": "global-italian-vegan-main",
+  "title": "Global Italian Vegan Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52811",
+      "external_id": "52811",
+      "name": "Ribollita",
+      "slug": "ribollita",
+      "description": "Vegetarian",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xrrwpx1487347049.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52811. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "celery",
+          "amount": 1.0,
+          "unit": "stalk chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "tablespoon minced",
+          "sort_order": 5
+        },
+        {
+          "name": "cannellini beans",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 6
+        },
+        {
+          "name": "canned tomatoes",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "rosemary",
+          "amount": 1.0,
+          "unit": "fresh sprig",
+          "sort_order": 9
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "fresh sprig",
+          "sort_order": 10
+        },
+        {
+          "name": "kale",
+          "amount": 1.0,
+          "unit": "pound chopped",
+          "sort_order": 11
+        },
+        {
+          "name": "wholegrain bread",
+          "amount": 4.0,
+          "unit": "thick slices",
+          "sort_order": 12
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "thinly sliced",
+          "sort_order": 13
+        },
+        {
+          "name": "parmesan",
+          "amount": 0.5,
+          "unit": "cup freshly grated",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Put 2 tablespoons of the oil in a large pot over medium heat. When it\u2019s hot, add onion, carrot, celery and garlic; sprinkle with salt and pepper and cook, stirring occasionally, until vegetables are soft, 5 to 10 minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 500 degrees. Drain the beans; if they\u2019re canned, rinse them as well. Add them to the pot along with tomatoes and their juices and stock, rosemary and thyme. Bring to a boil, then reduce heat so the soup bubbles steadily; cover and cook, stirring once or twice to break up the tomatoes, until the flavors meld, 15 to 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Fish out and discard rosemary and thyme stems, if you like, and stir in kale. Taste and adjust seasoning. Lay bread slices on top of the stew so they cover the top and overlap as little as possible. Scatter red onion slices over the top, drizzle with the remaining 3 tablespoons oil and sprinkle with Parmesan."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Put the pot in the oven and bake until the bread, onions and cheese are browned and crisp, 10 to 15 minutes. (If your pot fits under the broiler, you can also brown the top there.) Divide the soup and bread among 4 bowls and serve."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52775",
+      "external_id": "52775",
+      "name": "Vegan Lasagna",
+      "slug": "vegan-lasagna",
+      "description": "Vegan, Pasta",
+      "category": "main",
+      "cuisine": "italian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "italian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/rvxxuy1468312893.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52775. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "green red lentils",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "zucchini",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 4
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "sprinking",
+          "sort_order": 5
+        },
+        {
+          "name": "spinach",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "lasagne sheets",
+          "amount": 10.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "vegan butter",
+          "amount": 35.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "flour",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 9
+        },
+        {
+          "name": "soya milk",
+          "amount": 300.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "mustard",
+          "amount": 1.5,
+          "unit": "teaspoons",
+          "sort_order": 11
+        },
+        {
+          "name": "vinegar",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1) Preheat oven to 180 degrees celcius."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2) Boil vegetables for 5-7 minutes, until soft. Add lentils and bring to a gentle simmer, adding a stock cube if desired. Continue cooking and stirring until the lentils are soft, which should take about 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3) Blanch spinach leaves for a few minutes in a pan, before removing and setting aside."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4) Top up the pan with water and cook the lasagne sheets. When cooked, drain and set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5) To make the sauce, melt the butter and add the flour, then gradually add the soya milk along with the mustard and the vinegar. Cook and stir until smooth and then assemble the lasagne as desired in a baking dish."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6) Bake in the preheated oven for about 25 minutes."
+        }
+      ]
+    }
+  ]
+}

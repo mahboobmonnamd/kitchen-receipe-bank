@@ -1,0 +1,363 @@
+{
+  "id": "global-ukrainian-vegetarian-main",
+  "title": "Global Ukrainian Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53313",
+      "external_id": "53313",
+      "name": "Beetroot latkes",
+      "slug": "beetroot-latkes",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "ukrainian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "ukrainian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qwicc91764368097.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53313. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "rapeseed oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 1
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "bag",
+          "sort_order": 3
+        },
+        {
+          "name": "rocket",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 130.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "beetroot",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 7
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove finely chopped",
+          "sort_order": 9
+        },
+        {
+          "name": "caraway seed",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 11
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 180C/160C fan/gas 4. Make the latkes by combining all of the ingredients."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat the oil in a large non-stick pan. Spoon in the mixture to make six round latkes. Fry for 4-5 mins on each side, then transfer to a baking sheet and bake for 10 mins."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Combine the yogurt and mint in a small bowl. Toss the salad leaves and tomatoes together, then serve the latkes with the mint yogurt and salad."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53314",
+      "external_id": "53314",
+      "name": "Sauerkraut pierogii",
+      "slug": "sauerkraut-pierogii",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "ukrainian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "ukrainian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/gqlxgc1764368767.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53314. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 1
+        },
+        {
+          "name": "shallots",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "sauerkraut",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "hispi (sweetheart) cabbage",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 5
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 6
+        },
+        {
+          "name": "plain flour",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 8
+        },
+        {
+          "name": "shallots",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 9
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "Dusting",
+          "sort_order": 10
+        },
+        {
+          "name": "butter",
+          "amount": 45.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "sour cream",
+          "amount": 60.0,
+          "unit": "ml",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "First, make the crispy shallots. Heat the oil in a saucepan to 180C (a cube of bread will turn golden in 15 secs). Toss the shallots in a little flour and deep-fry for 1 min or until light golden and crispy. Drain on kitchen paper. Can be made up to two days before and kept in an airtight container."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "To make the filling, heat the oil in a medium non-stick frying pan and gently fry the shallots for 10 mins until starting to turn golden."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the sauerkraut and cabbage, and cook for 5-10 mins until the cabbage has softened. Taste and add a little salt if under-seasoned, or sugar if stringent. Scrape into a bowl and leave to cool completely."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "To make the dough, mix the eggs and oil with 125ml water, then gradually add in the flour, mixing well with your hands. Knead it on a well-floured surface until the dough stops sticking to your hands. You should end up with firm, elastic dough. Wrap it in cling film and rest in the fridge for at least 30 mins, or overnight."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Flour your work surface generously. Roll out the dough to a 40cm circle or until the dough is as thick as \u00a31 coin."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "step 6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Using a 9cm cookie cutter, cut out discs in the dough \u2013 you should end up with about 25 discs. Do not throw away the off-cuts \u2013 we throw them in with the pierogi when boiling to minimise any waste."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "step 7"
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Have a well-floured tray ready. Put 1 tsp of the filling into the centre of each disc. In your hand, fold in half around the filling and seal to create half-moon shapes. Put them on the floured tray, making sure they don\u2019t touch each other."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1109 @@
+{
+  "id": "global-irish-non-vegetarian-main",
+  "title": "Global Irish Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53036",
+      "external_id": "53036",
+      "name": "Boxty Breakfast",
+      "slug": "boxty-breakfast",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "grilling",
+          "simmering"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/naqyel1608588563.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53036. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 4.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "spring onions",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 2
+        },
+        {
+          "name": "plain flour",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "egg white",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "bicarbonate of soda",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 8
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "bacon",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "egg",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Before you start, put your oven on its lowest setting, ready to keep things warm. Peel the potatoes, grate 2 of them, then set aside. Cut the other 2 into large chunks, then boil for 10-15 mins or until tender. Meanwhile, squeeze as much of the liquid from the grated potatoes as you can using a clean tea towel. Mash the boiled potatoes, then mix with the grated potato, spring onions and flour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Whisk the egg white in a large bowl until it holds soft peaks. Fold in the buttermilk, then add the bicarbonate of soda. Fold into the potato mix."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Heat a large non-stick frying pan over a medium heat, then add 1 tbsp butter and some of the oil. Drop 3-4 spoonfuls of the potato mixture into the pan, then gently cook for 3-5 mins on each side until golden and crusty. Keep warm on a plate in the oven while you cook the next batch, adding more butter and oil to the pan before you do so. You will get 16 crumpet-size boxty from the mix. Can be made the day ahead, drained on kitchen paper, then reheated in a low oven for 20 mins."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Heat the grill to medium and put the tomatoes in a heavy-based pan. Add a good knob of butter and a little oil, then fry for about 5 mins until softened. Grill the bacon, then pile onto a plate and keep warm. Stack up the boxty, bacon and egg, and serve the tomatoes on the side."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53037",
+      "external_id": "53037",
+      "name": "Coddled pork with cider",
+      "slug": "coddled-pork-with-cider",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/7vpsfp1608588991.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53037. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "Knob",
+          "sort_order": 1
+        },
+        {
+          "name": "pork chops",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "bacon",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "potatoes",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "carrots",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "swede",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "cider",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "chicken stock",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the butter in a casserole dish until sizzling, then fry the pork for 2-3 mins on each side until browned. Remove from the pan."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip the bacon, carrot, potatoes and swede into the pan, then gently fry until slightly coloured. Stir in the cabbage, sit the chops back on top, add the bay leaf, then pour over the cider and stock. Cover the pan, then leave everything to gently simmer for 20 mins until the pork is cooked through and the vegetables are tender."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Serve at the table spooned straight from the dish."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52998",
+      "external_id": "52998",
+      "name": "Corned Beef and Cabbage",
+      "slug": "corned-beef-and-cabbage",
+      "description": "Cheap",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xb97a81583266727.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52998. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "beef brisket",
+          "amount": 3.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "small potatoes",
+          "amount": 10.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "head",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place corned beef in large pot or Dutch oven and cover with water. Add the spice packet that came with the corned beef. Cover pot and bring to a boil, then reduce to a simmer. Simmer approximately 50 minutes per pound or until tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add whole potatoes and peeled and cut carrots, and cook until the vegetables are almost tender. Add cabbage and cook for 15 more minutes. Remove meat and let rest 15 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Place vegetables in a bowl and cover. Add as much broth (cooking liquid reserved in the Dutch oven or large pot) as you want. Slice meat across the grain."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52999",
+      "external_id": "52999",
+      "name": "Crispy Sausages and Greens",
+      "slug": "crispy-sausages-and-greens",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/st1ifa1583267248.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52999. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "kale",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 1
+        },
+        {
+          "name": "italian fennel sausages",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "Head chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic clove",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "Sliced",
+          "sort_order": 5
+        },
+        {
+          "name": "shiitake mushrooms",
+          "amount": 1.0,
+          "unit": "Sliced",
+          "sort_order": 6
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat the oven to 350\u00b0. Remove the stems from one bunch of Tuscan kale and tear the leaves into 1\" pieces (mustard greens, collards, spinach, and chard are great, too). Coarsely chop half a head of green cabbage. Combine the greens in a large baking dish and add 4 cloves of thinly sliced garlic. Adding some sliced onions and shiitake mushrooms at this point is optional, but highly recommended (I'll saut\u00e9 the onions and mushrooms in a cast iron baking dish right on the stove before adding to the greens). Coat the greens with some olive oil and pour \u00bd cup chicken stock or broth over everything. Cover the dish with foil and bake until the greens are wilted, about 15 minutes. Remove foil and season with salt and pepper. Continue to bake until cabbage is tender, about 20-25 minutes more."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Meanwhile, heat a little olive oil in a large skillet over medium-high. Prick four sweet Italian sausages with a fork and cook until browned on all sides and cooked through, 10 to 12 minutes. When the greens are done, slice the sausage and toss into the greens with a splash of your favorite vinegar (I like sherry or red wine)."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53035",
+      "external_id": "53035",
+      "name": "Ham hock colcannon",
+      "slug": "ham-hock-colcannon",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/n41ny81608588066.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53035. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "floury potatoes",
+          "amount": 800.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic clove",
+          "amount": 3.0,
+          "unit": "chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "cabbage",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "spring onions",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "double cream",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "mustard",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 7
+        },
+        {
+          "name": "ham",
+          "amount": 180.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "eggs",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "STEP 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Peel and cut the potatoes into even, medium-sized chunks. Put in a large pan filled with cold salted water, bring to the boil and cook for 10-15 mins until a knife can be inserted into the potatoes easily."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "STEP 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, melt the butter in a large saut\u00e9 pan over a medium heat. Add the garlic, cabbage, spring onions and some seasoning. Stir occasionally until the cabbage is wilted but still retains a little bite, then set aside."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "STEP 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Drain the potatoes, leave to steam-dry for a couple of mins, then mash with the cream, mustard and seasoning in the same saucepan. Stir in the cabbage and ham hock. Keep warm over a low heat."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "STEP 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Reheat the pan you used to cook the cabbage (no need to wash first), add a splash of oil, crack in the eggs and fry to your liking. To serve, divide the colcannon between bowls and top each with a fried egg."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:52781",
+      "external_id": "52781",
+      "name": "Irish stew",
+      "slug": "irish-stew",
+      "description": "Stew, Meat",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52781. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "whole wheat",
+          "amount": 300.0,
+          "unit": "g soaked overnight in water",
+          "sort_order": 1
+        },
+        {
+          "name": "lamb loin chops",
+          "amount": 2.0,
+          "unit": "kg cut into 3cm cubes",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 120.0,
+          "unit": "ml",
+          "sort_order": 3
+        },
+        {
+          "name": "shallots",
+          "amount": 24.0,
+          "unit": "Skinned",
+          "sort_order": 4
+        },
+        {
+          "name": "carrots",
+          "amount": 4.0,
+          "unit": "large",
+          "sort_order": 5
+        },
+        {
+          "name": "turnips",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "celeriac",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "charlotte potatoes",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "white wine",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "caster sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "fresh thyme",
+          "amount": 4.0,
+          "unit": "sprigs",
+          "sort_order": 11
+        },
+        {
+          "name": "oregano",
+          "amount": 4.0,
+          "unit": "sprigs",
+          "sort_order": 12
+        },
+        {
+          "name": "chicken stock",
+          "amount": 450.0,
+          "unit": "ml",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oven to 180C/350F/gas mark 4. Drain and rinse the soaked wheat, put it in a medium pan with lots of water, bring to a boil and simmer for an hour, until cooked. Drain and set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Season the lamb with a teaspoon of salt and some black pepper. Put one tablespoon of oil in a large, deep saut\u00e9 pan for which you have a lid; place on a medium-high heat. Add some of the lamb \u2013 don't overcrowd the pan \u2013 and sear for four minutes on all sides. Transfer to a bowl, and repeat with the remaining lamb, adding oil as needed."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Lower the heat to medium and add a tablespoon of oil to the pan. Add the shallots and fry for four minutes, until caramelised. Tip these into the lamb bowl, and repeat with the remaining vegetables until they are all nice and brown, adding more oil as you need it."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Once all the vegetables are seared and removed from the pan, add the wine along with the sugar, herbs, a teaspoon of salt and a good grind of black pepper. Boil on a high heat for about three minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Tip the lamb, vegetables and whole wheat back into the pot, and add the stock. Cover and boil for five minutes, then transfer to the oven for an hour and a half."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove the stew from the oven and check the liquid; if there is a lot, remove the lid and boil for a few minutes."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53000",
+      "external_id": "53000",
+      "name": "Vegetable Shepherds Pie",
+      "slug": "vegetable-shepherds-pie",
+      "description": "Baking",
+      "category": "main",
+      "cuisine": "irish",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "irish"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/w8umt11583268117.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53000. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "potatoes",
+          "amount": 3.0,
+          "unit": "Lbs",
+          "sort_order": 1
+        },
+        {
+          "name": "small potatoes",
+          "amount": 3.0,
+          "unit": "Lbs",
+          "sort_order": 2
+        },
+        {
+          "name": "salted butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "mushrooms",
+          "amount": 1.0,
+          "unit": "oz",
+          "sort_order": 4
+        },
+        {
+          "name": "brown lentils",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 6.0,
+          "unit": "cloves",
+          "sort_order": 6
+        },
+        {
+          "name": "kosher salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "onion",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 8
+        },
+        {
+          "name": "tomato puree",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "bay leaves",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 10
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 11
+        },
+        {
+          "name": "dry white wine",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 12
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 8.0,
+          "unit": "cups",
+          "sort_order": 13
+        },
+        {
+          "name": "cornstarch",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 14
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 15
+        },
+        {
+          "name": "rosemary",
+          "amount": 2.0,
+          "unit": "sprigs",
+          "sort_order": 16
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 17
+        },
+        {
+          "name": "sage",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 18
+        },
+        {
+          "name": "chives",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 19
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add Ingredients:"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "12 cups chopped mixed vegetables"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "1   cup chopped fresh mushrooms"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "1   cup pearl onions"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "TOPPING:"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Preheat oven to 450\u00b0. Bake potatoes on a foil-lined baking sheet until tender, about 45 minutes. Let cool slightly, then peel. Press potatoes through a ricer, food mill, or colander into a large bowl. Add butter; stir until well blended. Stir in milk. Season to taste with salt."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "FILLING:"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Soak dried porcini in 3 cups hot water; set aside. Combine lentils, 1 garlic clove, 1 tsp. salt, and 4 cups water in a medium saucepan. Bring to a boil; reduce heat and simmer, stirring occasionally, until lentils are tender but not mushy, 15\u201320 minutes. Drain lentils and discard garlic."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Heat 3 Tbsp. oil in a large heavy pot over medium heat. Add onions and cook, stirring occasionally, until soft, about 12 minutes. Add chopped garlic and cook for 1 minute. Stir in tomato paste. Cook, stirring constantly, until tomato paste is caramelized, 2\u20133 minutes."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Add bay leaves and wine; stir, scraping up any browned bits. Stir in porcini, slowly pouring porcini soaking liquid into pan but leaving any sediment behind. Bring to a simmer and cook until liquid is reduced by half, about 10 minutes. Stir in broth and cook, stirring occasionally, until reduced by half, about 45 minutes."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Strain mixture into a large saucepan and bring to a boil; discard solids in strainer. Stir cornstarch and 2 Tbsp. water in a small bowl to dissolve. Add cornstarch mixture; simmer until thickened, about 5 minutes. Whisk in miso. Season sauce with salt and pepper. Set aside."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Preheat oven to 450\u00b0. Toss vegetables and pearl onions with remaining 2 Tbsp. oil, 5 garlic cloves, and rosemary sprigs in a large bowl; season with salt and pepper. Divide between 2 rimmed baking sheets. Roast, stirring once, until tender, 20\u201325 minutes. Transfer garlic cloves to a small bowl; mash well with a fork and stir into sauce. Discard rosemary. DO AHEAD: Lentils, sauce, and vegetables can be made 1 day ahead. Cover separately; chill."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "Arrange lentils in an even layer in a 3-qt. baking dish; set dish on a foil-lined rimmed baking sheet. Toss roasted vegetables with fresh mushrooms and chopped herbs; layer on top of lentils. Pour sauce over vegetables. Spoon potato mixture evenly over."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Bake until browned and bubbly, about 30 minutes. Let stand for 15 minutes before serving."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "id": "global-syrian-non-vegetarian-side",
+  "title": "Global Syrian Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53094",
+      "external_id": "53094",
+      "name": "Baba Ghanoush",
+      "slug": "baba-ghanoush",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "syrian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "syrian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/dlmh401760524897.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53094. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg plants",
+          "amount": 4.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 2
+        },
+        {
+          "name": "kosher salt",
+          "amount": 2.0,
+          "unit": "teaspoons",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "tahini",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "cayenne pepper",
+          "amount": 1.0,
+          "unit": "pinch",
+          "sort_order": 8
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "Leaf",
+          "sort_order": 9
+        },
+        {
+          "name": "parsley",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Prick the surface of the skin of eggplants several times with the tip of a knife."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place eggplants directly on grill. Turn frequently with tongs while skin chars. Cook until eggplants have collapsed and are very soft, 25 to 30 minutes. Transfer to a bowl and cover tightly with aluminum foil and allow to cool, about 15 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "When eggplants are cool enough to handle, split them in half and scrape flesh into a colander placed over a bowl. Drain 5 or 10 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Transfer eggplant to mixing bowl. Add crushed garlic and salt; mash until creamy but with a little texture, about 5 minutes. Whisk in lemon juice, tahini, olive oil, and cayenne pepper. Stir in yogurt."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cover bowl with plastic wrap and refrigerate until completely chilled. Stir in mint and parsley, and taste to adjust seasonings before serving."
+        }
+      ]
+    }
+  ]
+}

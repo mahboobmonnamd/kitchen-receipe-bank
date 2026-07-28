@@ -1,0 +1,1234 @@
+{
+  "id": "global-polish-mixed-dessert",
+  "title": "Global Polish Mixed Dessert",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53304",
+      "external_id": "53304",
+      "name": "Mini bundt cakes",
+      "slug": "mini-bundt-cakes",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/tzt3it1764363293.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53304. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "plain flour",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "caster sugar",
+          "amount": 125.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cocoa powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "milk",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 7
+        },
+        {
+          "name": "icing sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oven to 180C/160C fan/gas 4. Melt 25g butter and generously brush into the holes of a mini bundt tins. Tip a little flour into each hole and shake to coat, then tip out the excess. Beat the butter, caster sugar and a pinch of salt together using an electric whisk. Add the eggs, one at a time, beating well after each addition. Combine the flour and baking powder in a separate bowl, then sift this into the wet ingredients and stir until smooth. Combine the cocoa powder and milk in a small bowl until smooth."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Spoon 1 tbsp of the plain batter into each hole of the bundt tin. Mix the remaining plain batter with the cocoa powder mixture, then divide this between the holes. Bake for 15-18 mins, or until a skewer inserted into the cakes comes out clean. Leave to cool in the tin for 5 mins, then turn out onto a wire rack and leave to cool completely. Dust with icing sugar to serve."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Pour 1 tablespoon of light batter into each mold. Mix the remaining batter with the stirred cocoa mixture and then fill the molds with a tablespoon."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Bake the mini Bundt cakes in the preheated oven for 15-18 minutes , depending on the size of the molds. After 15 minutes of baking time, use a toothpick to test with a skewer and, if necessary, bake for another 3 minutes. Let the mini Bundt cakes cool down completely in the tin. Then carefully remove from the mold. Dust with some icing sugar and serve. Enjoy your meal!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53292",
+      "external_id": "53292",
+      "name": "Piernik (Polish gingerbread)",
+      "slug": "piernik-polish-gingerbread",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kwmdk41764120884.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53292. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "unsalted butter",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "clear honey",
+          "amount": 300.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "brown sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "self-raising flour",
+          "amount": 375.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "ground ginger",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "ground clove",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "ground nutmeg",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "egg",
+          "amount": 3.0,
+          "unit": "Large",
+          "sort_order": 10
+        },
+        {
+          "name": "plum jam",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "double cream",
+          "amount": 225.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "dark chocolate",
+          "amount": 140.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "clear honey",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 160C/140C fan/gas 3. Grease and line the base and sides of a deep 20cm cake tin with baking parchment. Put the honey, sugar and butter in a medium saucepan and cook over a medium heat until fully melted. Remove from the heat and allow to cool. Put the flour and spices in a large bowl and mix everything together."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Once the liquid ingredients have cooled, whisk in the eggs. Pour over the dry ingredients, whisking them together to form a smooth batter \u2013 be careful not to overmix as this can lead to a dry cake. Pour into the prepared tin and bake for 50-55 mins or until risen and a skewer inserted into the middle of the cake comes out clean. Allow the cake to cool in the pan for 20 mins before turning out onto a wire rack to cool completely."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Once cooled, use a large serrated knife to slice the cake into 3 layers. Spread the jam across the 2 bottom cake layers, then reassemble the cake and set aside while you make the glaze. Put the cream, chocolate and honey in a medium pan and cook over a low-medium heat until the chocolate is melted and you have a smooth, pourable mixture. Put the cake on a wire rack set over a parchment-lined baking tray and pour over the glaze, making sure to cover the entire cake. Use a fish slice to carefully transfer the cake to a serving plate and allow the glaze to set. To decorate, dust with a little edible gold powder, if you like. Uniced, this cake will keep for up to 5 days. Once iced, enjoy within 3 days \u2013 just keep in the fridge, but remove before serving and eat at room temperature."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53293",
+      "external_id": "53293",
+      "name": "Pistachio cake",
+      "slug": "pistachio-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xvgpng1764121726.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53293. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "pistachio",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "plain flour",
+          "amount": 80.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "caster sugar",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "egg",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "icing sugar",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "mascarpone",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "double cream",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "pistachio paste",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "raspberries",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 12
+        },
+        {
+          "name": "unwaxed lime",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oven to 180C/160C fan/gas 4. Butter and line a 23cm springform cake tin. Tip 150g of the pistachios into a food processor and blitz until finely ground. Tip into a bowl and mix in the flour, baking powder and pinch of salt. Beat the butter and sugar in a separate bowl until fluffy and pale, around 5 mins. Crack in the eggs one at a time, beating well for 1 min after each addition, until they have all been added. Beat in the vanilla, then fold in the flour mixture gently. Carefully spoon into the prepared tin and bake for 35-40 mins until a skewer inserted into the middle comes out clean. Set aside to cool completely on a wire rack in the tin."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Meanwhile, sift the icing sugar into a bowl, then tip in the mascarpone, double cream and pistachio paste. Beat until well combined, then set aside in the fridge for 20-30 mins to thicken to a spooning consistency."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cut the cooled cake in half horizontally using a serrated knife, so you have two layers. Put the bottom layer on a plate or cake stand and spread over a generous spoonful of the pistachio cream. Top with a generous handful of the raspberries so the cake is covered. Top with the other sponge half, then cover the top and sides of the cake with the remaining cream. Scatter over the last of the raspberries, the remaining pistachios and the lime zest to serve. Will keep chilled in an airtight container for two days."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53295",
+      "external_id": "53295",
+      "name": "Polish chocolate & walnut cake",
+      "slug": "polish-chocolate-walnut-cake",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/e8ihjp1764123021.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53295. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "plain flour",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "coco sugar",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "egg",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "caster sugar",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "egg white",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "caster sugar",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "walnuts",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        },
+        {
+          "name": "potato starch",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 9
+        },
+        {
+          "name": "double cream",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "chocolate chips",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oven to 170C/150C fan/gas 3\u00bd. Line a 30 x 22cm shallow baking tin with baking parchment. Sift the flour and mix it with cocoa, then set aside. Beat the egg whites until stiff, then add the sugar to them in small batches. Add the egg yolks, one by one, whisking constantly. Tip in the flour mixture and gently fold everything together with a spatula. Pour the prepared batter into the lined tin and bake for 35 mins. Cool for 5 mins, remove from the tin and re-line the tin with baking parchment."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "To make the meringue, whisk the whites until stiff, then gradually whisk in the sugar, one tablespoon at a time. When you have a stiff and shiny meringue, fold in the finely chopped walnuts, flour and startch. Spread the mixture into the re-lined tin and cook for 40 mins on the same heat. Remove from the oven and leave to cool."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "For the chocolate glaze, heat the cream over low heat, then remove from the heat, pour the chopped chocolate into it and mix it until it melts and becomes shiny."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Cut the cooled chocolate sponge cake and meringue into two layers. Put the nut meringue on top of the bottom layer of sponge and sprinkle on some of the reserved walnuts. Add another layer of meringue and then the upper layer of chocolate sponge cake and cover the top with chocolate glaze. Decorate with walnuts. Put the finished cake in the fridge for 1-2 hrs before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53298",
+      "external_id": "53298",
+      "name": "Polish doughnuts (P\u0105czki)",
+      "slug": "polish-doughnuts-p-czki",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x6jqog1764359857.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53298. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "yeast",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "caster sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "milk",
+          "amount": 125.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "egg yolks",
+          "amount": 7.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "sugar",
+          "amount": 15.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "caster sugar",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "flour",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "double cream",
+          "amount": 200.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "butter",
+          "amount": 15.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "jam",
+          "amount": 125.0,
+          "unit": "ml",
+          "sort_order": 12
+        },
+        {
+          "name": "ground almonds",
+          "amount": 10.0,
+          "unit": "g",
+          "sort_order": 13
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 14
+        },
+        {
+          "name": "icing sugar",
+          "amount": 75.0,
+          "unit": "g",
+          "sort_order": 15
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1/2",
+          "sort_order": 16
+        },
+        {
+          "name": "almond essence",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 17
+        },
+        {
+          "name": "almonds",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make the leaven, mix the yeast with the sugar and flour, and stir in the warm milk. Set aside in a warm place for 30 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "For the dough, put egg yolks into a heatproof bowl and add the sugar and vanilla sugar. Set the bowl over a pan of simmering water and whisk until smooth and thick."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Sift the flour into the bowl of a stand mixer, add the beaten yolks and the warm cream, mix thoroughly, then add a pinch of salt and the leaven. Bring together to make a dough and knead for 10 minutes (or 15-20 if doing this by hand)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "When the dough stops sticking to your hands, pour in the cooled melted butter and knead for a few more minutes. Cover with a cloth and leave in a warm place to rise for at least 1 hr-1 hr 30 mins."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "step 5"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Mix the jam with the ground almonds and spoon into a piping bag or jam syringe. Divide the dough into 16 pieces and shape them into doughnuts. Cover and leave to rise for 30 mins."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "step 6"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Fill a deep pan or a deep fat fryer one third full of oil or melted lard and heat it until it is 180C \u2013 if you don\u2019t have a thermometer, drop in a small chunk of bread. The oil is ready when it browns in about 30 secs. Add the doughnuts and fry, turning them once for about 1-2 mins on each side (a thin lighter ring should form in the middle). After removing, drain the doughnuts of excess fat on some kitchen paper."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53022",
+      "external_id": "53022",
+      "name": "Polskie Nalesniki (Polish Pancakes)",
+      "slug": "polskie-nalesniki-polish-pancakes",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking",
+          "frying"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/58bkyo1593350017.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53022. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "eggs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Add flour, eggs, milk, water, and salt in a large bowl then mix with a hand mixer until you have a smooth, lump-free batter."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "At this point, mix in the butter or the vegetable oil. Alternatively, you can use them to grease the pan before frying each pancake."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat a non-stick pan over medium heat, then pour in the batter, swirling the pan to help it spread."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "When the pancake starts pulling away a bit from the sides, and the top is no longer wet, flip it and cook shortly on the other side as well."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Transfer to a plate. Cook the remaining batter until all used up."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Serve warm, with the filling of your choice."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53303",
+      "external_id": "53303",
+      "name": "Raspberry mousse",
+      "slug": "raspberry-mousse",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/v5jrnn1764362830.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53303. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "gelatine leafs",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "raspberries",
+          "amount": 350.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "caster sugar",
+          "amount": 60.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 4
+        },
+        {
+          "name": "whipping cream",
+          "amount": 500.0,
+          "unit": "ml",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the gelatine leaves in a bowl, cover with warm water and leave to soak for 5 mins. Drain and squeeze out any excess water."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip the raspberries into a pan over a medium-low heat along with the sugar and lemon juice. Cook for 5-6 mins until the berries have completely broken down. Push the mixture through a sieve set over a bowl, discarding the seeds. Stir in the gelatine leaves until dissolved (if they don\u2019t dissolve, pour the mixture into a clean saucepan and heat gently until dissolved). Set aside to cool for 15 mins."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Whip the cream to soft peaks using an electric whisk, then gently fold this into the raspberry mixture. Spoon into the ramekins or moulds and chill overnight, or for at least 6 hrs. Serve with raspberries scattered over the top."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53024",
+      "external_id": "53024",
+      "name": "Rogaliki (Polish Croissant Cookies)",
+      "slug": "rogaliki-polish-croissant-cookies",
+      "description": "Dessert from TheMealDB",
+      "category": "dessert",
+      "cuisine": "polish",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "pudding"
+      ],
+      "taxonomy": {
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "dish_types": [
+          "pudding"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "polish"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/7mxnzz1593350801.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53024. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "egg yolks",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "cream cheese",
+          "amount": 8.0,
+          "unit": "oz",
+          "sort_order": 3
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "flour",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "jam",
+          "amount": 1.0,
+          "unit": "Jar",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium bowl mix egg yolks, philly cheese and baking powder using a hand held mixer. Carefully start adding the flour. When the mixture will not be mixing well, and will look like wood chips, put away the blending mixer and using your hands knead the dough."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Create a roll and cover in foil and freeze for 15 minutes. At this time preheat the oven to 375."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Take the dough out and separate into two. Roll and cut out 3 inch trangles."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Make as many as you can and on centre of each put a small spoon of jam. Roll them into a croissant shape."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Place the croissants onto a greased cookie sheet, and bake for 10-12 minutes or until golden."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Repeat with the rest of the dough."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "When you take them out, put aside and sprinkle with powdered sugar on top."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "This makes about 3 batches of 20 cookies each."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Total count about 60 cookies."
+        }
+      ]
+    }
+  ]
+}

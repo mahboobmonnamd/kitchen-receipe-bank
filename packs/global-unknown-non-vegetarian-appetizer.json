@@ -1,0 +1,1285 @@
+{
+  "id": "global-unknown-non-vegetarian-appetizer",
+  "title": "Global Unknown Non Vegetarian Appetizer",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53559",
+      "external_id": "53559",
+      "name": "Baked brie with sorrel jam",
+      "slug": "baked-brie-with-sorrel-jam",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/fg7d641784666908.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53559. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "dried sorrel",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "brown sugar",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "ground ginger",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla pod",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "orange",
+          "amount": 1.0,
+          "unit": "Zest of 1",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "Boiled",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 8
+        },
+        {
+          "name": "puff pastry",
+          "amount": 1.0,
+          "unit": "Slice",
+          "sort_order": 9
+        },
+        {
+          "name": "brie",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 10
+        },
+        {
+          "name": "sorrel jam",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 11
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Sorrel jam instructions"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Combine sugar, sorrel, lemon zest, water in a medium sized pot."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bring to a boil as petal becomes soft"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Reduce heat, and cook until thickened."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Let it rest before using on brie"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Baked brie instructions"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "You can slice the brie in half to create a sandwich-like effect. Or you can leave the brie wheel intact and just trim the top rind of the wheel."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Add a generous portion of jam to the top of the wheel, or one side of the sandwich"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Roll dough out with a rolling pin on a floured surface"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Trim excess dough. You can also use it to decorate ."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Wrap the pastry up around the sides and over the top of cheese wheel, wrapping completely and pressing the edges of dough together to form a tightly sealed package."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Carefully flip the dough-wrapped cheese over, so that the gathered dough is on the bottom.Place the package, seam side down, on a baking sheet sprayed with non-stick cooking spray."
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "The brie can be prepared up to this point and refrigerated for 2 days before baking."
+        },
+        {
+          "step_number": 14,
+          "title": "Step 14",
+          "instruction": "Be sure to bring the brie to room temperature before baking."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53546",
+      "external_id": "53546",
+      "name": "Black Bean soup",
+      "slug": "black-bean-soup",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/x0mreq1784577446.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53546. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "extra virgin olive oil",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 1
+        },
+        {
+          "name": "red onions",
+          "amount": 1.0,
+          "unit": "medium",
+          "sort_order": 2
+        },
+        {
+          "name": "jalapeno",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 5
+        },
+        {
+          "name": "kosher salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 6
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 7
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "chilli powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "black beans",
+          "amount": 3.0,
+          "unit": "cans",
+          "sort_order": 10
+        },
+        {
+          "name": "chicken stock",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 11
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 12
+        },
+        {
+          "name": "sour cream",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 13
+        },
+        {
+          "name": "avocado",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 14
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 15
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large pot over medium heat, heat oil. Add onion and cook until soft and translucent, about 5 minutes. Add jalape\u00f1os and garlic and cook until fragrant, about 2 minutes. Add tomato paste, stir to coat vegetables, and cook about a minute more. Season with salt, pepper, cumin, and chili powder and stir to coat."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add black beans and broth. Stir soup, add bay leaf, and bring to a boil. Immediately reduce to a simmer and let simmer until slightly reduced and thickened, 15 to 20 minutes. (If a thinner soup is desired, add more broth as needed.)"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Remove bay leaf and let cool slightly. Using an immersion blender or food processor, blend soup to desired consistency."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Serve with a dollop of sour cream, sliced avocado, and cilantro."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53526",
+      "external_id": "53526",
+      "name": "Colombian Style Stuffed Potatoes",
+      "slug": "colombian-style-stuffed-potatoes",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/zdyurx1783801146.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53526. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "For frying",
+          "sort_order": 1
+        },
+        {
+          "name": "potatoes",
+          "amount": 5.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 5
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "scallions",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove peeled crushed",
+          "sort_order": 8
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "sazon goya with azafran",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        },
+        {
+          "name": "ground beef",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 13
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 15
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 16
+        },
+        {
+          "name": "sazon goya with azafran",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 17
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 18
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Peel the potatoes and cut them into chunks, put them in a medium pot and cover with water and \u00bc teaspoon of salt."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bring the potatoes to a boil over medium high heat, then reduce the heat to medium and cook until fork tender about 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Drain the potatoes and mash with a fork or masher and set aside."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Filling:"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "In a large sauce pan, heat 1 tablespoon olive oil over medium heat and add the onion, tomato, scallions, garlic, cumin, azafran, pepper and salt. Cook for 5 minutes or until the onions are translucent, add the beef and cook stirring occasionally about 10 \u2013 15 minutes. Set aside to cool."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "To make the batter:"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "In a medium bowl place all the batter ingredients and whisk until smooth and set aside."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "To Form the Stuffed Potatoes"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Divide the potato mash into 10 equal sized portions, about \u2153 cup each, and form each portion into a ball by rolling between the palms of your hands. Flatten into patties and place 1 \u00bd tablespoons of the filling in the center of each one. Shape the potato mixture with the filling into balls to enclose the filling completely."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Fill a large heavy pot with vegetable oil and heat over medium-high heat to 360\u00b0 F."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Dip the stuffed potato into the batter and carefully place them in the hot oil and fry for about 4 minutes or until golden, turning over halfway through. Remove the potatoes from the oil using a slotted spoon and drain in a plate with paper towels. Transfer to a serving plate and serve with Aj\u00ed."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Notes"
+        },
+        {
+          "step_number": 13,
+          "title": "Step 13",
+          "instruction": "For a vegetarian version:Use the same ingredients in the meat filling except the beef and add 1 cup frozen carrots and peas"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53567",
+      "external_id": "53567",
+      "name": "Dominican Bakes",
+      "slug": "dominican-bakes",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/cbfy1c1784672521.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53567. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "all purpose flour",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Combine dry ingredients and mix (flour, salt, and baking powder)"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add lightly melted butter mix."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Gradually add lukewarm milk."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Gently knead the dough with hands."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "The dough should not be firm but with a sticky consistency."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Separate into small portions in the shapes of balls based on the desired size."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Let the balls rest for 15 \u2013 20 minutes covered with a towel or saran wrap."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Flatten dough using hands, using your thumb to press dough in"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Deep fry in a saucepan (I use a saucepan because the frying pan is too wide, and I'll need to use too much oil to deep fry). Use medium heat."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Turn over on the other side when dough strarts getting brown, then turn over to brown the other side"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Enjoy with your favorite side"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53402",
+      "external_id": "53402",
+      "name": "Mantu Afghan Dumpling",
+      "slug": "mantu-afghan-dumpling",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/oemdp11779556068.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53402. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "plain flour",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 225.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "lamb",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "green chilli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "onions",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "black pepper",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 7
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 8
+        },
+        {
+          "name": "strained yoghurt",
+          "amount": 425.0,
+          "unit": "ml",
+          "sort_order": 9
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1. To prepare the dough, sift the flour with 1tsp of salt into a mixing bowl. Slowly mix in as much of the water is required, until a stiff dough is formed. Knead on a clean work surface for 5-10 minutes, until the dough is elastic and shiny. Cover with a damp cloth and set aside for about an hour."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. Put the chopped lamb, onions, chilli, 1 tsp salt, ground pepper and spices in a bowl and mix thoroughly."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. Divide the dough into 4 small balls, and roll out to a thickness of 1.5mm, cutting into 10cm squares. Into each square, place 1 heaped teaspoon of the lamb mixture."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. Take two opposite corners and bring them to join in the centre by nipping together firmly between your fingers, and then bring together to other two corners in the same manner. Note that the mantu should not be entirely closed, as the steam has to be penetrate and cook the filling!"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. Using fat to grease the shelves of the steamer, place your mantu so that there is a small space between each one. Steam for 30-45 minutes over a medium heat."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6. Meanwhile, make the tomato sauce. Heat the oil in a pan, add tomato puree, and bring to the boil. Stir and simmer on a low heat until the mantu are ready."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "7. Remove the mantu carefully from the steamer and place on a large, warm dish. Spoon the tomato sauce over the top, followed by the strained yoghurt, and sprinkle with chopped coriander to garnish."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53487",
+      "external_id": "53487",
+      "name": "Oyster Mushroom Soup",
+      "slug": "oyster-mushroom-soup",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/0r7y5n1782681336.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53487. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "oyster mushrooms",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "cloves",
+          "sort_order": 7
+        },
+        {
+          "name": "red wine vinegar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "red pepper flakes",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Clean mushrooms \u2013 I usually wash them under cold water, dry them and remove the stems."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cut mushrooms into thin strips."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Melt butter in a small pot. Add the mushrooms and cook for 10 minutes, until the mushrooms release liquid."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Combine the flour and water, whisk to remove any lumps and add to the pot. Add the salt and milk."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cook for 10 more minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "In a small bowl or jar combine the garlic and vinegar."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Serve the soup with 1-2 tablespoons (or more) of the garlic and vinegar mixture and hot red pepper."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53429",
+      "external_id": "53429",
+      "name": "Paracuca (Roasted Peanuts)",
+      "slug": "paracuca-roasted-peanuts",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vgsipt1779917593.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53429. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "unsalted peanuts",
+          "amount": 5.0,
+          "unit": "Cups",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "In a large heavy saucepan, combine the peanuts, sugar and water. Bring to a boil; cook until syrup has evaporated, about 10 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Spread peanuts in a single layer in a greased 15x10x1-in. baking pan; sprinkle with salt."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Bake at 300\u00b0 for 30-35 minutes or until dry and lightly browned. Cool completely. Store in an airtight container."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53484",
+      "external_id": "53484",
+      "name": "Simple heart of palm & tomato salad",
+      "slug": "simple-heart-of-palm-tomato-salad",
+      "description": "Starter from TheMealDB",
+      "category": "appetizer",
+      "cuisine": "unknown",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "snack"
+      ],
+      "taxonomy": {
+        "courses": [
+          "appetizer",
+          "snack"
+        ],
+        "dish_types": [
+          "snack"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "unknown"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/7whfgi1782678933.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53484. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "palm hearts",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "spring onions",
+          "amount": 2.0,
+          "unit": "sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "sherry vinegar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix together the hearts of palm, tomatoes and spring onions. Whisk together the sherry vinegar and olive oil. Drizzle over the salad. Sprinkle with the parsley, toss everything together and serve."
+        }
+      ]
+    }
+  ]
+}

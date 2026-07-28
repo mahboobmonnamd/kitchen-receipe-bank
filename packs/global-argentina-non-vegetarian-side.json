@@ -1,0 +1,123 @@
+{
+  "id": "global-argentina-non-vegetarian-side",
+  "title": "Global Argentina Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53139",
+      "external_id": "53139",
+      "name": "Fain\u00e1",
+      "slug": "fain",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "argentina",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "argentina"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/849jd81763075251.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53139. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chickpea flour",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 600.0,
+          "unit": "ml",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Prepare the Batter: Whisk together chickpea flour, water, salt, and pepper. Let sit for at least 4 hours."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bake: Preheat the oven to 220\u00b0C (430\u00b0F). Pour olive oil into a round baking dish and heat in the oven. Pour in the batter and bake for 25-30 minutes, until golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Serve: Slice and serve hot, optionally with black pepper on top."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pro Tips:"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Let the batter rest for at least 2 hours, or overnight in the refrigerator, to ensure the chickpea flour fully hydrates and the flavors meld."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "For a crispy edge, preheat the baking pan with oil in the oven before adding the batter."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "id": "global-russian-non-vegetarian-main",
+  "title": "Global Russian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:52834",
+      "external_id": "52834",
+      "name": "Beef stroganoff",
+      "slug": "beef-stroganoff",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "russian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying"
+        ],
+        "cuisines": [
+          "russian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/svprys1511176755.jpg"
+      ],
+      "notes": "Source: TheMealDB id 52834. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 1
+        },
+        {
+          "name": "onions",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "mushrooms",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "beef fillet",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "plain flour",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "creme fraiche",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "english mustard",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 9
+        },
+        {
+          "name": "beef stock",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Topping",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the olive oil in a non-stick frying pan then add the sliced onion and cook on a medium heat until completely softened, so around 15 mins, adding a little splash of water if they start to stick at all. Crush in the garlic and cook for a 2-3 mins further, then add the butter. Once the butter is foaming a little, add the mushrooms and cook for around 5 mins until completely softened. Season everything well, then tip onto a plate."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip the flour into a bowl with a big pinch of salt and pepper, then toss the steak in the seasoned flour. Add the steak pieces to the pan, splashing in a little oil if the pan looks particularly dry, and fry for 3-4 mins, until well coloured. Tip the onions and mushrooms back into the pan. Whisk the cr\u00e8me fra\u00eeche, mustard and beef stock together, then pour into the pan. Cook over a medium heat for around 5 mins. Scatter with parsley, then serve with pappardelle or rice."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53079",
+      "external_id": "53079",
+      "name": "Fish Soup (Ukha)",
+      "slug": "fish-soup-ukha",
+      "description": "Soup",
+      "category": "main",
+      "cuisine": "russian",
+      "protein_type": "seafood",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "russian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/7n8su21699013057.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53079. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 3
+        },
+        {
+          "name": "fish stock",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 4
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "potatoes",
+          "amount": 4.0,
+          "unit": "large",
+          "sort_order": 6
+        },
+        {
+          "name": "bay leaf",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "cod",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "salmon",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium pot, heat the olive oil over medium-high heat. Add the onions and cook, stirring occasionally until the onions start to caramelize. Add the carrots and cook until the carrots start to soften, about 4 more minutes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the stock, water, potatoes, bay leaves, and black peppercorns. Season with salt and bring to a boil. Reduce heat, cover and cook for 10 minutes. Add the millet and cook for 15 more minutes until millet and potatoes are cooked."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Gently add the fish cubes. Stir and bring the soup to a simmer. The fish will cook through very fast, so make sure to not overcook them. They are done when the flesh is opaque and flakes easily."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Garnish the soup with chopped fresh dill or parsley before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53083",
+      "external_id": "53083",
+      "name": "Lamb Pilaf (Plov)",
+      "slug": "lamb-pilaf-plov",
+      "description": "Lamb from TheMealDB",
+      "category": "main",
+      "cuisine": "russian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "russian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/kos9av1699014767.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53083. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lamb",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "prunes",
+          "amount": 120.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tbs",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 4
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "lamb",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 600.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "rice",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 9
+        },
+        {
+          "name": "saffron",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Garnish",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place the raisins and prunes into a small bowl and pour over enough water to cover. Add lemon juice and let soak for at least 1 hour. Drain. Roughly chop the prunes."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Meanwhile, heat the butter in a large pan, add the onion, and cook for 5 minutes. Add cubed lamb, ground lamb, and crushed garlic cloves. Fry for 5 minutes, stirring constantly until browned."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pour 2/3 cup (150 milliliters) of stock into the pan. Bring to a boil, then lower the heat, cover, and simmer for 1 hour, or until the lamb is tender."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the remaining stock and bring to a boil. Add rinsed long-grain white rice and a large pinch of saffron. Stir, then cover, and simmer for 15 minutes, or until the rice is tender."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add the drained raisins, drained chopped prunes, and salt and pepper to taste. Heat through for a few minutes, then turn out onto a warmed serving dish and garnish with sprigs of flat-leaf parsley."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,585 @@
+{
+  "id": "global-algerian-non-vegetarian-side",
+  "title": "Global Algerian Non Vegetarian Side",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53284",
+      "external_id": "53284",
+      "name": "Algerian Bouzgene Berber Bread with Roasted Pepper Sauce",
+      "slug": "algerian-bouzgene-berber-bread-with-roasted-pepper-sauce",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "algerian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "frying",
+          "roasting"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/se5vhk1764114880.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53284. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red pepper",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "tomato",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "Cloves Chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "jalapeno",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 6
+        },
+        {
+          "name": "semolina",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 9
+        },
+        {
+          "name": "olive oil",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 10
+        },
+        {
+          "name": "olive oil",
+          "amount": 6.0,
+          "unit": "tablespoons",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Preheat your oven's broiler. Place red bell peppers and tomatoes on a baking sheet, and roast under the broiler for about 8 minutes, turning occasionally. This should blacken the skin and help it peel off more easily. Cool, then scrape the skins off of the tomatoes and peppers, and place them in a large bowl. Remove cores and seeds from the bell peppers."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat 1 tablespoon of olive oil in a skillet over medium heat. Add the jalapenos and garlic, and cook until tender, stirring frequently. Remove from heat, and transfer the garlic and jalapeno to the bowl with the tomatoes and red peppers. Using two sharp steak knives (one in each hand), cut up the tomatoes and peppers to a coarse and soupy consistency. Stir, and set sauce aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Place the semolina in a large bowl, and stir in salt and 4 tablespoons of olive oil. Gradually add water while mixing and squeezing with your hand until the dough holds together without being sticky or dry, and molds easily with the hand. Divide into 6 pieces and form into balls."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "For each round, heat 1 tablespoon of olive oil in a large heavy skillet over medium heat. Roll out dough one round at a time, to no thicker than 1/4 inch. Fry in the hot skillet until dark brown spots appear on the surface, and they are crispy. Remove from the skillet, and wrap in a clean towel while preparing the remaining flat breads."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "To eat the bread and sauce, break off pieces of the bread, and scoop them into the sauce. It will slide off, but just keep reaching in!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53282",
+      "external_id": "53282",
+      "name": "Algerian Carrots",
+      "slug": "algerian-carrots",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "algerian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "simmering",
+          "steaming"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/o2cd4r1764113576.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53282. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "Lbs",
+          "sort_order": 2
+        },
+        {
+          "name": "olive oil",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic",
+          "amount": 3.0,
+          "unit": "Cloves Crushed",
+          "sort_order": 8
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Place a steamer insert into a saucepan, and fill with 1 1/2 cups of water, or just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the sliced carrots, reduce the heat to medium, and cover the pan again. Steam until tender but not mushy, 4 to 6 minutes depending on the thickness of the slices. Reserve 1/2 cup of the cooking liquid."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the olive oil in a skillet over medium heat. Reduce the heat to low and stir in the salt, pepper, cinnamon, cumin, garlic, and thyme. Cook the spices and garlic, stirring frequently, until fragrant, about 10 minutes. Add the 1/2 cup reserved cooking liquid and the bay leaf, cover, and simmer for 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Stir in the carrots, tossing well to coat with the spice mixture, and cook until heated through, about 2 to 3 minutes. Sprinkle with lemon juice and remove the bay leaf before serving."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53290",
+      "external_id": "53290",
+      "name": "Cheese Borek",
+      "slug": "cheese-borek",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "algerian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/oal8x31764119345.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53290. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "beaten",
+          "sort_order": 1
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "bunch",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves minced",
+          "sort_order": 3
+        },
+        {
+          "name": "red pepper",
+          "amount": 3.0,
+          "unit": "teaspoon",
+          "sort_order": 4
+        },
+        {
+          "name": "gouda cheese",
+          "amount": 6.0,
+          "unit": "oz",
+          "sort_order": 5
+        },
+        {
+          "name": "emmentaler cheese",
+          "amount": 6.0,
+          "unit": "oz",
+          "sort_order": 6
+        },
+        {
+          "name": "phyllo dough",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "unsalted butter",
+          "amount": 1.0,
+          "unit": "cups",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "In a medium bowl, whisk together egg, parsley, garlic and crushed red pepper. Mix in Gouda and Emmentaler."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "One sheet at a time, place phyllo dough on a flat surface and brush with about 1 tablespoon butter. Cut lengthwise into 4 strips. Place a rounded teaspoon of the egg mixture at one end of each strip. Fold corner of strip over the filling, forming a triangular fold. Continue folding the length of the strip in triangular folds to form a small stuffed triangle. Repeat with remaining phyllo dough."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Preheat oven to 350 degrees F (175 degrees C). Lightly butter a large baking sheet."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Arrange stuffed phyllo triangles in a single layer on the prepared baking sheet. Bake in the preheated oven 30 minutes, or until lightly browned. Serve warm"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53286",
+      "external_id": "53286",
+      "name": "Khobz el Dar (Algerian Semolina Bread)",
+      "slug": "khobz-el-dar-algerian-semolina-bread",
+      "description": "Side from TheMealDB",
+      "category": "side",
+      "cuisine": "algerian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "side"
+      ],
+      "taxonomy": {
+        "courses": [
+          "side"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "algerian"
+        ]
+      },
+      "texture": "dry",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/5u37fy1764116774.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53286. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "semolina flour",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "semolina flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "sesame seed",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 3
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 4
+        },
+        {
+          "name": "yeast",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 3.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "egg",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "milk",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 10
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 3.0,
+          "unit": "Cups",
+          "sort_order": 11
+        },
+        {
+          "name": "all purpose flour",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 12
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix 1/2 cup plus 2 tablespoons semolina, 2 tablespoons sesame seeds, sugar, yeast, and salt together in a large bowl. Whisk in oil, egg, and egg white. Stir in warm milk slowly until a liquid dough forms."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cover the bowl with a plate or plastic wrap; let stand at room temperature until frothy, about 1 hour."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Stir in 2 3/4 cups flour with a wooden spoon until a sticky dough forms. Cover again and allow to rest for 30 minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Line a baking sheet with parchment paper or a baking mat."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Sprinkle 1 tablespoon flour over the dough and your hands. Mix dough, adding flour as needed, 1 tablespoon at a time, until it pulls away from the sides of the bowl. Shape into a round loaf and place on the prepared baking sheet. Cover loosely with a towel and let rise for 1 hour in a warm place until loaf doubles in volume."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Preheat oven to 400 degrees F (200 degrees C)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Beat egg yolk and water in a bowl with a fork; brush over the entire surface of the loaf. Sprinkle 1 tablespoon sesame seeds on top."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Bake in the preheated oven until loaf is golden brown, about 20 to 25 minutes."
+        }
+      ]
+    }
+  ]
+}

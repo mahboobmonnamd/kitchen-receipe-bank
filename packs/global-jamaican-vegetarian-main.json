@@ -1,0 +1,334 @@
+{
+  "id": "global-jamaican-vegetarian-main",
+  "title": "Global Jamaican Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53352",
+      "external_id": "53352",
+      "name": "Jamaican Instant Pot Rice and Beans",
+      "slug": "jamaican-instant-pot-rice-and-beans",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "jamaican",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/11bvtm1764795135.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53352. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "clove finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "spring onions",
+          "amount": 2.0,
+          "unit": "chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "rice",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 5
+        },
+        {
+          "name": "coconut milk",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "water",
+          "amount": 3.0,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "allspice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "kidney beans",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 11
+        },
+        {
+          "name": "thyme",
+          "amount": 2.0,
+          "unit": "sprigs",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Instructions"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Set Instant Pot to \"Saut\u00e9.\" Once Hot, add olive oil. Then add yellow onion and stir until softened, about 3 minutes. Add garlic and green onions and stir for about 30 more seconds."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Press \u201cCancel\u201d on the Instant Pot. Add rice, coconut milk, water, salt, allspice, and black pepper and stir."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour undrained kidney beans on top of the rice mixture. Do not stir. Lay sprigs of thyme on top. Cover the Instant Pot, ensuring the valve is set to \u201cSealing.\u201d"
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Press \u201cManual\u201d or \u201cPressure Cook\u201d on the Instant Pot and set for High pressure for 6 minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Once the pressure cooking time is done, allow it to natural release for 10 minutes, then quick release any remaining pressure by moving valve to \"Venting\""
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Open lid and remove thyme sprigs. Fluff rice with fork and Enjoy!"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Stove Top Instructions"
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Heat olive oil in a large pot over medium heat. Add yellow onion and stir until softened, about 3 minutes. Add garlic and green onions and stir for about 30 more seconds."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Add rice, undrained kidney beans, coconut milk, water, salt, allspice, and black pepper and stir until combined. Lay thyme on top. Bring mixture to a simmer."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Cover with a lid and reduce heat to low. Allow to cook for 18 minutes over low heat, then remove from heat. Leave the lid on for an additional 5 minutes."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Open the lid and remove the thyme. Fluff rice with fork. Enjoy."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53357",
+      "external_id": "53357",
+      "name": "Jamaican Rice and Peas",
+      "slug": "jamaican-rice-and-peas",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "jamaican",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "jamaican"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/pkyvrn1764878267.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53357. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "rice",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 1
+        },
+        {
+          "name": "coconut milk",
+          "amount": 380.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "kidney beans",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "kosher salt",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "ground allspice",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "black pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "spring onions",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "thyme",
+          "amount": 2.0,
+          "unit": "sprigs",
+          "sort_order": 9
+        },
+        {
+          "name": "scotch bonnet",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Equipment"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Dutch oven"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add rice, coconut milk, kidney beans, water, kosher salt, allspice, and black pepper to a large pot and stir until combined. Lay green onions, thyme and Scotch bonnet pepper on top. Bring mixture to a boil."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Once boiling, reduce heat to low and cover with a lid. Allow to cook covered for 18 minutes over low heat, then remove from heat. Leave the lid on for an additional 5 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Open the lid and remove the green onion, Scotch bonnet pepper, and thyme. Fluff the rice and peas with a fork. Serve and enjoy."
+        }
+      ]
+    }
+  ]
+}

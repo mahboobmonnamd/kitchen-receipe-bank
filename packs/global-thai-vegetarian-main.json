@@ -1,0 +1,303 @@
+{
+  "id": "global-thai-vegetarian-main",
+  "title": "Global Thai Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53208",
+      "external_id": "53208",
+      "name": "Thai coconut & veg broth",
+      "slug": "thai-coconut-veg-broth",
+      "description": "Vegetarian from TheMealDB",
+      "category": "main",
+      "cuisine": "thai",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "thai"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/4k8nzy1763583384.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53208. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "thai red curry paste",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 1
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 1.0,
+          "unit": "L",
+          "sort_order": 3
+        },
+        {
+          "name": "coconut milk",
+          "amount": 400.0,
+          "unit": "ml",
+          "sort_order": 4
+        },
+        {
+          "name": "brown sugar",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "egg noodles",
+          "amount": 175.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "carrots",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "chinese leaf",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "bean sprouts",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "cherry tomatoes",
+          "amount": 6.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "lime",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 11
+        },
+        {
+          "name": "spring onions",
+          "amount": 3.0,
+          "unit": "sliced thinly",
+          "sort_order": 12
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Handful",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Place the curry paste in a large saucepan or wok with the oil. Fry for 1 min until fragrant. Tip in the vegetable stock, coconut milk and brown sugar. Simmer for 3 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add the noodles, carrots and Chinese leaf and simmer for 4-6 mins, until all are tender. Mix in beansprouts and tomatoes. Add lime juice to taste and some extra seasoning, if you like. Spoon into bowls and sprinkle with spring onions and coriander."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53210",
+      "external_id": "53210",
+      "name": "Thai pumpkin soup",
+      "slug": "thai-pumpkin-soup",
+      "description": "Soup, Haloween",
+      "category": "main",
+      "cuisine": "thai",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "curry"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "roasting"
+        ],
+        "cuisines": [
+          "thai"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1brbso1763585098.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53210. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "pumpkin",
+          "amount": 1.5,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 4.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "sliced",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "tbsp grated",
+          "sort_order": 4
+        },
+        {
+          "name": "lemongrass",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "thai red curry paste",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 6
+        },
+        {
+          "name": "coconut milk",
+          "amount": 400.0,
+          "unit": "ml",
+          "sort_order": 7
+        },
+        {
+          "name": "vegetable stock",
+          "amount": 800.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "lime juice",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 9
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 10
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "To serve",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat oven to 200C/180C fan/gas 6. Toss the pumpkin or squash in a roasting tin with half the oil and seasoning, then roast for 30 mins until golden and tender."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, put the remaining oil in a pan with the onion, ginger and lemongrass. Gently cook for 8-10 mins until softened. Stir in the curry paste for 1 min, followed by the roasted pumpkin, all but 3 tbsp of the coconut milk and the stock. Bring to a simmer, cook for 5 mins, then fish out the lemongrass. Cool for a few mins, then whizz until smooth with a hand blender, or in a large blender in batches. Return to the pan to heat through, seasoning with salt, pepper, lime juice and sugar, if it needs it. Serve drizzled with the remaining coconut milk and scattered with chilli, if you like."
+        }
+      ]
+    }
+  ]
+}

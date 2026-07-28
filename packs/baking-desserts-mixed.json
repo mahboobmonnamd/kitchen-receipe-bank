@@ -1,7 +1,7 @@
 {
   "id": "baking-desserts-mixed",
   "title": "Baking & Desserts",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "recipes": [
     {
       "id": "pack:baking-desserts-mixed:simple-vanilla-cake",
@@ -16,15 +16,33 @@
         "is_vegan": false,
         "is_halal": true,
         "is_gluten_free": false,
-        "contains": ["egg", "dairy", "gluten"]
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
       },
-      "health_flags": { "high_sugar": true, "contains": [] },
-      "dish_types": ["cake"],
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "dish_types": [
+        "cake"
+      ],
       "taxonomy": {
-        "dish_types": ["cake"],
-        "courses": ["dessert", "snack"],
-        "techniques": ["baking"],
-        "cuisines": ["european"]
+        "dish_types": [
+          "cake"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "european"
+        ]
       },
       "texture": "dry",
       "servings_base": 8,
@@ -35,13 +53,48 @@
       "photos": [],
       "notes": "Canonical multi-axis example: cake → dessert + snack + baking.",
       "ingredients": [
-        { "name": "all-purpose flour", "amount": 250, "unit": "g", "sort_order": 1 },
-        { "name": "sugar", "amount": 200, "unit": "g", "sort_order": 2 },
-        { "name": "butter", "amount": 150, "unit": "g", "sort_order": 3 },
-        { "name": "eggs", "amount": 3, "unit": "piece", "sort_order": 4 },
-        { "name": "milk", "amount": 120, "unit": "ml", "sort_order": 5 },
-        { "name": "baking powder", "amount": 2, "unit": "tsp", "sort_order": 6 },
-        { "name": "vanilla extract", "amount": 1, "unit": "tsp", "sort_order": 7 }
+        {
+          "name": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "butter",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "eggs",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 120,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "baking powder",
+          "amount": 2,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        }
       ],
       "steps": [
         {
@@ -67,6 +120,1304 @@
           "tip": "Serves as dessert or afternoon snack — same recipe, two course tags."
         }
       ]
+    },
+    {
+      "id": "pack:baking-desserts-mixed:chocolate-chip-cookies",
+      "name": "Chocolate Chip Cookies",
+      "slug": "chocolate-chip-cookies",
+      "description": "Classic drop cookies with crisp edges and soft centers.",
+      "category": "dessert",
+      "cuisine": "american",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 24,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 12,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "cookie"
+      ],
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": 280,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 170,
+          "unit": "g, softened",
+          "sort_order": 2
+        },
+        {
+          "name": "brown sugar",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "white sugar",
+          "amount": 50,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "eggs",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 5
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "baking soda",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "chocolate chips",
+          "amount": 200,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 180°C. Line baking sheets."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cream butter and sugars; beat in eggs and vanilla."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Mix in flour, baking soda, and salt; fold chocolate chips."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Scoop dough balls; bake 10–12 minutes until edges are golden.",
+          "timer_seconds": 660
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cool on the tray 5 minutes, then transfer to a rack."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "cookie"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "american",
+          "european"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:banana-bread",
+      "name": "Banana Bread",
+      "slug": "banana-bread",
+      "description": "One-bowl moist banana loaf for breakfast or snack.",
+      "category": "dessert",
+      "cuisine": "american",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 10,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 55,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "bread",
+        "cake"
+      ],
+      "ingredients": [
+        {
+          "name": "ripe bananas",
+          "amount": 3,
+          "unit": "mashed",
+          "sort_order": 1
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "butter",
+          "amount": 80,
+          "unit": "g, melted",
+          "sort_order": 4
+        },
+        {
+          "name": "eggs",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 5
+        },
+        {
+          "name": "baking soda",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "walnuts",
+          "amount": 50,
+          "unit": "g, optional",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 175°C. Grease a loaf tin."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix mashed banana, melted butter, sugar, eggs, and vanilla."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Fold in flour, baking soda, salt, and walnuts."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake 50–55 minutes until a skewer comes out clean.",
+          "timer_seconds": 3300
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cool 15 minutes in tin, then slice."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "bread",
+          "cake"
+        ],
+        "courses": [
+          "dessert",
+          "snack",
+          "breakfast"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "american",
+          "european"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:rice-kheer",
+      "name": "Rice Kheer",
+      "slug": "rice-kheer",
+      "description": "Creamy Indian rice pudding with cardamom and nuts.",
+      "category": "dessert",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy",
+          "nuts"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": [
+          "dairy",
+          "nuts"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 6,
+      "prep_time_minutes": 10,
+      "cook_time_minutes": 40,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "pudding"
+      ],
+      "ingredients": [
+        {
+          "name": "basmati rice",
+          "amount": 0.3,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "full-fat milk",
+          "amount": 1,
+          "unit": "L",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "cardamom",
+          "amount": 4,
+          "unit": "pods, crushed",
+          "sort_order": 4
+        },
+        {
+          "name": "saffron",
+          "amount": 1,
+          "unit": "pinch, optional",
+          "sort_order": 5
+        },
+        {
+          "name": "cashews",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "raisins",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "ghee",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Rinse rice; soak 15 minutes and drain."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Bring milk to a boil; add rice and simmer, stirring often, until rice is soft and milk thickens."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Add sugar, cardamom, and saffron; cook 5 more minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Fry cashews and raisins in ghee; fold in. Serve warm or chilled."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "pudding"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:gulab-jamun-home",
+      "name": "Gulab Jamun (Home-Style)",
+      "slug": "gulab-jamun-home-style",
+      "description": "Milk-powder dumplings soaked in cardamom sugar syrup.",
+      "category": "dessert",
+      "cuisine": "indian",
+      "protein_type": "dairy",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": [
+          "dairy",
+          "gluten"
+        ]
+      },
+      "texture": "moist",
+      "servings_base": 16,
+      "prep_time_minutes": 25,
+      "cook_time_minutes": 30,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "confection",
+        "pudding"
+      ],
+      "ingredients": [
+        {
+          "name": "milk powder",
+          "amount": 1,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": 3,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "baking powder",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "ghee or butter",
+          "amount": 2,
+          "unit": "tbsp, melted",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 3,
+          "unit": "tbsp, as needed",
+          "sort_order": 5
+        },
+        {
+          "name": "oil or ghee",
+          "amount": 2,
+          "unit": "cup, for frying",
+          "sort_order": 6
+        },
+        {
+          "name": "sugar",
+          "amount": 1.5,
+          "unit": "cup",
+          "sort_order": 7
+        },
+        {
+          "name": "water",
+          "amount": 1.5,
+          "unit": "cup",
+          "sort_order": 8
+        },
+        {
+          "name": "cardamom",
+          "amount": 4,
+          "unit": "pods",
+          "sort_order": 9
+        },
+        {
+          "name": "rose water",
+          "amount": 1,
+          "unit": "tsp, optional",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Simmer sugar, water, and cardamom to a light syrup; keep warm. Add rose water off heat."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix milk powder, flour, baking powder, and melted ghee; knead gently with milk to a soft dough. Rest 5 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Shape smooth balls with no cracks."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Fry on medium-low until deep golden; drain."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Soak hot jamuns in warm syrup at least 30 minutes before serving."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "confection",
+          "pudding"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "deep_fry",
+          "simmering",
+          "mixing"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:fudgy-brownies",
+      "name": "Fudgy Brownies",
+      "slug": "fudgy-brownies",
+      "description": "Dense cocoa brownies with a shiny crackly top.",
+      "category": "dessert",
+      "cuisine": "american",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "texture": "moist",
+      "servings_base": 12,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 28,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "cake",
+        "cookie"
+      ],
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "eggs",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 3
+        },
+        {
+          "name": "cocoa powder",
+          "amount": 60,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": 90,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "dark chocolate chips",
+          "amount": 80,
+          "unit": "g, optional",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 175°C. Line an 20 cm square tin."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Melt butter; whisk in sugar, then eggs and vanilla until glossy."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Sift in cocoa, flour, and salt; fold gently. Add chips if using."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake 25–28 minutes until just set in the center.",
+          "timer_seconds": 1620
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cool completely before cutting."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "cake",
+          "cookie"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "american",
+          "european"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:blueberry-muffins",
+      "name": "Blueberry Muffins",
+      "slug": "blueberry-muffins",
+      "description": "Soft bakery-style muffins studded with blueberries.",
+      "category": "dessert",
+      "cuisine": "european",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 12,
+      "prep_time_minutes": 15,
+      "cook_time_minutes": 22,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "muffin"
+      ],
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 120,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "baking powder",
+          "amount": 2,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "milk",
+          "amount": 180,
+          "unit": "ml",
+          "sort_order": 5
+        },
+        {
+          "name": "oil or melted butter",
+          "amount": 80,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "eggs",
+          "amount": 2,
+          "unit": "piece",
+          "sort_order": 7
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "blueberries",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 190°C. Line a muffin tin."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Whisk dry ingredients. In another bowl whisk milk, oil, eggs, and vanilla."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Combine wet and dry; fold blueberries gently—do not overmix."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Fill cups 3/4 full; bake 20–22 minutes until golden.",
+          "timer_seconds": 1260
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "muffin"
+        ],
+        "courses": [
+          "breakfast",
+          "snack",
+          "dessert"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "european",
+          "american"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:sooji-halwa",
+      "name": "Sooji Halwa",
+      "slug": "sooji-halwa",
+      "description": "Quick roasted semolina sweet with ghee and cardamom.",
+      "category": "dessert",
+      "cuisine": "indian",
+      "protein_type": "none",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "dairy",
+          "gluten",
+          "nuts"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": [
+          "dairy",
+          "gluten",
+          "nuts"
+        ]
+      },
+      "texture": "moist",
+      "servings_base": 4,
+      "prep_time_minutes": 5,
+      "cook_time_minutes": 20,
+      "difficulty": "easy",
+      "freezer_suitable": false,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "pudding",
+        "confection"
+      ],
+      "ingredients": [
+        {
+          "name": "semolina (sooji)",
+          "amount": 1,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "ghee",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 0.75,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "water",
+          "amount": 2.5,
+          "unit": "cup",
+          "sort_order": 4
+        },
+        {
+          "name": "cardamom powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cashews",
+          "amount": 2,
+          "unit": "tbsp",
+          "sort_order": 6
+        },
+        {
+          "name": "raisins",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 7
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat ghee; roast cashews and raisins; remove. Roast sooji in remaining ghee until aromatic and lightly golden."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Boil water with sugar separately."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Carefully pour hot syrup into sooji while stirring to avoid lumps."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Cook until thick and ghee shows at edges. Fold nuts and cardamom."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "pudding",
+          "confection"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "sauteing",
+          "simmering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:lemon-drizzle-cake",
+      "name": "Lemon Drizzle Cake",
+      "slug": "lemon-drizzle-cake",
+      "description": "Light lemon loaf finished with a sharp sugar drizzle.",
+      "category": "dessert",
+      "cuisine": "european",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "texture": "moist",
+      "servings_base": 10,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 45,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "cake"
+      ],
+      "ingredients": [
+        {
+          "name": "all-purpose flour",
+          "amount": 225,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "butter",
+          "amount": 175,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "sugar",
+          "amount": 175,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "eggs",
+          "amount": 3,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "baking powder",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "lemon zest",
+          "amount": 2,
+          "unit": "lemons",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon juice",
+          "amount": 4,
+          "unit": "tbsp",
+          "sort_order": 7
+        },
+        {
+          "name": "icing sugar",
+          "amount": 80,
+          "unit": "g, for drizzle",
+          "sort_order": 8
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 180°C. Line a loaf tin."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cream butter and sugar; beat in eggs. Fold flour, baking powder, and zest."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bake 40–45 minutes until a skewer comes out clean.",
+          "timer_seconds": 2700
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Mix icing sugar with lemon juice. Poke warm cake and pour drizzle over. Cool before slicing."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "cake"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "european"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:apple-crumble",
+      "name": "Apple Crumble",
+      "slug": "apple-crumble",
+      "description": "Baked spiced apples under a buttery oat crumble.",
+      "category": "dessert",
+      "cuisine": "european",
+      "protein_type": "none",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": [
+          "dairy",
+          "gluten"
+        ]
+      },
+      "texture": "moist",
+      "servings_base": 6,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 35,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "pie",
+        "pudding"
+      ],
+      "ingredients": [
+        {
+          "name": "apples",
+          "amount": 6,
+          "unit": "peeled, sliced",
+          "sort_order": 1
+        },
+        {
+          "name": "sugar",
+          "amount": 80,
+          "unit": "g, for fruit",
+          "sort_order": 2
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "lemon juice",
+          "amount": 1,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": 150,
+          "unit": "g",
+          "sort_order": 5
+        },
+        {
+          "name": "rolled oats",
+          "amount": 50,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "butter",
+          "amount": 100,
+          "unit": "g, cold cubed",
+          "sort_order": 7
+        },
+        {
+          "name": "brown sugar",
+          "amount": 80,
+          "unit": "g, for topping",
+          "sort_order": 8
+        },
+        {
+          "name": "pinch of salt",
+          "amount": 1,
+          "unit": "pinch",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat oven to 190°C. Toss apples with sugar, cinnamon, and lemon; place in a baking dish."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Rub butter into flour, oats, brown sugar, and salt until crumbly; scatter over fruit."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Bake 30–35 minutes until topping is golden and fruit bubbles.",
+          "timer_seconds": 2100
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Rest 10 minutes; serve with cream or ice cream."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "pie",
+          "pudding"
+        ],
+        "courses": [
+          "dessert"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "european"
+        ]
+      }
+    },
+    {
+      "id": "pack:baking-desserts-mixed:butter-cookies",
+      "name": "Simple Butter Cookies",
+      "slug": "simple-butter-cookies",
+      "description": "Short, crumbly tea cookies with vanilla.",
+      "category": "dessert",
+      "cuisine": "european",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": false,
+        "contains": [
+          "egg",
+          "dairy",
+          "gluten"
+        ]
+      },
+      "health_flags": {
+        "high_sugar": true,
+        "contains": []
+      },
+      "texture": "dry",
+      "servings_base": 30,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 14,
+      "difficulty": "easy",
+      "freezer_suitable": true,
+      "photos": [],
+      "notes": "Original KitchenAI curated home recipe.",
+      "dish_types": [
+        "cookie"
+      ],
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 200,
+          "unit": "g, softened",
+          "sort_order": 1
+        },
+        {
+          "name": "icing sugar",
+          "amount": 80,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "all-purpose flour",
+          "amount": 250,
+          "unit": "g",
+          "sort_order": 3
+        },
+        {
+          "name": "egg yolk",
+          "amount": 1,
+          "unit": "piece",
+          "sort_order": 4
+        },
+        {
+          "name": "vanilla extract",
+          "amount": 1,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "salt",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Cream butter and icing sugar; mix in yolk and vanilla."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add flour and salt; form a soft dough. Chill 20 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Pipe or shape small cookies on a lined tray."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Bake at 170°C for 12–14 minutes until pale gold at the edges.",
+          "timer_seconds": 780
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Cool completely; store airtight."
+        }
+      ],
+      "taxonomy": {
+        "dish_types": [
+          "cookie"
+        ],
+        "courses": [
+          "dessert",
+          "snack"
+        ],
+        "techniques": [
+          "baking"
+        ],
+        "cuisines": [
+          "european"
+        ]
+      }
     }
   ]
 }

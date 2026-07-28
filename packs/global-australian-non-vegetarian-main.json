@@ -1,0 +1,1097 @@
+{
+  "id": "global-australian-non-vegetarian-main",
+  "title": "Global Australian Non Vegetarian Main",
+  "version": "1.0.0",
+  "source": "themealdb",
+  "license": "TheMealDB \u2014 free at point of access (commercial OK)",
+  "recipes": [
+    {
+      "id": "pack:themealdb:53099",
+      "external_id": "53099",
+      "name": "Aussie Burgers",
+      "slug": "aussie-burgers",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "grilling"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/44bzep1761848278.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53099. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "lean minced steak",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "cooked beetroot",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "naan bread",
+          "amount": 2.0,
+          "unit": "small",
+          "sort_order": 3
+        },
+        {
+          "name": "rocket",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 4
+        },
+        {
+          "name": "soured cream and chive dip",
+          "amount": 4.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Make the burgers: Tip the meat into a bowl and sprinkle over 1 tsp salt and a good grinding of black pepper.Work with wet hands to mix in the seasoning. Divide into four with your hands and shape into burgers. (It can be frozen at this stage.)"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Sort out your ingredients: Slice the beetroot and split the naan breads."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Toast the naans: Heat a griddle pan or barbecue. Griddle the naans on both sides until lightly toasted and set aside. Add the burgers to the grill or barbecue and cook for 2-3 minutes, then turn and cook the other side for a further 2-3 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "step 4"
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Assemble the dish: Set half a toasted naan on each serving plate and put a pile of rocket on each. Top with a burger, then a few slices of beetroot and a dollop of soured cream. Sprinkle with salt and freshly ground black pepper and serve immediately with a big green salad and chips. A glass of red wine wouldn\u2019t go amiss, either."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53103",
+      "external_id": "53103",
+      "name": "Barramundi with Moroccan spices",
+      "slug": "barramundi-with-moroccan-spices",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "grilling",
+          "steaming",
+          "roasting"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/4o4wh11761848573.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53103. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "barramundi",
+          "amount": 2.0,
+          "unit": "x 400g",
+          "sort_order": 1
+        },
+        {
+          "name": "ground cumin",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 2
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "chili powder",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic clove",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice of 1",
+          "sort_order": 7
+        },
+        {
+          "name": "olive oil",
+          "amount": 5.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip all the dressing ingredients into a food processor with a pinch of salt and blitz to a dressing. Slash the fish three times on each side, coat with half of the dressing, then set aside to marinate for about 30 mins."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat oven to 220C/fan 200C/gas 7. Place the fish on a roasting tray, then cook in the oven for 20 mins until the flesh is firm and the eyes have turned white. Serve the fish with the rest of the dressing and steamed couscous or rice."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "KNOW HOW: HOW TO COOK IT: Cooking barramundi on the bone, as we have done here, has its advantages \u2013 it will stay more moist during cooking, and some would say that the flavour is enhanced, too. If you want to take out the bones they are easy to locate and less likely to be lodged in the fillet if the fish is cooked whole. Fillets can be simply pan-fried or grilled. If you like trout, you will really enjoy the flavour of barramundi, which lends itself to similar ingredients and cooking methods \u2013 citrus flavours are particularly good, as are garlic and wild mushrooms. Simply roasting the fish with some fresh herbs, olive oil and seasoning is delicious, and in the summer months you could barbecue it, too. One thing that you mustn\u2019t miss are the cheeks or \u2018pearls\u2019 of the fish, these are simply lovely, moist and really sweet \u2013 well worth leaving the head on for!"
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53109",
+      "external_id": "53109",
+      "name": "Mini chilli beef pies",
+      "slug": "mini-chilli-beef-pies",
+      "description": "Beef from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "frying",
+          "simmering"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/6sarfo1762340107.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53109. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "ready rolled shortcrust pastry",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 3
+        },
+        {
+          "name": "hot chilli powder",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "ground cumin",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "minced beef",
+          "amount": 250.0,
+          "unit": "g",
+          "sort_order": 6
+        },
+        {
+          "name": "tomato puree",
+          "amount": 85.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "beef stock",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "ground cinnamon",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 9
+        },
+        {
+          "name": "kidney beans",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "potatoes",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 11
+        },
+        {
+          "name": "sour cream",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 12
+        },
+        {
+          "name": "chopped chive",
+          "amount": 2.0,
+          "unit": "tablespoons",
+          "sort_order": 13
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To make chilli, heat oil in a pan and fry onion for 5 mins until soft. Add spices; fry for 1 min. Stir in beef and cook for a few mins. Add tomato pur\u00e9e, stock and cinnamon. Give it a stir, bring to the boil, then simmer for 15-20 mins until very little liquid is left. Add beans 5 mins before the end of cooking. Check seasoning and cool."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat oven to 200C/fan 180C/gas 6. Using a 7cm pastry cutter, stamp out 12 circles from the pastry. Use to line a 12-hole mini muffin tray, prick the base of the pastry with a fork, and bake for 10 mins. Remove from oven and cool on a wire tray. Repeat with remaining pastry."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Meanwhile, cook the potato in boiling water until tender. Drain, mash with soured cream and seasoning, then stir through chives. Spoon 1-2 tsp of chilli mix into the pastry cases and top with a tsp of mash. Ruffle mash with a fork; return to the oven for 15 mins or until golden."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53108",
+      "external_id": "53108",
+      "name": "Quick salt & pepper squid",
+      "slug": "quick-salt-pepper-squid",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/cp74zo1762341241.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53108. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "squid",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 2
+        },
+        {
+          "name": "chinese five spice powder",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 3
+        },
+        {
+          "name": "sesame seed oil",
+          "amount": 1.0,
+          "unit": "Dash",
+          "sort_order": 4
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Sprigs of fresh",
+          "sort_order": 5
+        },
+        {
+          "name": "sweet chilli sauce",
+          "amount": 1.0,
+          "unit": "Drizzle",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Ask the fishmonger to clean the squid; little ones often come ready-cleaned. Using kitchen scissors, cut open the body and open out. Wash well, then pat dry. If you have a large squid, cut the body into four portions, roughly square. Small squid can just be opened up."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Using the tip of a very sharp knife, score the top in a neat criss-cross. Brush with oil and set aside while you heat the barbecue or griddle until ready to cook."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Mix together 2 tsp sea salt, Chinese five-spice and 1 tsp freshly ground black pepper. Sprinkle on both sides of the squid just before cooking, according to taste. You may not need it all. Heat the griddle pan to hot and cook about 1 min each side, until it starts to curl. Remove with tongs to a serving plate and drizzle with a little sesame oil. To serve, garnish with coriander leaves and serve with small bowls of sweet chilli sauce to dip into."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53105",
+      "external_id": "53105",
+      "name": "Spiced smoky barbecued chicken",
+      "slug": "spiced-smoky-barbecued-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "mixing"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/a08uqk1761848682.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53105. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves",
+          "sort_order": 1
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice/zest of one",
+          "sort_order": 2
+        },
+        {
+          "name": "curry powder",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 3
+        },
+        {
+          "name": "chilli flakes",
+          "amount": 1.0,
+          "unit": "Pinch",
+          "sort_order": 4
+        },
+        {
+          "name": "olive oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken thighs",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "rosemary",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 7
+        },
+        {
+          "name": "rosemary",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 8
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 9
+        },
+        {
+          "name": "thyme",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 10
+        },
+        {
+          "name": "bay leaves",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Make the marinade. Smash the garlic with a little salt using a pestle and mortar. Add the lemon zest and juice, the spice mix, chilli, oil and a good grinding of black pepper. Mix to a paste. This can be done in a mini food processor."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Toss the chicken in the marinade and set aside while you light the barbecue. When the barbecue\u2019s hot, lay the bunches of herbs on the grid and put the chicken, skin side up, on top. Close the lid, if your barbecue has one, and cook the chicken on the smouldering herbs for about 10 minutes until the meat starts to colour. Turn the chicken and continue to cook for a further 20-30 minutes, turning as necessary, until it is slightly charred from the burnt herbs and cooked through to the bone."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53102",
+      "external_id": "53102",
+      "name": "Squid, chickpea & chorizo salad",
+      "slug": "squid-chickpea-chorizo-salad",
+      "description": "Seafood from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "seafood"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "seafood"
+        ],
+        "techniques": [
+          "frying",
+          "grilling"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wsu0rc1761848482.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53102. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "red pepper",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "can of chickpeas",
+          "amount": 2.0,
+          "unit": "g Cans",
+          "sort_order": 2
+        },
+        {
+          "name": "parsley",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 3
+        },
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic clove",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "olive oil",
+          "amount": 100.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "squid",
+          "amount": 600.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "chorizo",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 8
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "Juice/zest of one",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook the peppers whole under a grill, on a barbecue or griddle, until completely charred. Place the peppers in a bowl, cover with a plate until cool enough to handle, then peel, deseed and finely slice. In a large bowl mix the peppers and any juices with the chickpeas, parsley, chilli and garlic. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Heat a large frying pan until smoking. Working quickly and carefully, add a splash of oil to the pan, then the squid. Stir-fry for about 30 secs. Scatter the chorizo over the squid, continue to cook for 30 secs more, then tip into the bowl with the peppers. Season everything with salt and pepper, then dress with the remaining oil, lemon juice and lemon zest. Mix together, pile onto a platter and let everyone help themselves."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53110",
+      "external_id": "53110",
+      "name": "Sticky Chicken",
+      "slug": "sticky-chicken",
+      "description": "Chicken from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/cj56fs1762340001.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53110. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "chicken drumsticks",
+          "amount": 8.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "soy sauce",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 2
+        },
+        {
+          "name": "honey",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 3
+        },
+        {
+          "name": "olive oil",
+          "amount": 1.0,
+          "unit": "tblsp",
+          "sort_order": 4
+        },
+        {
+          "name": "tomato puree",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 5
+        },
+        {
+          "name": "dijon mustard",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 6
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Make 3 slashes on each of the drumsticks. Mix together the soy, honey, oil, tomato pur\u00e9e and mustard. Pour this mixture over the chicken and coat thoroughly. Leave to marinate for 30 mins at room temperature or overnight in the fridge. Heat oven to 200C/fan 180C/gas 6."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Tip the chicken into a shallow roasting tray and cook for 35 mins, turning occasionally, until the chicken is tender and glistening with the marinade."
+        }
+      ]
+    },
+    {
+      "id": "pack:themealdb:53106",
+      "external_id": "53106",
+      "name": "Warm roast asparagus salad",
+      "slug": "warm-roast-asparagus-salad",
+      "description": "Pork from TheMealDB",
+      "category": "main",
+      "cuisine": "australian",
+      "protein_type": "pork",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": false,
+        "is_gluten_free": true,
+        "is_jain": false,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "dish_types": [
+        "meat"
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "baking",
+          "simmering"
+        ],
+        "cuisines": [
+          "australian"
+        ]
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": true,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/ktsws11761998344.jpg"
+      ],
+      "notes": "Source: TheMealDB id 53106. Free for commercial use. https://www.themealdb.com/",
+      "ingredients": [
+        {
+          "name": "asparagus",
+          "amount": 500.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "red wine vinegar",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "tomato",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 4
+        },
+        {
+          "name": "streaky bacon",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "clear honey",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "jersey royal potatoes",
+          "amount": 16.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "extra virgin olive oil",
+          "amount": 2.0,
+          "unit": "tblsp",
+          "sort_order": 8
+        },
+        {
+          "name": "dijon mustard",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 9
+        },
+        {
+          "name": "rocket",
+          "amount": 100.0,
+          "unit": "g",
+          "sort_order": 10
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "step 1"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Preheat the oven to 200C/Gas 6/fan 180C. Snap off the woody ends of the asparagus and discard. Arrange the asparagus in a single layer in a baking tray with sides. Cut the tomatoes in half widthways, nestle them in with the asparagus, season with sea salt and pepper and drizzle with olive oil. Roll each bacon rasher into a tight roll (if large, first cut in half crosswise), and arrange in the tray. Drizzle the bacon rolls with the honey and bake for 20 minutes until the tomatoes are soft and the bacon is crisp."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "step 2"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "In the meantime, boil the potatoes until tender. Whisk the vinegar, olive oil, mustard, some sea salt and pepper in a large bowl until blended. Toss the rocket or spinach leaves in half of the dressing, and arrange on a large serving platter."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "step 3"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Drain the potatoes and cut in half. Gently toss them in the rest of the dressing, and arrange on the platter with the asparagus. Tuck in the tomatoes and bacon."
+        }
+      ]
+    }
+  ]
+}
