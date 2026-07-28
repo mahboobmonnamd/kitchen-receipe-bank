@@ -1,0 +1,1579 @@
+{
+  "id": "indian-non-vegetarian",
+  "title": "Indian Non-Vegetarian",
+  "version": "1.0.0",
+  "recipes": [
+    {
+      "id": "corpus-tmdb-53359",
+      "external_id": "53359",
+      "name": "Beef Mandi",
+      "slug": "beef-mandi",
+      "description": "Indian recipe from TheMealDB",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "beef",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1nalo51765188375.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 53359). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "basmati rice",
+          "amount": 1.0,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "beef stock",
+          "amount": 5.0,
+          "unit": "Cups",
+          "sort_order": 2
+        },
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "medium",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 5.0,
+          "unit": "chopped cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "green chilli",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "tomato",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 2.0,
+          "unit": "Tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "turmeric powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "cardamom",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "cloves",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1. Wash the beef and cut into large pieces. Season lightly with salt and turmeric."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. Heat ghee/oil in a large pot. Add sliced onions and saut\u00e9 until light golden."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. Add garlic, green chilies, and tomato; cook until softened."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. Add the mandi spice mix: coriander, cumin, black pepper, cinnamon, cardamom, cloves, and bay leaves."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. Add beef pieces and stir on medium heat until the meat is well coated with spices."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6. Pour in water or beef stock. Cover and simmer until beef is tender (about 1.5\u20132 hours depending on cut)."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "7. Remove beef carefully and set aside. Strain and measure the broth."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "8. Add washed, soaked basmati rice to the broth (usually 1 cup rice = 1.5\u20132 cups liquid). Adjust seasoning and bring to a boil."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "9. Lower heat, cover, and cook the rice until fluffy."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "10. Place the beef pieces over the rice and steam on low heat for 10 minutes so flavors combine."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "11. Optional: For smoky flavor, place a small hot charcoal on foil in the pot, add 1 tsp butter/oil, immediately cover for 5 minutes. Remove coal before serving."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "12. Fluff rice and serve beef mandi with salad or chutney."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52795",
+      "external_id": "52795",
+      "name": "Chicken Handi",
+      "slug": "chicken-handi",
+      "description": "Indian recipe from TheMealDB",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wyxwsp1486979827.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52795). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 1.2,
+          "unit": "kg",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 5.0,
+          "unit": "thinly sliced",
+          "sort_order": 2
+        },
+        {
+          "name": "tomatoes",
+          "amount": 2.0,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 8.0,
+          "unit": "cloves chopped",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger paste",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 0.25,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "coriander seeds",
+          "amount": 3.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "turmeric powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "chilli powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "green chilli",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 11
+        },
+        {
+          "name": "yogurt",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "cream",
+          "amount": 0.75,
+          "unit": "cup",
+          "sort_order": 13
+        },
+        {
+          "name": "fenugreek",
+          "amount": 3.0,
+          "unit": "tsp Dried",
+          "sort_order": 14
+        },
+        {
+          "name": "garam masala",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 15
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "To taste",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Take a large pot or wok, big enough to cook all the chicken, and heat the oil in it. Once the oil is hot, add sliced onion and fry them until deep golden brown. Then take them out on a plate and set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "To the same pot, add the chopped garlic and saut\u00e9 for a minute. Then add the chopped tomatoes and cook until tomatoes turn soft. This would take about 5 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Then return the fried onion to the pot and stir. Add ginger paste and saut\u00e9 well."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Now add the cumin seeds, half of the coriander seeds and chopped green chillies. Give them a quick stir."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Next goes in the spices \u2013 turmeric powder and red chilli powder. Saut\u00e9 the spices well for couple of minutes."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Add the chicken pieces to the wok, season it with salt to taste and cook the chicken covered on medium-low heat until the chicken is almost cooked through. This would take about 15 minutes. Slowly saut\u00e9ing the chicken will enhance the flavor, so do not expedite this step by putting it on high heat."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "When the oil separates from the spices, add the beaten yogurt keeping the heat on lowest so that the yogurt doesn\u2019t split. Sprinkle the remaining coriander seeds and add half of the dried fenugreek leaves. Mix well."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Finally add the cream and give a final mix to combine everything well."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Sprinkle the remaining kasuri methi and garam masala and serve the chicken handi hot with naan or rotis. Enjoy!"
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-53358",
+      "external_id": "53358",
+      "name": "Chicken Mandi",
+      "slug": "chicken-mandi",
+      "description": "Indian recipe from TheMealDB",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/er4d081765186828.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 53358). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "chicken",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "basmati rice",
+          "amount": 2.0,
+          "unit": "cups",
+          "sort_order": 2
+        },
+        {
+          "name": "water",
+          "amount": 4.0,
+          "unit": "cups",
+          "sort_order": 3
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 4
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 5
+        },
+        {
+          "name": "green chilli",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "oil",
+          "amount": 3.0,
+          "unit": "tablespoons",
+          "sort_order": 8
+        },
+        {
+          "name": "turmeric powder",
+          "amount": 1.0,
+          "unit": "tablespoon",
+          "sort_order": 9
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "teaspoon",
+          "sort_order": 10
+        },
+        {
+          "name": "cardamom",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "cloves",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "sort_order": 12
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 14
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 15
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "1. Clean and cut the chicken; marinate briefly with salt, turmeric and a little oil."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "2. Rinse and soak basmati rice 20\u201330 minutes."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "3. In a large pot, heat ghee/oil. Fry chopped onion until golden. Add minced garlic and green chillies and fry 1\u20132 min."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "4. Add whole spices (cardamom, cloves, cinnamon, bay leaves) and ground spices (coriander, cumin). Stir until fragrant."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "5. Add chicken pieces, brown lightly and add enough water/chicken stock to cover. Simmer until chicken is nearly cooked."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "6. Remove chicken; measure remaining liquid and add soaked rice. Bring to a boil, then reduce heat, cover and cook rice until almost done."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "7. Return the chicken to the rice pot on top, cover tightly and steam on low for 10\u201315 min so flavors meld."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "8. (Optional) For authentic smoky aroma: heat a small charcoal until red hot, place it on a small foil cup in the centre of the pot, add a tsp of butter/oil on the coal then cover immediately to trap smoke for 5\u201310 minutes. Remove coal."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "9. Garnish with fried onions, chopped coriander and serve with chutney or raita."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52805",
+      "external_id": "52805",
+      "name": "Lamb Biryani",
+      "slug": "lamb-biryani",
+      "description": "Curry, Meat",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xrttsx1487339558.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52805). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "cashew nuts",
+          "amount": 12.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "khus khus",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 0.5,
+          "unit": "tbsp",
+          "sort_order": 3
+        },
+        {
+          "name": "onions",
+          "amount": 3.0,
+          "unit": "sliced thinly",
+          "sort_order": 4
+        },
+        {
+          "name": "ginger garlic paste",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "whole",
+          "sort_order": 6
+        },
+        {
+          "name": "mint",
+          "amount": 1.0,
+          "unit": "Leaves",
+          "sort_order": 7
+        },
+        {
+          "name": "cilantro",
+          "amount": 1.0,
+          "unit": "Leaves",
+          "sort_order": 8
+        },
+        {
+          "name": "saffron",
+          "amount": 0.5,
+          "unit": "tsp dissolved in \u00bd cup warm milk",
+          "sort_order": 9
+        },
+        {
+          "name": "ghee",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 10
+        },
+        {
+          "name": "basmati rice",
+          "amount": 2.0,
+          "unit": "Cups",
+          "sort_order": 11
+        },
+        {
+          "name": "full fat yogurt",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 12
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 13
+        },
+        {
+          "name": "bay leaf",
+          "amount": 0.5,
+          "unit": "unit",
+          "sort_order": 14
+        },
+        {
+          "name": "cinnamon",
+          "amount": 1.0,
+          "unit": "thin piece",
+          "sort_order": 15
+        },
+        {
+          "name": "cloves",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 16
+        },
+        {
+          "name": "cardamom",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 17
+        },
+        {
+          "name": "lamb",
+          "amount": 1.0,
+          "unit": "lb",
+          "sort_order": 18
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 19
+        },
+        {
+          "name": "biryani masala",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 20
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Grind the cashew, poppy seeds and cumin seeds into a smooth paste, using as little water as possible. Set aside."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Deep fry the sliced onions when it is hot. Don\u2019t overcrowd the oil. When the onions turn light brown, remove from oil and drain on paper towel. The fried onion will crisp up as it drains. Also fry the cashewnuts till golden brown. Set aside."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Wash the rice and soak in water for twenty minutes."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Meanwhile, take a big wide pan, add oil in medium heat, add the sliced onions, add the blended paste, to it add the green chillies, ginger garlic paste and garlic and fry for a minute."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Then add the tomatoes and saut\u00e9 them well till they are cooked and not mushy."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Then to it add the red chilli powder, biryani powder, mint, coriander leaves and saut\u00e9 them well."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Add the yogurt and mix well. I always move the skillet away from the heat when adding yogurt which prevents it from curdling."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Now after returning the skillet back to the stove, add the washed lamb and salt and \u00bd cup water and mix well. Cook for 1 hour and cook it covered in medium low heat or put it in a pressure cooker for 6 whistles. If the water is not drained totally, heat it by keeping it open."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Take another big pan, add thrice the cup of rice you use, and boil it. When it is boiling high, add the rice, salt and jeera and mix well. After 7 minutes exact or when the rice is 80% done. Switch off and drain the rice."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Now, the layering starts. To the lamb, pat and level it. Add the drained hot rice on the top of it. Garnish with fried onions, ghee, mint, coriander leaves and saffron dissolved in milk."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Cover the dish and bake in a 350f oven for 15 minutes or till the cooked but not mushy. Or cook in the stove medium heat for 12 minutes and lowest heat for 5 minutes. And switch off. Mix and serve hot!"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "Notes"
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "biryani",
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "pressure_cooking",
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52808",
+      "external_id": "52808",
+      "name": "Lamb Rogan josh",
+      "slug": "lamb-rogan-josh",
+      "description": "Curry, Spicy, Alcoholic",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "lamb",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/vvstvq1487342592.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52808). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "onion",
+          "amount": 2.0,
+          "unit": "quartered",
+          "sort_order": 1
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 4.0,
+          "unit": "tbsp",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 4.0,
+          "unit": "cloves",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "Thumb sized peeled and very fine",
+          "sort_order": 4
+        },
+        {
+          "name": "madras paste",
+          "amount": 2.0,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "paprika",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "cardamom",
+          "amount": 6.0,
+          "unit": "bashed to break shells",
+          "sort_order": 8
+        },
+        {
+          "name": "cloves",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "tomato pur\u00e9e",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "lamb",
+          "amount": 1.0,
+          "unit": "kg cubed",
+          "sort_order": 12
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 13
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Garnish chopped",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Put the onions in a food processor and whizz until very finely chopped. Heat the oil in a large heavy-based pan, then fry the onion with the lid on, stirring every now and then, until it is really golden and soft. Add the garlic and ginger, then fry for 5 mins more."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Tip the curry paste, all the spices and the bay leaves into the pan, with the tomato pur\u00e9e. Stir well over the heat for about 30 secs, then add the meat and 300ml water. Stir to mix, turn down the heat, then add the yogurt."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Cover the pan, then gently simmer for 40-60 mins until the meat is tender and the sauce nice and thick. Serve scattered with coriander, with plain basmati or pilau rice."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52851",
+      "external_id": "52851",
+      "name": "Nutty Chicken Curry",
+      "slug": "nutty-chicken-curry",
+      "description": "Indian recipe from TheMealDB",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/yxsurp1511304301.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52851). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "red chilli",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "ginger",
+          "amount": 0.5,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 3
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Bunch",
+          "sort_order": 4
+        },
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 5
+        },
+        {
+          "name": "chicken breasts",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 6
+        },
+        {
+          "name": "peanut butter",
+          "amount": 5.0,
+          "unit": "tblsp",
+          "sort_order": 7
+        },
+        {
+          "name": "chicken stock",
+          "amount": 150.0,
+          "unit": "ml",
+          "sort_order": 8
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 200.0,
+          "unit": "g",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Finely slice a quarter of the chilli, then put the rest in a food processor with the ginger, garlic, coriander stalks and one-third of the leaves. Whizz to a rough paste with a splash of water if needed."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Heat the oil in a frying pan, then quickly brown the chicken chunks for 1 min. Stir in the paste for another min, then add the peanut butter, stock and yogurt. When the sauce is gently bubbling, cook for 10 mins until the chicken is just cooked through and sauce thickened. Stir in most of the remaining coriander, then scatter the rest on top with the chilli, if using. Eat with rice or mashed sweet potato."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry",
+          "meat"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing",
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52809",
+      "external_id": "52809",
+      "name": "Recheado Masala Fish",
+      "slug": "recheado-masala-fish",
+      "description": "Fish, Spicy",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "mixed",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/uwxusv1487344500.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52809). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "mackerel",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "red chilli",
+          "amount": 18.0,
+          "unit": "dried",
+          "sort_order": 2
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "inch",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 8.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "pepper",
+          "amount": 1.5,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "as needed",
+          "sort_order": 8
+        },
+        {
+          "name": "cloves",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "cardamom",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tbsp",
+          "sort_order": 11
+        },
+        {
+          "name": "tamarind ball",
+          "amount": 2.0,
+          "unit": "marble sized",
+          "sort_order": 12
+        },
+        {
+          "name": "vinegar",
+          "amount": 2.5,
+          "unit": "tbsp",
+          "sort_order": 13
+        },
+        {
+          "name": "oil",
+          "amount": 1.0,
+          "unit": "for frying",
+          "sort_order": 14
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Soak all the spices, ginger, garlic, tamarind pulp and kashmiri chilies except oil in vinegar."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add sugar and salt."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Also add turmeric powder."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Combine all nicely and marinate for 35-40 mins."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Grind the mixture until soft and smooth. Add more vinegar if required but ensure the paste has to be thick so add vinegar accordingly. If the masala paste is thin then it would not stick to the fish."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Rinse the fish slit from the center and give some incision from the top. You could see the fish below for clarity."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Now stuff the paste into the center and into the incision. Coat the entire fish with this paste. Marinate the fish for 30 mins."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Place oil in a shallow pan, once oil is quite hot shallow fry the stuffed mackerels."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Fry until golden brown from both sides"
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "Serve the recheado mackerels hot with salad, lime wedges, rice and curry."
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "Notes"
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "1. Ensure the masala paste is thick else the result won't be good."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52964",
+      "external_id": "52964",
+      "name": "Smoked Haddock Kedgeree",
+      "slug": "smoked-haddock-kedgeree",
+      "description": "Brunch, Fish, Fusion",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/1550441275.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52964). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "butter",
+          "amount": 50.0,
+          "unit": "g",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "cardamom",
+          "amount": 3.0,
+          "unit": "Pods",
+          "sort_order": 3
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "cinnamon stick",
+          "amount": 1.0,
+          "unit": "small",
+          "sort_order": 5
+        },
+        {
+          "name": "bay leaf",
+          "amount": 1.0,
+          "unit": "Sprigs of fresh",
+          "sort_order": 6
+        },
+        {
+          "name": "basmati rice",
+          "amount": 450.0,
+          "unit": "g",
+          "sort_order": 7
+        },
+        {
+          "name": "chicken stock",
+          "amount": 1.0,
+          "unit": "Litre",
+          "sort_order": 8
+        },
+        {
+          "name": "smoked haddock",
+          "amount": 750.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "eggs",
+          "amount": 3.0,
+          "unit": "unit",
+          "sort_order": 10
+        },
+        {
+          "name": "parsley",
+          "amount": 3.0,
+          "unit": "tblsp chopped",
+          "sort_order": 11
+        },
+        {
+          "name": "lemon",
+          "amount": 1.0,
+          "unit": "chopped",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Melt 50g butter in a large saucepan (about 20cm across), add 1 finely chopped medium onion and cook gently over a medium heat for 5 minutes, until softened but not browned."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Stir in 3 split cardamom pods, \u00bc tsp turmeric, 1 small cinnamon stick and 2 bay leaves, then cook for 1 minute."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Tip in 450g basmati rice and stir until it is all well coated in the spicy butter."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Pour in 1 litre chicken or fish stock, add \u00bd teaspoon salt and bring to the boil, stir once to release any rice from the bottom of the pan. Cover with a close-fitting lid, reduce the heat to low and leave to cook very gently for 12 minutes."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Meanwhile, bring some water to the boil in a large shallow pan. Add 750g un-dyed smoked haddock fillet and simmer for 4 minutes, until the fish is just cooked. Lift it out onto a plate and leave until cool enough to handle."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Hard-boil 3 eggs for 8 minutes."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Flake the fish, discarding any skin and bones. Drain the eggs, cool slightly, then peel and chop."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "Uncover the rice and remove the bay leaves, cinnamon stick and cardamom pods if you wish to. Gently fork in the fish and the chopped eggs, cover again and return to the heat for 2-3 minutes, or until the fish has heated through."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Gently stir in almost all the 3 tbsp chopped fresh parsley, and season with a little salt and black pepper to taste. Serve scattered with the remaining parsley and garnished with 1 lemon, cut into wedges."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner",
+          "snack",
+          "appetizer",
+          "breakfast"
+        ],
+        "dish_types": [
+          "meat",
+          "snack"
+        ],
+        "techniques": [
+          "roasting",
+          "grilling",
+          "braising",
+          "frying",
+          "baking"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52806",
+      "external_id": "52806",
+      "name": "Tandoori chicken",
+      "slug": "tandoori-chicken",
+      "description": "Spicy, Meat",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "chicken",
+      "dietary_tags": {
+        "is_vegetarian": false,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/qptpvt1487339892.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52806). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "lemons",
+          "amount": 2.0,
+          "unit": "Juice",
+          "sort_order": 1
+        },
+        {
+          "name": "paprika",
+          "amount": 4.0,
+          "unit": "tsp",
+          "sort_order": 2
+        },
+        {
+          "name": "red onions",
+          "amount": 2.0,
+          "unit": "finely chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "chicken thighs",
+          "amount": 16.0,
+          "unit": "skinnless",
+          "sort_order": 4
+        },
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "For brushing",
+          "sort_order": 5
+        },
+        {
+          "name": "greek yogurt",
+          "amount": 300.0,
+          "unit": "ml",
+          "sort_order": 6
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "large piece",
+          "sort_order": 7
+        },
+        {
+          "name": "garlic clove",
+          "amount": 4.0,
+          "unit": "unit",
+          "sort_order": 8
+        },
+        {
+          "name": "garam masala",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 9
+        },
+        {
+          "name": "ground cumin",
+          "amount": 0.75,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "chilli powder",
+          "amount": 0.5,
+          "unit": "tsp",
+          "sort_order": 11
+        },
+        {
+          "name": "turmeric",
+          "amount": 0.25,
+          "unit": "tsp",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Mix the lemon juice with the paprika and red onions in a large shallow dish. Slash each chicken thigh three times, then turn them in the juice and set aside for 10 mins."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Mix all of the marinade ingredients together and pour over the chicken. Give everything a good mix, then cover and chill for at least 1 hr. This can be done up to a day in advance."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Heat the grill. Lift the chicken pieces onto a rack over a baking tray. Brush over a little oil and grill for 8 mins on each side or until lightly charred and completely cooked through."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "dinner"
+        ],
+        "dish_types": [
+          "meat"
+        ],
+        "techniques": [
+          "roasting",
+          "grilling",
+          "braising"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    }
+  ]
+}

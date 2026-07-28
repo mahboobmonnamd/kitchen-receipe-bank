@@ -1,0 +1,695 @@
+{
+  "id": "indian-vegetarian",
+  "title": "Indian Vegetarian",
+  "version": "1.0.0",
+  "recipes": [
+    {
+      "id": "corpus-tmdb-52807",
+      "external_id": "52807",
+      "name": "Baingan Bharta",
+      "slug": "baingan-bharta",
+      "description": "Spicy, Bun, Calorific",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/urtpqw1487341253.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52807). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "aubergine",
+          "amount": 1.0,
+          "unit": "large",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 0.5,
+          "unit": "cup",
+          "sort_order": 2
+        },
+        {
+          "name": "tomatoes",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 3
+        },
+        {
+          "name": "garlic",
+          "amount": 6.0,
+          "unit": "cloves",
+          "sort_order": 4
+        },
+        {
+          "name": "green chilli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 5
+        },
+        {
+          "name": "red chilli powder",
+          "amount": 0.25,
+          "unit": "teaspoon",
+          "sort_order": 6
+        },
+        {
+          "name": "oil",
+          "amount": 1.5,
+          "unit": "tablespoon",
+          "sort_order": 7
+        },
+        {
+          "name": "coriander leaves",
+          "amount": 1.0,
+          "unit": "tablespoon chopped",
+          "sort_order": 8
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "as required",
+          "sort_order": 9
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Rinse the baingan (eggplant or aubergine) in water. Pat dry with a kitchen napkin. Apply some oil all over and"
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "keep it for roasting on an open flame. You can also grill the baingan or roast in the oven. But then you won't get"
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "the smoky flavor of the baingan. Keep the eggplant turning after a 2 to 3 minutes on the flame, so that its evenly"
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "cooked. You could also embed some garlic cloves in the baingan and then roast it."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "2. Roast the aubergine till its completely cooked and tender. With a knife check the doneness. The knife should slid"
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "easily in aubergines without any resistance. Remove the baingan and immerse in a bowl of water till it cools"
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "down."
+        },
+        {
+          "step_number": 8,
+          "title": "Step 8",
+          "instruction": "3. You can also do the dhungar technique of infusing charcoal smoky flavor in the baingan. This is an optional step."
+        },
+        {
+          "step_number": 9,
+          "title": "Step 9",
+          "instruction": "Use natural charcoal for this method. Heat a small piece of charcoal on flame till it becomes smoking hot and red."
+        },
+        {
+          "step_number": 10,
+          "title": "Step 10",
+          "instruction": "4. Make small cuts on the baingan with a knife. Place the red hot charcoal in the same plate where the roasted"
+        },
+        {
+          "step_number": 11,
+          "title": "Step 11",
+          "instruction": "aubergine is kept. Add a few drops of oil on the charcoal. The charcoal would begin to smoke."
+        },
+        {
+          "step_number": 12,
+          "title": "Step 12",
+          "instruction": "5. As soon as smoke begins to release from the charcoal, cover the entire plate tightly with a large bowl. Allow the"
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main"
+        ],
+        "dish_types": [
+          "side"
+        ],
+        "techniques": [],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-53076",
+      "external_id": "53076",
+      "name": "Bread omelette",
+      "slug": "bread-omelette",
+      "description": "Indian recipe from TheMealDB",
+      "category": "breakfast",
+      "cuisine": "indian",
+      "protein_type": "egg",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "egg"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/hqaejl1695738653.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 53076). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "bread",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 1
+        },
+        {
+          "name": "egg",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 0.5,
+          "unit": "unit",
+          "sort_order": 3
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Make and enjoy"
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "breakfast",
+          "lunch",
+          "side",
+          "snack"
+        ],
+        "dish_types": [
+          "omelette",
+          "bread"
+        ],
+        "techniques": [
+          "frying",
+          "baking"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52785",
+      "external_id": "52785",
+      "name": "Dal fry",
+      "slug": "dal-fry",
+      "description": "Curry, Vegetarian, Cake",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "lentil",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/wuxrtu1483564410.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52785). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "toor dal",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 1
+        },
+        {
+          "name": "water",
+          "amount": 2.0,
+          "unit": "-1/2 cups",
+          "sort_order": 2
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 3
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "ghee",
+          "amount": 3.0,
+          "unit": "tbs",
+          "sort_order": 5
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 1.0,
+          "unit": "cup",
+          "sort_order": 6
+        },
+        {
+          "name": "cumin seeds",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "mustard seeds",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "bay leaf",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 9
+        },
+        {
+          "name": "green chilli",
+          "amount": 1.0,
+          "unit": "tbs chopped",
+          "sort_order": 10
+        },
+        {
+          "name": "ginger",
+          "amount": 2.0,
+          "unit": "tsp shredded",
+          "sort_order": 11
+        },
+        {
+          "name": "cilantro",
+          "amount": 2.0,
+          "unit": "tbs",
+          "sort_order": 12
+        },
+        {
+          "name": "red pepper",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 13
+        },
+        {
+          "name": "salt",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 14
+        },
+        {
+          "name": "sugar",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 15
+        },
+        {
+          "name": "garam masala",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 16
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Wash and soak toor dal in approx. 3 cups of water, for at least one hours. Dal will be double in volume after soaking. Drain the water."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Cook dal with 2-1/2 cups water and add salt, turmeric, on medium high heat, until soft in texture (approximately 30 mins) it should be like thick soup."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "In a frying pan, heat the ghee. Add cumin seeds, and mustard seeds. After the seeds crack, add bay leaves, green chili, ginger and chili powder. Stir for a few seconds."
+        },
+        {
+          "step_number": 4,
+          "title": "Step 4",
+          "instruction": "Add tomatoes, salt and sugar stir and cook until tomatoes are tender and mushy."
+        },
+        {
+          "step_number": 5,
+          "title": "Step 5",
+          "instruction": "Add cilantro and garam masala cook for about one minute."
+        },
+        {
+          "step_number": 6,
+          "title": "Step 6",
+          "instruction": "Pour the seasoning over dal mix it well and cook for another minute."
+        },
+        {
+          "step_number": 7,
+          "title": "Step 7",
+          "instruction": "Serve with Naan."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "side",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "dal"
+        ],
+        "techniques": [
+          "simmering",
+          "tempering"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52868",
+      "external_id": "52868",
+      "name": "Kidney Bean Curry",
+      "slug": "kidney-bean-curry",
+      "description": "Curry",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "vegetable",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": true,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": []
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/sywrsu1511463066.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52868). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "vegetable oil",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 1
+        },
+        {
+          "name": "onion",
+          "amount": 1.0,
+          "unit": "finely chopped",
+          "sort_order": 2
+        },
+        {
+          "name": "garlic",
+          "amount": 2.0,
+          "unit": "cloves chopped",
+          "sort_order": 3
+        },
+        {
+          "name": "ginger",
+          "amount": 1.0,
+          "unit": "part",
+          "sort_order": 4
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Packet",
+          "sort_order": 5
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "paprika",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 7
+        },
+        {
+          "name": "garam masala",
+          "amount": 2.0,
+          "unit": "tsp",
+          "sort_order": 8
+        },
+        {
+          "name": "chopped tomatoes",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "kidney beans",
+          "amount": 400.0,
+          "unit": "g",
+          "sort_order": 10
+        },
+        {
+          "name": "basmati rice",
+          "amount": 1.0,
+          "unit": "to serve",
+          "sort_order": 11
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oil in a large frying pan over a low-medium heat. Add the onion and a pinch of salt and cook slowly, stirring occasionally, until softened and just starting to colour. Add the garlic, ginger and coriander stalks and cook for a further 2 mins, until fragrant."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Add the spices to the pan and cook for another 1 min, by which point everything should smell aromatic. Tip in the chopped tomatoes and kidney beans in their water, then bring to the boil."
+        },
+        {
+          "step_number": 3,
+          "title": "Step 3",
+          "instruction": "Turn down the heat and simmer for 15 mins until the curry is nice and thick. Season to taste, then serve with the basmati rice and the coriander leaves."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    },
+    {
+      "id": "corpus-tmdb-52865",
+      "external_id": "52865",
+      "name": "Matar Paneer",
+      "slug": "matar-paneer",
+      "description": "Curry, Vegetarian",
+      "category": "main",
+      "cuisine": "indian",
+      "protein_type": "paneer",
+      "dietary_tags": {
+        "is_vegetarian": true,
+        "is_vegan": false,
+        "is_halal": true,
+        "is_gluten_free": true,
+        "contains": [
+          "dairy"
+        ]
+      },
+      "health_flags": {
+        "contains": []
+      },
+      "texture": "gravy",
+      "servings_base": 4,
+      "prep_time_minutes": 20,
+      "cook_time_minutes": 40,
+      "difficulty": "medium",
+      "freezer_suitable": false,
+      "photos": [
+        "https://www.themealdb.com/images/media/meals/xxpqsy1511452222.jpg"
+      ],
+      "notes": "Source: TheMealDB (id 52865). Free for commercial use.",
+      "ingredients": [
+        {
+          "name": "sunflower oil",
+          "amount": 1.0,
+          "unit": "tbls",
+          "sort_order": 1
+        },
+        {
+          "name": "paneer",
+          "amount": 225.0,
+          "unit": "g",
+          "sort_order": 2
+        },
+        {
+          "name": "ginger",
+          "amount": 2.0,
+          "unit": "unit",
+          "sort_order": 3
+        },
+        {
+          "name": "cumin",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 4
+        },
+        {
+          "name": "turmeric",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 5
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 6
+        },
+        {
+          "name": "green chilli",
+          "amount": 1.0,
+          "unit": "unit",
+          "sort_order": 7
+        },
+        {
+          "name": "tomato",
+          "amount": 4.0,
+          "unit": "large",
+          "sort_order": 8
+        },
+        {
+          "name": "peas",
+          "amount": 150.0,
+          "unit": "g",
+          "sort_order": 9
+        },
+        {
+          "name": "garam masala",
+          "amount": 1.0,
+          "unit": "tsp",
+          "sort_order": 10
+        },
+        {
+          "name": "coriander",
+          "amount": 1.0,
+          "unit": "Small bunch",
+          "sort_order": 11
+        },
+        {
+          "name": "naan bread",
+          "amount": 1.0,
+          "unit": "to serve",
+          "sort_order": 12
+        }
+      ],
+      "steps": [
+        {
+          "step_number": 1,
+          "title": "Step 1",
+          "instruction": "Heat the oil in a frying pan over high heat until it\u2019s shimmering hot. Add the paneer, then turn the heat down a little. Fry until it starts to brown at the edges, then turn it over and brown on each side \u2013 the paneer will brown faster than you think, so don\u2019t walk away. Remove the paneer from the pan and drain on kitchen paper."
+        },
+        {
+          "step_number": 2,
+          "title": "Step 2",
+          "instruction": "Put the ginger, cumin, turmeric, ground coriander and chilli in the pan, and fry everything for 1 min. Add the tomatoes, mashing them with the back of a spoon and simmer everything for 5 mins until the sauce smells fragrant. Add a splash of water if it\u2019s too thick. Season well. Add the peas and simmer for a further 2 mins, then stir in the paneer and sprinkle over the garam masala. Divide between two bowls, top with coriander leaves and serve with naan bread, roti or rice."
+        }
+      ],
+      "taxonomy": {
+        "courses": [
+          "main",
+          "lunch",
+          "dinner"
+        ],
+        "dish_types": [
+          "curry"
+        ],
+        "techniques": [
+          "simmering",
+          "sauteing"
+        ],
+        "cuisines": [
+          "indian"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_url": "https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@main",
+  "packs": [
+    {
+      "id": "indian-vegetarian",
+      "title": "Indian Vegetarian",
+      "version": "1.0.0",
+      "path": "packs/indian-vegetarian.json",
+      "recipe_count": 5,
+      "size_bytes": 18739,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "vegetarian",
+        "lacto-vegetarian",
+        "vegan",
+        "mixed"
+      ],
+      "cuisines": [
+        "indian"
+      ],
+      "courses": [
+        "breakfast",
+        "dinner",
+        "lunch",
+        "main",
+        "side",
+        "snack"
+      ],
+      "dish_types": [
+        "bread",
+        "curry",
+        "dal",
+        "omelette",
+        "side"
+      ],
+      "techniques": [
+        "baking",
+        "frying",
+        "sauteing",
+        "simmering",
+        "tempering"
+      ]
+    },
+    {
+      "id": "indian-non-vegetarian",
+      "title": "Indian Non-Vegetarian",
+      "version": "1.0.0",
+      "path": "packs/indian-non-vegetarian.json",
+      "recipe_count": 9,
+      "size_bytes": 44595,
+      "regions": [
+        "IN"
+      ],
+      "diets": [
+        "non-vegetarian",
+        "halal",
+        "mixed"
+      ],
+      "cuisines": [
+        "indian"
+      ],
+      "courses": [
+        "appetizer",
+        "breakfast",
+        "dinner",
+        "lunch",
+        "main",
+        "snack"
+      ],
+      "dish_types": [
+        "biryani",
+        "curry",
+        "meat",
+        "snack"
+      ],
+      "techniques": [
+        "baking",
+        "braising",
+        "frying",
+        "grilling",
+        "pressure_cooking",
+        "roasting",
+        "sauteing",
+        "simmering"
+      ]
+    },
+    {
+      "id": "baking-desserts-mixed",
+      "title": "Baking & Desserts",
+      "version": "1.0.0",
+      "path": "packs/baking-desserts-mixed.json",
+      "recipe_count": 1,
+      "size_bytes": 2586,
+      "regions": [
+        "*"
+      ],
+      "diets": [
+        "vegetarian",
+        "mixed"
+      ],
+      "cuisines": [
+        "european"
+      ],
+      "courses": [
+        "dessert",
+        "snack"
+      ],
+      "dish_types": [
+        "cake"
+      ],
+      "techniques": [
+        "baking"
+      ]
+    }
+  ],
+  "repository": "git@github.com:mahboobmonnamd/kitchen-receipe-bank.git"
+}
