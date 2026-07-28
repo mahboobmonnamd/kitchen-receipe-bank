@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "base_url": "https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@main",
+  "base_url": "https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@master",
   "packs": [
     {
       "id": "indian-vegetarian",

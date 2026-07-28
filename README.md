@@ -14,8 +14,8 @@ No API server — the mobile/desktop apps download only the modules a user needs
 ## CDN (jsDelivr)
 
 ```
-https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@main/index.json
-https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@main/packs/<pack-id>.json
+https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@master/index.json
+https://cdn.jsdelivr.net/gh/mahboobmonnamd/kitchen-receipe-bank@master/packs/<pack-id>.json
 ```
 
 ## Taxonomy
